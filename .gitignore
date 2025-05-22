@@ -1,0 +1,70 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Keep environment variables out of version control
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+dist/
+build/
+lib/
+out/
+
+# Prisma
+.prisma/
+
+# Generated Prisma client
+src/generated/
+
+# VSCode specific files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Cache directories
+.npm
+.eslintcache
+.cache/
+
+# Optional REPL history
+.node_repl_history
+
+# Docker volumes
+docker-volumes/
+
+# Uploaded files (if they should not be tracked)
+uploads/*
+!uploads/.gitkeep
+
+# Local development configuration
+*.local
+
+# TypeScript incremental compilation cache
+*.tsbuildinfo
+
+# Debug logs
+debug.log
