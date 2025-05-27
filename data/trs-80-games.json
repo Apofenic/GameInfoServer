@@ -1,0 +1,790 @@
+[
+  {
+    "table1": [
+      {
+        "Name": "The Adventure Series [1][2]",
+        "Year": "1981",
+        "Developer": "Scott Adams",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Name": "Airmail Pilot [3][4]",
+        "Year": "1979",
+        "Developer": "",
+        "Publisher": "Instant Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Android Nim [5][6]",
+        "Year": "1978",
+        "Developer": "Leo Christopherson",
+        "Publisher": "80-NW Publishing Co.",
+        "Notes": "BASIC/ML hybrid"
+      },
+      {
+        "Name": "Ants!!! [7][8]",
+        "Year": "1979",
+        "Developer": "Brian Rotolante[9]",
+        "Publisher": "Synergistic Solar",
+        "Notes": "Play: one queen ant presides over the top of the board while her opponent queen rests at the bottom, and each queen gets to produce offspring each turn to fight in the center of the screen.[10]"
+      },
+      {
+        "Name": "Apple Panic [11][12]",
+        "Year": "1982",
+        "Developer": "Yves Lempereur",
+        "Publisher": "Funsoft",
+        "Notes": "clone"
+      },
+      {
+        "Name": "Armored Patrol [13][14]",
+        "Year": "1981",
+        "Developer": "Wayne Westmoreland, Terry Gilman",
+        "Publisher": "Adventure International",
+        "Notes": "Battlezone clone"
+      },
+      {
+        "Name": "Asylum[15][16]",
+        "Year": "1981",
+        "Developer": "Frank Corr Jr., William Denman[17]",
+        "Publisher": "Med Systems",
+        "Notes": ""
+      },
+      {
+        "Name": "Asteroid [18][19]",
+        "Year": "1980",
+        "Developer": "Michael Wall",
+        "Publisher": "Instant Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Attack Force [20][21]",
+        "Year": "1980",
+        "Developer": "Bill Hogue, Jeff Konyu",
+        "Publisher": "Big Five Software",
+        "Notes": "Targ clone"
+      },
+      {
+        "Name": "Bedlam",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Blockade",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Personal Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Bowling",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": ""
+      },
+      {
+        "Name": "BREAKFORTH",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "a type-in Breakout clone written in FORTH[22]"
+      },
+      {
+        "Name": "Bugs From Outer Space",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "from a six-part series of articles in 80 Micro by Roger Smith"
+      },
+      {
+        "Name": "Camel",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Castle Zhagwhar",
+        "Year": "",
+        "Developer": "Keith Schuler",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Clash",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "Joust clone"
+      },
+      {
+        "Name": "Colossal Cave Adventure",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "distributed by Microsoft"
+      },
+      {
+        "Name": "Conquest of Chesterwoode",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Cosmic Fighter",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": "Astro Fighter clone"
+      },
+      {
+        "Name": "Cosmic Invaders",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "Space Invaders clone"
+      },
+      {
+        "Name": "Cuthbert Goes Walkabout",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Cyborg",
+        "Year": "",
+        "Developer": "Bill Dunlevy and Douglas Frayer",
+        "Publisher": "",
+        "Notes": "distributed by Computer Shack"
+      },
+      {
+        "Name": "Dancing Demon",
+        "Year": "",
+        "Developer": "Leo Christopherson",
+        "Publisher": "",
+        "Notes": "BASIC/ML hybrid"
+      },
+      {
+        "Name": "The Dancing Fool",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "The Datestones of Ryn",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Death Maze 5000",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Death Trap!",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Dick Smith Electronics",
+        "Notes": ""
+      },
+      {
+        "Name": "Defense Command",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": "non-scrolling clone of Defender"
+      },
+      {
+        "Name": "Demon Seed",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Donkey Kong clone",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Dungeon Explorer",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Software Exchange",
+        "Notes": "\"single player game of adventure and combat based on Dungeons and Dragons\"[23]"
+      },
+      {
+        "Name": "Eliminator",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Adventure International",
+        "Notes": "Defender clone"
+      },
+      {
+        "Name": "Eliza",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": "psychiatrist Q&A simulation"
+      },
+      {
+        "Name": "Empire",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "CLOAD",
+        "Notes": "based on Hamurabi and Santa Paravia en Fiumaccio"
+      },
+      {
+        "Name": "Empire: Wargame of the Century",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "port in Z80 assembly, based on FORTRAN source"
+      },
+      {
+        "Name": "Fasteroids (renamed later to Planetoids)[24]",
+        "Year": "1981",
+        "Developer": "Greg Hassett",
+        "Publisher": "Adventureworld / Adventure International",
+        "Notes": ""
+      },
+      {
+        "Name": "Football Manager",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Addictive Games",
+        "Notes": ""
+      },
+      {
+        "Name": "Formula One",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": ""
+      },
+      {
+        "Name": "Frogger (clone)",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Flying Saucers",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Galactic Empire",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "The Software Exchange",
+        "Notes": ""
+      },
+      {
+        "Name": "Galaxy Invasion",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": "Galaxian clone"
+      },
+      {
+        "Name": "Gobbleman",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Beam Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Haunted House",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": ""
+      },
+      {
+        "Name": "Hellfire Warrior",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Automated Simulations",
+        "Notes": "Dungeon crawl"
+      },
+      {
+        "Name": "Hyper-Wurm",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "a Snake game"
+      },
+      {
+        "Name": "Invaders!",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": "Space Invaders clone"
+      },
+      {
+        "Name": "Invasion Force",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": ""
+      },
+      {
+        "Name": "Jovian",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "Computer Shack",
+        "Notes": ""
+      },
+      {
+        "Name": "Kill-A-Pede",
+        "Year": "",
+        "Developer": "Jim Baker and Fred Mayea",
+        "Publisher": "",
+        "Notes": "Centipede clone"
+      },
+      {
+        "Name": "Lost Colony",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Acorn Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Mad Mines",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Magic Carpet",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Meta-Trek",
+        "Year": "1980",
+        "Developer": "Brandon Rigney III",
+        "Publisher": "The Alternate Source",
+        "Notes": ""
+      },
+      {
+        "Name": "Meteor Mission II",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": "Lunar Rescue clone"
+      },
+      {
+        "Name": "Microchess 1.5",
+        "Year": "",
+        "Developer": "Peter R. Jennings [1] [2] [3]",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Midway Campaign",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Avalon Hill Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Module Man",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Monster Mash & Battleship",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Micro-80 Inc.",
+        "Notes": ""
+      },
+      {
+        "Name": "Monty Plays Monopoly",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Motorcycle Jump",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Mystery Fun House",
+        "Year": "",
+        "Developer": "Scott Adams",
+        "Publisher": "Adventure International",
+        "Notes": "Text Based Adventure game."
+      },
+      {
+        "Name": "NukeWar",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "superpower nuclear missile simulation"
+      },
+      {
+        "Name": "Olympic Decathlon",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "arcade simulation of the Olympic Games decathlon event"
+      },
+      {
+        "Name": "Othello",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Outhouse",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Paint",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Penetrator",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Beam Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Planet Miners",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Avalon Hill Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Poker Pete",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Quality Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Pong",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Instant Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Pork Barrel",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Ramware",
+        "Notes": ""
+      },
+      {
+        "Name": "Pyramid 2000",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Tandy Corporation",
+        "Notes": "Colossal Cave clone"
+      },
+      {
+        "Name": "Pinball",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Raaka-Tu",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Reign of the Red Dragon",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Name": "Rear Guard",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Robot Attack",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": "Berzerk clone"
+      },
+      {
+        "Name": "Rogue",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Sailor Man [25]",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "Popeye clone"
+      },
+      {
+        "Name": "Santa Paravia en Fiumaccio",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Scarfman",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "Pac-Man clone"
+      },
+      {
+        "Name": "Sea Dragon",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Solar Search",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Colorado Software Associates",
+        "Notes": ""
+      },
+      {
+        "Name": "Space Ace 21",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Space Escort",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Space Intruders",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Name": "Space Warp",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "ASCII game loosely based on Star Trek"
+      },
+      {
+        "Name": "Starfighter",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Name": "Starquest: Rescue at Rigel",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Automated Simulations",
+        "Notes": ""
+      },
+      {
+        "Name": "Star Trek",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Name": "Stellar Escort",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Stellar Life Line",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "SRB Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Super Maze",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Quality Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Super Nova",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": "Asteroids clone"
+      },
+      {
+        "Name": "Supreme Ruler",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "T80-FS1 Flight Simulator",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Sublogic",
+        "Notes": ""
+      },
+      {
+        "Name": "Taipan!",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Temple of Apshai",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Time Bandit",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Time Traveler",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Krell Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Trade Wars",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Trucker",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Volcano Hunter",
+        "Year": "1984",
+        "Developer": "David Smith",
+        "Publisher": "Lap Video Entertainment",
+        "Notes": "Side view arcade game with over 200 screen."
+      },
+      {
+        "Name": "Voyage of the Valkyrie",
+        "Year": "",
+        "Developer": "Leo Christoperson",
+        "Publisher": "",
+        "Notes": "BASIC/ML hybrid"
+      },
+      {
+        "Name": "Weerd!",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Big Five Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Worg",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Simutek Software",
+        "Notes": ""
+      },
+      {
+        "Name": "Xenos",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Zaxxon",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Zork",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Name": "Zossed in Space",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      }
+    ]
+  }
+]

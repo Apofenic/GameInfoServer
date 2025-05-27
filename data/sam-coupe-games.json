@@ -1,0 +1,589 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Amalthea",
+        "Year": "1995",
+        "Reference": "[1]"
+      },
+      {
+        "Title": "Astroball",
+        "Year": "1992",
+        "Reference": "[2]"
+      },
+      {
+        "Title": "Batz'n'Balls",
+        "Year": "1992",
+        "Reference": "[3]"
+      },
+      {
+        "Title": "BeetleMania",
+        "Year": "1992",
+        "Reference": "[4]"
+      },
+      {
+        "Title": "Blokker",
+        "Year": "1995",
+        "Reference": "[5]"
+      },
+      {
+        "Title": "Boing!",
+        "Year": "1992",
+        "Reference": "[6]"
+      },
+      {
+        "Title": "Booty",
+        "Year": "1995",
+        "Reference": "[7]"
+      },
+      {
+        "Title": "Bowin and the Count Dracula",
+        "Year": "1991",
+        "Reference": "[8]"
+      },
+      {
+        "Title": "Burglar Bob",
+        "Year": "1996",
+        "Reference": "[9]"
+      },
+      {
+        "Title": "Castle",
+        "Year": "1991",
+        "Reference": "[10]"
+      },
+      {
+        "Title": "Chess Mate",
+        "Year": "1996",
+        "Reference": "[11]"
+      },
+      {
+        "Title": "Colony",
+        "Year": "1996",
+        "Reference": "[12]"
+      },
+      {
+        "Title": "Conquest",
+        "Year": "1997",
+        "Reference": "[13]"
+      },
+      {
+        "Title": "Craft",
+        "Year": "1992",
+        "Reference": "[14]"
+      },
+      {
+        "Title": "Day Dream",
+        "Year": "1992",
+        "Reference": "[15]"
+      },
+      {
+        "Title": "Days of Sorcery",
+        "Year": "1992",
+        "Reference": "[16]"
+      },
+      {
+        "Title": "Defender",
+        "Year": "1998",
+        "Reference": "[17]"
+      },
+      {
+        "Title": "Defenders of the Earth",
+        "Year": "1990",
+        "Reference": "[18]"
+      },
+      {
+        "Title": "Delta Charge",
+        "Year": "1990",
+        "Reference": "[19]"
+      },
+      {
+        "Title": "Domino Box",
+        "Year": "1997",
+        "Reference": "[20]"
+      },
+      {
+        "Title": "Double Top",
+        "Year": "1993",
+        "Reference": "[21]"
+      },
+      {
+        "Title": "Dragon Tiles",
+        "Year": "1990",
+        "Reference": "[22]"
+      },
+      {
+        "Title": "Drop Out",
+        "Year": "1992",
+        "Reference": "[23]"
+      },
+      {
+        "Title": "Dyadic",
+        "Year": "1993",
+        "Reference": "[24]"
+      },
+      {
+        "Title": "Dyzonium",
+        "Year": "1992",
+        "Reference": "[25]"
+      },
+      {
+        "Title": "Elite",
+        "Year": "1996",
+        "Reference": "[26]"
+      },
+      {
+        "Title": "Escape from the Planet of the Robot Monsters",
+        "Year": "1989",
+        "Reference": "[27]"
+      },
+      {
+        "Title": "Exodus",
+        "Year": "1993",
+        "Reference": "[28]"
+      },
+      {
+        "Title": "Football Director II",
+        "Year": "1992",
+        "Reference": "[29]"
+      },
+      {
+        "Title": "Football League Manager",
+        "Year": "1992",
+        "Reference": "[30]"
+      },
+      {
+        "Title": "Future Ball",
+        "Year": "1990",
+        "Reference": "[31]"
+      },
+      {
+        "Title": "Grubbing For Gold",
+        "Year": "1995",
+        "Reference": "[32]"
+      },
+      {
+        "Title": "Have You Lost Your Marbles Deluxe",
+        "Year": "1995",
+        "Reference": "[33]"
+      },
+      {
+        "Title": "Hexagonia",
+        "Year": "1991",
+        "Reference": "[34]"
+      },
+      {
+        "Title": "Ice Chicken",
+        "Year": "1995",
+        "Reference": "[35]"
+      },
+      {
+        "Title": "Impatience (The Viking Game)",
+        "Year": "1991",
+        "Reference": "[36]"
+      },
+      {
+        "Title": "IMPostors!",
+        "Year": "1996",
+        "Reference": "[37]"
+      },
+      {
+        "Title": "Klax",
+        "Year": "1990",
+        "Reference": "[38]"
+      },
+      {
+        "Title": "Legend Of Eshan",
+        "Year": "1994",
+        "Reference": "[39]"
+      },
+      {
+        "Title": "Lemmings",
+        "Year": "1993",
+        "Reference": "[40]"
+      },
+      {
+        "Title": "Little Genius",
+        "Year": "1992",
+        "Reference": "[41]"
+      },
+      {
+        "Title": "Lovehearts",
+        "Year": "?",
+        "Reference": "[42]"
+      },
+      {
+        "Title": "Manic Miner",
+        "Year": "1992",
+        "Reference": "[43]"
+      },
+      {
+        "Title": "Mind Games 1",
+        "Year": "1990",
+        "Reference": "[44]"
+      },
+      {
+        "Title": "Mind Games 2",
+        "Year": "?",
+        "Reference": "[45]"
+      },
+      {
+        "Title": "Momentum",
+        "Year": "1996",
+        "Reference": "[46]"
+      },
+      {
+        "Title": "Money Bags",
+        "Year": "1996",
+        "Reference": "[47]"
+      },
+      {
+        "Title": "Money Bags 2",
+        "Year": "?",
+        "Reference": "[48]"
+      },
+      {
+        "Title": "Oh No! More Lemmings",
+        "Year": "1994",
+        "Reference": "[49]"
+      },
+      {
+        "Title": "Parallax",
+        "Year": "1992",
+        "Reference": "[50]"
+      },
+      {
+        "Title": "Pazook",
+        "Year": "1992",
+        "Reference": "[51]"
+      },
+      {
+        "Title": "Pipe Mania",
+        "Year": "1990",
+        "Reference": "[52]"
+      },
+      {
+        "Title": "Prince of Persia",
+        "Year": "1990",
+        "Reference": "[53]"
+      },
+      {
+        "Title": "Quizball",
+        "Year": "1991",
+        "Reference": "[54]"
+      },
+      {
+        "Title": "Sam Cards",
+        "Year": "1994",
+        "Reference": "[55]"
+      },
+      {
+        "Title": "SAM MegaDisk 1",
+        "Year": "1991",
+        "Reference": "[56]"
+      },
+      {
+        "Title": "Sam Strikes Out",
+        "Year": "1990",
+        "Reference": "[57]"
+      },
+      {
+        "Title": "Sam'X",
+        "Year": "?",
+        "Reference": "[58]"
+      },
+      {
+        "Title": "Shanghai (Supplement Software)",
+        "Year": "1997",
+        "Reference": "[59]"
+      },
+      {
+        "Title": "Shapes",
+        "Year": "?",
+        "Reference": "[60]"
+      },
+      {
+        "Title": "Sheriff Gunn",
+        "Year": "1992",
+        "Reference": "[61]"
+      },
+      {
+        "Title": "Snake Mania",
+        "Year": "1992",
+        "Reference": "[62]"
+      },
+      {
+        "Title": "Snare",
+        "Year": "1992",
+        "Reference": "[63]"
+      },
+      {
+        "Title": "Sophistry",
+        "Year": "1994",
+        "Reference": "[64]"
+      },
+      {
+        "Title": "Sphera",
+        "Year": "1990",
+        "Reference": "[65]"
+      },
+      {
+        "Title": "Splat!",
+        "Year": "1991",
+        "Reference": "[66]"
+      },
+      {
+        "Title": "Stratosphere",
+        "Year": "?",
+        "Reference": "[67]"
+      },
+      {
+        "Title": "Supa-Toob",
+        "Year": "?",
+        "Reference": "[68]"
+      },
+      {
+        "Title": "Super Byke Championship",
+        "Year": "1995",
+        "Reference": "[69]"
+      },
+      {
+        "Title": "Syncytium",
+        "Year": "1994",
+        "Reference": "[70]"
+      },
+      {
+        "Title": "T 'n' T",
+        "Year": "1994",
+        "Reference": "[71]"
+      },
+      {
+        "Title": "The Bulgulators",
+        "Year": "1992",
+        "Reference": "[72]"
+      },
+      {
+        "Title": "The Famous Five 1: Five on a Treasure Island",
+        "Year": "1990",
+        "Reference": "[73]"
+      },
+      {
+        "Title": "The Golden Sword of Bhakhor",
+        "Year": "1991",
+        "Reference": "[74]"
+      },
+      {
+        "Title": "The Lost Tomb of Ananka",
+        "Year": "?",
+        "Reference": "[75]"
+      },
+      {
+        "Title": "The Occult Connection",
+        "Year": "1993",
+        "Reference": "[76]"
+      },
+      {
+        "Title": "The Witching Hour",
+        "Year": "1993",
+        "Reference": "[77]"
+      },
+      {
+        "Title": "Triltex",
+        "Year": "1992",
+        "Reference": "[78]"
+      },
+      {
+        "Title": "True Faith",
+        "Year": "?",
+        "Reference": "[79]"
+      },
+      {
+        "Title": "Vegetable Vacation",
+        "Year": "1992",
+        "Reference": "[80]"
+      },
+      {
+        "Title": "Void",
+        "Year": "1991",
+        "Reference": "[81]"
+      },
+      {
+        "Title": "WaterWorks",
+        "Year": "1993",
+        "Reference": "[82]"
+      },
+      {
+        "Title": "WaterWorks 2",
+        "Year": "1994",
+        "Reference": "[83]"
+      },
+      {
+        "Title": "Wop Gamma",
+        "Year": "1993",
+        "Reference": "[84]"
+      },
+      {
+        "Title": "X-Sights 3",
+        "Year": "1996",
+        "Reference": "[85]"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title": "BattleZone",
+        "Year": "2021",
+        "Reference": "[86]"
+      },
+      {
+        "Title": "Boxes",
+        "Year": "1992",
+        "Reference": "[87]"
+      },
+      {
+        "Title": "BS Sound 1",
+        "Year": "1992",
+        "Reference": "[88]"
+      },
+      {
+        "Title": "Bubble Ghost",
+        "Year": "2021",
+        "Reference": "[89]"
+      },
+      {
+        "Title": "Captain Comic",
+        "Year": "1988",
+        "Reference": "[90]"
+      },
+      {
+        "Title": "Coloris",
+        "Year": "1990",
+        "Reference": "[91]"
+      },
+      {
+        "Title": "Dave Infuriators",
+        "Year": "2005",
+        "Reference": "[92]"
+      },
+      {
+        "Title": "Dave Invaders",
+        "Year": "2005",
+        "Reference": "[93]"
+      },
+      {
+        "Title": "EGGBuM",
+        "Year": "1995",
+        "Reference": "[94]"
+      },
+      {
+        "Title": "Epic Fail",
+        "Year": "2005",
+        "Reference": "[95]"
+      },
+      {
+        "Title": "Explode",
+        "Year": "1990",
+        "Reference": "[96]"
+      },
+      {
+        "Title": "Gemstones",
+        "Year": "1990",
+        "Reference": "[97]"
+      },
+      {
+        "Title": "Invasion II",
+        "Year": "2001",
+        "Reference": "[98]"
+      },
+      {
+        "Title": "Magic Caves 2002",
+        "Year": "2001",
+        "Reference": "[99]"
+      },
+      {
+        "Title": "Moby DX",
+        "Year": "2005",
+        "Reference": "[100]"
+      },
+      {
+        "Title": "Money Bags 1½",
+        "Year": "?",
+        "Reference": "[101]"
+      },
+      {
+        "Title": "Pang",
+        "Year": "2005",
+        "Reference": "[102]"
+      },
+      {
+        "Title": "Rick Dangerous",
+        "Year": "2021",
+        "Reference": "[103]"
+      },
+      {
+        "Title": "Sam Solitaire",
+        "Year": "2000",
+        "Reference": "[104]"
+      },
+      {
+        "Title": "SamMines",
+        "Year": "1995",
+        "Reference": "[105]"
+      },
+      {
+        "Title": "Shanghai",
+        "Year": "1990",
+        "Reference": "[106]"
+      },
+      {
+        "Title": "Soccer Boss",
+        "Year": "1990",
+        "Reference": "[107]"
+      },
+      {
+        "Title": "Soul Magician",
+        "Year": "1992",
+        "Reference": "[108]"
+      },
+      {
+        "Title": "Street Fighter 1",
+        "Year": "2017",
+        "Reference": "[109]"
+      },
+      {
+        "Title": "Tetris",
+        "Year": "1990",
+        "Reference": "[110]"
+      },
+      {
+        "Title": "The Garden Centre of the Universe",
+        "Year": "2005",
+        "Reference": "[111]"
+      },
+      {
+        "Title": "The Sad Snail Collection",
+        "Year": "1998",
+        "Reference": "[112]"
+      },
+      {
+        "Title": "Wubtris",
+        "Year": "2005",
+        "Reference": "[113]"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title": "F-16 Combat Pilot",
+        "Year": "1991",
+        "Reference": "[114]"
+      },
+      {
+        "Title": "Kaboom",
+        "Year": "?",
+        "Reference": "[115]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,734 @@
+[
+  {
+    "table1": [
+      {
+        "Attribute": "Processor",
+        "Specification": "Motorola 68000 at 7.16 MHz (NTSC).mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}[a] or 7.09 MHz (PAL)[b][c]"
+      },
+      {
+        "Attribute": "RAM",
+        "Specification": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}1 MB Amiga Chip RAM (upgradable)2 KB non-volatile RAM"
+      },
+      {
+        "Attribute": "ROM",
+        "Specification": "256 KB Kickstart ROM256 KB CDTV firmware ROM"
+      },
+      {
+        "Attribute": "Chipset",
+        "Specification": "Original Chip Set (OCS)Enhanced Chip Set (ECS)"
+      },
+      {
+        "Attribute": "Video",
+        "Specification": "12-bit color palette (4096 colors)Graphics modes with up to 32, 64 (EHB mode), or 4096 (HAM mode) on-screen colors:\n\n320 × 200 to 320 × 400i (NTSC)[a]\n320 × 256 to 320 × 512i (PAL)[b][c]\nGraphics modes with up to 16 on-screen colors:\n\n640 × 200 to 640 × 400i (NTSC)[a]\n640 × 256 to 640 × 512i (PAL)[b][c]"
+      },
+      {
+        "Attribute": "Audio",
+        "Specification": "Four 8-bit PCM channels (two stereo channels)28 kHz maximum DMA sampling rate"
+      },
+      {
+        "Attribute": "Removable storage",
+        "Specification": "Single-speed CD-ROM drive (proprietary controller)"
+      },
+      {
+        "Attribute": "Input/output ports",
+        "Specification": "Keyboard (5 pin mini-DIN)Mouse (4 pin mini-DIN)RS-232 serial port (DB-25M)Centronics-style parallel port (DB-25F)Floppy disk drive port (DB-23F)MIDI (in and out)"
+      },
+      {
+        "Attribute": "Audio/Video output",
+        "Specification": "Audio out (Two RCA and 6.35 mm stereo phone jack)Analog RGB video out (DB-23M)RF audio/video out (RCA[a] or RF loop through[b])Composite video out (RCA)[a][b]S-Video out (4-pin mini-DIN)[a]SCART audio/video out[c]"
+      },
+      {
+        "Attribute": "Expansion slots",
+        "Specification": "Proprietary card slot by ITT-Cannon and Fujisoku for 8 KB to 1024 KB non-volatile memory cards(1 MB addressing needs a hardware hack)80-pin diagnostic slot30-pin DMA expansion slotVideo slot"
+      },
+      {
+        "Attribute": "Operating system",
+        "Specification": "AmigaOS 1.3 (Kickstart 1.3/Workbench 1.3)CDTV firmware"
+      },
+      {
+        "Attribute": "Physical dimensions",
+        "Specification": "430 × 330 × 95 mm (width × depth × height)"
+      },
+      {
+        "Attribute": "Other",
+        "Specification": "Wireless infrared remote control/gamepad (40 kHz)Front panel with display and controls for CD player"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title[15]": "Air Warrior",
+        "Genre(s)": "Simulation",
+        "Developer(s)": "Kesmai",
+        "Publisher(s)": "On-Line",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Alistair in Outer Space Makes Learning Fun",
+        "Genre(s)": "Mini-games",
+        "Developer(s)": "Altered Images",
+        "Publisher(s)": "Altered Images",
+        "Release date(s)": "1993",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Barney Bear Goes Camping",
+        "Genre(s)": "Mini-games",
+        "Developer(s)": "Free Spirit",
+        "Publisher(s)": "Free Spirit",
+        "Release date(s)": "1990",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Barney Bear Goes To School",
+        "Genre(s)": "Mini-games",
+        "Developer(s)": "Free Spirit",
+        "Publisher(s)": "Free Spirit",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Battle Chess",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Quicksilver",
+        "Publisher(s)": "Interplay",
+        "Release date(s)": "1992",
+        "CDTV version": "CD Audio; Released for CD32 in 1994"
+      },
+      {
+        "Title[15]": "Battlestorm",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Titus",
+        "Publisher(s)": "Titus",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "The Case of the Cautious Condor",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Tiger Media",
+        "Publisher(s)": "Tiger Media",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Casino Games",
+        "Genre(s)": "Casino",
+        "Developer(s)": "Saen Software",
+        "Publisher(s)": "Saen Software",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Chaos In Andromeda: Eyes Of The Eagle",
+        "Genre(s)": "RPG",
+        "Developer(s)": "KirkMoreno",
+        "Publisher(s)": "On-line",
+        "Release date(s)": "1992",
+        "CDTV version": "CD Audio; FMV"
+      },
+      {
+        "Title[15]": "Classic Board Games",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Merit",
+        "Publisher(s)": "Merit",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Cover Girl Strip Poker",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Emotional Pictures",
+        "Publisher(s)": "On-line",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Curse Of RA, The",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Cyberstyle",
+        "Publisher(s)": "Rainbow Arts",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Defender of the Crown",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Cinemaware",
+        "Publisher(s)": "CDTV Publishing",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "E.S.S. Mega",
+        "Genre(s)": "Simulation",
+        "Developer(s)": "Tomahawk",
+        "Publisher(s)": "Coktel",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Falcon",
+        "Genre(s)": "Simulation",
+        "Developer(s)": "Rowan",
+        "Publisher(s)": "Mirrorsoft",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Fantastic Voyage",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Centaur",
+        "Publisher(s)": "Centaur",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Fun School 3 (For The 5 To 7 Year Olds)",
+        "Genre(s)": "Mini-games",
+        "Developer(s)": "Database Educational Software",
+        "Publisher(s)": "Database Educational Software",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Fun School 3 (For The Over 7s)",
+        "Genre(s)": "Mini-games",
+        "Developer(s)": "Database Educational Software",
+        "Publisher(s)": "Database Educational Software",
+        "Release date(s)": "1991",
+        "CDTV version": "Extra games"
+      },
+      {
+        "Title[15]": "Fun School 3 (For The Under 5s)",
+        "Genre(s)": "Mini-games",
+        "Developer(s)": "Database Educational Software",
+        "Publisher(s)": "Database Educational Software",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Guy Spy and the Crystals of Armageddon",
+        "Genre(s)": "Action",
+        "Developer(s)": "ReadySoft",
+        "Publisher(s)": "ReadySoft",
+        "Release date(s)": "1993",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Holiday Maker",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "PM Entertainment",
+        "Publisher(s)": "Software 2000",
+        "Release date(s)": "1990",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "The Hound Of The Baskervilles",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "On-line",
+        "Publisher(s)": "On-line",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Lucasfilm",
+        "Publisher(s)": "Softgold",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Lemmings",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "DMA Design",
+        "Publisher(s)": "Psygnosis",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Log!cal",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Rainbow Arts",
+        "Publisher(s)": "Rainbow Arts",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Loom",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Lucasfilm",
+        "Publisher(s)": "Softgold",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Mind Run",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Créalude",
+        "Publisher(s)": "Créalude",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Murder Makes Strange Deadfellows",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Tiger Media",
+        "Publisher(s)": "Tiger Media",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "North Polar Expedition",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Virgin Interactive",
+        "Publisher(s)": "Virgin Interactive",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Power Pinball",
+        "Genre(s)": "Pinball",
+        "Developer(s)": "KarmaSoft",
+        "Publisher(s)": "KarmaSoft",
+        "Release date(s)": "1991",
+        "CDTV version": "Extra levels"
+      },
+      {
+        "Title[15]": "Prehistorik",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Titus",
+        "Publisher(s)": "Titus",
+        "Release date(s)": "1994",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Prey: An Alien Encounter",
+        "Genre(s)": "RPG",
+        "Developer(s)": "KirkMoreno",
+        "Publisher(s)": "KirkMoreno",
+        "Release date(s)": "1993",
+        "CDTV version": "CDTV exclusive; Later released as an enhanced version for the CD32"
+      },
+      {
+        "Title[15]": "Psycho Killer",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Delta 4 Interactive",
+        "Publisher(s)": "On-line",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Raffles",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Softek",
+        "Publisher(s)": "The Edge",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Sherlock Holmes, Consulting Detective",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Icom",
+        "Publisher(s)": "Icom",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Sim City",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Maxis",
+        "Publisher(s)": "Infogrames",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV enhanced"
+      },
+      {
+        "Title[15]": "Snoopy In The Case Of The Missing Blanket",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Softek",
+        "Publisher(s)": "The Edge",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Space Wars",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Odyssey",
+        "Publisher(s)": "Odyssey",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV enhanced"
+      },
+      {
+        "Title[15]": "Spirit Of Excalibur",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Synergistic",
+        "Publisher(s)": "Virgin Mastertronic",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Sprachraetsel Englisch 1: Spielend Sprachen lernen!",
+        "Genre(s)": "Logic",
+        "Developer(s)": "Ingenio",
+        "Publisher(s)": "Ingenio",
+        "Release date(s)": "1990",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Sprachraetsel Englisch 2: Spielend Sprachen lernen!",
+        "Genre(s)": "Logic",
+        "Developer(s)": "Ingenio",
+        "Publisher(s)": "Ingenio",
+        "Release date(s)": "1990",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Sprachraetsel Englisch 3: Spielend Sprachen lernen!",
+        "Genre(s)": "Logic",
+        "Developer(s)": "Ingenio",
+        "Publisher(s)": "Ingenio",
+        "Release date(s)": "1990",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Sprachraetsel Franzoesisch 1: Spielend Sprachen lernen!",
+        "Genre(s)": "Logic",
+        "Developer(s)": "Ingenio",
+        "Publisher(s)": "Ingenio",
+        "Release date(s)": "1990",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Sprachraetsel Latein 1: Spielend Sprachen lernen!",
+        "Genre(s)": "Logic",
+        "Developer(s)": "Ingenio",
+        "Publisher(s)": "Ingenio",
+        "Release date(s)": "1990",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Sprachraetsel Spanisch 1: Spielend Sprachen lernen!",
+        "Genre(s)": "Logic",
+        "Developer(s)": "Ingenio",
+        "Publisher(s)": "Ingenio",
+        "Release date(s)": "1990",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Stadt Der Löwen, Die",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "PM Entertainment",
+        "Publisher(s)": "Software 2000",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Strip Poker Live",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Porky's Production",
+        "Publisher(s)": "Porky's Production",
+        "Release date(s)": "1993",
+        "CDTV version": "CD Audio; FMV"
+      },
+      {
+        "Title[15]": "Team Yankee",
+        "Genre(s)": "Simulation",
+        "Developer(s)": "Oxford Digital Enterprises",
+        "Publisher(s)": "Empire",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Tie Break",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Starbyte",
+        "Publisher(s)": "Starbyte",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Top Banana",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Hex",
+        "Publisher(s)": "Hex",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "The Town With No Name",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Delta 4 Interactive",
+        "Publisher(s)": "On-line",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Trivial Pursuit",
+        "Genre(s)": "Quiz",
+        "Developer(s)": "Domark",
+        "Publisher(s)": "Domark",
+        "Release date(s)": "1992",
+        "CDTV version": "CD Audio; Released for CD32 in 1994"
+      },
+      {
+        "Title[15]": "Turrican",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Factor 5",
+        "Publisher(s)": "Rainbow Arts",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Turrican II: The Final Fight",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Factor 5",
+        "Publisher(s)": "Rainbow Arts",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Ultimate Basketball",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Context Systems",
+        "Publisher(s)": "Context Systems",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Will Bridge: Competition",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Will-Bridge",
+        "Publisher(s)": "Will-Bridge",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Will Bridge: Haute Competition",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Will-Bridge",
+        "Publisher(s)": "Will-Bridge",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Will Bridge: Initiation Aux EncheresWill Bridge: Introduction To Bidding",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Will-Bridge",
+        "Publisher(s)": "Will-Bridge",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Will Bridge: Standard",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Will-Bridge",
+        "Publisher(s)": "Will-Bridge",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Will Bridge: PerfectionnementWill Bridge: Intermediate",
+        "Genre(s)": "Cards game",
+        "Developer(s)": "Will-Bridge",
+        "Publisher(s)": "Will-Bridge",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Winzer",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Golden Gate Crew",
+        "Publisher(s)": "Starbyte",
+        "Release date(s)": "1992",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Wrath Of The Demon",
+        "Genre(s)": "Action",
+        "Developer(s)": "Abstrax",
+        "Publisher(s)": "ReadySoft",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "Xenon 2: Megablast",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Assembly Line, The",
+        "Publisher(s)": "Image Works",
+        "Release date(s)": "1992"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title[15]": "Cubulus & Magic Serpent",
+        "Developer(s)": "Software 2000",
+        "Publisher(s)": "Software 2000",
+        "Release date(s)": "1991",
+        "CDTV version": "ECS version of Cubulus and Magic Serpent"
+      },
+      {
+        "Title[15]": "Lettrix & Shiftrix",
+        "Developer(s)": "Software 2000",
+        "Publisher(s)": "Software 2000",
+        "Release date(s)": "1991",
+        "CDTV version": "ECS version of Lettrix and Shiftrix"
+      },
+      {
+        "Title[15]": "Super Games Pak",
+        "Developer(s)": "Odyssey",
+        "Publisher(s)": "Odyssey",
+        "Release date(s)": "1991",
+        "CDTV version": "ECS version of Byteman, Deathbots and Jailbreak"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title[15]": "All Dogs Go To Heaven: Electric Crayon Deluxe",
+        "Developer(s)": "Merit",
+        "Publisher(s)": "Merit",
+        "Release date(s)": "1991",
+        "CDTV version": ""
+      },
+      {
+        "Title[15]": "A Bun For Barney",
+        "Developer(s)": "BBC Multimedia",
+        "Publisher(s)": "BBC Multimedia",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Cinderella: The Original Fairy Tale",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Heather Hits Her First Home Run",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Learn French With Astérix Disc 1",
+        "Developer(s)": "Eurotalk",
+        "Publisher(s)": "Eurotalk",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Learn French With Astérix Disc 2",
+        "Developer(s)": "Eurotalk",
+        "Publisher(s)": "Eurotalk",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "A Long Hard Day On The Ranch",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Moving Gives Me A Stomach Ache",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Mud Puddle",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Musicolor",
+        "Developer(s)": "Binary Vision",
+        "Publisher(s)": "Virgin Interactive",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "My Paint CDTV",
+        "Developer(s)": "Saddleback",
+        "Publisher(s)": "Saddleback",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV only"
+      },
+      {
+        "Title[15]": "The Night Before Christmas",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Ordicode",
+        "Developer(s)": "Educom",
+        "Publisher(s)": "Educom",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "The Paper Bag Princess",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Read With Astérix: Astérix And Son",
+        "Developer(s)": "Eurotalk",
+        "Publisher(s)": "Eurotalk",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Read With Astérix: The Secret Weapon",
+        "Developer(s)": "Eurotalk",
+        "Publisher(s)": "Eurotalk",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Scary Poems For Rotten Kids",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "The Tale of Benjamin Bunny",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "The Tale Of Peter Rabbit",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1992",
+        "CDTV version": "CDTV exclusive"
+      },
+      {
+        "Title[15]": "Thomas' Snowsuit",
+        "Developer(s)": "Discis",
+        "Publisher(s)": "Discis",
+        "Release date(s)": "1991",
+        "CDTV version": "CDTV exclusive"
+      }
+    ]
+  }
+]

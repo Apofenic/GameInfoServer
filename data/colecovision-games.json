@@ -1,0 +1,1186 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "2010: The Graphic Action Game",
+        "Released": "1984",
+        "Genre": "Puzzle",
+        "Developer": "",
+        "Publisher": "Coleco[1]",
+        "Notes": "Includes overlays for hand controllers.[2]"
+      },
+      {
+        "Title": "Alphabet Zoo",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Antarctic Adventure",
+        "Released": "1984",
+        "Genre": "Racing, platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Aquattack",
+        "Released": "1984",
+        "Genre": "Side-scrolling shooter",
+        "Developer": "",
+        "Publisher": "Interphase",
+        "Notes": ""
+      },
+      {
+        "Title": "Artillery Duel",
+        "Released": "1983",
+        "Genre": "Strategy",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Xonox",
+        "Notes": "Also as double-ender cartridge with Chuck Norris Superkicks."
+      },
+      {
+        "Title": "B.C.'s Quest for Tires",
+        "Released": "1983",
+        "Genre": "Action",
+        "Developer": "Sydney Development Corporation[4]",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "B.C. II: Grog's Revenge",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "Sydney Development Corporation[4]",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Beamrider",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Activision",
+        "Notes": "[5]"
+      },
+      {
+        "Title": "Blockade Runner",
+        "Released": "1984",
+        "Genre": "First-person shooter",
+        "Developer": "",
+        "Publisher": "Interphase",
+        "Notes": ""
+      },
+      {
+        "Title": "Brain Strainers",
+        "Released": "1984",
+        "Genre": "Educational, Music",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Buck Rogers: Planet of Zoom",
+        "Released": "1983",
+        "Genre": "First-person shooter[6]",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Bump 'n' Jump",
+        "Released": "1984",
+        "Genre": "Racing",
+        "Developer": "Mattel Electronics (Nice Ideas)[3]",
+        "Publisher": "Coleco",
+        "Notes": "Optionally supports Expansion Module #2 (steering wheel)"
+      },
+      {
+        "Title": "BurgerTime",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "Mattel Electronics (Nice Ideas)[3]",
+        "Publisher": "Coleco",
+        "Notes": "[5]"
+      },
+      {
+        "Title": "Cabbage Patch Kids: Adventures in the Park",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Cabbage Patch Kids Picture Show",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers"
+      },
+      {
+        "Title": "Campaign '84",
+        "Released": "1983",
+        "Genre": "Strategy",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Sunrise Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Carnival",
+        "Released": "1982",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Centipede",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Choplifter!",
+        "Released": "1984",
+        "Genre": "Shooter",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Chuck Norris Superkicks",
+        "Released": "1983",
+        "Genre": "Action",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Xonox",
+        "Notes": "Also as double-ender with Artillery Duel."
+      },
+      {
+        "Title": "Congo Bongo",
+        "Released": "1984",
+        "Genre": "Isometric platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Cosmic Avenger",
+        "Released": "1982",
+        "Genre": "Side-scrolling shooter",
+        "Developer": "Gordon Martin & Associates[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "The Dam Busters",
+        "Released": "1984",
+        "Genre": "Combat flight simulation game",
+        "Developer": "Sydney Development Corporation[4]",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "Dance Fantasy",
+        "Released": "1984",
+        "Genre": "Dancing simulator",
+        "Developer": "WCI Labs (Atari)[3]",
+        "Publisher": "Fisher-Price",
+        "Notes": ""
+      },
+      {
+        "Title": "Decathlon",
+        "Released": "1983",
+        "Genre": "Sports",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Defender",
+        "Released": "1983",
+        "Genre": "Side-scrolling shooter",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Destructor",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Expansion Module #2 (steering wheel) required"
+      },
+      {
+        "Title": "Donkey Kong",
+        "Released": "1982",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Standard \"in-the-box\" title, included with console"
+      },
+      {
+        "Title": "Donkey Kong Jr.",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Dr. Seuss' Fix-Up the Mix-Up Puzzler",
+        "Released": "1984",
+        "Genre": "Puzzle",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "Dragonfire",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Notes": ""
+      },
+      {
+        "Title": "The Dukes of Hazzard",
+        "Released": "1984",
+        "Genre": "Racing",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Expansion Module #2 (steering wheel) required"
+      },
+      {
+        "Title": "Facemaker",
+        "Released": "1983",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Spinnaker Software",
+        "Notes": "Includes overlays for hand controllers. A smaller box variant was also released with the name \"Make-A-Face\"."
+      },
+      {
+        "Title": "Fathom",
+        "Released": "1983",
+        "Genre": "Action, adventure",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Notes": ""
+      },
+      {
+        "Title": "Flipper Slipper",
+        "Released": "1983",
+        "Genre": "Pinball",
+        "Developer": "",
+        "Publisher": "Spectravideo International",
+        "Notes": ""
+      },
+      {
+        "Title": "Fortune Builder",
+        "Released": "1984",
+        "Genre": "Strategy",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "Fraction Fever",
+        "Released": "1983",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Frantic Freddy",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Spectravideo International",
+        "Notes": ""
+      },
+      {
+        "Title": "Frenzy",
+        "Released": "1983",
+        "Genre": "Multi-directional shooter",
+        "Developer": "Davis & Nussrallah & Associates[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Frogger",
+        "Released": "1983",
+        "Genre": "Overhead view action",
+        "Developer": "James Wickstead Design Associates[3]",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Frogger II: ThreeeDeep!",
+        "Released": "1984",
+        "Genre": "Overhead view action",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Front Line",
+        "Released": "1983",
+        "Genre": "Run and gun",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for Super Action Controllers."
+      },
+      {
+        "Title": "Galaxian",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Gateway to Apshai",
+        "Released": "1984",
+        "Genre": "Action-adventure",
+        "Developer": "",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Gorf",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Gust Buster",
+        "Released": "1983",
+        "Genre": "Action",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Sunrise Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Gyruss",
+        "Released": "1984",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "H.E.R.O.",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "The Softworks[3]",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "The Heist",
+        "Released": "1983",
+        "Genre": "Scrolling platform",
+        "Developer": "Mike Livesay[7]",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Illusions",
+        "Released": "1984",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics (Nice Ideas)[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "It's Only Rock 'N Roll",
+        "Released": "1984",
+        "Genre": "Business simulator",
+        "Developer": "Emag Software & Engineering[3]",
+        "Publisher": "Xonox",
+        "Notes": ""
+      },
+      {
+        "Title": "James Bond 007",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "On-Time Software[3]",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Jukebox",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Jumpman Junior",
+        "Released": "1984",
+        "Genre": "Platform, puzzle",
+        "Developer": "",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Jungle Hunt",
+        "Released": "1984",
+        "Genre": "Side scroller",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Ken Uston Blackjack/Poker",
+        "Released": "1983",
+        "Genre": "Gambling",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "Keystone Kapers",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "Sydney Software",
+        "Publisher": "Activision",
+        "Notes": "[5]"
+      },
+      {
+        "Title": "Lady Bug",
+        "Released": "1982",
+        "Genre": "Maze",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Learning with Leeper",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Linking Logic",
+        "Released": "1984",
+        "Genre": "Educational, action, puzzle",
+        "Developer": "",
+        "Publisher": "Fisher-Price",
+        "Notes": ""
+      },
+      {
+        "Title": "Logic Levels",
+        "Released": "1984",
+        "Genre": "Educational, action, puzzle",
+        "Developer": "",
+        "Publisher": "Fisher-Price",
+        "Notes": ""
+      },
+      {
+        "Title": "Looping",
+        "Released": "1983",
+        "Genre": "Side-scrolling shooter",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Memory Manor",
+        "Released": "1984",
+        "Genre": "Board game",
+        "Developer": "",
+        "Publisher": "Fisher-Price",
+        "Notes": ""
+      },
+      {
+        "Title": "Miner 2049er",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Developer": "Mike Livesay[7]",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Monkey Academy",
+        "Released": "1984",
+        "Genre": "Educational, math, platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Montezuma's Revenge",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Moonsweeper",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Notes": "[5]"
+      },
+      {
+        "Title": "Motocross Racer",
+        "Released": "1984",
+        "Genre": "Racing",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Xonox",
+        "Notes": "Also as double-ender cartridge with Tomarc the Barbarian"
+      },
+      {
+        "Title": "Mountain King",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Sunrise Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Mouse Trap",
+        "Released": "1982",
+        "Genre": "Maze",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "Mr. Do!",
+        "Released": "1983",
+        "Genre": "Maze",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Mr. Do!'s Castle",
+        "Released": "1984",
+        "Genre": "Platform, puzzle",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Nova Blast",
+        "Released": "1983",
+        "Genre": "Side-scrolling shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Notes": ""
+      },
+      {
+        "Title": "Oil's Well",
+        "Released": "1984",
+        "Genre": "Maze",
+        "Developer": "",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Omega Race",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "One on One Basketball",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Developer": "",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Pepper II",
+        "Released": "1983",
+        "Genre": "Maze",
+        "Developer": "4D Interactive Systems[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitfall!",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitfall II: Lost Caverns",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitstop",
+        "Released": "1983",
+        "Genre": "Racing",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Epyx",
+        "Notes": "Optionally supports Expansion Module #2 (steering wheel).  Released in two different cartridge shapes."
+      },
+      {
+        "Title": "Popeye",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Q*bert",
+        "Released": "1983",
+        "Genre": "Action, puzzle",
+        "Developer": "Adrenalin Entertainment[3]",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Q*bert's Qubes",
+        "Released": "1984",
+        "Genre": "Action, puzzle",
+        "Developer": "James Wickstead Design Associates[3]",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Quest for Quintana Roo",
+        "Released": "1983",
+        "Genre": "Action, adventure",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Sunrise Software",
+        "Notes": ""
+      },
+      {
+        "Title": "River Raid",
+        "Released": "1984",
+        "Genre": "Scrolling shooter",
+        "Developer": "Sydney Development Corporation[4]",
+        "Publisher": "Activision",
+        "Notes": "[5]"
+      },
+      {
+        "Title": "Robin Hood",
+        "Released": "1984",
+        "Genre": "Action, adventure",
+        "Developer": "Computer Magic[3]",
+        "Publisher": "Xonox",
+        "Notes": "Also as double-ender cartridge with Sir Lancelot"
+      },
+      {
+        "Title": "Roc'n Rope",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Developer": "Gordon Martin & Associates[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Rocky Super Action Boxing",
+        "Released": "1983",
+        "Genre": "Fighting",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for Super Action Controllers."
+      },
+      {
+        "Title": "Rolloverture",
+        "Released": "1983",
+        "Genre": "Educational, music",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Sunrise Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sammy Lightfoot",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Sector Alpha",
+        "Released": "1983",
+        "Genre": "First-person shooter",
+        "Developer": "",
+        "Publisher": "Spectravideo International",
+        "Notes": ""
+      },
+      {
+        "Title": "Sewer Sam",
+        "Released": "1984",
+        "Genre": "Action, adventure",
+        "Developer": "",
+        "Publisher": "Interphase",
+        "Notes": ""
+      },
+      {
+        "Title": "Sir Lancelot",
+        "Released": "1983",
+        "Genre": "Action",
+        "Developer": "Video SOftware Specialists[3]",
+        "Publisher": "Xonox",
+        "Notes": "Also as double-ender with Robin Hood"
+      },
+      {
+        "Title": "Slither",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": "Bundled with Coleco's Roller Controller which is required to play."
+      },
+      {
+        "Title": "Slurpy",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "Emag Software & Engineering[3]",
+        "Publisher": "Xonox",
+        "Notes": ""
+      },
+      {
+        "Title": "Smurf Paint 'n' Play Workshop",
+        "Released": "1984",
+        "Genre": "Education",
+        "Developer": "Innoventions[3]",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "Smurf: Rescue in Gargamel's Castle",
+        "Released": "1982",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Released as Schtroumpf or Putifu in other languages."
+      },
+      {
+        "Title": "Space Fury",
+        "Released": "1983",
+        "Genre": "Shooter",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Panic",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Spectron",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Spectravideo International",
+        "Notes": ""
+      },
+      {
+        "Title": "Spy Hunter",
+        "Released": "1984",
+        "Genre": "Car combat",
+        "Developer": "4D Interactive Systems[3]",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers and Super Action Controllers."
+      },
+      {
+        "Title": "Squish 'Em Featuring Sam",
+        "Released": "1983",
+        "Genre": "Climbing platform",
+        "Developer": "",
+        "Publisher": "Interphase",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: Strategic Operations Simulator",
+        "Released": "1984",
+        "Genre": "Space combat simulation",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for Super Action Controllers."
+      },
+      {
+        "Title": "Star Wars: The Arcade Game",
+        "Released": "1984",
+        "Genre": "Rail shooter",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "SubRoc",
+        "Released": "1983",
+        "Genre": "Action",
+        "Developer": "4D Interactive Systems[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Action Baseball",
+        "Released": "1983",
+        "Genre": "Sports",
+        "Developer": "Gordon Martin & Associates[3]",
+        "Publisher": "Coleco",
+        "Notes": "Came bundled with the Super Action Controller Set, a set of two joysticks, and overlays."
+      },
+      {
+        "Title": "Super Action Football",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Developer": "Davis & Nussrallah & Associates[3]",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for Super Action Controllers."
+      },
+      {
+        "Title": "Super Cobra",
+        "Released": "1983",
+        "Genre": "Scrolling shooter",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Crossforce",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Spectravideo International",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Sketch",
+        "Released": "1984",
+        "Genre": "Doodling",
+        "Developer": "",
+        "Publisher": "Practical Peripherals",
+        "Notes": "Comes with Super Sketch Pad controller."
+      },
+      {
+        "Title": "Tapper",
+        "Released": "1984",
+        "Genre": "Action",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Also known as Root Beer Tapper"
+      },
+      {
+        "Title": "Tarzan",
+        "Released": "1984",
+        "Genre": "Action, adventure",
+        "Developer": "4D Interactive Systems[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Telly Turtle",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Learn the basics of Logo language computer programming."
+      },
+      {
+        "Title": "Threshold",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Time Pilot",
+        "Released": "1983",
+        "Genre": "Multi-directional shooter",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Tomarc the Barbarian",
+        "Released": "1984",
+        "Genre": "Action, adventure",
+        "Developer": "",
+        "Publisher": "Xonox",
+        "Notes": "Also as double-ender cartridge with Motocross Racer"
+      },
+      {
+        "Title": "Tournament Tennis",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Notes": ""
+      },
+      {
+        "Title": "Turbo",
+        "Released": "1982",
+        "Genre": "Racing",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": "Comes with the Expansion Module #2, a steering wheel (required to play)."
+      },
+      {
+        "Title": "Tutankham",
+        "Released": "1983",
+        "Genre": "Maze, shooter",
+        "Developer": "",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Up'n Down",
+        "Released": "1984",
+        "Genre": "Racing, maze",
+        "Developer": "On-Time Software[3]",
+        "Publisher": "Sega",
+        "Notes": ""
+      },
+      {
+        "Title": "Venture",
+        "Released": "1982",
+        "Genre": "Action",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Victory",
+        "Released": "1983",
+        "Genre": "Side-scrolling shooter",
+        "Developer": "Nuvatec[3]",
+        "Publisher": "Coleco",
+        "Notes": "Roller Controller required; uses all four action buttons"
+      },
+      {
+        "Title": "WarGames",
+        "Released": "1984",
+        "Genre": "Strategy",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Notes": "Includes overlays for hand controllers."
+      },
+      {
+        "Title": "War Room",
+        "Released": "1983",
+        "Genre": "Fixed shooter, strategy",
+        "Developer": "",
+        "Publisher": "Probe 2000",
+        "Notes": "Includes an overlay for a hand controller."
+      },
+      {
+        "Title": "Wing War",
+        "Released": "1983",
+        "Genre": "Side scrolling shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Notes": ""
+      },
+      {
+        "Title": "The Wizard of Id's Wiz Math",
+        "Released": "1984",
+        "Genre": "Educational, action",
+        "Developer": "Sydney Development Corporation[4]",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Word Feud",
+        "Released": "1984",
+        "Genre": "Word puzzle",
+        "Developer": "Emag Software & Engineering[3]",
+        "Publisher": "Xonox",
+        "Notes": ""
+      },
+      {
+        "Title": "Zaxxon",
+        "Released": "1982",
+        "Genre": "Isometric shooter",
+        "Developer": "4D Interactive Systems[3]",
+        "Publisher": "Coleco",
+        "Notes": ""
+      },
+      {
+        "Title": "Zenji",
+        "Released": "1984",
+        "Genre": "Puzzle",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Activision",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title": "The Cat Scheduled Oil Sampling Game",
+        "Released": "1983",
+        "Genre": "Action, simulation",
+        "Developer": "Nuvatec",
+        "Publisher": "Caterpillar Inc",
+        "Notes": "Not sold commercially. Given to Caterpillar dealerships to support the S.O.S. program. The customers played it while waiting in the lobby.[8]"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title": "Cosmic Crisis",
+        "Released": "1983",
+        "Genre": "Platform[6]",
+        "Developer": "",
+        "Publisher": "Bit Corp.",
+        "Notes": "Europe"
+      },
+      {
+        "Title": "Energy Quizz",
+        "Released": "",
+        "Genre": "Education",
+        "Developer": "Sydney Development Corporation",
+        "Publisher": "",
+        "Notes": "Energy, Mines, and Resources Canada"
+      },
+      {
+        "Title": "Evolution",
+        "Released": "1983",
+        "Genre": "Action",
+        "Developer": "Sydney Development Corporation[4]",
+        "Publisher": "Coleco of Canada",
+        "Notes": "Canada"
+      },
+      {
+        "Title": "Meteoric Shower",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Developer": "",
+        "Publisher": "Bit Corp.",
+        "Notes": "Europe"
+      },
+      {
+        "Title": "Super Action Football",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Developer": "",
+        "Publisher": "CBS Electronics",
+        "Notes": "Not same as U.S. game with same name. This is a soccer simulation."
+      },
+      {
+        "Title": "Strike It!",
+        "Released": "1983",
+        "Genre": "Breakout clone",
+        "Developer": "",
+        "Publisher": "Bit Corp.",
+        "Notes": "Europe"
+      },
+      {
+        "Title": "Tank Wars",
+        "Released": "1983",
+        "Genre": "Maze, shooter",
+        "Developer": "",
+        "Publisher": "Bit Corp.",
+        "Notes": "Europe"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title": "Alcazar: The Forgotten Fortress",
+        "Released": "1985",
+        "Genre": "Action, adventure[6]",
+        "Developer": "Cheshire Engineering",
+        "Publisher": "Telegames",
+        "Notes": "Developed by Tom Loughry for Activision.[9]  Exclusive to Telegames."
+      },
+      {
+        "Title": "Amazing Bumpman",
+        "Released": "1986",
+        "Genre": "Education, maze",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Telegames",
+        "Notes": "Exclusive to Telegames."
+      },
+      {
+        "Title": "Boulder Dash",
+        "Released": "1984",
+        "Genre": "Maze",
+        "Developer": "Micro Lab",
+        "Publisher": "Telegames",
+        "Notes": "Developed for Micro Fun. Exclusive to Telegames."
+      },
+      {
+        "Title": "Cosmic Crisis",
+        "Released": "1986",
+        "Genre": "Platform",
+        "Developer": "",
+        "Publisher": "Telegames",
+        "Notes": "Same as foreign game by Bit Corp."
+      },
+      {
+        "Title": "Kung Fu Superkicks",
+        "Released": "",
+        "Genre": "Side-scrolling combat",
+        "Developer": "Video Software Specialists[3]",
+        "Publisher": "Telegames",
+        "Notes": "Sames as Chuck Norris Superkicks by Xonox."
+      },
+      {
+        "Title": "Rock 'N Bolt",
+        "Released": "1984",
+        "Genre": "Action puzzle",
+        "Developer": "Action Graphics[3]",
+        "Publisher": "Telegames",
+        "Notes": "Developed for Activision.  Exclusive to Telegames."
+      },
+      {
+        "Title": "Skiing",
+        "Released": "1986",
+        "Genre": "Sports",
+        "Developer": "",
+        "Publisher": "Telegames",
+        "Notes": "Exclusive to Telegames."
+      },
+      {
+        "Title": "Strike It!",
+        "Released": "1986",
+        "Genre": "Breakout clone",
+        "Developer": "",
+        "Publisher": "Telegames",
+        "Notes": "Same as foreign game by Bit Corp."
+      },
+      {
+        "Title": "Tank Wars",
+        "Released": "1986",
+        "Genre": "Maze shooter",
+        "Developer": "",
+        "Publisher": "Telegames",
+        "Notes": "Same as foreign game by Bit Corp."
+      }
+    ]
+  }
+]

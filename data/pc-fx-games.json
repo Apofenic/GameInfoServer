@@ -1,0 +1,378 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Visual Novel",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "12 December 1997"
+      },
+      {
+        "Title": "Board game",
+        "Genre(s)": "NEC Home Electronics",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "25 October 1996"
+      },
+      {
+        "Title": "Adventure, Simulation",
+        "Genre(s)": "Gimmick House, Magical Craft",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "27 June 1997"
+      },
+      {
+        "Title": "Adventure, Dating sim",
+        "Genre(s)": "Koei",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "22 December 1995"
+      },
+      {
+        "Title": "Adventure, Dating sim",
+        "Genre(s)": "Koei",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "20 December 1996"
+      },
+      {
+        "Title": "Role-playing game",
+        "Genre(s)": "Koei",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "2 April 1998"
+      },
+      {
+        "Title": "Non-Game, Compilation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "12 August 1995"
+      },
+      {
+        "Title": "Non-Game, Compilation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "22 December 1995"
+      },
+      {
+        "Title": "Non-Game, Compilation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "5 April 1996"
+      },
+      {
+        "Title": "Non-Game, Compilation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "28 February 1997"
+      },
+      {
+        "Title": "Non-Game, Compilation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "29 August 1997"
+      },
+      {
+        "Title": "Non-Game, Compilation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "27 February 1998"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Hudson Soft",
+        "Developer(s)": "Hudson Soft",
+        "Publisher(s)": "23 December 1994"
+      },
+      {
+        "Title": "Role-playing game",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "27 September 1996"
+      },
+      {
+        "Title": "Role-playing game",
+        "Genre(s)": "Pack-In-Video, Polestar, Studio OX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "24 January 1997"
+      },
+      {
+        "Title": "Visual novel",
+        "Genre(s)": "Cocktail Soft",
+        "Developer(s)": "Cocktail Soft, NEC Home Electronics",
+        "Publisher(s)": "27 September 1996"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Custom Co., Ltd.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "13 September 1996"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Fupac, Sugeiya Ltd., Winds Co., Ltd.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "8 August 1997"
+      },
+      {
+        "Title": "Compilation",
+        "Genre(s)": "Cocktail Soft",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "26 November 1997"
+      },
+      {
+        "Title": "Life simulation",
+        "Genre(s)": "Studio Offside",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "26 September 1997"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Data West",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "5 November 1995"
+      },
+      {
+        "Title": "Strategy, Tactical role-playing game",
+        "Genre(s)": "Crosstalk Inc., NCS Corporation",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "26 April 1996"
+      },
+      {
+        "Title": "Role-playing game, Strategy",
+        "Genre(s)": "ELF Corporation",
+        "Developer(s)": "NEC Avenue",
+        "Publisher(s)": "28 March 1997"
+      },
+      {
+        "Title": "Dating sim",
+        "Genre(s)": "ELF Corporation",
+        "Developer(s)": "NEC Avenue",
+        "Publisher(s)": "8 August 1996"
+      },
+      {
+        "Title": "Strategy, Tactical role-playing game",
+        "Genre(s)": "Technical Group Laboratory",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "8 November 1996"
+      },
+      {
+        "Title": "Dating Sim, Adventure",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "Tokuma Shoten Publishing",
+        "Publisher(s)": "20 December 1996"
+      },
+      {
+        "Title": "Visual novel",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "24 April 1998"
+      },
+      {
+        "Title": "Board game",
+        "Genre(s)": "Koei",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "11 October 1996"
+      },
+      {
+        "Title": "Adventure, Visual novel",
+        "Genre(s)": "Red Entertainment, Will Co., Ltd.",
+        "Developer(s)": "Hudson",
+        "Publisher(s)": "8 March 1996"
+      },
+      {
+        "Title": "Adventure, Visual novel",
+        "Genre(s)": "Riverhillsoft",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "22 March 1996"
+      },
+      {
+        "Title": "Action, Beat 'em up",
+        "Genre(s)": "Hudson Soft",
+        "Developer(s)": "Hudson Soft",
+        "Publisher(s)": "22 December 1995"
+      },
+      {
+        "Title": "Adventure, Combat flight simulation",
+        "Genre(s)": "Micro Cabin",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "28 June 1996"
+      },
+      {
+        "Title": "Turn-based strategy",
+        "Genre(s)": "Micro Cabin",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "31 March 1995"
+      },
+      {
+        "Title": "Action, Role-playing game",
+        "Genre(s)": "Nihon Application",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "14 March 1997"
+      },
+      {
+        "Title": "Role-playing game",
+        "Genre(s)": "Artdink",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "24 November 1995"
+      },
+      {
+        "Title": "Board game",
+        "Genre(s)": "Chat Noir",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "24 March 1995"
+      },
+      {
+        "Title": "Role-playing game",
+        "Genre(s)": "Fill-in-Cafe, Sugeiya Ltd.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "20 March 1998"
+      },
+      {
+        "Title": "Life simulation",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "26 July 1996"
+      },
+      {
+        "Title": "Adventure, Visual novel",
+        "Genre(s)": "Polestar, Studio OX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "24 October 1997"
+      },
+      {
+        "Title": "Role-playing game",
+        "Genre(s)": "RayForce Inc.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "29 March 1996"
+      },
+      {
+        "Title": "Adventure, Puzzle",
+        "Genre(s)": "Fill-in-Cafe, Headroom",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "31 May 1996"
+      },
+      {
+        "Title": "Casino",
+        "Genre(s)": "Coconuts Japan Entertainment",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "22 September 1995"
+      },
+      {
+        "Title": "Dating Sim, Eroge, Visual novel",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "Cocktail Soft, NEC Home Electronics",
+        "Publisher(s)": "23 May 1997"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Kogado Studio",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "23 February 1996"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Activision, Data West",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "27 May 1995"
+      },
+      {
+        "Title": "Platform, Puzzle",
+        "Genre(s)": "NEC Home Electronics",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "20 February 1998"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Activision",
+        "Developer(s)": "ASK Kodansha",
+        "Publisher(s)": "15 March 1996"
+      },
+      {
+        "Title": "Life simulation",
+        "Genre(s)": "Headroom, Riverhillsoft, Tenky Co., Ltd.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "23 December 1994"
+      },
+      {
+        "Title": "Life simulation",
+        "Genre(s)": "Headroom",
+        "Developer(s)": "NEC Avenue, NEC Home Electronics",
+        "Publisher(s)": "16 January 1998"
+      },
+      {
+        "Title": "Turn-based strategy",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "25 April 1997"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Hudson Soft",
+        "Developer(s)": "Hudson Soft",
+        "Publisher(s)": "26 April 1996"
+      },
+      {
+        "Title": "Board game",
+        "Genre(s)": "SETA Corporation",
+        "Developer(s)": "Naxat Soft",
+        "Publisher(s)": "29 March 1996"
+      },
+      {
+        "Title": "Action, Adventure",
+        "Genre(s)": "Hudson Soft",
+        "Developer(s)": "Hudson Soft",
+        "Publisher(s)": "23 December 1994"
+      },
+      {
+        "Title": "Adventure, Life simulation",
+        "Genre(s)": "Studio Offside",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "27 March 1998"
+      },
+      {
+        "Title": "Adventure, Visual novel",
+        "Genre(s)": "AIC Spirits, TamTam",
+        "Developer(s)": "NEC Interchannel",
+        "Publisher(s)": "12 July 1996"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Produce, Red Entertainment",
+        "Developer(s)": "Hudson Soft",
+        "Publisher(s)": "28 July 1995"
+      },
+      {
+        "Title": "Casino",
+        "Genre(s)": "Sonnet Computer Entertainment",
+        "Developer(s)": "Sonnet Computer Entertainment",
+        "Publisher(s)": "26 January 1996"
+      },
+      {
+        "Title": "Adventure, Life simulation",
+        "Genre(s)": "Fupac, Winds Co., Ltd.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "25 July 1997"
+      },
+      {
+        "Title": "Adventure, Educational",
+        "Genre(s)": "ASK-Kodansha, Fill-in Cafe",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "17 May 1996"
+      },
+      {
+        "Title": "Simulation, Strategy",
+        "Genre(s)": "Family Soft",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "4 July 1997"
+      },
+      {
+        "Title": "Fighting, Sports",
+        "Genre(s)": "HuneX",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "24 March 1995"
+      },
+      {
+        "Title": "Dating Sim, Adventure, Visual novel",
+        "Genre(s)": "Tokuma Shoten Intermedia, Winds Co., Ltd.",
+        "Developer(s)": "NEC Home Electronics",
+        "Publisher(s)": "6 June 1996"
+      }
+    ]
+  }
+]

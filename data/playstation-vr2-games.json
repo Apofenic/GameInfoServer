@@ -1,0 +1,3800 @@
+[
+  {
+    "table1": [
+      {
+        "Key": "CB",
+        "undefined": "Supports cross-buy (game can be played at no additional cost if one owns the PlayStation VR version)"
+      },
+      {
+        "Key": "CP",
+        "undefined": "Supports cross-play"
+      },
+      {
+        "Key": "GD",
+        "undefined": "Game demo also available for free"
+      },
+      {
+        "Key": "PlayStation VR2-exclusive"
+      },
+      {
+        "Key": "‡",
+        "undefined": "Double-dagger indicates games that include both VR and non-VR modes on PlayStation 5."
+      }
+    ]
+  },
+  {
+    "table2": [
+      {},
+      {
+        "Title": "Sports",
+        "Genre(s)": "Truant Pixel",
+        "Developer(s)": "Truant Pixel",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[1]"
+      },
+      {
+        "Title": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\" · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" (\";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:\")\";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter(listitem)\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" (\"counter(listitem)\"\\a0 \"}AdventureHorror",
+        "Genre(s)": "Vertigo Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Oct 19, 2023",
+        "Release date": "Oct 19, 2023",
+        "Features": "Oct 19, 2023",
+        "Ref.": "",
+        "undefined": "[2][3][4]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Tunermaxx Media",
+        "Developer(s)": "Tunermaxx Media",
+        "Publisher(s)": "Jan 23, 2025",
+        "Release date": "Jan 23, 2025",
+        "Features": "Jan 23, 2025",
+        "Ref.": "",
+        "undefined": "[5]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "InnerspaceVR",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Aug 31, 2023",
+        "Release date": "Aug 31, 2023",
+        "Features": "Aug 31, 2023",
+        "Ref.": "",
+        "undefined": "[6]"
+      },
+      {
+        "Title": "ActionCombat flight simulation",
+        "Genre(s)": "Gaijin Entertainment",
+        "Developer(s)": "Gaijin Entertainment",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[7]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "FusionPlay",
+        "Developer(s)": "FusionPlay",
+        "Publisher(s)": "Apr 6, 2023",
+        "Release date": "Apr 6, 2023",
+        "Features": "Apr 6, 2023",
+        "Ref.": "",
+        "undefined": "[8]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Fallen Planet Studios",
+        "Developer(s)": "Fallen Planet Studios",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 15, 2023",
+        "Features": "Dec 15, 2023",
+        "Ref.": "CB",
+        "undefined": "[9]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Vertigo Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CP",
+        "undefined": "[10][11]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Split Light Studio",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Apr 20, 2023",
+        "Release date": "Apr 20, 2023",
+        "Features": "Apr 20, 2023",
+        "Ref.": "",
+        "undefined": "[12]"
+      },
+      {
+        "Title": "ArcadeBullet hell",
+        "Genre(s)": "Llamasoft",
+        "Developer(s)": "Atari",
+        "Publisher(s)": "Mar 8, 2024",
+        "Release date": "Mar 8, 2024",
+        "Features": "Mar 8, 2024",
+        "Ref.": "",
+        "undefined": "[13]"
+      },
+      {
+        "Title": "ActionHorror",
+        "Genre(s)": "Survios",
+        "Developer(s)": "20th Century Games",
+        "Publisher(s)": "Dec 19, 2024",
+        "Release date": "Dec 19, 2024",
+        "Features": "Dec 19, 2024",
+        "Ref.": "",
+        "undefined": "[14]"
+      },
+      {
+        "Title": "ActionRole-playing",
+        "Genre(s)": "Thirdverse",
+        "Developer(s)": "Thirdverse",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[15]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Mardonpol",
+        "Developer(s)": "OutsideIn Entertainment",
+        "Publisher(s)": "Sep 14, 2023",
+        "Release date": "Sep 14, 2023",
+        "Features": "Sep 14, 2023",
+        "Ref.": "CP",
+        "undefined": "[16]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "IndefatigableAndre Elijah Immersive",
+        "Developer(s)": "New Blood Interactive",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[17]"
+      },
+      {
+        "Title": "PartySocial deduction",
+        "Genre(s)": "Schell GamesInnerslothRobot Teddy",
+        "Developer(s)": "Innersloth",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 4, 2023",
+        "Features": "Dec 5, 2023",
+        "Ref.": "CP",
+        "undefined": "[18]"
+      },
+      {
+        "Title": "Rogue-like",
+        "Genre(s)": "Eric ThullenMaze Theory",
+        "Developer(s)": "Maze Theory",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 8, 2023",
+        "Features": "Dec 7, 2023",
+        "Ref.": "",
+        "undefined": "[19][20]"
+      },
+      {
+        "Title": "CasualPuzzle",
+        "Genre(s)": "Resolution Games",
+        "Developer(s)": "Resolution Games",
+        "Publisher(s)": "Oct 10, 2023",
+        "Release date": "Oct 10, 2023",
+        "Features": "Oct 10, 2023",
+        "Ref.": "",
+        "undefined": "[21][22]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "InnerspaceVR",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "May 11, 2023",
+        "Release date": "May 11, 2023",
+        "Features": "May 11, 2023",
+        "Ref.": "",
+        "undefined": "[23]"
+      },
+      {
+        "Title": "HorrorShooter",
+        "Genre(s)": "Reverie Interactive",
+        "Developer(s)": "Reverie Interactive",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Apr 17, 2024",
+        "Features": "Unreleased",
+        "Ref.": "",
+        "undefined": "[24]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Endeavor One",
+        "Developer(s)": "Skydance Interactive",
+        "Publisher(s)": "Dec 5, 2023",
+        "Release date": "Dec 5, 2023",
+        "Features": "Dec 5, 2023",
+        "Ref.": "",
+        "undefined": "[25][26]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Nosebleed Interactive",
+        "Developer(s)": "Wired Productions",
+        "Publisher(s)": "Aug 8, 2024",
+        "Release date": "Aug 8, 2024",
+        "Features": "Aug 8, 2024",
+        "Ref.": "",
+        "undefined": "[27]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Vertigo Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Oct 17, 2024",
+        "Release date": "Oct 17, 2024",
+        "Features": "Oct 17, 2024",
+        "Ref.": "",
+        "undefined": "[28]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Vertigo Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Dec 7, 2023",
+        "Release date": "Dec 7, 2023",
+        "Features": "Dec 7, 2023",
+        "Ref.": "CP",
+        "undefined": "[29]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "VitruviusVR",
+        "Developer(s)": "VitruviusVR",
+        "Publisher(s)": "Jan 16, 2025",
+        "Release date": "Jan 16, 2025",
+        "Features": "Jan 16, 2025",
+        "Ref.": "",
+        "undefined": "[30]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Wenkly Studio",
+        "Developer(s)": "Wenkly Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "ArcadeShooter",
+        "Genre(s)": "Strange Games Studios",
+        "Developer(s)": "Strange Games Studios",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[32]"
+      },
+      {
+        "Title": "Rogue-like",
+        "Genre(s)": "Iron Stomach",
+        "Developer(s)": "Iron Stomach",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jul 12, 2023",
+        "Features": "Sep 1, 2023",
+        "Ref.": "",
+        "undefined": "[33]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Creative VR 3D",
+        "Developer(s)": "Creative VR 3D",
+        "Publisher(s)": "Jan 23, 2024",
+        "Release date": "Nov 24, 2023",
+        "Features": "Nov 24, 2023",
+        "Ref.": "",
+        "undefined": "[34]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Fishing Cactus",
+        "Developer(s)": "Perp GamesDecathlon",
+        "Publisher(s)": "Jun 17, 2025",
+        "Release date": "Jun 17, 2025",
+        "Features": "Jun 17, 2025",
+        "Ref.": "",
+        "undefined": "[35]"
+      },
+      {
+        "Title": "ActionStrategy",
+        "Genre(s)": "Stalwart Games",
+        "Developer(s)": "Stalwart Games",
+        "Publisher(s)": "Nov 9, 2023",
+        "Release date": "Nov 9, 2023",
+        "Features": "Nov 9, 2023",
+        "Ref.": "GD",
+        "undefined": "[36]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "VR Factory",
+        "Developer(s)": "VR Factory",
+        "Publisher(s)": "Feb 8, 2024",
+        "Release date": "Feb 8, 2024",
+        "Features": "Feb 8, 2024",
+        "Ref.": "",
+        "undefined": "[37]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "WIMO Games",
+        "Developer(s)": "WIMO Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[38]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Beat Games",
+        "Developer(s)": "Beat Games",
+        "Publisher(s)": "May 24, 2023",
+        "Release date": "May 24, 2023",
+        "Features": "May 24, 2023",
+        "Ref.": "CB",
+        "undefined": "[39]"
+      },
+      {
+        "Title": "RhythmSports",
+        "Genre(s)": "Parallel Circles",
+        "Developer(s)": "Parallel Circles",
+        "Publisher(s)": "Feb 27, 2024",
+        "Release date": "Feb 27, 2024",
+        "Features": "Feb 27, 2024",
+        "Ref.": "GD",
+        "undefined": "[40]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "GoodbyeWorld Games",
+        "Developer(s)": "Skybound Entertainment",
+        "Publisher(s)": "Mar 10, 2023",
+        "Release date": "Mar 10, 2023",
+        "Features": "Mar 10, 2023",
+        "Ref.": "",
+        "undefined": "[41]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Skydance Interactive",
+        "Developer(s)": "Skydance Interactive",
+        "Publisher(s)": "Dec 5, 2024",
+        "Release date": "Dec 5, 2024",
+        "Features": "Dec 5, 2024",
+        "Ref.": "",
+        "undefined": "[42]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Akupara Games",
+        "Developer(s)": "Akupara Games",
+        "Publisher(s)": "Sep 14, 2023",
+        "Release date": "Sep 14, 2023",
+        "Features": "Sep 14, 2023",
+        "Ref.": "",
+        "undefined": "[43]"
+      },
+      {
+        "Title": "ShooterRogue-like",
+        "Genre(s)": "AlterEyes",
+        "Developer(s)": "AlterEyes",
+        "Publisher(s)": "Apr 18, 2024",
+        "Release date": "Apr 18, 2024",
+        "Features": "Apr 18, 2024",
+        "Ref.": "CP",
+        "undefined": "[44]"
+      },
+      {
+        "Title": "SportsSimulation",
+        "Genre(s)": "Pixel Works",
+        "Developer(s)": "Pixel Works",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Apr 14, 2025",
+        "Features": "Apr 14, 2025",
+        "Ref.": "CP",
+        "undefined": "[45]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Vinci Games",
+        "Developer(s)": "Vinci Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[46]"
+      },
+      {
+        "Title": "AdventureSimulation",
+        "Genre(s)": "Changingday",
+        "Developer(s)": "Changingday",
+        "Publisher(s)": "Oct 10, 2023",
+        "Release date": "Oct 10, 2023",
+        "Features": "Oct 10, 2023",
+        "Ref.": "",
+        "undefined": "[47]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Unfold Games",
+        "Developer(s)": "Unfold Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[48]"
+      },
+      {
+        "Title": "SportsSimulation",
+        "Genre(s)": "GameBoom VRBig Cheese Studio",
+        "Developer(s)": "Source Byte",
+        "Publisher(s)": "Aug 9, 2024",
+        "Release date": "Aug 9, 2024",
+        "Features": "Aug 9, 2024",
+        "Ref.": "",
+        "undefined": "[49]"
+      },
+      {
+        "Title": "PuzzleSimulation",
+        "Genre(s)": "vTime Games",
+        "Developer(s)": "Team17",
+        "Publisher(s)": "Feb 8, 2024",
+        "Release date": "Feb 8, 2024",
+        "Features": "Feb 8, 2024",
+        "Ref.": "",
+        "undefined": "[50]"
+      },
+      {
+        "Title": "RhythmSports",
+        "Genre(s)": "Khosouf Studio",
+        "Developer(s)": "Khosouf Studio",
+        "Publisher(s)": "Oct 17, 2023",
+        "Release date": "Oct 17, 2023",
+        "Features": "Oct 17, 2023",
+        "Ref.": "GD",
+        "undefined": "[51]"
+      },
+      {
+        "Title": "SportsFighting",
+        "Genre(s)": "Monologic Games",
+        "Developer(s)": "Monologic Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[52]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Frost Earth Studio",
+        "Developer(s)": "My World srls",
+        "Publisher(s)": "May 18, 2023",
+        "Release date": "May 18, 2023",
+        "Features": "May 18, 2023",
+        "Ref.": "",
+        "undefined": "[53]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "Triangle Factory",
+        "Developer(s)": "Triangle Factory",
+        "Publisher(s)": "Dec 20, 2023",
+        "Release date": "Dec 20, 2023",
+        "Features": "Dec 20, 2023",
+        "Ref.": "CP",
+        "undefined": "[54]"
+      },
+      {
+        "Title": "Casual",
+        "Genre(s)": "SingleStep Games",
+        "Developer(s)": "SingleStep Games",
+        "Publisher(s)": "Jun 7, 2023",
+        "Release date": "Jun 7, 2023",
+        "Features": "Jun 6, 2023",
+        "Ref.": "",
+        "undefined": "[55]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "ClockStone Studios",
+        "Developer(s)": "Headup Games",
+        "Publisher(s)": "Q3 2025",
+        "Release date": "Q3 2025",
+        "Features": "Q3 2025",
+        "Ref.": "",
+        "undefined": "[56]"
+      },
+      {
+        "Title": "CasualPuzzle",
+        "Genre(s)": "3R Games",
+        "Developer(s)": "Take IT Studio!",
+        "Publisher(s)": "Jan 17, 2025",
+        "Release date": "Jan 17, 2025",
+        "Features": "Jan 17, 2025",
+        "Ref.": "",
+        "undefined": "[57]"
+      },
+      {
+        "Title": "ActionFighting",
+        "Genre(s)": "Trebuchet Studio",
+        "Developer(s)": "Fast Travel Games",
+        "Publisher(s)": "Sep 19, 2023",
+        "Release date": "Sep 19, 2023",
+        "Features": "Sep 19, 2023",
+        "Ref.": "CP",
+        "undefined": "[58]"
+      },
+      {
+        "Title": "StealthAction",
+        "Genre(s)": "Neat Corporation",
+        "Developer(s)": "Neat Corporation",
+        "Publisher(s)": "Jun 1, 2023",
+        "Release date": "Jun 1, 2023",
+        "Features": "Jun 1, 2023",
+        "Ref.": "",
+        "undefined": "[59]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "EpicVR",
+        "Developer(s)": "EpicVR",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[60]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Incuvo",
+        "Developer(s)": "People Can Fly",
+        "Publisher(s)": "Jan 18, 2024",
+        "Release date": "Jan 18, 2024",
+        "Features": "Jan 18, 2024",
+        "Ref.": "",
+        "undefined": "[61]"
+      },
+      {
+        "Title": "SportsPuzzle",
+        "Genre(s)": "RapidEyeMoversWolf & Wood Interactive",
+        "Developer(s)": "RapidEyeMovers",
+        "Publisher(s)": "Jun 23, 2023",
+        "Release date": "Jun 23, 2023",
+        "Features": "Jun 23, 2023",
+        "Ref.": "GD",
+        "undefined": "[62]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Cactus VR Studios",
+        "Developer(s)": "Cactus VR Studios",
+        "Publisher(s)": "Nov 2, 2023",
+        "Release date": "Nov 2, 2023",
+        "Features": "Nov 2, 2023",
+        "Ref.": "",
+        "undefined": "[63]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Cactus VR Studios",
+        "Developer(s)": "Cactus VR Studios",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[64]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Teravision Games",
+        "Developer(s)": "Teravision Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Mar 21, 2024",
+        "Features": "Jul 4, 2024",
+        "Ref.": "",
+        "undefined": "[65]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "GameFormatic",
+        "Developer(s)": "PlayWay",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jan 17, 2024",
+        "Features": "Jan 17, 2024",
+        "Ref.": "",
+        "undefined": "[66]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "3R Games",
+        "Developer(s)": "Take IT Studio!",
+        "Publisher(s)": "Jun 26, 2025",
+        "Release date": "Jun 26, 2025",
+        "Features": "Jun 26, 2025",
+        "Ref.": "",
+        "undefined": "[67]"
+      },
+      {
+        "Title": "Action-adventureRogue-like",
+        "Genre(s)": "VRKiwi",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CBCP",
+        "undefined": "[68]"
+      },
+      {
+        "Title": "Action-adventureRogue-like",
+        "Genre(s)": "VRKiwi",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Jun 1, 2023",
+        "Release date": "Jun 1, 2023",
+        "Features": "Jun 1, 2023",
+        "Ref.": "CB",
+        "undefined": "[69]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Vimagineo",
+        "Developer(s)": "Vimagineo",
+        "Publisher(s)": "Sep 12, 2024",
+        "Release date": "Sep 12, 2024",
+        "Features": "Sep 12, 2024",
+        "Ref.": "",
+        "undefined": "[70]"
+      },
+      {
+        "Title": "City-building",
+        "Genre(s)": "Fast Travel Games",
+        "Developer(s)": "Fast Travel Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[71]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "INCISIV",
+        "Developer(s)": "INCISIV",
+        "Publisher(s)": "May 16, 2024",
+        "Release date": "May 16, 2024",
+        "Features": "May 16, 2024",
+        "Ref.": "",
+        "undefined": "[72]"
+      },
+      {
+        "Title": "ShooterStrategy",
+        "Genre(s)": "ALLWARE",
+        "Developer(s)": "ALLWARE",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[73]"
+      },
+      {
+        "Title": "Casual",
+        "Genre(s)": "Mīharo Innovations",
+        "Developer(s)": "Mīharo Innovations",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[74]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Cygnus Entertainment",
+        "Developer(s)": "Cygnus Entertainment",
+        "Publisher(s)": "Nov 15, 2023",
+        "Release date": "Nov 15, 2023",
+        "Features": "Nov 15, 2023",
+        "Ref.": "",
+        "undefined": "[75][76]"
+      },
+      {
+        "Title": "ShooterRoguelite",
+        "Genre(s)": "Bevan McKechnienotdead",
+        "Developer(s)": "notdead",
+        "Publisher(s)": "Aug 13, 2024",
+        "Release date": "Aug 13, 2024",
+        "Features": "Aug 13, 2024",
+        "Ref.": "",
+        "undefined": "[77]"
+      },
+      {
+        "Title": "First-person shooterBattle royale",
+        "Genre(s)": "Caveman Studio",
+        "Developer(s)": "Caveman Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[78]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "GameBoom VRBig Cheese Studio",
+        "Developer(s)": "PlayWay",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 15, 2023",
+        "Features": "Dec 15, 2023",
+        "Ref.": "",
+        "undefined": "[79]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Bare Games",
+        "Developer(s)": "Bare Games",
+        "Publisher(s)": "Nov 15, 2024",
+        "Release date": "Nov 15, 2024",
+        "Features": "Nov 15, 2024",
+        "Ref.": "",
+        "undefined": "[80]"
+      },
+      {
+        "Title": "Survival horrorRogue-like",
+        "Genre(s)": "White Door Games",
+        "Developer(s)": "White Door Games",
+        "Publisher(s)": "May 24, 2023",
+        "Release date": "May 24, 2023",
+        "Features": "May 24, 2023",
+        "Ref.": "",
+        "undefined": "[81]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Owlchemy Labs",
+        "Developer(s)": "Owlchemy Labs",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[82]"
+      },
+      {
+        "Title": "ActionSports",
+        "Genre(s)": "Field Of Vision",
+        "Developer(s)": "Field Of Vision",
+        "Publisher(s)": "May 30, 2024",
+        "Release date": "May 30, 2024",
+        "Features": "May 30, 2024",
+        "Ref.": "",
+        "undefined": "[83]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Survios",
+        "Developer(s)": "Survios",
+        "Publisher(s)": "Apr 4, 2023",
+        "Release date": "Apr 4, 2023",
+        "Features": "Apr 4, 2023",
+        "Ref.": "CP",
+        "undefined": "[84]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Carbon Studio",
+        "Developer(s)": "Carbon Studio",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Sep 13, 2024",
+        "Features": "Sep 13, 2024",
+        "Ref.": "",
+        "undefined": "[85]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Sumalab",
+        "Developer(s)": "Sumalab",
+        "Publisher(s)": "Sep 14, 2023",
+        "Release date": "Sep 14, 2023",
+        "Features": "Sep 14, 2023",
+        "Ref.": "CBCP",
+        "undefined": "[86]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Smilegate",
+        "Developer(s)": "Smilegate",
+        "Publisher(s)": "Aug 29, 2023",
+        "Release date": "Aug 29, 2023",
+        "Features": "Aug 29, 2023",
+        "Ref.": "CP",
+        "undefined": "[87]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Stonebrick Studios",
+        "Developer(s)": "Stonebrick Studios",
+        "Publisher(s)": "Feb 7, 2025",
+        "Release date": "Mar 16, 2024",
+        "Features": "Mar 16, 2024",
+        "Ref.": "",
+        "undefined": "[88]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Strange Games Studios",
+        "Developer(s)": "Strange Games Studios",
+        "Publisher(s)": "Jan 23, 2024",
+        "Release date": "Jan 23, 2024",
+        "Features": "Jan 23, 2024",
+        "Ref.": "CB",
+        "undefined": "[89][90]"
+      },
+      {
+        "Title": "Rail shooter",
+        "Genre(s)": "Supermassive Games",
+        "Developer(s)": "Supermassive Games",
+        "Publisher(s)": "Mar 16, 2023",
+        "Release date": "Mar 16, 2023",
+        "Features": "Mar 16, 2023",
+        "Ref.": "",
+        "undefined": "[91]"
+      },
+      {
+        "Title": "ActionRole-playing",
+        "Genre(s)": "Com2uS ROCA",
+        "Developer(s)": "Com2uS ROCA",
+        "Publisher(s)": "Aug 8, 2024",
+        "Release date": "Aug 8, 2024",
+        "Features": "Aug 8, 2024",
+        "Ref.": "",
+        "undefined": "[92]"
+      },
+      {
+        "Title": "Action-adventureShooter",
+        "Genre(s)": "Joy Way",
+        "Developer(s)": "Joy Way",
+        "Publisher(s)": "Feb 8, 2024",
+        "Release date": "Feb 8, 2024",
+        "Features": "Feb 8, 2024",
+        "Ref.": "",
+        "undefined": "[93]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "Kodobur",
+        "Developer(s)": "Kodobur",
+        "Publisher(s)": "Jan 31, 2025",
+        "Release date": "Jan 31, 2025",
+        "Features": "Jan 31, 2025",
+        "Ref.": "",
+        "undefined": "[94]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "Kodobur",
+        "Developer(s)": "Kodobur",
+        "Publisher(s)": "Dec 3, 2024",
+        "Release date": "Dec 3, 2024",
+        "Features": "Dec 3, 2024",
+        "Ref.": "",
+        "undefined": "[95]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "Spunge Games",
+        "Developer(s)": "Spunge Games",
+        "Publisher(s)": "Sep 12, 2024",
+        "Release date": "Sep 12, 2024",
+        "Features": "Sep 12, 2024",
+        "Ref.": "",
+        "undefined": "[96]"
+      },
+      {
+        "Title": "ActionHorror",
+        "Genre(s)": "Nyctophile Studios",
+        "Developer(s)": "Nyctophile Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[97]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Scythe Dev Team",
+        "Developer(s)": "TinyBuild",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[98]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Myron Games",
+        "Developer(s)": "Myron Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[99]"
+      },
+      {
+        "Title": "Role-playingTabletop",
+        "Genre(s)": "Resolution Games",
+        "Developer(s)": "Resolution Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CP",
+        "undefined": "[100]"
+      },
+      {
+        "Title": "Role-playingTabletop",
+        "Genre(s)": "Resolution Games",
+        "Developer(s)": "Resolution Games",
+        "Publisher(s)": "Dec 17, 2024",
+        "Release date": "Dec 17, 2024",
+        "Features": "Dec 17, 2024",
+        "Ref.": "",
+        "undefined": "[101]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "MIROWIN",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[102]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Just Add Water",
+        "Developer(s)": "Wired Productions",
+        "Publisher(s)": "Apr 29, 2025",
+        "Release date": "Apr 29, 2025",
+        "Features": "Apr 29, 2025",
+        "Ref.": "",
+        "undefined": "[103]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Maze Theory",
+        "Developer(s)": "Maze Theory",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Apr 23, 2024",
+        "Features": "Apr 23, 2024",
+        "Ref.": "",
+        "undefined": "[104]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "INCISIV",
+        "Developer(s)": "INCISIV",
+        "Publisher(s)": "Feb 13, 2025",
+        "Release date": "Feb 13, 2025",
+        "Features": "Feb 13, 2025",
+        "Ref.": "",
+        "undefined": "[105]"
+      },
+      {
+        "Title": "Action-adventureFighting",
+        "Genre(s)": "Zatun",
+        "Developer(s)": "Zatun",
+        "Publisher(s)": "Sep 14, 2023",
+        "Release date": "Sep 14, 2023",
+        "Features": "Sep 14, 2023",
+        "Ref.": "",
+        "undefined": "[106]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Q-Games",
+        "Developer(s)": "Q-Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[107]"
+      },
+      {
+        "Title": "Arcade",
+        "Genre(s)": "Strange Games Studios",
+        "Developer(s)": "Strange Games Studios",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jun 15, 2024",
+        "Features": "Jun 15, 2024",
+        "Ref.": "",
+        "undefined": "[108]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Garage51",
+        "Developer(s)": "Garage51",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[109]"
+      },
+      {
+        "Title": "ActionFighting",
+        "Genre(s)": "The Munky",
+        "Developer(s)": "The Munky",
+        "Publisher(s)": "Nov 17, 2023",
+        "Release date": "Nov 17, 2023",
+        "Features": "Nov 17, 2023",
+        "Ref.": "",
+        "undefined": "[110]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "MyDearestIzanagi Games",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[111]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Take IT Studio!",
+        "Developer(s)": "Take IT Studio!",
+        "Publisher(s)": "Mar 21, 2025",
+        "Release date": "Mar 21, 2025",
+        "Features": "Mar 21, 2025",
+        "Ref.": "",
+        "undefined": "[112]"
+      },
+      {
+        "Title": "SportsSimulation",
+        "Genre(s)": "For Fun Labs",
+        "Developer(s)": "For Fun Labs",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[113]"
+      },
+      {
+        "Title": "StrategyShooter",
+        "Genre(s)": "Core Strand",
+        "Developer(s)": "Core Strand",
+        "Publisher(s)": "Sep 27, 2024",
+        "Release date": "Sep 27, 2024",
+        "Features": "Sep 27, 2024",
+        "Ref.": "",
+        "undefined": "[114]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "B4T Games",
+        "Developer(s)": "B4T Games",
+        "Publisher(s)": "Dec 14, 2023",
+        "Release date": "Dec 14, 2023",
+        "Features": "Dec 14, 2023",
+        "Ref.": "",
+        "undefined": "[115]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Singular Perception",
+        "Developer(s)": "Singular Perception",
+        "Publisher(s)": "Jun 5, 2025",
+        "Release date": "Jun 5, 2025",
+        "Features": "Jun 5, 2025",
+        "Ref.": "",
+        "undefined": "[116]"
+      },
+      {
+        "Title": "Role-playing",
+        "Genre(s)": "Titan1Studios",
+        "Developer(s)": "Titan1Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[117]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "XOCUS",
+        "Developer(s)": "Funtech Publishing",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Mar 6, 2025",
+        "Features": "Mar 6, 2025",
+        "Ref.": "",
+        "undefined": "[118]"
+      },
+      {
+        "Title": "AdventureHorror",
+        "Genre(s)": "Wolf & Wood Interactive",
+        "Developer(s)": "Fun Train",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 28, 2024",
+        "Features": "May 28, 2024",
+        "Ref.": "",
+        "undefined": "[119]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Cosmo Machia",
+        "Developer(s)": "Cosmo Machia",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[120]"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Kluge Interactive",
+        "Developer(s)": "Kluge Interactive",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[121]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "First Contact Entertainment",
+        "Developer(s)": "Sony Interactive Entertainment",
+        "Publisher(s)": "Aug 24, 2023",
+        "Release date": "Aug 24, 2023",
+        "Features": "Aug 24, 2023",
+        "Ref.": "",
+        "undefined": "[122]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Cyan Worlds",
+        "Developer(s)": "Cyan Worlds",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[123]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Scott Cawthon, Steel Wool Studios",
+        "Developer(s)": "Scott Cawthon",
+        "Publisher(s)": "Nov 21, 2023",
+        "Release date": "Nov 21, 2023",
+        "Features": "Nov 21, 2023",
+        "Ref.": "",
+        "undefined": "[124]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Steel Wool Studios",
+        "Developer(s)": "ScottGames",
+        "Publisher(s)": "Dec 14, 2023",
+        "Release date": "Dec 14, 2023",
+        "Features": "Dec 14, 2023",
+        "Ref.": "",
+        "undefined": "[125]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Steel Wool Studios",
+        "Developer(s)": "ScottGames",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[126]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Flat2VR Studios",
+        "Developer(s)": "Strategy First",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[127]"
+      },
+      {
+        "Title": "Rogue-like",
+        "Genre(s)": "Well Told Entertainment",
+        "Developer(s)": "Well Told Entertainment",
+        "Publisher(s)": "Oct 31, 2023",
+        "Release date": "Oct 31, 2023",
+        "Features": "Oct 31, 2023",
+        "Ref.": "",
+        "undefined": "[128]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Nic Schubert",
+        "Developer(s)": "Tonic Games Australia",
+        "Publisher(s)": "Mar 29, 2024",
+        "Release date": "Apr 6, 2024",
+        "Features": "Mar 29, 2024",
+        "Ref.": "",
+        "undefined": "[129]"
+      },
+      {
+        "Title": "SocialSimulationSports",
+        "Genre(s)": "ForeVR Games",
+        "Developer(s)": "ForeVR Games",
+        "Publisher(s)": "Dec 19, 2023",
+        "Release date": "Dec 19, 2023",
+        "Features": "Dec 19, 2023",
+        "Ref.": "",
+        "undefined": "[130]"
+      },
+      {
+        "Title": "SocialSimulationSports",
+        "Genre(s)": "ForeVR Games",
+        "Developer(s)": "ForeVR Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jun 21, 2024",
+        "Features": "Jun 21, 2024",
+        "Ref.": "",
+        "undefined": "[130]"
+      },
+      {
+        "Title": "SocialSimulationSports",
+        "Genre(s)": "ForeVR Games",
+        "Developer(s)": "ForeVR Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[130]"
+      },
+      {
+        "Title": "SocialSimulationSports",
+        "Genre(s)": "ForeVR Games",
+        "Developer(s)": "ForeVR Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Nov 30, 2023",
+        "Features": "Dec 4, 2023",
+        "Ref.": "",
+        "undefined": "[131]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "VRMonkey",
+        "Developer(s)": "VRMonkey",
+        "Publisher(s)": "Mar 24, 2023",
+        "Release date": "Mar 24, 2023",
+        "Features": "Mar 24, 2023",
+        "Ref.": "",
+        "undefined": "[132]"
+      },
+      {
+        "Title": "AdventureCasualSimulation",
+        "Genre(s)": "Neat Corporation",
+        "Developer(s)": "Neat Corporation",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Banzai Studios",
+        "Developer(s)": "Odders Lab",
+        "Publisher(s)": "Oct 4, 2023",
+        "Release date": "Oct 4, 2023",
+        "Features": "Oct 4, 2023",
+        "Ref.": "",
+        "undefined": "[134]"
+      },
+      {
+        "Title": "Action-adventureShooter",
+        "Genre(s)": "Bolverk VR Games",
+        "Developer(s)": "Bolverk VR Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Mar 22, 2024",
+        "Features": "Mar 23, 2024",
+        "Ref.": "",
+        "undefined": "[48]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Creative VR 3D",
+        "Developer(s)": "Creative VR 3D",
+        "Publisher(s)": "May 30, 2025",
+        "Release date": "May 30, 2025",
+        "Features": "May 30, 2025",
+        "Ref.": "",
+        "undefined": "[135]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Fast Travel Games",
+        "Developer(s)": "Fast Travel Games",
+        "Publisher(s)": "Oct 5, 2023",
+        "Release date": "Oct 5, 2023",
+        "Features": "Oct 5, 2023",
+        "Ref.": "GD",
+        "undefined": "[136]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Fireproof Studios",
+        "Developer(s)": "Fireproof Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[137]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "NDreams",
+        "Developer(s)": "Sony Pictures Virtual Reality",
+        "Publisher(s)": "Oct 26, 2023",
+        "Release date": "Oct 26, 2023",
+        "Features": "Oct 26, 2023",
+        "Ref.": "CP",
+        "undefined": "[138]"
+      },
+      {
+        "Title": "First-person ShooterSimulation",
+        "Genre(s)": "Combat Waffle Studios",
+        "Developer(s)": "Perp GamesBeyond Frames",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 7, 2025",
+        "Features": "May 7, 2025",
+        "Ref.": "",
+        "undefined": "[139]"
+      },
+      {
+        "Title": "FightingStrategy",
+        "Genre(s)": "Polyarc",
+        "Developer(s)": "Polyarc",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[140]"
+      },
+      {
+        "Title": "SportsSimulation",
+        "Genre(s)": "Golf Scope",
+        "Developer(s)": "Golf Scope",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[141]"
+      },
+      {
+        "Title": "Action-adventureArcade",
+        "Genre(s)": "Take IT Studio!",
+        "Developer(s)": "Take IT Studio!",
+        "Publisher(s)": "Jan 23, 2025",
+        "Release date": "Jan 23, 2025",
+        "Features": "Jan 23, 2025",
+        "Ref.": "",
+        "undefined": "[142]"
+      },
+      {
+        "Title": "CasualSocial",
+        "Genre(s)": "Another Axiom",
+        "Developer(s)": "Another Axiom",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Nov 8, 2024",
+        "Features": "Unreleased",
+        "Ref.": "",
+        "undefined": "[143]"
+      },
+      {
+        "Title": "ActionFighting",
+        "Genre(s)": "Free Lives",
+        "Developer(s)": "Devolver Digital",
+        "Publisher(s)": "Mar 30, 2023",
+        "Release date": "Mar 30, 2023",
+        "Features": "Mar 30, 2023",
+        "Ref.": "CB",
+        "undefined": "[144]"
+      },
+      {
+        "Title": "ActionFighting",
+        "Genre(s)": "Free LivesCortopia Studios",
+        "Developer(s)": "Devolver Digital",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[145]"
+      },
+      {
+        "Title": "Racing simulation",
+        "Genre(s)": "Polyphony Digital",
+        "Developer(s)": "Sony Interactive Entertainment",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[146]"
+      },
+      {
+        "Title": "CasualRacing",
+        "Genre(s)": "404 Games",
+        "Developer(s)": "404 Games",
+        "Publisher(s)": "Sep 27, 2024",
+        "Release date": "Sep 27, 2024",
+        "Features": "Sep 27, 2024",
+        "Ref.": "",
+        "undefined": "[147]"
+      },
+      {
+        "Title": "Action-adventureSurvival",
+        "Genre(s)": "Incuvo",
+        "Developer(s)": "Incuvo",
+        "Publisher(s)": "Aug 15, 2023",
+        "Release date": "Aug 15, 2023",
+        "Features": "Aug 15, 2023",
+        "Ref.": "",
+        "undefined": "[148]"
+      },
+      {
+        "Title": "Action-adventureSurvival",
+        "Genre(s)": "Spoonfed InteractiveCombat Waffle Studios",
+        "Developer(s)": "Combat Waffle Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[149]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "The Binary Mill",
+        "Developer(s)": "The Binary Mill",
+        "Publisher(s)": "Dec 18, 2023",
+        "Release date": "Dec 18, 2023",
+        "Features": "Dec 18, 2023",
+        "Ref.": "",
+        "undefined": "[150]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Spectral Illusions",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Mar 22, 2024",
+        "Release date": "Mar 22, 2024",
+        "Features": "Mar 22, 2024",
+        "Ref.": "",
+        "undefined": "[151]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Something Random",
+        "Developer(s)": "Something Random",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Apr 10, 2025",
+        "Features": "Apr 10, 2025",
+        "Ref.": "",
+        "undefined": "[152]"
+      },
+      {
+        "Title": "AdventurePuzzleHorror",
+        "Genre(s)": "Steel Wool Games",
+        "Developer(s)": "TinyBuild",
+        "Publisher(s)": "May 25, 2023",
+        "Release date": "May 25, 2023",
+        "Features": "May 25, 2023",
+        "Ref.": "",
+        "undefined": "[153]"
+      },
+      {
+        "Title": "ActionRogue-like",
+        "Genre(s)": "Vertigo Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Sep 21, 2023",
+        "Release date": "Sep 21, 2023",
+        "Features": "Sep 21, 2023",
+        "Ref.": "CP",
+        "undefined": "[154][155]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Lucky Mountain Games",
+        "Developer(s)": "Lucky Mountain Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[156]"
+      },
+      {
+        "Title": "PuzzleSimulation",
+        "Genre(s)": "Realcast",
+        "Developer(s)": "HyperVR Games",
+        "Publisher(s)": "TBA",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[157]"
+      },
+      {
+        "Title": "Stealth",
+        "Genre(s)": "IO Interactive",
+        "Developer(s)": "IO Interactive",
+        "Publisher(s)": "Mar 27, 2025",
+        "Release date": "Mar 27, 2025",
+        "Features": "Mar 27, 2025",
+        "Ref.": "",
+        "undefined": "[158]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "FirespriteGuerrilla Games",
+        "Developer(s)": "Sony Interactive Entertainment",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[159]"
+      },
+      {
+        "Title": "ActionHorror",
+        "Genre(s)": "Yash Future Tech Solutions",
+        "Developer(s)": "Yash Future Tech Solutions",
+        "Publisher(s)": "Aug 14, 2024",
+        "Release date": "Aug 14, 2024",
+        "Features": "Aug 14, 2024",
+        "Ref.": "GD",
+        "undefined": "[160]"
+      },
+      {
+        "Title": "ActionSimulation",
+        "Genre(s)": "Wolf & Wood Interactive",
+        "Developer(s)": "Wolf & Wood Interactive",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 20, 2023",
+        "Features": "Dec 20, 2023",
+        "Ref.": "CB",
+        "undefined": "[161]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Frozen Way",
+        "Developer(s)": "Frozen Way",
+        "Publisher(s)": "Oct 22, 2024",
+        "Release date": "Oct 21, 2024",
+        "Features": "Oct 21, 2024",
+        "Ref.": "",
+        "undefined": "[162]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Blue Brain Games",
+        "Developer(s)": "Blue Brain Games",
+        "Publisher(s)": "May 1, 2025",
+        "Release date": "May 1, 2025",
+        "Features": "May 1, 2025",
+        "Ref.": "",
+        "undefined": "[163]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Cyborn B.V.",
+        "Developer(s)": "Cyborn B.V.",
+        "Publisher(s)": "Jun 22, 2023",
+        "Release date": "Jun 22, 2023",
+        "Features": "Jun 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[164]"
+      },
+      {
+        "Title": "Puzzle-platform",
+        "Genre(s)": "No Brakes Games",
+        "Developer(s)": "Curve Games",
+        "Publisher(s)": "Dec 5, 2024",
+        "Release date": "Dec 5, 2024",
+        "Features": "Dec 5, 2024",
+        "Ref.": "",
+        "undefined": "[165]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "tha ltd.",
+        "Developer(s)": "Enhance Games",
+        "Publisher(s)": "May 16, 2023",
+        "Release date": "May 16, 2023",
+        "Features": "May 16, 2023",
+        "Ref.": "GD",
+        "undefined": "[166]"
+      },
+      {
+        "Title": "Bullet hell",
+        "Genre(s)": "Squirrel Bytes",
+        "Developer(s)": "Squirrel Bytes",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[167]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "NEW FOLDER GAMES",
+        "Developer(s)": "NEW FOLDER GAMES",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[168]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "NEW FOLDER GAMES",
+        "Developer(s)": "NEW FOLDER GAMES",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[169]"
+      },
+      {
+        "Title": "Arcade shooter",
+        "Genre(s)": "Llamasoft",
+        "Developer(s)": "Atari",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[170]"
+      },
+      {
+        "Title": "SimulationRhythm",
+        "Genre(s)": "Yeda Entertainment",
+        "Developer(s)": "CFK",
+        "Publisher(s)": "Nov 21, 2024",
+        "Release date": "Nov 21, 2024",
+        "Features": "Nov 21, 2024",
+        "Ref.": "",
+        "undefined": "[171]"
+      },
+      {
+        "Title": "Massively multiplayer online role-playing game",
+        "Genre(s)": "Team 21 Studio",
+        "Developer(s)": "Team 21 Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[172]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Maze Theory",
+        "Developer(s)": "Maze Theory",
+        "Publisher(s)": "Jul 12, 2024",
+        "Release date": "Jul 12, 2024",
+        "Features": "Jul 12, 2024",
+        "Ref.": "",
+        "undefined": "[173]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "The Binary Mill",
+        "Developer(s)": "The Binary Mill",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[174]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Gameboom VR",
+        "Developer(s)": "Gameboom VR",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[175]"
+      },
+      {
+        "Title": "ShooterSurvival",
+        "Genre(s)": "CM Games",
+        "Developer(s)": "Fast Travel Games",
+        "Publisher(s)": "Sep 19, 2024",
+        "Release date": "Sep 19, 2024",
+        "Features": "Sep 19, 2024",
+        "Ref.": "",
+        "undefined": "[176]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "MassVR",
+        "Developer(s)": "MassVR",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[177]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Xlab Digital",
+        "Developer(s)": "Xlab Digital",
+        "Publisher(s)": "May 15, 2025",
+        "Release date": "May 15, 2025",
+        "Features": "May 15, 2025",
+        "Ref.": "",
+        "undefined": "[178]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Black Beach Studio",
+        "Developer(s)": "Black Beach Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[179]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Flight School Studio",
+        "Developer(s)": "Flight School Studio",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 8, 2024",
+        "Features": "Unreleased",
+        "Ref.": "",
+        "undefined": "[180]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Owlchemy Labs",
+        "Developer(s)": "Owlchemy Labs",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Archiact Interactive",
+        "Developer(s)": "Archiact Interactive",
+        "Publisher(s)": "Oct 26, 2023",
+        "Release date": "Oct 26, 2023",
+        "Features": "Oct 26, 2023",
+        "Ref.": "",
+        "undefined": "[181]"
+      },
+      {
+        "Title": "Stealth",
+        "Genre(s)": "Coatsink Software",
+        "Developer(s)": "Coatsink Software",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[182]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Realcast",
+        "Developer(s)": "Realcast",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[183]"
+      },
+      {
+        "Title": "Educational",
+        "Genre(s)": "Knowledge Dimension",
+        "Developer(s)": "Knowledge Dimension",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jun 27, 2024",
+        "Features": "Jun 27, 2024",
+        "Ref.": "",
+        "undefined": "[184]"
+      },
+      {
+        "Title": "CasualSimulationSports",
+        "Genre(s)": "Better Than Life",
+        "Developer(s)": "Better Than Life",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[185]"
+      },
+      {
+        "Title": "Action-adventureSimulation",
+        "Genre(s)": "Casey Donnellan Games",
+        "Developer(s)": "Casey Donnellan Games",
+        "Publisher(s)": "Nov 7, 2023",
+        "Release date": "Nov 7, 2023",
+        "Features": "Nov 7, 2023",
+        "Ref.": "",
+        "undefined": "[186]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Gemdrops",
+        "Developer(s)": "Kizuna AI Inc.",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[187]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Apricot Heart",
+        "Developer(s)": "Apricot Heart",
+        "Publisher(s)": "Nov 16, 2023",
+        "Release date": "Nov 15, 2023",
+        "Features": "Nov 16, 2023",
+        "Ref.": "",
+        "undefined": "[188]"
+      },
+      {
+        "Title": "ArcadeBullet hell",
+        "Genre(s)": "Kraken Empire",
+        "Developer(s)": "Entalto Publishing",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[189]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Pontoco",
+        "Developer(s)": "Cyan Ventures",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[190]"
+      },
+      {
+        "Title": "PuzzleAdventure",
+        "Genre(s)": "Amata K.K.",
+        "Developer(s)": "Amata K.K.",
+        "Publisher(s)": "Mar 22, 2023",
+        "Release date": "Mar 22, 2023",
+        "Features": "Mar 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[191]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "OiffyWolf & Wood Interactive Limited",
+        "Developer(s)": "Wired Productions",
+        "Publisher(s)": "Mar 30, 2023",
+        "Release date": "Mar 30, 2023",
+        "Features": "Mar 30, 2023",
+        "Ref.": "",
+        "undefined": "[192]"
+      },
+      {
+        "Title": "ActionRole-playing",
+        "Genre(s)": "Urban Wolf Games",
+        "Developer(s)": "Urban Wolf Games",
+        "Publisher(s)": "Feb 8, 2024",
+        "Release date": "Feb 8, 2024",
+        "Features": "Feb 8, 2024",
+        "Ref.": "CP",
+        "undefined": "[193]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Odders Lab",
+        "Developer(s)": "Odders Lab",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[194]"
+      },
+      {
+        "Title": "ShooterRole-playing",
+        "Genre(s)": "Funktronic Labs",
+        "Developer(s)": "Funktronic Labs",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[194]"
+      },
+      {
+        "Title": "City-building",
+        "Genre(s)": "Purple Yonder",
+        "Developer(s)": "NDreams",
+        "Publisher(s)": "Mar 12, 2024",
+        "Release date": "Mar 12, 2024",
+        "Features": "Mar 12, 2024",
+        "Ref.": "",
+        "undefined": "[195]"
+      },
+      {
+        "Title": "AdventureRole-playing",
+        "Genre(s)": "IRIS VR",
+        "Developer(s)": "IRIS VR",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[196][197]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "Bloodious Games",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 2, 2024",
+        "Features": "May 2, 2024",
+        "Ref.": "",
+        "undefined": "[198]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Double Jack",
+        "Developer(s)": "Double Jack",
+        "Publisher(s)": "Jun 20, 2025",
+        "Release date": "Jun 20, 2025",
+        "Features": "Jun 20, 2025",
+        "Ref.": "",
+        "undefined": "[199]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Lonekite Games",
+        "Developer(s)": "Lonekite Games",
+        "Publisher(s)": "Nov 18, 2024",
+        "Release date": "Nov 18, 2024",
+        "Features": "Nov 18, 2024",
+        "Ref.": "",
+        "undefined": "[200]"
+      },
+      {
+        "Title": "Arcade",
+        "Genre(s)": "Pixel Magnet",
+        "Developer(s)": "Pixel Magnet",
+        "Publisher(s)": "Jun 21, 2023",
+        "Release date": "Jun 21, 2023",
+        "Features": "Jun 21, 2023",
+        "Ref.": "GD",
+        "undefined": "[201]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "COVEN",
+        "Developer(s)": "COVEN",
+        "Publisher(s)": "Dec 18, 2024",
+        "Release date": "Dec 18, 2024",
+        "Features": "Dec 18, 2024",
+        "Ref.": "",
+        "undefined": "[202]"
+      },
+      {
+        "Title": "Educational",
+        "Genre(s)": "Skill Prepare",
+        "Developer(s)": "Skill Prepare",
+        "Publisher(s)": "Jun 30, 2023",
+        "Release date": "Jun 29, 2023",
+        "Features": "Jun 30, 2023",
+        "Ref.": "",
+        "undefined": "[203]"
+      },
+      {
+        "Title": "Platformer",
+        "Genre(s)": "Toast Interactive",
+        "Developer(s)": "Toast Interactive",
+        "Publisher(s)": "Oct 3, 2024",
+        "Release date": "Oct 3, 2024",
+        "Features": "Oct 3, 2024",
+        "Ref.": "",
+        "undefined": "[48]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "Shanghai Chenni Network Technology",
+        "Developer(s)": "Kingnet Technology",
+        "Publisher(s)": "May 9, 2024",
+        "Release date": "Mar 7, 2024",
+        "Features": "May 9, 2024",
+        "Ref.": "CP",
+        "undefined": "[204]"
+      },
+      {
+        "Title": "AdventureRole-playing",
+        "Genre(s)": "Render Cube",
+        "Developer(s)": "Toplitz Productions",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[205]"
+      },
+      {
+        "Title": "RhythmShooter",
+        "Genre(s)": "Lab42",
+        "Developer(s)": "Funcom",
+        "Publisher(s)": "Oct 3, 2024",
+        "Release date": "Oct 3, 2024",
+        "Features": "Oct 3, 2024",
+        "Ref.": "",
+        "undefined": "[206]"
+      },
+      {
+        "Title": "ActionRacing",
+        "Genre(s)": "Big Boot Games",
+        "Developer(s)": "Big Boot Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[207]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Vertigo Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Nov 7, 2024",
+        "Release date": "Nov 7, 2024",
+        "Features": "Nov 7, 2024",
+        "Ref.": "",
+        "undefined": "[208]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "MoonHood",
+        "Developer(s)": "Fast Travel Games",
+        "Publisher(s)": "May 8, 2025",
+        "Release date": "May 8, 2025",
+        "Features": "May 8, 2025",
+        "Ref.": "",
+        "undefined": "[209]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Played With Fire",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Apr 12, 2024",
+        "Release date": "Apr 12, 2024",
+        "Features": "Apr 12, 2024",
+        "Ref.": "",
+        "undefined": "[210]"
+      },
+      {
+        "Title": "CasualPhotography",
+        "Genre(s)": "Moo Duck Games",
+        "Developer(s)": "Moo Duck Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[211]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Polyarc",
+        "Developer(s)": "Polyarc",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Polyarc",
+        "Developer(s)": "Polyarc",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "cKolmos narrative.",
+        "Developer(s)": "cKolmos narrative.",
+        "Publisher(s)": "May 10, 2024",
+        "Release date": "May 10, 2024",
+        "Features": "May 10, 2024",
+        "Ref.": "",
+        "undefined": "[212]"
+      },
+      {
+        "Title": "SportsFighting",
+        "Genre(s)": "Filmic Studios",
+        "Developer(s)": "Filmic Studios",
+        "Publisher(s)": "Feb 19, 2025",
+        "Release date": "Feb 19, 2025",
+        "Features": "Feb 19, 2025",
+        "Ref.": "",
+        "undefined": "[130]"
+      },
+      {
+        "Title": "Racing simulation",
+        "Genre(s)": "Polyphony Digital",
+        "Developer(s)": "Sony Interactive Entertainment",
+        "Publisher(s)": "Dec 6, 2024",
+        "Release date": "Dec 6, 2024",
+        "Features": "Dec 6, 2024",
+        "Ref.": "",
+        "undefined": "[213]"
+      },
+      {
+        "Title": "Social deduction",
+        "Genre(s)": "Strange Games Studios",
+        "Developer(s)": "Strange Games Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[214]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "StatusPro",
+        "Developer(s)": "StatusPro",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "StatusPro",
+        "Developer(s)": "StatusPro",
+        "Publisher(s)": "Oct 31, 2023",
+        "Release date": "Oct 31, 2023",
+        "Features": "Oct 31, 2023",
+        "Ref.": "",
+        "undefined": "[215]"
+      },
+      {
+        "Title": "Action-adventureSurvival",
+        "Genre(s)": "Hello Games",
+        "Developer(s)": "Hello Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CBCP",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Platformer",
+        "Genre(s)": "Squido Studio",
+        "Developer(s)": "Squido Studio",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jan 16, 2025",
+        "Features": "Jan 16, 2025",
+        "Ref.": "",
+        "undefined": "[216]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Normal VR",
+        "Developer(s)": "Normal VR",
+        "Publisher(s)": "May 25, 2023",
+        "Release date": "May 25, 2023",
+        "Features": "May 25, 2023",
+        "Ref.": "CP",
+        "undefined": "[217]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "NotGamesBabaroga",
+        "Developer(s)": "TinyBuild",
+        "Publisher(s)": "Dec 14, 2023",
+        "Release date": "Dec 14, 2023",
+        "Features": "Dec 14, 2023",
+        "Ref.": "",
+        "undefined": "[218]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Pablo Heckman",
+        "Developer(s)": "ASI Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Castello",
+        "Developer(s)": "Castello",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[219]"
+      },
+      {
+        "Title": "SportsRhythm",
+        "Genre(s)": "Odders Lab",
+        "Developer(s)": "Odders Lab",
+        "Publisher(s)": "Apr 25, 2024",
+        "Release date": "Apr 25, 2024",
+        "Features": "Apr 25, 2024",
+        "Ref.": "",
+        "undefined": "[220]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "My World srls",
+        "Developer(s)": "My World srls",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Nov 22, 2024",
+        "Features": "Nov 22, 2024",
+        "Ref.": "",
+        "undefined": "[221]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Ginra Tech",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Feb 23, 2024",
+        "Release date": "Feb 23, 2024",
+        "Features": "Feb 23, 2024",
+        "Ref.": "",
+        "undefined": "[222]"
+      },
+      {
+        "Title": "Rail shooter",
+        "Genre(s)": "Virtuallyz Gaming",
+        "Developer(s)": "Microids",
+        "Publisher(s)": "Jul 13, 2023",
+        "Release date": "Jul 13, 2023",
+        "Features": "Jul 13, 2023",
+        "Ref.": "",
+        "undefined": "[223]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "Outer Brain Studios",
+        "Developer(s)": "Amata K.K.",
+        "Publisher(s)": "May 8, 2023",
+        "Release date": "May 8, 2023",
+        "Features": "May 8, 2023",
+        "Ref.": "",
+        "undefined": "[224]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Flat2VR Studios",
+        "Developer(s)": "Starbreeze Publishing",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[225]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "NoxNoctis",
+        "Developer(s)": "Unreality",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Mar 29, 2024",
+        "Features": "Mar 29, 2024",
+        "Ref.": "",
+        "undefined": "[226]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "South East Games",
+        "Developer(s)": "South East Games",
+        "Publisher(s)": "Mar 14, 2024",
+        "Release date": "Mar 14, 2024",
+        "Features": "Mar 14, 2024",
+        "Ref.": "",
+        "undefined": "[227]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Pixel Reef",
+        "Developer(s)": "Pixel Reef",
+        "Publisher(s)": "Sep 27, 2023",
+        "Release date": "Sep 27, 2023",
+        "Features": "Sep 27, 2023",
+        "Ref.": "GD",
+        "undefined": "[228]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Vankrupt Games",
+        "Developer(s)": "Vankrupt Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CP",
+        "undefined": "[229]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Maze Theory",
+        "Developer(s)": "Maze Theory",
+        "Publisher(s)": "Nov 2, 2023",
+        "Release date": "Nov 2, 2023",
+        "Features": "Nov 2, 2023",
+        "Ref.": "",
+        "undefined": "[230]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "HyperVR Games",
+        "Developer(s)": "HyperVR Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 12, 2024",
+        "Features": "Dec 12, 2024",
+        "Ref.": "",
+        "undefined": "[231]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Kinetic Games",
+        "Developer(s)": "Kinetic Games",
+        "Publisher(s)": "Oct 29, 2024",
+        "Release date": "Oct 29, 2024",
+        "Features": "Oct 29, 2024",
+        "Ref.": "CP",
+        "undefined": "[232]"
+      },
+      {
+        "Title": "SportsSimulation",
+        "Genre(s)": "Viniot Studios",
+        "Developer(s)": "Viniot Studios",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jan 13, 2025",
+        "Features": "Jan 13, 2025",
+        "Ref.": "",
+        "undefined": "[233]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Split Light Studio",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "May 15, 2025",
+        "Release date": "May 15, 2025",
+        "Features": "May 15, 2025",
+        "Ref.": "",
+        "undefined": "[234]"
+      },
+      {
+        "Title": "First-person shooterRhythm",
+        "Genre(s)": "Cloudhead Games",
+        "Developer(s)": "Cloudhead Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Action-adventureArcade",
+        "Genre(s)": "ARVORE Immersive Experiences",
+        "Developer(s)": "Atari",
+        "Publisher(s)": "Jun 15, 2023",
+        "Release date": "Jun 15, 2023",
+        "Features": "Jun 15, 2023",
+        "Ref.": "",
+        "undefined": "[235]"
+      },
+      {
+        "Title": "Action-adventureArcade",
+        "Genre(s)": "ARVORE Immersive Experiences",
+        "Developer(s)": "ARVORE Immersive Experiences",
+        "Publisher(s)": "Oct 3, 2023",
+        "Release date": "Oct 3, 2023",
+        "Features": "Oct 3, 2023",
+        "Ref.": "CB",
+        "undefined": "[236]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Blacer StudioROOM505",
+        "Developer(s)": "Source Byte",
+        "Publisher(s)": "Oct 31, 2024",
+        "Release date": "Oct 31, 2024",
+        "Features": "Oct 31, 2024",
+        "Ref.": "",
+        "undefined": "[237]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Deadbolt Interactive",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[238]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Tensori",
+        "Developer(s)": "Tensori",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[239]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Team BeefFlat2VR StudiosRunning with Scissors",
+        "Developer(s)": "Impact Reality",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[225]"
+      },
+      {
+        "Title": "FitnessRhythm",
+        "Genre(s)": "Five Mind Creations",
+        "Developer(s)": "Five Mind Creations",
+        "Publisher(s)": "Dec 16, 2024",
+        "Release date": "Dec 16, 2024",
+        "Features": "Dec 16, 2024",
+        "Ref.": "",
+        "undefined": "[240]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Trebuchet Studio",
+        "Developer(s)": "Trebuchet Studio",
+        "Publisher(s)": "Dec 6, 2023",
+        "Release date": "Dec 6, 2023",
+        "Features": "Dec 6, 2023",
+        "Ref.": "GD",
+        "undefined": "[241]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Trebuchet Studio",
+        "Developer(s)": "Trebuchet Studio",
+        "Publisher(s)": "Q2 2025",
+        "Release date": "Q2 2025",
+        "Features": "Q2 2025",
+        "Ref.": "",
+        "undefined": "[242]"
+      },
+      {
+        "Title": "HorrorAdventure",
+        "Genre(s)": "Build the Light Studio",
+        "Developer(s)": "Build the Light Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[243]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Sector D2",
+        "Developer(s)": "Sector D2",
+        "Publisher(s)": "Oct 3, 2023",
+        "Release date": "Oct 3, 2023",
+        "Features": "Oct 3, 2023",
+        "Ref.": "",
+        "undefined": "[244][245]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "WanadevStudio",
+        "Developer(s)": "WanadevStudio",
+        "Publisher(s)": "Oct 12, 2023",
+        "Release date": "Oct 12, 2023",
+        "Features": "Oct 12, 2023",
+        "Ref.": "",
+        "undefined": "[246][247]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "realities.io",
+        "Developer(s)": "realities.io",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CBGD",
+        "undefined": "[248]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Pixel Edge Games",
+        "Developer(s)": "Cmoar StudioPixel Edge Games",
+        "Publisher(s)": "Oct 19, 2023",
+        "Release date": "Oct 19, 2023",
+        "Features": "Oct 19, 2023",
+        "Ref.": "",
+        "undefined": "[249]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "WanadevStudio",
+        "Developer(s)": "WanadevStudio",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[250]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Tunermaxx Media",
+        "Developer(s)": "Tunermaxx Media",
+        "Publisher(s)": "Mar 1, 2024",
+        "Release date": "Mar 1, 2024",
+        "Features": "Mar 1, 2024",
+        "Ref.": "",
+        "undefined": "[251]"
+      },
+      {
+        "Title": "Educational",
+        "Genre(s)": "Skill Prepare",
+        "Developer(s)": "Skill Prepare",
+        "Publisher(s)": "Apr 10, 2024",
+        "Release date": "Apr 9, 2024",
+        "Features": "Apr 9, 2024",
+        "Ref.": "",
+        "undefined": "[252]"
+      },
+      {
+        "Title": "CasualArcade",
+        "Genre(s)": "Beren Studio",
+        "Developer(s)": "Beren Studio",
+        "Publisher(s)": "Nov 29, 2024",
+        "Release date": "Nov 29, 2024",
+        "Features": "Nov 29, 2024",
+        "Ref.": "",
+        "undefined": "[253]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Vertical Robot",
+        "Developer(s)": "Vertical Robot",
+        "Publisher(s)": "Oct 5, 2023",
+        "Release date": "Oct 5, 2023",
+        "Features": "Oct 5, 2023",
+        "Ref.": "CB",
+        "undefined": "[254]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Vertical Robot",
+        "Developer(s)": "Vertical Robot",
+        "Publisher(s)": "May 18, 2023",
+        "Release date": "May 18, 2023",
+        "Features": "May 18, 2023",
+        "Ref.": "",
+        "undefined": "[255]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "Capcom",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "Dec 8, 2023",
+        "Release date": "Dec 8, 2023",
+        "Features": "Dec 8, 2023",
+        "Ref.": "GD",
+        "undefined": "[256]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "Capcom",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "The Binary Mill",
+        "Developer(s)": "The Binary Mill",
+        "Publisher(s)": "Apr 10, 2025",
+        "Release date": "Apr 10, 2025",
+        "Features": "Apr 10, 2025",
+        "Ref.": "",
+        "undefined": "[257]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Peanut Button",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Jun 14, 2024",
+        "Release date": "Jun 14, 2024",
+        "Features": "Jun 14, 2024",
+        "Ref.": "",
+        "undefined": "[258]"
+      },
+      {
+        "Title": "Rail ShooterRhythm",
+        "Genre(s)": "MonstarsResonair",
+        "Developer(s)": "Enhance Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[259]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Rezzil",
+        "Developer(s)": "Rezzil",
+        "Publisher(s)": "Nov 17, 2023",
+        "Release date": "Nov 17, 2023",
+        "Features": "Nov 17, 2023",
+        "Ref.": "",
+        "undefined": "[260]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Aoga Games",
+        "Developer(s)": "GAMEPOCH",
+        "Publisher(s)": "May 19, 2023",
+        "Release date": "May 19, 2023",
+        "Features": "May 19, 2023",
+        "Ref.": "",
+        "undefined": "[261]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Toast Interactive",
+        "Developer(s)": "Toast Interactive",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[262]"
+      },
+      {
+        "Title": "ActionRogue-lite",
+        "Genre(s)": "Flat2VR StudiosRyseUp Studios",
+        "Developer(s)": "Starbreeze Publishing",
+        "Publisher(s)": "Q4 2025",
+        "Release date": "Q4 2025",
+        "Features": "Q4 2025",
+        "Ref.": "",
+        "undefined": "[263]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Fireproof Studios",
+        "Developer(s)": "Fireproof Studios",
+        "Publisher(s)": "Jul 27, 2023",
+        "Release date": "Jul 27, 2023",
+        "Features": "Jul 27, 2023",
+        "Ref.": "CB",
+        "undefined": "[264]"
+      },
+      {
+        "Title": "ActionRole-playing",
+        "Genre(s)": "CharacterBank",
+        "Developer(s)": "CharacterBank",
+        "Publisher(s)": "Sep 19, 2023",
+        "Release date": "Sep 19, 2023",
+        "Features": "Sep 19, 2023",
+        "Ref.": "",
+        "undefined": "[265]"
+      },
+      {
+        "Title": "ArcadeShooterRacing",
+        "Genre(s)": "Truant Pixel",
+        "Developer(s)": "Truant Pixel",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[266]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Tab Games",
+        "Developer(s)": "Tab Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[267]"
+      },
+      {
+        "Title": "PuzzleAdventure",
+        "Genre(s)": "Jestercraft",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Mar 17, 2023",
+        "Release date": "Mar 17, 2023",
+        "Features": "Mar 17, 2023",
+        "Ref.": "",
+        "undefined": "[268]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "ZojoiAzure Drop Studios",
+        "Developer(s)": "Flat2VR Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "AdventureHorror",
+        "Genre(s)": "Raccoon Game Studio",
+        "Developer(s)": "Raccoon Game Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[269]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "HyperVR Games",
+        "Developer(s)": "HyperVR Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 12, 2024",
+        "Features": "May 12, 2024",
+        "Ref.": "",
+        "undefined": "[270]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "Nic Schubert",
+        "Developer(s)": "Tonic Games Australia",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "GD",
+        "undefined": "[271]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "VRMonkey",
+        "Developer(s)": "VRMonkey",
+        "Publisher(s)": "Jul 10, 2024",
+        "Release date": "Jul 10, 2024",
+        "Features": "Jul 10, 2024",
+        "Ref.": "",
+        "undefined": "[272]"
+      },
+      {
+        "Title": "ActionSports",
+        "Genre(s)": "Curious Games",
+        "Developer(s)": "Curious Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[273]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "Blue Isle Studios",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[274]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "PotamWorks",
+        "Developer(s)": "PotamWorks",
+        "Publisher(s)": "May 15, 2025",
+        "Release date": "May 15, 2025",
+        "Features": "May 15, 2025",
+        "Ref.": "",
+        "undefined": "[275]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Tunermaxx Media",
+        "Developer(s)": "Tunermaxx Media",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Sep 12, 2024",
+        "Features": "Sep 12, 2024",
+        "Ref.": "",
+        "undefined": "[276]"
+      },
+      {
+        "Title": "Action-adventureSurvival",
+        "Genre(s)": "17-Bit",
+        "Developer(s)": "17-Bit",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CBGD",
+        "undefined": "[277]"
+      },
+      {
+        "Title": "ActionTactical shooter",
+        "Genre(s)": "Thirdverse",
+        "Developer(s)": "Thirdverse",
+        "Publisher(s)": "Apr 18, 2024",
+        "Release date": "Apr 18, 2024",
+        "Features": "Apr 18, 2024",
+        "Ref.": "",
+        "undefined": "[278]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Cat Commandos",
+        "Developer(s)": "Cat Commandos",
+        "Publisher(s)": "Feb 1, 2024",
+        "Release date": "Feb 9, 2024",
+        "Features": "Feb 9, 2024",
+        "Ref.": "",
+        "undefined": "[279]"
+      },
+      {
+        "Title": "CasualRacing",
+        "Genre(s)": "Odania",
+        "Developer(s)": "Odania",
+        "Publisher(s)": "Jul 2025",
+        "Release date": "Jul 2025",
+        "Features": "Jul 2025",
+        "Ref.": "",
+        "undefined": "[280]"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Initory Studios",
+        "Developer(s)": "Initory Studios",
+        "Publisher(s)": "Jan 13, 2025",
+        "Release date": "Jan 13, 2025",
+        "Features": "Jan 13, 2025",
+        "Ref.": "",
+        "undefined": "[281]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Super Spin Digital",
+        "Developer(s)": "Super Spin Digital",
+        "Publisher(s)": "Jul 9, 2024",
+        "Release date": "Jul 9, 2024",
+        "Features": "Jul 9, 2024",
+        "Ref.": "",
+        "undefined": "[282]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "ILMxLAB",
+        "Developer(s)": "Disney Interactive",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "GD",
+        "undefined": "[283]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "XR Games",
+        "Developer(s)": "Sony Pictures Virtual Reality",
+        "Publisher(s)": "Dec 17, 2024",
+        "Release date": "Dec 17, 2024",
+        "Features": "Dec 17, 2024",
+        "Ref.": "",
+        "undefined": "[284]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Froggy Box Games",
+        "Developer(s)": "Yogscast Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[285]"
+      },
+      {
+        "Title": "AdventurePlatformer",
+        "Genre(s)": "Rekt Games",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Mar 8, 2024",
+        "Release date": "Mar 8, 2024",
+        "Features": "Mar 8, 2024",
+        "Ref.": "CP",
+        "undefined": "[286]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Tender Claws",
+        "Developer(s)": "Tender Claws",
+        "Publisher(s)": "Dec 5, 2024",
+        "Release date": "Dec 5, 2024",
+        "Features": "Dec 5, 2024",
+        "Ref.": "",
+        "undefined": "[287]"
+      },
+      {
+        "Title": "Survival",
+        "Genre(s)": "Crustacean Interactive",
+        "Developer(s)": "Crustacean Interactive",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "Action-adventurePlatformer",
+        "Genre(s)": "Joy Way",
+        "Developer(s)": "Joy Way",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 16, 2024",
+        "Features": "May 16, 2024",
+        "Ref.": "",
+        "undefined": "[288]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "A2D Software",
+        "Developer(s)": "A2D Software",
+        "Publisher(s)": "Dec 20, 2024",
+        "Release date": "Dec 20, 2024",
+        "Features": "Dec 20, 2024",
+        "Ref.": "GD",
+        "undefined": "[289]"
+      },
+      {
+        "Title": "ArcadeShooter",
+        "Genre(s)": "JollyCo",
+        "Developer(s)": "JollyCo",
+        "Publisher(s)": "May 29, 2024",
+        "Release date": "May 29, 2024",
+        "Features": "May 29, 2024",
+        "Ref.": "GD",
+        "undefined": "[290]"
+      },
+      {
+        "Title": "PuzzleAdventure",
+        "Genre(s)": "Chubby Pixel",
+        "Developer(s)": "Chubby Pixel",
+        "Publisher(s)": "Nov 28, 2023",
+        "Release date": "Nov 28, 2023",
+        "Features": "Nov 28, 2023",
+        "Ref.": "",
+        "undefined": "[291]"
+      },
+      {
+        "Title": "PuzzleAdventure",
+        "Genre(s)": "INTENSE",
+        "Developer(s)": "INTENSE",
+        "Publisher(s)": "Aug 1, 2023",
+        "Release date": "Aug 1, 2023",
+        "Features": "Aug 1, 2023",
+        "Ref.": "",
+        "undefined": "[292]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Candymakers",
+        "Developer(s)": "Candymakers",
+        "Publisher(s)": "Jun 16, 2023",
+        "Release date": "Jun 16, 2023",
+        "Features": "Jun 16, 2023",
+        "Ref.": "CBCP",
+        "undefined": "[293]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Wenkly Studio",
+        "Developer(s)": "Wenkly Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[294]"
+      },
+      {
+        "Title": "Survival",
+        "Genre(s)": "Bolverk Games",
+        "Developer(s)": "Flat2VR Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": ""
+      },
+      {
+        "Title": "AdventureSimulation",
+        "Genre(s)": "Cream ProductionsDescent VR Productions",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Feb 15, 2024",
+        "Release date": "Feb 15, 2024",
+        "Features": "Feb 15, 2024",
+        "Ref.": "",
+        "undefined": "[295]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Big Brane Studios",
+        "Developer(s)": "Big Brane Studios",
+        "Publisher(s)": "May 28, 2024",
+        "Release date": "May 28, 2024",
+        "Features": "May 28, 2024",
+        "Ref.": "",
+        "undefined": "[296]"
+      },
+      {
+        "Title": "ActionFighting",
+        "Genre(s)": "Sinn Studio",
+        "Developer(s)": "Sinn Studio",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[297]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "NDreams",
+        "Developer(s)": "NDreams",
+        "Publisher(s)": "Jul 4, 2023",
+        "Release date": "Jul 4, 2023",
+        "Features": "Jul 4, 2023",
+        "Ref.": "",
+        "undefined": "[298]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Kluge Interactive",
+        "Developer(s)": "Kluge Interactive",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CBCP",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Art",
+        "Genre(s)": "Synthesis Universe",
+        "Developer(s)": "Synthesis Universe",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[299]"
+      },
+      {
+        "Title": "ArcadeShooter",
+        "Genre(s)": "Old Formulas",
+        "Developer(s)": "Old Formulas",
+        "Publisher(s)": "Mar 8, 2024",
+        "Release date": "Mar 8, 2024",
+        "Features": "Mar 8, 2024",
+        "Ref.": "",
+        "undefined": "[300]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Amata K.K.",
+        "Developer(s)": "Amata K.K.",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[301]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Carson Kelly Games",
+        "Developer(s)": "Carson Kelly Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[302]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Jungle Games",
+        "Developer(s)": "Fun Train",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Jun 18, 2024",
+        "Features": "Jun 18, 2024",
+        "Ref.": "",
+        "undefined": "[303]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Pixelity Games",
+        "Developer(s)": "Pixelity Games",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[304]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Portals Edge 360",
+        "Developer(s)": "Portals Edge 360",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[305]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Perp Games",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Oct 17, 2023",
+        "Release date": "Oct 17, 2023",
+        "Features": "Oct 17, 2023",
+        "Ref.": "",
+        "undefined": "[306]"
+      },
+      {
+        "Title": "Action-adventurePuzzle",
+        "Genre(s)": "Firepunchd Games",
+        "Developer(s)": "Devolver Digital",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "MonstarsResonairStage Games",
+        "Developer(s)": "Enhance Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CP",
+        "undefined": "[259]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "3R Games",
+        "Developer(s)": "PlayWay",
+        "Publisher(s)": "May 9, 2024",
+        "Release date": "May 9, 2024",
+        "Features": "May 9, 2024",
+        "Ref.": "GD",
+        "undefined": "[307]"
+      },
+      {
+        "Title": "ActionArcade",
+        "Genre(s)": "Look On Media",
+        "Developer(s)": "Look On Media",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Drool",
+        "Developer(s)": "Drool",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[308]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Niorun Studios",
+        "Developer(s)": "Niorun Studios",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[309]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Ikimasho",
+        "Developer(s)": "Big Sugar",
+        "Publisher(s)": "Dec 20, 2023",
+        "Release date": "Dec 20, 2023",
+        "Features": "Dec 20, 2023",
+        "Ref.": "",
+        "undefined": "[310]"
+      },
+      {
+        "Title": "Rogue-Like",
+        "Genre(s)": "Team ChariotJohn Jiang",
+        "Developer(s)": "FlamingExperienceVR",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[311]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Rogue Sun",
+        "Developer(s)": "Wired Productions",
+        "Publisher(s)": "Mar 14, 2024",
+        "Release date": "Mar 14, 2024",
+        "Features": "Mar 14, 2024",
+        "Ref.": "GD",
+        "undefined": "[312]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Globiss Interactive",
+        "Developer(s)": "Globiss Interactive",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[313]"
+      },
+      {
+        "Title": "CasualSportsPlatformer",
+        "Genre(s)": "Agera Games",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Sep 7, 2023",
+        "Release date": "Sep 7, 2023",
+        "Features": "Sep 7, 2023",
+        "Ref.": "",
+        "undefined": "[314]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Jetdogs Studios",
+        "Developer(s)": "VRKiwi",
+        "Publisher(s)": "Dec 15, 2023",
+        "Release date": "Dec 15, 2023",
+        "Features": "Dec 15, 2023",
+        "Ref.": "",
+        "undefined": "[315]"
+      },
+      {
+        "Title": "CasualSimulationStrategy",
+        "Genre(s)": "HandyGames",
+        "Developer(s)": "HandyGames",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[316]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Something Random Games",
+        "Developer(s)": "Something Random Games",
+        "Publisher(s)": "Jan 16, 2024",
+        "Release date": "Jan 16, 2024",
+        "Features": "Jan 16, 2024",
+        "Ref.": "",
+        "undefined": "[317]"
+      },
+      {
+        "Title": "Rail shooter",
+        "Genre(s)": "Rhine Games",
+        "Developer(s)": "Rhine Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Feb 24, 2024",
+        "Features": "Feb 24, 2024",
+        "Ref.": "",
+        "undefined": "[318]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Meta4 Interactive",
+        "Developer(s)": "Meta4 Interactive",
+        "Publisher(s)": "May 9, 2023",
+        "Release date": "May 9, 2023",
+        "Features": "May 9, 2023",
+        "Ref.": "CB",
+        "undefined": "[319]"
+      },
+      {
+        "Title": "AdventurePuzzle",
+        "Genre(s)": "Studio 8ight",
+        "Developer(s)": "Studio 8ight",
+        "Publisher(s)": "May 30, 2023",
+        "Release date": "May 30, 2023",
+        "Features": "May 30, 2023",
+        "Ref.": "GD",
+        "undefined": "[320]"
+      },
+      {
+        "Title": "Casual",
+        "Genre(s)": "TRIPP LLC",
+        "Developer(s)": "TRIPP LLC",
+        "Publisher(s)": "Jun 9, 2023",
+        "Release date": "Jun 9, 2023",
+        "Features": "Jun 9, 2023",
+        "Ref.": "",
+        "undefined": "[321]"
+      },
+      {
+        "Title": "CasualRhythm",
+        "Genre(s)": "Flat2VR StudiosHoly Wow Studios",
+        "Developer(s)": "Impact Reality",
+        "Publisher(s)": "Nov 26, 2024",
+        "Release date": "Nov 26, 2024",
+        "Features": "Nov 26, 2024",
+        "Ref.": "",
+        "undefined": "[322]"
+      },
+      {
+        "Title": "Horror",
+        "Genre(s)": "Pocket Money Games",
+        "Developer(s)": "Pocket Money Games",
+        "Publisher(s)": "Mar 19, 2024",
+        "Release date": "Mar 19, 2024",
+        "Features": "Mar 19, 2024",
+        "Ref.": "",
+        "undefined": "[323]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Straightjackit Entertainment",
+        "Developer(s)": "Straightjackit Entertainment",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[324]"
+      },
+      {
+        "Title": "ActionSimulation",
+        "Genre(s)": "Bit Planet Games",
+        "Developer(s)": "Bit Planet Games",
+        "Publisher(s)": "Jan 25, 2024",
+        "Release date": "Jan 25, 2024",
+        "Features": "Jan 25, 2024",
+        "Ref.": "",
+        "undefined": "[325]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Pomshine Games",
+        "Developer(s)": "DANGEN Entertainment",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[326]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Origame Digital",
+        "Developer(s)": "Origame DigitalPlayism",
+        "Publisher(s)": "Apr 18, 2024",
+        "Release date": "Apr 18, 2024",
+        "Features": "Apr 18, 2024",
+        "Ref.": "",
+        "undefined": "[327]"
+      },
+      {
+        "Title": "ActionRole-playing",
+        "Genre(s)": "Dark Curry",
+        "Developer(s)": "Dark Curry",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[328]"
+      },
+      {
+        "Title": "ActionFighting",
+        "Genre(s)": "One Hamsa",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Mar 25, 2025",
+        "Release date": "Mar 25, 2025",
+        "Features": "Mar 25, 2025",
+        "Ref.": "",
+        "undefined": "[329]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Myron Games",
+        "Developer(s)": "Myron Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[99]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Drukry",
+        "Developer(s)": "Drukry",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 16, 2024",
+        "Features": "Unreleased",
+        "Ref.": "",
+        "undefined": "[330]"
+      },
+      {
+        "Title": "Rhythm",
+        "Genre(s)": "Anotherway",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[154]"
+      },
+      {
+        "Title": "Hack and SlashRogue-like",
+        "Genre(s)": "Schell Games",
+        "Developer(s)": "Schell Games",
+        "Publisher(s)": "Jun 21, 2023",
+        "Release date": "Jun 21, 2023",
+        "Features": "Jun 21, 2023",
+        "Ref.": "",
+        "undefined": "[331]"
+      },
+      {
+        "Title": "AdventureHorror",
+        "Genre(s)": "Lionel Marsden",
+        "Developer(s)": "BinMan Games",
+        "Publisher(s)": "Aug 28, 2024",
+        "Release date": "Aug 28, 2024",
+        "Features": "Aug 28, 2024",
+        "Ref.": "",
+        "undefined": "[332]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Owlchemy Labs",
+        "Developer(s)": "Owlchemy Labs",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CB",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "AdventureRole-playing",
+        "Genre(s)": "Fast Travel Games",
+        "Developer(s)": "Fast Travel Games",
+        "Publisher(s)": "Nov 2, 2023",
+        "Release date": "Nov 2, 2023",
+        "Features": "Nov 2, 2023",
+        "Ref.": "",
+        "undefined": "[333]"
+      },
+      {
+        "Title": "Casual",
+        "Genre(s)": "Lucky VR",
+        "Developer(s)": "Lucky VR",
+        "Publisher(s)": "Unreleased",
+        "Release date": "May 9, 2023",
+        "Features": "May 27, 2023",
+        "Ref.": "",
+        "undefined": "[334]"
+      },
+      {
+        "Title": "AdventurePlatformer",
+        "Genre(s)": "Monologic Games",
+        "Developer(s)": "Monologic Games",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Dec 18, 2023",
+        "Features": "Dec 18, 2023",
+        "Ref.": "",
+        "undefined": "[335]"
+      },
+      {
+        "Title": "ActionShooter",
+        "Genre(s)": "MeatSpace Interactive",
+        "Developer(s)": "nDreams",
+        "Publisher(s)": "Oct 24, 2024",
+        "Release date": "Oct 24, 2024",
+        "Features": "Oct 24, 2024",
+        "Ref.": "",
+        "undefined": "[336]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Zack Tsiakalis-Brown",
+        "Developer(s)": "Perp GamesZulubo Productions",
+        "Publisher(s)": "Jan 15, 2024",
+        "Release date": "Jan 15, 2024",
+        "Features": "Jan 15, 2024",
+        "Ref.": "",
+        "undefined": "[337]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Sumalab",
+        "Developer(s)": "Sumalab",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "CasualPuzzle",
+        "Genre(s)": "Vagabond",
+        "Developer(s)": "Vagabond",
+        "Publisher(s)": "Dec 21, 2023",
+        "Release date": "Dec 21, 2023",
+        "Features": "Dec 21, 2023",
+        "Ref.": "",
+        "undefined": "[338]"
+      },
+      {
+        "Title": "ActionArcade",
+        "Genre(s)": "Synthesis Universe",
+        "Developer(s)": "Synthesis Universe",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[339]"
+      },
+      {
+        "Title": "SportsSimulation",
+        "Genre(s)": "DEFICIT Games",
+        "Developer(s)": "Perp Games",
+        "Publisher(s)": "Aug 4, 2023",
+        "Release date": "Aug 4, 2023",
+        "Features": "Aug 4, 2023",
+        "Ref.": "",
+        "undefined": "[340]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Funny Tales",
+        "Developer(s)": "VRAL Games",
+        "Publisher(s)": "2025",
+        "Release date": "2025",
+        "Features": "2025",
+        "Ref.": "",
+        "undefined": "[341]"
+      },
+      {
+        "Title": "SportsCasual",
+        "Genre(s)": "Mighty Coconut",
+        "Developer(s)": "Mighty Coconut",
+        "Publisher(s)": "May 11, 2023",
+        "Release date": "May 11, 2023",
+        "Features": "May 11, 2023",
+        "Ref.": "CP",
+        "undefined": "[342]"
+      },
+      {
+        "Title": "First-person shooterSurvival Horror",
+        "Genre(s)": "Skybound EntertainmentSkydance Interactive",
+        "Developer(s)": "Skydance Interactive",
+        "Publisher(s)": "Mar 20, 2023",
+        "Release date": "Mar 21, 2023",
+        "Features": "Mar 21, 2023",
+        "Ref.": "",
+        "undefined": "[343]"
+      },
+      {
+        "Title": "First-person shooterSurvival Horror",
+        "Genre(s)": "Skybound EntertainmentSkydance Interactive",
+        "Developer(s)": "Skydance Interactive",
+        "Publisher(s)": "Mar 20, 2023",
+        "Release date": "Mar 21, 2023",
+        "Features": "Mar 21, 2023",
+        "Ref.": "",
+        "undefined": "[344]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Cyborn",
+        "Developer(s)": "Cyborn",
+        "Publisher(s)": "May 7, 2025",
+        "Release date": "May 7, 2025",
+        "Features": "May 7, 2025",
+        "Ref.": "",
+        "undefined": "[345]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "AardmanAtlas VNo GhostAlbyon",
+        "Developer(s)": "Astrea",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[346]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Aldin Dynamics",
+        "Developer(s)": "Aldin Dynamics",
+        "Publisher(s)": "Oct 3, 2023",
+        "Release date": "Oct 3, 2023",
+        "Features": "Oct 3, 2023",
+        "Ref.": "",
+        "undefined": "[347]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Mighty Eyes",
+        "Developer(s)": "Mighty Eyes",
+        "Publisher(s)": "Apr 3, 2025",
+        "Release date": "Apr 3, 2025",
+        "Features": "Apr 3, 2025",
+        "Ref.": "",
+        "undefined": "[244]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Mighty Eyes",
+        "Developer(s)": "Mighty Eyes",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[195]"
+      },
+      {
+        "Title": "ActionStrategy",
+        "Genre(s)": "MOONSEER VR",
+        "Developer(s)": "MOONSEER VR",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[31]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "Triband",
+        "Developer(s)": "Triband",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Galvanic Freak",
+        "Developer(s)": "FTFS Studio",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[348]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Fitnect Interactive",
+        "Developer(s)": "Fitnect Interactive",
+        "Publisher(s)": "Oct 24, 2024",
+        "Release date": "Oct 24, 2024",
+        "Features": "Oct 24, 2024",
+        "Ref.": "",
+        "undefined": "[349]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Psytec Games",
+        "Developer(s)": "Psytec Games",
+        "Publisher(s)": "Jul 25, 2024",
+        "Release date": "Jul 25, 2024",
+        "Features": "Jul 25, 2024",
+        "Ref.": "CBCP",
+        "undefined": "[350]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Carbon Studio",
+        "Developer(s)": "Vertigo Games",
+        "Publisher(s)": "Feb 22, 2024",
+        "Release date": "Feb 22, 2024",
+        "Features": "Feb 22, 2024",
+        "Ref.": "CP",
+        "undefined": "[195]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Flat2VR StudiosTeam BeefKillPixel GamesSlipgate Ironworks",
+        "Developer(s)": "Beyond Frames Entertainment",
+        "Publisher(s)": "Q4 2025",
+        "Release date": "Q4 2025",
+        "Features": "Q4 2025",
+        "Ref.": "",
+        "undefined": "[351]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Thirdverse",
+        "Developer(s)": "Thirdverse",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[352]"
+      },
+      {
+        "Title": "CasualEducation",
+        "Genre(s)": "Patha Pradipa",
+        "Developer(s)": "LuciiDream",
+        "Publisher(s)": "Sep 15, 2023",
+        "Release date": "Sep 20, 2023",
+        "Features": "Sep 28, 2023",
+        "Ref.": "",
+        "undefined": "[353]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Gamedust",
+        "Developer(s)": "Gamedust",
+        "Publisher(s)": "TBA",
+        "Release date": "TBA",
+        "Features": "TBA",
+        "Ref.": "",
+        "undefined": "[354]"
+      },
+      {
+        "Title": "Massively multiplayer online role-playing game",
+        "Genre(s)": "RamenVR",
+        "Developer(s)": "RamenVR",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "CBCP",
+        "undefined": "[133]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "XR Games",
+        "Developer(s)": "Rebellion Developments",
+        "Publisher(s)": "Jun 12, 2025",
+        "Release date": "Jun 12, 2025",
+        "Features": "Jun 12, 2025",
+        "Ref.": "",
+        "undefined": "[195]"
+      },
+      {
+        "Title": "CasualSimulation",
+        "Genre(s)": "VR Factory",
+        "Developer(s)": "VR Factory",
+        "Publisher(s)": "Unreleased",
+        "Release date": "Apr 19, 2024",
+        "Features": "Apr 19, 2024",
+        "Ref.": "",
+        "undefined": "[355]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "XR Games",
+        "Developer(s)": "XR GamesSony Pictures Virtual Reality",
+        "Publisher(s)": "Feb 22, 2023",
+        "Release date": "Feb 22, 2023",
+        "Features": "Feb 22, 2023",
+        "Ref.": "",
+        "undefined": "[356]"
+      }
+    ]
+  }
+]

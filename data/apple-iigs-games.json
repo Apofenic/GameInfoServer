@@ -1,0 +1,2152 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "4th & Inches",
+        "Year": "1988",
+        "Developer": "Tony Manso & Sculptured Software",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Aaargh!",
+        "Year": "1988",
+        "Developer": "Synergistic Software",
+        "Publisher": "Arcadia Software",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Airball",
+        "Year": "1989",
+        "Developer": "Jason Harper",
+        "Publisher": "MicroDeal",
+        "Genre": "Action/puzzle"
+      },
+      {
+        "Title": "Alien Mind",
+        "Year": "1988",
+        "Developer": "Rob Karr & Matt Crysdale",
+        "Publisher": "PBI Software",
+        "Genre": "Action/adventure"
+      },
+      {
+        "Title": "Ancient Glory",
+        "Year": "1993",
+        "Developer": "Logical Design Works, Westwood Associates",
+        "Publisher": "Big Red Computer Club",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Ancient Land of Ys",
+        "Year": "1989",
+        "Developer": "Designer Software",
+        "Publisher": "Kyodai",
+        "Genre": "Action/RPG"
+      },
+      {
+        "Title": "Antetris",
+        "Year": "1990",
+        "Developer": "Peter Jensen",
+        "Publisher": "",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Apple IIgs Karate",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Fighting"
+      },
+      {
+        "Title": "Arkanoid",
+        "Year": "1988",
+        "Developer": "Ryan Ridges & John Lund",
+        "Publisher": "Taito America",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Arkanoid II: Revenge of Doh",
+        "Year": "1989",
+        "Developer": "Ryan Ridges & John Lund",
+        "Publisher": "Taito America",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "As the Link Turns",
+        "Year": "1988",
+        "Developer": "Parik Rao & Scott Pease (Rogue Systems)",
+        "Publisher": "",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Balance of Power: The 1990 Edition",
+        "Year": "1989",
+        "Developer": "Chris Crawford",
+        "Publisher": "Mindscape",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "Bard's Tale, The",
+        "Year": "1987",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Electronic Arts",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Bard's Tale II: The Destiny Knight, The",
+        "Year": "1988",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Electronic Arts",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Battle Chess",
+        "Year": "1989",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Interplay Productions",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Belle Zohra, La",
+        "Year": "2024",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Interactive fiction"
+      },
+      {
+        "Title": "Beyond Zork",
+        "Year": "1988",
+        "Developer": "Brian Moriarty",
+        "Publisher": "Infocom",
+        "Genre": "Interactive fiction"
+      },
+      {
+        "Title": "Bill Palmer",
+        "Year": "2021",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Bille Art",
+        "Year": "1992",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Black Cauldron",
+        "Year": "1987",
+        "Developer": "Al Lowe",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Blackjack Academy",
+        "Year": "1988",
+        "Developer": "Westwood",
+        "Publisher": "Micro Illusions",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Block Out",
+        "Year": "1989",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Arcade/puzzle"
+      },
+      {
+        "Title": "Blockade",
+        "Year": "1994",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Boggled",
+        "Year": "1992",
+        "Developer": "Kenrick Mock (Sound Barrier Systems)",
+        "Publisher": "",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Bouncing Bluster",
+        "Year": "1989",
+        "Developer": "Jean-Francois Doué & Jean-Michel Vallat (Fantasia Entertainment)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Bouncing Bluster II",
+        "Year": "1990",
+        "Developer": "Jean-Francois Doué & Jean-Michel Vallat",
+        "Publisher": "Toolbox",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Bridge 6.0",
+        "Year": "1989",
+        "Developer": "Arthur Walsh & Roger Harnish",
+        "Publisher": "Artworx",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Bubble Ghost",
+        "Year": "1988",
+        "Developer": "ERE Informatique",
+        "Publisher": "Accolade",
+        "Genre": "Action/puzzle"
+      },
+      {
+        "Title": "BuGS",
+        "Year": "2021",
+        "Developer": "Jeremy Rand",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "California Games",
+        "Year": "1988",
+        "Developer": "Designer Software (Jimmy Huey)",
+        "Publisher": "Epyx",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Canal Meurtre",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Captain Blood",
+        "Year": "1989",
+        "Developer": "ERE Informatique (Alexis Martial & Jean-Michel Jarre)",
+        "Publisher": "Mindscape",
+        "Genre": "Simulation/adventure"
+      },
+      {
+        "Title": "Carte Primus",
+        "Year": "1989",
+        "Developer": "David Manthey",
+        "Publisher": "",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Castle Arms",
+        "Year": "1992",
+        "Developer": "Tom Gooding",
+        "Publisher": "",
+        "Genre": ""
+      },
+      {
+        "Title": "Catacombs",
+        "Year": "1991",
+        "Developer": "John Carmack & Tom Hall",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "Action/adventure"
+      },
+      {
+        "Title": "Cavern Cobra",
+        "Year": "1987",
+        "Developer": "Greg Hale",
+        "Publisher": "PBI Software",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Chessmaster 2100, The Fidelity",
+        "Year": "1988",
+        "Developer": "Troy Heere & Mark Manyen",
+        "Publisher": "Software Toolworks",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Club Backgammon",
+        "Year": "1988",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Cogito",
+        "Year": "1993",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Columns",
+        "Year": "1991",
+        "Developer": "Kenrick Mock (Sound Barrier Systems)",
+        "Publisher": "",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Copy Killers",
+        "Year": "1989",
+        "Developer": "Brian Greenstone & Dave Triplett",
+        "Publisher": "Pangea Software",
+        "Genre": ""
+      },
+      {
+        "Title": "Cosmocade",
+        "Year": "1990",
+        "Developer": "Brian Greenstone, Dave Triplett & Gene Koh",
+        "Publisher": "Pangea Software",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Cribbage King / Gin King",
+        "Year": "1990",
+        "Developer": "Mark Manyen",
+        "Publisher": "Software Toolworks",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Cryllan Mission 2088",
+        "Year": "1989",
+        "Developer": "Vinay Pai, Vivek Pai & Vijay Pai",
+        "Publisher": "Victory Software",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Cryllan Mission 2088: The Second Scenario",
+        "Year": "1990",
+        "Developer": "Vinay Pai, Vivek Pai & Vijay Pai",
+        "Publisher": "Victory Software",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Crystal Quest",
+        "Year": "1989",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Cassidy & Greene",
+        "Genre": "Action/arcade"
+      },
+      {
+        "Title": "Dark Castle",
+        "Year": "1989",
+        "Developer": "Lane Roath",
+        "Publisher": "Three Sixty",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Dark Designs I",
+        "Year": "1990",
+        "Developer": "John Carmack",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Dark Designs II: Closing the Gate",
+        "Year": "1990",
+        "Developer": "John Carmack",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Dark Designs III: Retribution!",
+        "Year": "1990",
+        "Developer": "John Carmack",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Defender of the Crown",
+        "Year": "1989",
+        "Developer": "Manley & Associates",
+        "Publisher": "Cinemaware",
+        "Genre": "Action/strategy"
+      },
+      {
+        "Title": "Deja Vu: A Nightmare Comes True",
+        "Year": "1988",
+        "Developer": "ICOM Simulations",
+        "Publisher": "Mindscape",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Deja Vu II: Lost in Las Vegas",
+        "Year": "1989",
+        "Developer": "ICOM Simulations",
+        "Publisher": "Mindscape",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Destroyer",
+        "Year": "1987",
+        "Developer": "Michael Kosaka & Chuck Sommerville",
+        "Publisher": "Epyx",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "Downhill Challenge",
+        "Year": "1989",
+        "Developer": "Microids",
+        "Publisher": "Broderbund",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Dr. Mario",
+        "Year": "1992",
+        "Developer": "Blue Adept (USAlliance)",
+        "Publisher": "",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Dragon Wars",
+        "Year": "1990",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Interplay Productions",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Dragon's Lair",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Dragon's Lair: Escape from Singe's Castle",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Dragon's Lair II: Time Warp",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Dragon's Lair III: The Curse of Mordread",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Dream Zone",
+        "Year": "1988",
+        "Developer": "Naughty Dog (Andy Gavin & Jason Rubin)",
+        "Publisher": "Baudville",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "DuelTris",
+        "Year": "1992",
+        "Developer": "Steven Chiang, Dave Seah & James Brookes",
+        "Publisher": "DreamWorld",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Dungeon Master",
+        "Year": "1989",
+        "Developer": "Don Jordan",
+        "Publisher": "FTL",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "DuoTris",
+        "Year": "1992",
+        "Developer": "Richard Wifall & James Brookes (GS<>IRC)",
+        "Publisher": "",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Egérie, L'",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "ExplorerGS",
+        "Year": "1991",
+        "Developer": "Jason Smart",
+        "Publisher": "",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "F1 Race",
+        "Year": "1988",
+        "Developer": "Joel Quejada",
+        "Publisher": "",
+        "Genre": "Racing"
+      },
+      {
+        "Title": "Fast Break",
+        "Year": "1989",
+        "Developer": "Greg Hospelhorn & George Wong",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Final Assault",
+        "Year": "1988",
+        "Developer": "Infogrames",
+        "Publisher": "Epyx",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "Firepower",
+        "Year": "1989",
+        "Developer": "Stephen Lepisto",
+        "Publisher": "MicroIllusions",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Full Metal Planete",
+        "Year": "1993",
+        "Developer": "Brainstorm Software (Francois Uhrich & Nicolas Bergeret)",
+        "Publisher": "Infogrames",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "Fun Columns",
+        "Year": "1991",
+        "Developer": "FTA (Olivier Goguel & Olivier Bailly-Maitre)",
+        "Publisher": "Toolbox",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Futureshock 3D",
+        "Year": "1989",
+        "Developer": "Jeff Johnson",
+        "Publisher": "Neeka Electronics",
+        "Genre": "Action"
+      },
+      {
+        "Title": "GATE",
+        "Year": "1991",
+        "Developer": "Bright Software (Joerg Kienzle, Yann Le Tensorer & Henrik Gudat)",
+        "Publisher": "Toolbox & Seven Hills Software",
+        "Genre": "Action/adventure"
+      },
+      {
+        "Title": "Gauntlet",
+        "Year": "1988",
+        "Developer": "Atari Games",
+        "Publisher": "Mindscape",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "GBA Championship Basketball: Two on Two",
+        "Year": "1987",
+        "Developer": "Gamestar (Paul Terry & Jack Thornton)",
+        "Publisher": "Activision",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Gnarly Golf",
+        "Year": "1989",
+        "Developer": "Visual Concepts (Jim Coliz Jnr & Darren Bartlett)",
+        "Publisher": "Britannica / Fanfare",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Gold of the Americas",
+        "Year": "1991",
+        "Developer": "Stephen Hart, Ian Trout & Allan Bell",
+        "Publisher": "Strategic Studies Group",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "Gold Rush!",
+        "Year": "1989",
+        "Developer": "Doug & Ken MacNeill",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "GS Adventure",
+        "Year": "2021",
+        "Developer": "Peter Hirschberg",
+        "Publisher": "",
+        "Genre": "Action/adventure"
+      },
+      {
+        "Title": "GS Asteroids",
+        "Year": "2021",
+        "Developer": "Peter Hirschberg",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "GS Invaders",
+        "Year": "1994",
+        "Developer": "David Ong-Tat-Wee",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "GS Pac-Man",
+        "Year": "2021",
+        "Developer": "Peter Hirschberg",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "GShisen",
+        "Year": "1998",
+        "Developer": "Kelvin Sherlock",
+        "Publisher": "",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Grackle",
+        "Year": "1989",
+        "Developer": "Brian Greenstone",
+        "Publisher": "Pangea Software",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Grand Prix Circuit",
+        "Year": "1989",
+        "Developer": "Distinctive Software Inc",
+        "Publisher": "Accolade",
+        "Genre": "Racing"
+      },
+      {
+        "Title": "Great Western Shootout",
+        "Year": "1989",
+        "Developer": "Visual Concepts (Scott Patterson & Matt Crysdale)",
+        "Publisher": "Britannica / Fanfare",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Hacker II: The Doomsday Papers",
+        "Year": "1987",
+        "Developer": "Steve Cartwright",
+        "Publisher": "Activision",
+        "Genre": "Real-time strategy"
+      },
+      {
+        "Title": "Halls of Montezuma",
+        "Year": "1990",
+        "Developer": "Roger Keating & Ian Trout",
+        "Publisher": "Strategic Studies Group",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "HardBall!",
+        "Year": "1987",
+        "Developer": "Distinctive Software Inc (Dan Thompson)",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Hostage",
+        "Year": "1990",
+        "Developer": "Infogrames",
+        "Publisher": "Mindscape",
+        "Genre": "Action/strategy"
+      },
+      {
+        "Title": "Hover Blade",
+        "Year": "1991",
+        "Developer": "Shiraz Akmal & Eric Boden",
+        "Publisher": "MCX",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Hunt for Red October",
+        "Year": "1989",
+        "Developer": "John Brooks, Todd Daugherty & Alex Villagran",
+        "Publisher": "Software Toolworks",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "Immortal, The",
+        "Year": "1990",
+        "Developer": "Sandcastle (Will Harvey, Ian Nitchal & Doug Fulton)",
+        "Publisher": "Electronic Arts",
+        "Genre": "Action/RPG"
+      },
+      {
+        "Title": "Impossible Mission 2",
+        "Year": "1989",
+        "Developer": "Novotrade",
+        "Publisher": "Epyx",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
+        "Year": "1989",
+        "Developer": "Tony Manso",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Jigsaw![1]",
+        "Year": "1988",
+        "Developer": "Huibert Aalbers & Javier Rullan Ruano",
+        "Publisher": "Britannica Software",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "John Elway's Quarterback",
+        "Year": "1989",
+        "Developer": "Shadowmasters Design",
+        "Publisher": "Melbourne House",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "KABOOM![2]",
+        "Year": "2015",
+        "Developer": "Ninjaforce",
+        "Publisher": "",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Kaleidokubes",
+        "Year": "1989",
+        "Developer": "Bob & Betsy Couch",
+        "Publisher": "Artworx",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Keef the Thief",
+        "Year": "1989",
+        "Developer": "Naughty Dog (Andy Gavin & Jason Rubin)",
+        "Publisher": "Electronic Arts",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "King of Chicago",
+        "Year": "1989",
+        "Developer": "Doug Sharp",
+        "Publisher": "Cinemaware",
+        "Genre": "Action/strategy"
+      },
+      {
+        "Title": "King's Quest: Quest for the Crown",
+        "Year": "1987",
+        "Developer": "Roberta Williams",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "King's Quest II: Romancing the Throne",
+        "Year": "1988",
+        "Developer": "Roberta Williams",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "King's Quest III: To Heir Is Human",
+        "Year": "1988",
+        "Developer": "Roberta Williams",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "King's Quest IV: The Perils of Rosella",
+        "Year": "1989",
+        "Developer": "Roberta Williams",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "LaserForce[3]",
+        "Year": "1989",
+        "Developer": "European Software Partner",
+        "Publisher": "Britannica / Fanfare",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Last Ninja, The",
+        "Year": "1988",
+        "Developer": "System 3",
+        "Publisher": "Activision",
+        "Genre": "Action/adventure"
+      },
+      {
+        "Title": "Legend of the Star Axe",
+        "Year": "1990",
+        "Developer": "Heads on the Hills Software (Tom Hall, Kevin Kemmerly & Lane Roath)",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Leisure Suit Larry in the Land of the Lounge Lizards",
+        "Year": "1987",
+        "Developer": "Al Lowe",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Lemmings",
+        "Year": "1996",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "LetterSlide",
+        "Year": "1992",
+        "Developer": "Kenrick Mock (Sound Barrier Systems)",
+        "Publisher": "",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Life & Death",
+        "Year": "1989",
+        "Developer": "Mark Manyen & Jacob P. Smith",
+        "Publisher": "Software Toolworks",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "Lode Runner",
+        "Year": "2025",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Action/puzzle"
+      },
+      {
+        "Title": "Lost Treasures of Infocom, The",
+        "Year": "1993",
+        "Developer": "Mike Howard & John Wrenholt",
+        "Publisher": "Big Red Computer Club",
+        "Genre": "Interactive fiction"
+      },
+      {
+        "Title": "Lost Tribe, The",
+        "Year": "1992",
+        "Developer": "Steve Vance, Frank Andrews & Todd Harris",
+        "Publisher": "Lawrence Productions",
+        "Genre": "Adventure/strategy"
+      },
+      {
+        "Title": "Mad Match",
+        "Year": "1989",
+        "Developer": "Paul Gauthier",
+        "Publisher": "Baudville",
+        "Genre": ""
+      },
+      {
+        "Title": "Mancala",
+        "Year": "1988",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Manhunter: New York",
+        "Year": "1988",
+        "Developer": "Dave, Barry and Dee Dee Murray",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Marble Madness",
+        "Year": "1988",
+        "Developer": "Will Harvey",
+        "Publisher": "Electronic Arts",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Mazer II",
+        "Year": "1992",
+        "Developer": "Farfetch Software",
+        "Publisher": "Big Red Computer Club",
+        "Genre": "Action/RPG"
+      },
+      {
+        "Title": "Mean 18",
+        "Year": "1987",
+        "Developer": "Mark Lesser & Micro Smiths",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Mighty Marvel Vs the Forces of E.V.I.L.",
+        "Year": "1988",
+        "Developer": "Winchell Chung",
+        "Publisher": "ISM",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Milestones 2000",
+        "Year": "1990",
+        "Developer": "Ken Franklin",
+        "Publisher": "",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Mini-Putt",
+        "Year": "1988",
+        "Developer": "Ross Salas & Tanager Software Productions",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Mixed Up Mother Goose",
+        "Year": "1988",
+        "Developer": "Roberta Williams",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Monte Carlo",
+        "Year": "1987",
+        "Developer": "Richard Seaborne & Jeff Lefferts",
+        "Publisher": "PBI Software",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "Neuromancer",
+        "Year": "1989",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Interplay Productions",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Night Driver",
+        "Year": "2021",
+        "Developer": "Ian Schmidt & Fatdog Projects",
+        "Publisher": "",
+        "Genre": "Racing"
+      },
+      {
+        "Title": "Omega",
+        "Year": "1990",
+        "Developer": "Micro Magic",
+        "Publisher": "Origin",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "One Arm Battle",
+        "Year": "1990",
+        "Developer": "Ken Franklin",
+        "Publisher": "",
+        "Genre": ""
+      },
+      {
+        "Title": "Operation Lambda",
+        "Year": "1996",
+        "Developer": "Bret Victor (Right Triangle Production)",
+        "Publisher": "",
+        "Genre": "Action/puzzle"
+      },
+      {
+        "Title": "Orbizone",
+        "Year": "1989",
+        "Developer": "Brian Greenstone & Dave Triplett",
+        "Publisher": "Pangea Software",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Out of this World (aka Another World)",
+        "Year": "1992",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Interplay Productions",
+        "Genre": "Action/adventure"
+      },
+      {
+        "Title": "Panzer Battles",
+        "Year": "1991",
+        "Developer": "Roger Keating, Danny Stevens & Ian Trout",
+        "Publisher": "Strategic Studies Group",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "Paperboy",
+        "Year": "1988",
+        "Developer": "Atari Games",
+        "Publisher": "Mindscape",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Passagers du vent (les)",
+        "Year": "2021",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Passagers du vent II (les)",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Pente",
+        "Year": "1993",
+        "Developer": "Kenrick Mock (Sound Barrier Systems)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Pick 'n Pile",
+        "Year": "1992",
+        "Developer": "Atreid Concept",
+        "Publisher": "Procyon",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Pipe Dream",
+        "Year": "1990",
+        "Developer": "Visual Concepts",
+        "Publisher": "Lucasfilm Games",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Pirates!",
+        "Year": "1988",
+        "Developer": "Ed Magnin",
+        "Publisher": "Microprose",
+        "Genre": "Action/strategy"
+      },
+      {
+        "Title": "Plunder!",
+        "Year": "1990",
+        "Developer": "Ken Franklin",
+        "Publisher": "",
+        "Genre": ""
+      },
+      {
+        "Title": "Plotting",
+        "Year": "1991",
+        "Developer": "Once Product (Philippe Leclercq)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Police Quest",
+        "Year": "1987",
+        "Developer": "Jim Walls",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Puyo Puyo",
+        "Year": "1995",
+        "Developer": "Bret Victor (Right Triangle Production)",
+        "Publisher": "",
+        "Genre": "Arcade/puzzle"
+      },
+      {
+        "Title": "Qix",
+        "Year": "1990",
+        "Developer": "Ryan Ridges & John Lund",
+        "Publisher": "Taito America",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Quadronome",
+        "Year": "1989",
+        "Developer": "Brian Greenstone & Dave Triplett",
+        "Publisher": "Pangea Software",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Quest for the Hoard",
+        "Year": "1991",
+        "Developer": "Ken Burtch (Pegasoft)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Quest for the Hoard II: Treasures from Heaven",
+        "Year": "1993",
+        "Developer": "Ken Burtch (Pegasoft)",
+        "Publisher": "",
+        "Genre": "Arcade/puzzle"
+      },
+      {
+        "Title": "Questmaster I",
+        "Year": "1990",
+        "Developer": "Sean Barger",
+        "Publisher": "Miles Computing",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Questron II",
+        "Year": "1988",
+        "Developer": "Westwood",
+        "Publisher": "Strategic Simulations Inc",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Rastan",
+        "Year": "1990",
+        "Developer": "John Brooks",
+        "Publisher": "Taito America",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Reach for the Stars",
+        "Year": "1988",
+        "Developer": "Roger Keating & Ian Trout",
+        "Publisher": "Strategic Studies Group",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "Rescue Rover",
+        "Year": "1993",
+        "Developer": "Rebecca Heineman & Adrian Carmack",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "Action/puzzle"
+      },
+      {
+        "Title": "Retour du Dr Genius (Le)",
+        "Year": "2024",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Revolution '76",
+        "Year": "1989",
+        "Developer": "Edward and Patricia Bever",
+        "Publisher": "Britannica Software",
+        "Genre": "Turned-based strategy"
+      },
+      {
+        "Title": "Roadwar 2000",
+        "Year": "1987",
+        "Developer": "Westwood",
+        "Publisher": "Strategic Simulations Inc",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "Rocket Ranger",
+        "Year": "1989",
+        "Developer": "Ed Magnin",
+        "Publisher": "Cinemaware",
+        "Genre": ""
+      },
+      {
+        "Title": "Sea Strike",
+        "Year": "1987",
+        "Developer": "Richard Seaborne & Jeff Lefferts",
+        "Publisher": "PBI Software",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Secrets of Bharas, The",
+        "Year": "1991",
+        "Developer": "Vinay Pai, Vivek Pai & Vijay Pai",
+        "Publisher": "Victory Software",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Sensei",
+        "Year": "1991",
+        "Developer": "Phil Rivipellio, Walt Scapela & Neil Pulcadesso (Miami Software)",
+        "Publisher": "",
+        "Genre": "Fighting"
+      },
+      {
+        "Title": "Senseless Violence 1: Survival of the Fetus",
+        "Year": "1989",
+        "Developer": "Brian Greenstone & Dave Triplett",
+        "Publisher": "Pangea Software",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Senseless Violence 2: You Use, You Die",
+        "Year": "1990",
+        "Developer": "Brian Greenstone & Gene Koh",
+        "Publisher": "Pangea Software",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Serve & Volley",
+        "Year": "1988",
+        "Developer": "Jeffrey Sigler",
+        "Publisher": "Accolade",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Shadowgate",
+        "Year": "1988",
+        "Developer": "ICOM Simulations",
+        "Publisher": "Mindscape",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Shanghai",
+        "Year": "1987",
+        "Developer": "Manley & Associates (Brodie Lockard & Ivan Manley)",
+        "Publisher": "Activision",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Shanghai II: Dragon's Eye",
+        "Year": "1993",
+        "Developer": "John Wrenholt & Steve Luellman",
+        "Publisher": "Big Red Computer Club",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Silent Service",
+        "Year": "1987",
+        "Developer": "Ed Magnin",
+        "Publisher": "Microprose",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "Silpheed",
+        "Year": "1989",
+        "Developer": "Game Arts",
+        "Publisher": "Sierra",
+        "Genre": "Action/arcade"
+      },
+      {
+        "Title": "Sinbad and the Throne of the Falcon",
+        "Year": "1990",
+        "Developer": "Jim Simmons & Andrew Caldwell",
+        "Publisher": "Cinemaware",
+        "Genre": ""
+      },
+      {
+        "Title": "Skate or Die!",
+        "Year": "1988",
+        "Developer": "David Bunch, Michael Kosaka & Michelle Shelfer",
+        "Publisher": "Electronic Arts",
+        "Genre": ""
+      },
+      {
+        "Title": "Solarian",
+        "Year": "1992",
+        "Developer": "David Tolson",
+        "Publisher": "",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Solitaire & Cribbage",
+        "Year": "1990",
+        "Developer": "",
+        "Publisher": "Computrek Software",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Solitaire Royale",
+        "Year": "1990",
+        "Developer": "Jake Hoelter, Jody Sather & Brad Fregger",
+        "Publisher": "Spectrum Holobyte",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Son of Star Axe",
+        "Year": "1992",
+        "Developer": "Jay Jennings & Jerry Jones",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Space Ace",
+        "Year": "1990",
+        "Developer": "David Foster & Simon Douglas",
+        "Publisher": "Ready Soft",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Space Ace (re-issue)",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Space Ace II: Borf's Revenge",
+        "Year": "2022",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Space Cluster",
+        "Year": "1990",
+        "Developer": "Pascal Watel, Olivier Philipp & Claude Pélisson (Miami Software)",
+        "Publisher": "",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Space Quest I: The Sarien Encounter",
+        "Year": "1987",
+        "Developer": "Scott Murphy & Mark Crowe",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Space Quest II: Vohaul's Revenge",
+        "Year": "1988",
+        "Developer": "Scott Murphy & Mark Crowe",
+        "Publisher": "Sierra",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Space Shark",
+        "Year": "1990",
+        "Developer": "Miami Software",
+        "Publisher": "Toolbox",
+        "Genre": "Shoot-em-up"
+      },
+      {
+        "Title": "Spacefox",
+        "Year": "1992",
+        "Developer": "Bright Software (Joerg Kienzle & Yann Le Tensorer)",
+        "Publisher": "Toolbox & Seven Hills Software",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Spirit of Excalibur",
+        "Year": "1991",
+        "Developer": "Synergistic Software",
+        "Publisher": "Virgin Mastertronic",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Spy Hunter",
+        "Year": "1993",
+        "Developer": "Shane Richards",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Stalactites",
+        "Year": "1994",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Software Gremlins",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Star Saga One: Beyond the Boundary",
+        "Year": "1988",
+        "Developer": "Richard Dutton, Walter Freitag, Andrew Greenberg & Michael Massimilla",
+        "Publisher": "Master Play",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Star Saga: Two - The Clathran Menace",
+        "Year": "1988",
+        "Developer": "Richard Dutton, Walter Freitag, Andrew and Sheila Greenberg, Michael Massimilla & Gerald Seixas",
+        "Publisher": "Master Play",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Star Trek Classic",
+        "Year": "1991",
+        "Developer": "Joe Jaworski",
+        "Publisher": "",
+        "Genre": "Real-time strategy"
+      },
+      {
+        "Title": "Street Sports Soccer",
+        "Year": "1988",
+        "Developer": "Designer Software",
+        "Publisher": "Epyx",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Strip Poker II",
+        "Year": "1987",
+        "Developer": "Roger Harnish",
+        "Publisher": "Artworx",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "Sub Battle Simulator",
+        "Year": "1987",
+        "Developer": "Rob Brannon & Kelly Fergason",
+        "Publisher": "Epyx",
+        "Genre": "Simulation"
+      },
+      {
+        "Title": "SubVersion",
+        "Year": "1992",
+        "Developer": "Al Griest & Jason Harper",
+        "Publisher": "Point of View Computing",
+        "Genre": "Turn-based strategy"
+      },
+      {
+        "Title": "Superstar Ice Hockey",
+        "Year": "1988",
+        "Developer": "DesignStar Consultants (Andrew Caldwell)",
+        "Publisher": "Mindscape",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Tarot",
+        "Year": "1990",
+        "Developer": "François Uhrich & Jean-François Sauvage",
+        "Publisher": "Toolbox",
+        "Genre": "Card game"
+      },
+      {
+        "Title": "Task Force",
+        "Year": "1990",
+        "Developer": "Visual Concepts (Scott Patterson & Matt Crysdale)",
+        "Publisher": "Britannica / Fanfare",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Tass Times in Tonetown",
+        "Year": "1986",
+        "Developer": "Rebecca Heineman (Interplay Productions & Brainwave Creations)",
+        "Publisher": "Activision",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Test Drive II: The Duel",
+        "Year": "1989",
+        "Developer": "Distinctive Software Inc",
+        "Publisher": "Accolade",
+        "Genre": "Racing"
+      },
+      {
+        "Title": "Tetris",
+        "Year": "1988",
+        "Developer": "Roland Gustafsson, Sean Barger & Dan Geisler",
+        "Publisher": "Spectrum Holobyte",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Tetrotrix",
+        "Year": "1990",
+        "Developer": "Pierre Abel",
+        "Publisher": "",
+        "Genre": "Puzzle/arcade"
+      },
+      {
+        "Title": "Time Pilot",
+        "Year": "2024",
+        "Developer": "Stefan Wessels",
+        "Publisher": "",
+        "Genre": "Arcade"
+      },
+      {
+        "Title": "Thexder",
+        "Year": "1987",
+        "Developer": "Game Arts",
+        "Publisher": "Sierra",
+        "Genre": "Action/arcade"
+      },
+      {
+        "Title": "Third Courier, The",
+        "Year": "1989",
+        "Developer": "Manley & Associates",
+        "Publisher": "Accolade",
+        "Genre": "Adventure/RPG"
+      },
+      {
+        "Title": "Three Stooges, The",
+        "Year": "1990",
+        "Developer": "Ed Magnin",
+        "Publisher": "Cinemaware",
+        "Genre": ""
+      },
+      {
+        "Title": "Tinies, The",
+        "Year": "1994",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Tomahawk",
+        "Year": "1988",
+        "Developer": "John Brooks",
+        "Publisher": "Datasoft",
+        "Genre": "Flight simulator"
+      },
+      {
+        "Title": "Tout a disparu",
+        "Year": "2023",
+        "Developer": "Antoine Vignau & Olivier Zardini (Brutal Deluxe)",
+        "Publisher": "",
+        "Genre": "Interactive fiction"
+      },
+      {
+        "Title": "Tower of Myraglen",
+        "Year": "1987",
+        "Developer": "Richard Seaborne & Jeff Lefferts",
+        "Publisher": "PBI Software",
+        "Genre": "Action/RPG"
+      },
+      {
+        "Title": "Transylvania III",
+        "Year": "1990",
+        "Developer": "Antonio Antiochia & Veronika Slintak",
+        "Publisher": "Polarware",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Triango",
+        "Year": "1988",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Board game"
+      },
+      {
+        "Title": "Tunnels of Armageddon",
+        "Year": "1990",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Ultima I: The First Age of Darkness",
+        "Year": "1992",
+        "Developer": "Rebecca Heineman",
+        "Publisher": "Vitesse",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Uninvited",
+        "Year": "1988",
+        "Developer": "ICOM Simulations",
+        "Publisher": "Mindscape",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Vegas Craps",
+        "Year": "1988",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "Vegas Gambler",
+        "Year": "1988",
+        "Developer": "Logical Design Works",
+        "Publisher": "California Dreams",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "VIAD",
+        "Year": "1992",
+        "Developer": "Kenrick Mock & James Brookes (Sound Barrier Systems)",
+        "Publisher": "",
+        "Genre": "Arcade/puzzle"
+      },
+      {
+        "Title": "War in Middle Earth",
+        "Year": "1989",
+        "Developer": "Synergistic Software",
+        "Publisher": "Melbourne House",
+        "Genre": "Real-time strategy"
+      },
+      {
+        "Title": "Warlock[4]",
+        "Year": "1988",
+        "Developer": "ERE Informatique",
+        "Publisher": "Three Sixty",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Wheel of Fortune",
+        "Year": "1988",
+        "Developer": "Edward Rambeau",
+        "Publisher": "",
+        "Genre": "Trivia/puzzle"
+      },
+      {
+        "Title": "Where in the World is Carmen Sandiego?",
+        "Year": "1989",
+        "Developer": "Loring Vogel",
+        "Publisher": "Broderbund",
+        "Genre": "Educational"
+      },
+      {
+        "Title": "Where in the USA is Carmen Sandiego?",
+        "Year": "1990",
+        "Developer": "Sculptured Software (Peter Adams)",
+        "Publisher": "Broderbund",
+        "Genre": "Educational"
+      },
+      {
+        "Title": "Windwalker",
+        "Year": "1990",
+        "Developer": "Greg Malone",
+        "Publisher": "Origin",
+        "Genre": "RPG"
+      },
+      {
+        "Title": "Winter Games",
+        "Year": "1987",
+        "Developer": "Westwood & IT",
+        "Publisher": "Epyx",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Wolfenstein 3D",
+        "Year": "1998",
+        "Developer": "Rebecca Heineman, Eric Shepherd & NinjaForce",
+        "Publisher": "Logicware",
+        "Genre": "First-person shooter"
+      },
+      {
+        "Title": "World Games",
+        "Year": "1987",
+        "Developer": "Westwood & IT",
+        "Publisher": "Epyx",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "World Tour Golf",
+        "Year": "1987",
+        "Developer": "John Selhorst & Tanager Software Productions",
+        "Publisher": "Electronic Arts",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Xenocide",
+        "Year": "1989",
+        "Developer": "Pangea Software",
+        "Publisher": "Micro Revelations",
+        "Genre": "Action/arcade"
+      },
+      {
+        "Title": "Zany Golf",
+        "Year": "1988",
+        "Developer": "Sandcastle (Will Harvey, Ian Nitchal & Doug Fulton)",
+        "Publisher": "Electronic Arts",
+        "Genre": "Sports/arcade"
+      },
+      {
+        "Title": "Zappa Roidz",
+        "Year": "1989",
+        "Developer": "Ideas From the Deep (Lane Roath & John Romero)",
+        "Publisher": "Softdisk Publishing",
+        "Genre": "Shoot-em-up"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title": "1942[5]",
+        "Year": "1998",
+        "Developer/planned publisher": "Brutal Deluxe",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - rudimentary scrolling, player sprite only"
+      },
+      {
+        "Title": "3-D Helicopter Simulator",
+        "Year": "1988",
+        "Developer/planned publisher": "Sierra",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development"
+      },
+      {
+        "Title": "Attack of the PETSCII Robots",
+        "Year": "2021",
+        "Developer/planned publisher": "The 8-Bit Guy (8-Bit Productions, LLC)",
+        "Exists ?": "Yes",
+        "Notes": "Game coding only 15% complete; GS-specific graphics created. Development halted."
+      },
+      {
+        "Title": "Barbarian",
+        "Year": "1988",
+        "Developer/planned publisher": "Melbourne House",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development in 1988"
+      },
+      {
+        "Title": "Bard's Tale III: Thief of Fate",
+        "Year": "1990",
+        "Developer/planned publisher": "Rebecca Heineman / Interplay Productions",
+        "Exists ?": "Unverified",
+        "Notes": "Programmer claims \"was almost complete\" (primarily missing graphics)"
+      },
+      {
+        "Title": "Blue Angels",
+        "Year": "1989",
+        "Developer/planned publisher": "Accolade",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - missing features, crashes"
+      },
+      {
+        "Title": "Blue Helmet",
+        "Year": "1992",
+        "Developer/planned publisher": "FTA",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - rudemtary sprites/scrolling"
+      },
+      {
+        "Title": "Bouncin' Ferno",
+        "Year": "1991",
+        "Developer/planned publisher": "FTA",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete -"
+      },
+      {
+        "Title": "Bubble Bobble",
+        "Year": "1988",
+        "Developer/planned publisher": "Taito America",
+        "Exists ?": "Unverified",
+        "Notes": "Advertised available by Taito"
+      },
+      {
+        "Title": "Catacomb Abyss 3D",
+        "Year": "1993",
+        "Developer/planned publisher": "Rebecca Heineman / Softdisk Publishing",
+        "Exists ?": "Yes",
+        "Notes": "Fully playable; audio not present?"
+      },
+      {
+        "Title": "Clue: Master Detective",
+        "Year": "1989",
+        "Developer/planned publisher": "Mastertronic",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Colonel's Bequest",
+        "Year": "1989",
+        "Developer/planned publisher": "Sierra",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Conspiracy: The Deadlock Files",
+        "Year": "1989",
+        "Developer/planned publisher": "Accolade",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Defender of the World",
+        "Year": "1993",
+        "Developer/planned publisher": "David Ong Tat-Wee",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - only first level playable"
+      },
+      {
+        "Title": "Deluxe Tetris",
+        "Year": "1991",
+        "Developer/planned publisher": "Scot Simpson / Jah Software",
+        "Exists ?": "Unverified",
+        "Notes": "Programmer claims game \"complete and fully tested\". May have seen limited distribution; Demo exists."
+      },
+      {
+        "Title": "Diamonds",
+        "Year": "1996",
+        "Developer/planned publisher": "Richard Bennett, Sean Craig & Alex Lee",
+        "Exists ?": "Yes",
+        "Notes": "Playable, 99% complete"
+      },
+      {
+        "Title": "Don't Go Alone",
+        "Year": "1989",
+        "Developer/planned publisher": "Accolade",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Double Dragon II",
+        "Year": "1989",
+        "Developer/planned publisher": "Mastertronic",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Dragon's Lair",
+        "Year": "1990",
+        "Developer/planned publisher": "Ready Soft",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development. Prototype version spanning 16 floppy disks, used greyscale"
+      },
+      {
+        "Title": "Dragon's Lair: Escape from Singe's Castle",
+        "Year": "1991",
+        "Developer/planned publisher": "Ready Soft",
+        "Exists ?": "Unverified",
+        "Notes": "Reports it was completed. Manual from other ports have IIGS loading instructions."
+      },
+      {
+        "Title": "Dragon's Lair II: Time Warp",
+        "Year": "1992",
+        "Developer/planned publisher": "Ready Soft",
+        "Exists ?": "Unverified",
+        "Notes": "Reports it was completed. Manual from other ports have IIGS loading instructions."
+      },
+      {
+        "Title": "Faery Tale Adventure",
+        "Year": "1988",
+        "Developer/planned publisher": "MicroIllusions",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development"
+      },
+      {
+        "Title": "Final Destination",
+        "Year": "1990",
+        "Developer/planned publisher": "Pangea Software",
+        "Exists ?": "Unverified",
+        "Notes": "Was to be included with Cosmocade; canceled due to being incomplete"
+      },
+      {
+        "Title": "Flintstones",
+        "Year": "1989",
+        "Developer/planned publisher": "MicroIllusions",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Greg Norman's Ultimate Golf",
+        "Year": "1989",
+        "Developer/planned publisher": "Mastertronics",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Hardball II",
+        "Year": "1989",
+        "Developer/planned publisher": "Accolade",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Heat Wave",
+        "Year": "1989",
+        "Developer/planned publisher": "Accolade",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Ishido",
+        "Year": "1989",
+        "Developer/planned publisher": "Epyx",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "It Came from the Desert",
+        "Year": "1989",
+        "Developer/planned publisher": "Cinemaware",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Jigsaw Deluxe[6]",
+        "Year": "1989",
+        "Developer/planned publisher": "Britannica Software",
+        "Exists ?": "Yes",
+        "Notes": "Complete; missing new puzzle art"
+      },
+      {
+        "Title": "Leisure Suit Larry Goes Looking for Love",
+        "Year": "1988",
+        "Developer/planned publisher": "Sierra",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development in 1988"
+      },
+      {
+        "Title": "Lode Runner",
+        "Year": "1989",
+        "Developer/planned publisher": "ACS",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - no collision detection, missing sound effects"
+      },
+      {
+        "Title": "Lords of the Rising Sun",
+        "Year": "1989",
+        "Developer/planned publisher": "Cinemaware (Ed Magnin & Ivan Manley)",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development in 1988"
+      },
+      {
+        "Title": "Magic Johnson's Basketball",
+        "Year": "1989",
+        "Developer/planned publisher": "Synergistic Software / Melbourne House",
+        "Exists ?": "Yes",
+        "Notes": "Finished - fully playable (beta version, bugs)"
+      },
+      {
+        "Title": "Manhunter San Francisco",
+        "Year": "1989",
+        "Developer/planned publisher": "Sierra",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development"
+      },
+      {
+        "Title": "Le Manor de Mortville",
+        "Year": "1989",
+        "Developer/planned publisher": "Second Sight Software",
+        "Exists ?": "Yes",
+        "Notes": ""
+      },
+      {
+        "Title": "Miami Vice",
+        "Year": "1989",
+        "Developer/planned publisher": "Intracorp",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Mindshadow",
+        "Year": "1993",
+        "Developer/planned publisher": "Rebecca Heineman / Interplay",
+        "Exists ?": "Yes",
+        "Notes": "Early-stage port using 8-bit version as framework (missing GUI, sound or enhanced graphics)"
+      },
+      {
+        "Title": "Mini-Prix",
+        "Year": "1990",
+        "Developer/planned publisher": "FTA",
+        "Exists ?": "Yes",
+        "Notes": "Playable - pre-release beta version, bugs"
+      },
+      {
+        "Title": "Monopoly",
+        "Year": "1989",
+        "Developer/planned publisher": "Mastertronics",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Oil Landers",
+        "Year": "1992",
+        "Developer/planned publisher": "FTA",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete"
+      },
+      {
+        "Title": "Opale",
+        "Year": "1993",
+        "Developer/planned publisher": "Brutal Deluxe",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete, preview demo released"
+      },
+      {
+        "Title": "Operation Wolf",
+        "Year": "1989",
+        "Developer/planned publisher": "Taito America",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Passengers on the Wind",
+        "Year": "1988",
+        "Developer/planned publisher": "Ordigrames / Infogrames",
+        "Exists ?": "Yes",
+        "Notes": ""
+      },
+      {
+        "Title": "Pinball Wizard",
+        "Year": "1988",
+        "Developer/planned publisher": "ERE Informatique / Accolade",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - game engine not fully complete, design bugs. Playable."
+      },
+      {
+        "Title": "Police Quest II: The Vengeance",
+        "Year": "1988",
+        "Developer/planned publisher": "Sierra",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development in 1988"
+      },
+      {
+        "Title": "Pool of Radiance",
+        "Year": "1989",
+        "Developer/planned publisher": "Strategic Simulations Inc",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Project Neptune",
+        "Year": "1989",
+        "Developer/planned publisher": "Infogrames / Epyx",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete"
+      },
+      {
+        "Title": "Purple Saturn Day",
+        "Year": "1989",
+        "Developer/planned publisher": "Infogrames / Epyx",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES"
+      },
+      {
+        "Title": "Puzznic",
+        "Year": "1990",
+        "Developer/planned publisher": "Ryan Ridges & John Lund / Taito America",
+        "Exists ?": "Yes",
+        "Notes": "Finished - fully playable (unpublished due to Taito America closure)"
+      },
+      {
+        "Title": "Ragnarok",
+        "Year": "",
+        "Developer/planned publisher": "DreamWorld",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development. Actual screen shot exists."
+      },
+      {
+        "Title": "Renegade",
+        "Year": "1988",
+        "Developer/planned publisher": "Taito America",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development at 1989 CES. Advertised available by Taito. Actual screen shots exist."
+      },
+      {
+        "Title": "Return to Castle Wolfenstein",
+        "Year": "1992",
+        "Developer/planned publisher": "Martin Hill",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - basic game engine only, no enemy AI or finished levels"
+      },
+      {
+        "Title": "Rick Dangerous",
+        "Year": "2019",
+        "Developer/planned publisher": "Jason Anderson",
+        "Exists ?": "Yes",
+        "Notes": "Playable, sound engine needs work (low quality); bugs"
+      },
+      {
+        "Title": "Runaway Robots",
+        "Year": "1988",
+        "Developer/planned publisher": "Tomoo Yoshiya / PBI Software",
+        "Exists ?": "Yes",
+        "Notes": ""
+      },
+      {
+        "Title": "S.D.I.",
+        "Year": "1988",
+        "Developer/planned publisher": "Cinemaware",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development. Actual screen shots exist."
+      },
+      {
+        "Title": "Scooby Doo",
+        "Year": "1990",
+        "Developer/planned publisher": "MicroIllusions",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development"
+      },
+      {
+        "Title": "Sherlock: The Riddle of the Crown Jewels",
+        "Year": "1988",
+        "Developer/planned publisher": "Infocom",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development"
+      },
+      {
+        "Title": "Shufflepuck Cafe",
+        "Year": "1990",
+        "Developer/planned publisher": "Christopher Gross / Broderbund",
+        "Exists ?": "Yes",
+        "Notes": "Finished - fully playable"
+      },
+      {
+        "Title": "SimCity",
+        "Year": "1994",
+        "Developer/planned publisher": "Rebecca Heineman",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - rudimentary menus, scrolling, displays"
+      },
+      {
+        "Title": "Space Ace II: Borf's Revenge",
+        "Year": "1991",
+        "Developer/planned publisher": "ReadySoft",
+        "Exists ?": "Unverified",
+        "Notes": "Reports it was completed. Manual from other ports have IIGS loading instructions."
+      },
+      {
+        "Title": "Space Harrier",
+        "Year": "1989",
+        "Developer/planned publisher": "FTA",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - no collision detection, sound effects, or ability to complete first level"
+      },
+      {
+        "Title": "Space Quest III: The Pirates of Pestulon",
+        "Year": "1988",
+        "Developer/planned publisher": "Sierra",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development in 1988"
+      },
+      {
+        "Title": "Star Command",
+        "Year": "1993",
+        "Developer/planned publisher": "Joseph lee",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - basic game engine"
+      },
+      {
+        "Title": "Star Wizard",
+        "Year": "1989",
+        "Developer/planned publisher": "Sergeant Claude / Antic's",
+        "Exists ?": "Yes",
+        "Notes": "Playable - pre-release beta version, bugs"
+      },
+      {
+        "Title": "Super Mario Bros.",
+        "Year": "1997",
+        "Developer/planned publisher": "Lucas Scharenbroich",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - missing levels and audio. Playable."
+      },
+      {
+        "Title": "Sword of Sodan",
+        "Year": "1989",
+        "Developer/planned publisher": "Visual Concepts (Scott Patterson) / Discovery Software",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - 5 of 11 levels missing enemy sprites or obstacles. Playable version shown at 1989 CES."
+      },
+      {
+        "Title": "Teenage Queen",
+        "Year": "1990",
+        "Developer/planned publisher": "Miami Software / Infogrames",
+        "Exists ?": "Yes",
+        "Notes": "Finished - fully playable"
+      },
+      {
+        "Title": "TimeLord",
+        "Year": "1992",
+        "Developer/planned publisher": "Dreamworld (Chris McKinsey & Donald McIntosh)",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - lacks audio, unfinished map locations and story"
+      },
+      {
+        "Title": "Ultima V",
+        "Year": "1988",
+        "Developer/planned publisher": "Richard Garriot / Origin Systems",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development by Origin staff"
+      },
+      {
+        "Title": "Ultima VI",
+        "Year": "1990",
+        "Developer/planned publisher": "Richard Garriot / Origin Systems",
+        "Exists ?": "Unverified",
+        "Notes": "Claims preliminary work started before canceled. IIGS version mentioned on box and manual of ports."
+      },
+      {
+        "Title": "UMS 2 - Nations at War",
+        "Year": "1990",
+        "Developer/planned publisher": "Microplay",
+        "Exists ?": "Unverified",
+        "Notes": "Reported programmed by developer. Manual from other ports have IIGS loading instructions."
+      },
+      {
+        "Title": "Vindicators",
+        "Year": "1989",
+        "Developer/planned publisher": "Tengen / Atari Games",
+        "Exists ?": "Yes",
+        "Notes": "Finished - fully playable (beta-version, bugs)"
+      },
+      {
+        "Title": "Wings of Fury",
+        "Year": "",
+        "Developer/planned publisher": "Robin Kar & Matt Crysdale / Broderbund",
+        "Exists ?": "Unverified",
+        "Notes": "Reported in development"
+      },
+      {
+        "Title": "Wonder Bulla in Terrific Land",
+        "Year": "",
+        "Developer/planned publisher": "FTA",
+        "Exists ?": "Yes",
+        "Notes": "Incomplete - no collision detection or audio. Unfinished levels."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "1-2-Word Search DX",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "November 27, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Adventure",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "March 25, 2022",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Aery - A Journey Beyond Time",
+        "Developer": "EpiXR Games UG",
+        "Publisher": "EpiXR Games UG",
+        "Release Date": "August 27, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Aery - Sky Castle",
+        "Developer": "EpiXR Games UG",
+        "Publisher": "EpiXR Games UG",
+        "Release Date": "September 10, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Aery - Little Bird Adventure",
+        "Developer": "EpiXR Games UG",
+        "Publisher": "EpiXR Games UG",
+        "Release Date": "March 23, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Aery - Broken Memories",
+        "Developer": "EpiXR Games UG",
+        "Publisher": "EpiXR Games UG",
+        "Release Date": "September 24, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "AVIGA Trio",
+        "Developer": "Tucasoft",
+        "Publisher": "Tucasoft",
+        "Release Date": "May 3, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Akka Arrh",
+        "Developer": "Llamasoft Ltd.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 21, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Abduction 2600",
+        "Developer": "John Van Ryzin",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "May 5, 2023",
+        "Notes": "No longer available (11/2/23)"
+      },
+      {
+        "Title": "Alien Brigade",
+        "Developer": "Ken Grant",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 10, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Amoeba Jump",
+        "Developer": "Dionoid",
+        "Publisher": "AtariAge",
+        "Release Date": "June 2, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Ancient War in the Skies",
+        "Developer": "MicroProse",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 4, 2022",
+        "Notes": "DOSBox"
+      },
+      {
+        "Title": "Annihilation",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "February 23, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Apolune 2",
+        "Developer": "Lost Astronaut Studios",
+        "Publisher": "Lost Astronaut Studios",
+        "Release Date": "August 12, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Aquaventure",
+        "Developer": "Gary Shannon, Tod Frye",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "August 26, 2022",
+        "Notes": "Atari XP release"
+      },
+      {
+        "Title": "A.R.T.I. 7800",
+        "Developer": "MuddyVision",
+        "Publisher": "MuddyVision",
+        "Release Date": "October 14, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Asteroid v Claw",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "April 19, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Asteroids",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 17, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Asteroids Deluxe: 7800",
+        "Developer": "Bob DeCrescenzo",
+        "Publisher": "AtariAge",
+        "Release Date": "April  26, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Asteroids: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 14, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Atari 50: The Anniversary Celebration",
+        "Developer": "Digital Eclipse",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 20, 2022[3]",
+        "Notes": ""
+      },
+      {
+        "Title": "Atari Mania",
+        "Developer": "iLLOGIKA Studios",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 13, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Atari VCS Vault",
+        "Developer": "Code Mystics",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Atari VCS Vault 2",
+        "Developer": "Code Mystics",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Ato",
+        "Developer": "Tiny Warrior Games",
+        "Publisher": "Tiny Warrior Games",
+        "Release Date": "February 3, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Avian Knights",
+        "Developer": "Alan-1, Inc.",
+        "Publisher": "Alan-1, Inc.",
+        "Release Date": "May 12, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Basketbroom",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "October 17, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Basketbrawl",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 15, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Battle Rockets",
+        "Developer": "Gumbo Machine, LLC",
+        "Publisher": "Gumbo Machine, LLC",
+        "Release Date": "December 1, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Berzerk",
+        "Developer": "Stern Electronics, Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "March 17, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Berzerk: Recharged",
+        "Developer": "SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "November 9, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Biolab Wars",
+        "Developer": "2ndBoss",
+        "Publisher": "2ndBoss",
+        "Release Date": "August 30, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Black Widow: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 28, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Block'em Sock'em",
+        "Developer": "Adam Welch",
+        "Publisher": "John Hancock",
+        "Release Date": "April 5, 2024",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Bloo Kid",
+        "Developer": "Winterworks GmbH",
+        "Publisher": "Winterworks GmbH",
+        "Release Date": "November 3, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Bloo Kid 2",
+        "Developer": "Winterworks GmbH",
+        "Publisher": "Winterworks GmbH",
+        "Release Date": "November 3, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Boulder Dash Deluxe",
+        "Developer": "BBG Entertainment GmbH",
+        "Publisher": "BBG Entertainment GmbH",
+        "Release Date": "December 24, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "BPM Boy",
+        "Developer": "RetroNinja Inc.",
+        "Publisher": "RetroNinja Inc.",
+        "Release Date": "June 10, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Breakout: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 10, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Cash Cow DX",
+        "Developer": "pixel games SARL-S",
+        "Publisher": "pixel games SARL-S",
+        "Release Date": "March 29, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Breakout",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "March 18, 2022",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Catacombs of Chaos",
+        "Developer": "Gemintronic",
+        "Publisher": "John Hancock, Jason Santuci",
+        "Release Date": "June 16, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Catty & Batty: The Spirit Guide",
+        "Developer": "Philipp Lehner",
+        "Publisher": "Philipp Lehner",
+        "Release Date": "May 20, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Caverns of Mars: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "March 9, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Centipede: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "September 28, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Centipede",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "January 14, 2022",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Circus Atari",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 1, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Circus Interstellar",
+        "Developer": "Ettinsoft",
+        "Publisher": "Ettinsoft",
+        "Release Date": "May 10, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Cosmic PANIC",
+        "Developer": "Sumoshell Bombfunk",
+        "Publisher": "Sumoshell Bombfunk",
+        "Release Date": "February 23, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Crusade In Europe",
+        "Developer": "MicroProse",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 18, 2022",
+        "Notes": "DOSBox"
+      },
+      {
+        "Title": "Crystal Quest",
+        "Developer": "Bob DeCrescenzo",
+        "Publisher": "AtariAge",
+        "Release Date": "February 9, 2024",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Cymatically Muffed",
+        "Developer": "Kelsam",
+        "Publisher": "Kelsam",
+        "Release Date": "September 22, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Dark Chambers",
+        "Developer": "John Howard Palevich, Joel Gluck",
+        "Publisher": "Atari Exchange, Antic Software, Electric Dream",
+        "Release Date": "October 29, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "The Darkside Detective",
+        "Developer": "Spooky Doorway",
+        "Publisher": "Akupara Games",
+        "Release Date": "August 10, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "The Darkside Detective: A Fumble in the Dark",
+        "Developer": "Spooky Doorway",
+        "Publisher": "Akupara Games",
+        "Release Date": "August 10, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "D/Generation",
+        "Developer": "West Coast Software",
+        "Publisher": "West Coast Software",
+        "Release Date": "April 30, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Danger Scavenger",
+        "Developer": "Piotr Wolk, Star Drifters",
+        "Publisher": "Star Drifters, Doyoyo Games",
+        "Release Date": "January 19, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Dare Devil",
+        "Developer": "Lewis Hill",
+        "Publisher": "MuddyVision, AtariAge",
+        "Release Date": "September 8, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Dark Cavern",
+        "Developer": "Mattel",
+        "Publisher": "Atari, Inc / M Network",
+        "Release Date": "May 24, 2024",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Days of Doom",
+        "Developer": "SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "September 21, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Desert Falcon",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 15, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Dogfight",
+        "Developer": "Vektor Grafix",
+        "Publisher": "MicroProse, Atari, Inc.",
+        "Release Date": "January 28, 2022",
+        "Notes": "DOSBox"
+      },
+      {
+        "Title": "Donut Dodo",
+        "Developer": "pixel.games",
+        "Publisher": "pixel.games",
+        "Release Date": "June 3, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Dragon's Cache",
+        "Developer": "Todd Furmanski",
+        "Publisher": "AtariAge",
+        "Release Date": "December 29, 2023",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Dragon's Descent",
+        "Developer": "Todd Furmanski",
+        "Publisher": "AtariAge",
+        "Release Date": "December 29, 2023",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Dragon's Havoc",
+        "Developer": "Todd Furmanski",
+        "Publisher": "AtariAge",
+        "Release Date": "December 29, 2023",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Doodle Taxi",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "May 26, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Dynablasters",
+        "Developer": "BBG Entertainment",
+        "Publisher": "BBG Entertainment",
+        "Release Date": "September 14, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "El Panadero - The Baker",
+        "Developer": "Sketchy Ceviche",
+        "Publisher": "Sketchy Ceviche",
+        "Release Date": "October 4, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "End's Reach",
+        "Developer": "Cuirass Entertainment",
+        "Publisher": "Cuirass Entertainment",
+        "Release Date": "July 28, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Escape from PoPo",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "April 26, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "E.X.O. 7800",
+        "Developer": "MuddyVision",
+        "Publisher": "MuddyVision",
+        "Release Date": "October 13, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Failsafe",
+        "Developer": "Bob DeCrescenzo",
+        "Publisher": "Bob DeCrescenzo",
+        "Release Date": "June 27. 2023",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Fast Break",
+        "Developer": "Accolade",
+        "Publisher": "Accolade",
+        "Release Date": "March 15, 2022",
+        "Notes": "DOSBox"
+      },
+      {
+        "Title": "Fatal Run",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "January 7, 2022",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Food Fight",
+        "Developer": "General Computer Corporation",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "November 19, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Food Fight: Culinary Combat",
+        "Developer": "Mega Cat Studios",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 15, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Frenzy",
+        "Developer": "Bob DeCrescenzo",
+        "Publisher": "AtariAge",
+        "Release Date": "February 2, 2024",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Frog Hop",
+        "Developer": "Tiny Warrior Games",
+        "Publisher": "Tiny Warrior Games",
+        "Release Date": "December 24, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Game Panic 3",
+        "Developer": "John Hancock, Jason Santuci",
+        "Publisher": "John Hancock, Jason Santuci",
+        "Release Date": "October 14, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Gore Crush",
+        "Developer": "Gigatank 3000",
+        "Publisher": "Gigatank 3000",
+        "Release Date": "October 31, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "The Gem Collector",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "September 19, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Gravitar",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "March 18, 2022",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Gravitar: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "May 11, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Groundskeeper 2",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "May 19, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Gunslugs",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "December 16, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Gunslugs 2",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "March 23, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Guntech",
+        "Developer": "Jani Penttinen",
+        "Publisher": "Utopos Games",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Guntech 2",
+        "Developer": "Jani Penttinen",
+        "Publisher": "Utopos Games",
+        "Release Date": "March 23, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Harpy's Curse",
+        "Developer": "Todd Furmanski",
+        "Publisher": "AtariAge",
+        "Release Date": "January 5, 2024",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Harrier Jump Jet",
+        "Developer": "MicroProse",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 11, 2022",
+        "Notes": "DOSbox"
+      },
+      {
+        "Title": "Haunted House",
+        "Developer": "Orbit Studio",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 12, 2023",
+        "Notes": "2023 edition"
+      },
+      {
+        "Title": "Haunted House - TRICKORTREAT Redeem Code",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 26, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Heroes of Loot",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "October 28, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Heroes of Loot 2",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "April 21, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Jetboard Joust",
+        "Developer": "BitBull Ltd",
+        "Publisher": "Freedom Games",
+        "Release Date": "May 18, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Kombinera",
+        "Developer": "Graphite Lab, Joystick",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "April 7, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Lunar Lander Beyond",
+        "Developer": "Dreams Uncorporated",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "April 23, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Mad Age & This Guy",
+        "Developer": "Atomic Wolf",
+        "Publisher": "Atomic Wolf",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Madness Beverage",
+        "Developer": "Blue Sunset Games",
+        "Publisher": "Console Labs S.A.",
+        "Release Date": "December 20, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Meganoid",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "August 5, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Metgan's Multiball",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "June 21. 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Metgan's Traffic Mission",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "June 9, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Micro Prose Soccer",
+        "Developer": "MicroProse, Sensible Software",
+        "Publisher": "Ziggurat",
+        "Release Date": "April 1, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Mighty Math",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "January, 26 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Milli & Greg",
+        "Developer": "2ndBoss",
+        "Publisher": "2ndBoss",
+        "Release Date": "December 1, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Missile Command: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 11, 2020",
+        "Notes": "2020 version"
+      },
+      {
+        "Title": "October 29, 2022",
+        "Developer": "2022 version"
+      },
+      {
+        "Title": "Montezuma's Revenge",
+        "Developer": "Normal Distribution LLC",
+        "Publisher": "Normal Distribution LLC",
+        "Release Date": "October 27, 2023",
+        "Notes": "Retro and Modern version"
+      },
+      {
+        "Title": "Motor Psycho",
+        "Developer": "BlueSky Software",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "November 5, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Mr. Run and Jump",
+        "Developer": "Graphite Lab, Heavy Horse Games",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "July 25, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Mr. Run and Jump 2600",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "June 14, 2024",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Mutazione",
+        "Developer": "Die Gute Fabrik",
+        "Publisher": "Akupara Games",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Neosprint",
+        "Developer": "Headless Chicken Games",
+        "Publisher": "Headless Chicken Games",
+        "Release Date": "October 6, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Ninja Golf",
+        "Developer": "BlueSky Software",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 22, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Off-World Rally",
+        "Developer": "Cuirass Entertainment",
+        "Publisher": "Cuirass Entertainment",
+        "Release Date": "July 26, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "A Path to the Princess",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "February 24, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Pedra!",
+        "Developer": "Tucasoft (Ian Weeks)",
+        "Publisher": "Tucasoft (Ian Weeks)",
+        "Release Date": "October 26, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Pixel Cup Soccer",
+        "Developer": "BATOVI Games Studio",
+        "Publisher": "BATOVI Games Studio",
+        "Release Date": "June 11, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Planet Smashers",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "November 12, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Planetary Defense Force",
+        "Developer": "Blue Sunset Games",
+        "Publisher": "Blue Sunset Games",
+        "Release Date": "September 29, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "PolyGunr",
+        "Developer": "RetroNinja",
+        "Publisher": "RetroNinja",
+        "Release Date": "January 19, 2024",
+        "Notes": "Free Demo"
+      },
+      {
+        "Title": "Popcorn Rocket",
+        "Developer": "Battle Geek Plus, LLC",
+        "Publisher": "Battle Geek Plus, LLC",
+        "Release Date": "July 12, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "The Perplexing Orb Bounce N Roll",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "December 22, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Puzzledorf",
+        "Developer": "Stuart's Pixel Games",
+        "Publisher": "Stuart's Pixel Games",
+        "Release Date": "August 4, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Qomp 2",
+        "Developer": "Graphite Lab",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 20, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Quantum: Recharged",
+        "Developer": "SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "August 17, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Rally Racers",
+        "Developer": "West Coast Games Ltd",
+        "Publisher": "West Coast Games Ltd",
+        "Release Date": "January 28, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Real Sports Baseball",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "January 21, 2022",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Retro Game Quest",
+        "Developer": "Gemintronic",
+        "Publisher": "John Hancock, Jason Santuci",
+        "Release Date": "June 16, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Roasty Buds: Special Brew",
+        "Developer": "Abstract Polygon",
+        "Publisher": "Abstract Polygon",
+        "Release Date": "November 22, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Residual",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "February 17, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Saboteur",
+        "Developer": "Howard Scott Warshaw",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "August 26, 2022",
+        "Notes": "Atari XP Release"
+      },
+      {
+        "Title": "Savage Halloween",
+        "Developer": "2ndBoss",
+        "Publisher": "2ndBoss",
+        "Release Date": "October 20, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Scrapyard Dog",
+        "Developer": "BlueSky Software",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "October 22, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Sentinels of Atlantis",
+        "Developer": "Michael Greenhut",
+        "Publisher": "Michael Greenhut",
+        "Release Date": "September 27, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Sigi - A Fart for Melusina",
+        "Developer": "pixel.games",
+        "Publisher": "pixel.games",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Simple Light Cycles",
+        "Developer": "Kelsam",
+        "Publisher": "Kelsam",
+        "Release Date": "September 26, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Sir Lovelot",
+        "Developer": "pixel.games",
+        "Publisher": "pixel.games",
+        "Release Date": "December 24, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Skinny and Franko: Fists of Violence",
+        "Developer": "Blue Sunset Games",
+        "Publisher": "Blue Sunset Games",
+        "Release Date": "April 28, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Sky Frizz",
+        "Developer": "Liminalist",
+        "Publisher": "Liminalist",
+        "Release Date": "August 16, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Snake Core",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "March 1, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Something Ate My Alien",
+        "Developer": "Rokabium Games",
+        "Publisher": "Rokabium Games",
+        "Release Date": "January 8, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Duel",
+        "Developer": "Bob DeCrescenzo",
+        "Publisher": "AtariAge",
+        "Release Date": "March 22, 2024",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "Space Grunts",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "September 15, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Spear Master",
+        "Developer": "Osarion",
+        "Publisher": "Osarion",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Stardash",
+        "Developer": "Orangepixel",
+        "Publisher": "Orangepixel",
+        "Release Date": "November 17, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Strike Zone: 2600",
+        "Developer": "Edward Smith, Kevin Mosley",
+        "Publisher": "Edward Smith, Kevin Mosley",
+        "Release Date": "October 14, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Super 3D Maze 16 Demo",
+        "Developer": "JD Video Game Productions",
+        "Publisher": "JD Video Game Productions",
+        "Release Date": "July 1, 2024",
+        "Notes": "Free"
+      },
+      {
+        "Title": "Super 3D Maze 16",
+        "Developer": "JD Video Game Productions",
+        "Publisher": "JD Video Game Productions",
+        "Release Date": "October 11, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Huey",
+        "Developer": "Cosmi Corporation",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "December 3, 2021",
+        "Notes": "Atari 7800"
+      },
+      {
+        "Title": "SuperMash",
+        "Developer": "Digital Continue",
+        "Publisher": "Digital Continue",
+        "Release Date": "January 8, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Star Shooter 16",
+        "Developer": "JD Video Game Productions",
+        "Publisher": "JD Video Game Productions",
+        "Release Date": "October 6, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Sydney Hunter and the Curse of the Mayan",
+        "Developer": "CollectorVision Games",
+        "Publisher": "CollectorVision Games",
+        "Release Date": "November 18, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Tanks, But No Tanks",
+        "Developer": "Set Sail Games",
+        "Publisher": "Set Sail Games",
+        "Release Date": "April 12, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Tailgunner",
+        "Developer": "Grizzly Machine",
+        "Publisher": "Grizzly Machine",
+        "Release Date": "February 11, 2021",
+        "Notes": "No longer available (5/12/23)"
+      },
+      {
+        "Title": "Tempest 4000",
+        "Developer": "Llamasoft Ltd.",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "February 22, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Tetris Forever",
+        "Developer": "Digital Eclipse",
+        "Publisher": "",
+        "Release Date": "November 12, 2024",
+        "Notes": "[4]"
+      },
+      {
+        "Title": "The Perplexing Orb: Bounce Challenge",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "November 27, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Tile Cross",
+        "Developer": "Set Sail Games",
+        "Publisher": "Set Sail Games",
+        "Release Date": "April 12, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Thrustlander",
+        "Developer": "Improbable Pixel",
+        "Publisher": "Improbable Pixel",
+        "Release Date": "December 24, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Tilting Tiles",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "August 25, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Tilting Tiles: Fires of Industry",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "November 27, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Tilting Tiles Ultimate Tilt Remix",
+        "Developer": "TreeFall Studios L.L.C.",
+        "Publisher": "TreeFall Studios L.L.C.",
+        "Release Date": "August 23, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Timeline Mission",
+        "Developer": "Metgan Games",
+        "Publisher": "Metgan Games",
+        "Release Date": "January 26, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Tiny Hands Adventure",
+        "Developer": "Blue Sunset Games",
+        "Publisher": "Blue Sunset Games",
+        "Release Date": "September 20, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Tower of Rubble 2600",
+        "Developer": "Dionoid",
+        "Publisher": "AtariAge",
+        "Release Date": "June 2, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Turnament",
+        "Developer": "Philipp Lehner",
+        "Publisher": "Philipp Lehner",
+        "Release Date": "July 7, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Tyre Trax",
+        "Developer": "Lewis HIll",
+        "Publisher": "MuddyVision, AtariAge",
+        "Release Date": "September 8, 2023",
+        "Notes": "Atari 2600"
+      },
+      {
+        "Title": "Ultimate Ski Jumping",
+        "Developer": "Blue Sunset Games",
+        "Publisher": "Forever Entertainment S.A.",
+        "Release Date": "September 1, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Ultra Mission",
+        "Developer": "Gumbo Machine, LLC",
+        "Publisher": "Gumbo Machine, LLC",
+        "Release Date": "October 9, 2023",
+        "Notes": ""
+      },
+      {
+        "Title": "Unsung Warriors – Prologue",
+        "Developer": "Osarion, Mountaineer",
+        "Publisher": "Osarion, Mountaineer",
+        "Release Date": "December 11, 2020",
+        "Notes": ""
+      },
+      {
+        "Title": "Utopos",
+        "Developer": "Jani Penttinen",
+        "Publisher": "Utopos Games",
+        "Release Date": "April 7, 2021",
+        "Notes": ""
+      },
+      {
+        "Title": "Wild Dogs",
+        "Developer": "2ndBoss",
+        "Publisher": "2ndBoss",
+        "Release Date": "January 19, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Wyvia",
+        "Developer": "Blast Programming",
+        "Publisher": "Gigatank 3000",
+        "Release Date": "November 29, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "Yars: Recharged",
+        "Developer": "Adamvision Studios, SneakyBox",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "August 23, 2022",
+        "Notes": ""
+      },
+      {
+        "Title": "Yars' Return",
+        "Developer": "Curt Vendel, Dennis Debro",
+        "Publisher": "Atari, Inc.",
+        "Release Date": "August 26, 2022",
+        "Notes": "Atari XP release"
+      },
+      {
+        "Title": "Yars Rising",
+        "Developer": "WayForward",
+        "Publisher": "Atari",
+        "Release Date": "September 10, 2024",
+        "Notes": ""
+      },
+      {
+        "Title": "ZPH: The Game",
+        "Developer": "L. Camara",
+        "Publisher": "L. Camara",
+        "Release Date": "October 14, 2023",
+        "Notes": ""
+      }
+    ]
+  }
+]

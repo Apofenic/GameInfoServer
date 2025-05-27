@@ -1,0 +1,48 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Ben 10",
+        "Description": "Side-scrolling platform game, the only Cartoon Network-exclusive video game for the system.",
+        "Total cards": "80 released (6 included + 74)",
+        "Booster packs for complete set and minimum price": "13 packs $150 ($20 game + $130 packs)"
+      },
+      {
+        "Title": "Interstellar Wrestling League",
+        "Description": "2v2 fighting game similar to ClayFighter, but with alien-like characters.",
+        "Total cards": "54 released (6 included + 48), 51 unreleased",
+        "Booster packs for complete set and minimum price": "8 packs $100 ($20 game + $80 packs)"
+      },
+      {
+        "Title": "Marvel Heroes",
+        "Description": "Side-scrolling platform game including some X-Men characters.",
+        "Total cards": "70 released (6 included + 64)",
+        "Booster packs for complete set and minimum price": "11 packs $130 ($20 game + $110 packs)"
+      },
+      {
+        "Title": "Spider-Man",
+        "Description": "Side-scrolling platform game",
+        "Total cards": "59 released (7 included + 52), 1 unreleased",
+        "Booster packs for complete set and minimum price": "9 packs $110 ($20 game + $90 packs)"
+      },
+      {
+        "Title": "X-Men",
+        "Description": "Fighting game in which two characters face off against each other in self-contained matches similar to Street Fighter. It is the only game on the console to be rated T for \"Teen\".",
+        "Total cards": "56 released (6 included + 50), 46 unreleased",
+        "Booster packs for complete set and minimum price": "9 packs $159.99 ($69.99 console and game + $90 packs)"
+      },
+      {
+        "Title": "Avatar: The Last Air Bender (cancelled)",
+        "Description": "-",
+        "Total cards": "-",
+        "Booster packs for complete set and minimum price": "-"
+      },
+      {
+        "Title": "Nick Extreme Sports (cancelled)",
+        "Description": "-",
+        "Total cards": "-",
+        "Booster packs for complete set and minimum price": "-"
+      }
+    ]
+  }
+]

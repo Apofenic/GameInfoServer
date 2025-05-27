@@ -1,0 +1,662 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Saurus, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Color re‑release": "October 28, 1998"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Color re‑release": "October 28, 1998"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Color re‑release": "October 28, 1998"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Color re‑release": "December 25, 1998"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Color re‑release": "October 28, 1998"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Color re‑release": "October 28, 1998"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Color re‑release": "October 28, 1998"
+      },
+      {
+        "Title": "Saurus, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Color re‑release": "December 25, 1998"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Color re‑release": "November 20, 1998"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Region": "North America and NTSC territories besides Japan. 31 games."
+      },
+      {
+        "Region": "Japanese (NTSC-J) formatted release. All 73 games."
+      },
+      {
+        "Region": "PAL region release, includes much of Europe, Australia, and parts of Asia. 39 games."
+      }
+    ]
+  },
+  {
+    "table3": [
+      {},
+      {
+        "Title": "Saurus, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "May 31, 1999",
+        "Release date": "March 19, 1999",
+        "undefined": "December 11, 1999"
+      },
+      {
+        "Title": "S-Neo, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "November 23, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Sega Toys",
+        "Developer(s)": "Sega Toys",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "March 16, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "July 31, 1999",
+        "Release date": "April 15, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "Ukiyotei, Taito",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "March 26, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "UEP Systems",
+        "Developer(s)": "UEP Systems (JP), SNK (EU)",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "February 24, 2000",
+        "undefined": "2000"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 8, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "April 15, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "Noise Factory, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "November 23, 1999",
+        "Release date": "October 21, 1999",
+        "undefined": "December 11, 1999"
+      },
+      {
+        "Title": "Iosys",
+        "Developer(s)": "Iosys",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 8, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Taito",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 21, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Sacnoth",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 16, 2000",
+        "Release date": "August 19, 1999",
+        "undefined": "2000"
+      },
+      {
+        "Title": "Sacnoth",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 16, 2000",
+        "Release date": "August 19, 1999",
+        "undefined": "2000"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "April 29, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "May 25, 2000",
+        "undefined": "2000"
+      },
+      {
+        "Title": "Sting, ESP",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 2, 2000",
+        "undefined": "2000"
+      },
+      {
+        "Title": "Success",
+        "Developer(s)": "Success (JP), SNK (EU)",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "March 23, 2000",
+        "undefined": "June 16, 2000"
+      },
+      {
+        "Title": "Sacnoth",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "December 22, 1999",
+        "undefined": "2000"
+      },
+      {
+        "Title": "Yumekobo, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "May 27, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "June 6, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "KID",
+        "Developer(s)": "KID",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "November 23, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "January 20, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No[b]",
+        "Backwards compatible": "Unreleased",
+        "Release date": "June 7, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "March 19, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "Visco",
+        "Developer(s)": "Visco",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "September 3, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Saurus, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "March 31, 2000[citation needed]",
+        "Release date": "March 16, 2000",
+        "undefined": "2000"
+      },
+      {
+        "Title": "SAS Sakata, Data East",
+        "Developer(s)": "Data East (JP), SNK (INT)",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "May 12, 1999",
+        "Release date": "June 24, 1999",
+        "undefined": "April 3, 2000"
+      },
+      {
+        "Title": "KID",
+        "Developer(s)": "KID",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "April 27, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ukiyotei, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "1999",
+        "Release date": "May 27, 1999",
+        "undefined": "2000"
+      },
+      {
+        "Title": "Ukiyotei, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "May 22, 2000",
+        "Release date": "September 3, 2000",
+        "undefined": "April 28, 2000"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "January 20, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ukiyotei, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "December 29, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "January 31, 2000",
+        "Release date": "December 29, 1999",
+        "undefined": "November 2, 2000"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "June 22, 2000",
+        "undefined": "June 16, 2000"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "March 19, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "April 22, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "March 19, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "1999",
+        "Release date": "April 15, 1999",
+        "undefined": "October 10, 1999"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "March 19, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "May 27, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Saurus, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "July 31, 1999",
+        "Release date": "July 29, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "Dennou Club",
+        "Developer(s)": "Dennou Club",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "November 23, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "June 22, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Namco",
+        "Developer(s)": "Namco, SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "July 31, 1999",
+        "Release date": "August 26, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 2, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "January 15, 2001",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 26, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "March 29, 2001",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 21, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "December 14, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "July 20, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Aruze",
+        "Developer(s)": "Aruze",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "March 16, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Japan Vistec",
+        "Developer(s)": "Japan Vistec",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "November 25, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "December 22, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Success",
+        "Developer(s)": "Success (JP), SNK (EU)",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "April 27, 2000",
+        "undefined": "June 16, 2000"
+      },
+      {
+        "Title": "KID",
+        "Developer(s)": "KID",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "October 21, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Success",
+        "Developer(s)": "Success (JP), SNK (EU)",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "January 27, 2000",
+        "undefined": "2000"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "March 19, 1999",
+        "Release date": "April 30, 1999",
+        "undefined": "October 1, 1999"
+      },
+      {
+        "Title": "Compile, Sega",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "July 22, 1999",
+        "Release date": "September 30, 1999",
+        "undefined": "November 26, 1999"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "September 30, 1999",
+        "Release date": "March 19, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "January 4, 2000",
+        "Release date": "November 11, 1999",
+        "undefined": "March 24, 2000"
+      },
+      {
+        "Title": "Capcom",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "June 7, 2000",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Saurus, SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "April 30, 1999",
+        "Release date": "October 6, 1999",
+        "undefined": "2000"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "2000",
+        "Release date": "July 29, 1999",
+        "undefined": "2000"
+      },
+      {
+        "Title": "ADK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "March 19, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Yumekobo",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "February 19, 2000",
+        "Release date": "January 27, 2000",
+        "undefined": "2000"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "November 30, 1999",
+        "Release date": "October 21, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "1999",
+        "Release date": "October 21, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "September 13, 2001",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "November 30, 1999",
+        "Release date": "December 22, 1999",
+        "undefined": "1999"
+      },
+      {
+        "Title": "SNK",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "December 4, 1999",
+        "Release date": "December 16, 1999",
+        "undefined": "February 25, 2000"
+      },
+      {
+        "Title": "DYNA",
+        "Developer(s)": "DYNA",
+        "Publisher(s)": "Yes",
+        "Backwards compatible": "Unreleased",
+        "Release date": "December 16, 1999",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "SETA",
+        "Developer(s)": "SNK",
+        "Publisher(s)": "No",
+        "Backwards compatible": "Unreleased",
+        "Release date": "March 29, 2001",
+        "undefined": "Unreleased"
+      }
+    ]
+  }
+]

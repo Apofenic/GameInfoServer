@@ -1,0 +1,58 @@
+[
+  {
+    "table1": [
+      {
+        "Serial": "MG1008",
+        "Game": "Backgammon"
+      },
+      {
+        "Serial": "MG1006",
+        "Game": "Baseball"
+      },
+      {
+        "Serial": "MG1007",
+        "Game": "Blackjack"
+      },
+      {
+        "Serial": "MG1004",
+        "Game": "Bowling/Micro Match"
+      },
+      {
+        "Serial": "MG1012",
+        "Game": "Boxing"
+      },
+      {
+        "Serial": "MG1005",
+        "Game": "Brickdown/Shooting Gallery"
+      },
+      {
+        "Serial": "MG1009",
+        "Game": "Casino I:  Roulette/Keno/Slots"
+      },
+      {
+        "Serial": "MG1001/MG1002",
+        "Game": "Catena"
+      },
+      {
+        "Serial": "MG1003",
+        "Game": "Hangman/Tic Tac Toe/Doodle"
+      },
+      {
+        "Serial": "MG1011",
+        "Game": "Pinball/Dungeon Hunt/Blockout"
+      },
+      {
+        "Serial": "Built-In",
+        "Game": "Rocket Patrol"
+      },
+      {
+        "Serial": "MG1013",
+        "Game": "Space Destroyers"
+      },
+      {
+        "Serial": "MG1010",
+        "Game": "UFO/Sea Monster/Break It Down/Rebuild/Shoot"
+      }
+    ]
+  }
+]

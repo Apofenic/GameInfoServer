@@ -1,0 +1,537 @@
+[
+  {
+    "table1": [
+      {
+        "Month": "Morita no Battle Field (森田のバトルフィールド, Morita no Batoru Fīrudo)",
+        "Title": "NEC PC-8801",
+        "Platform(s)": "Turn-based strategy game by Kazuro Morita.[4]"
+      },
+      {
+        "Month": "Door Door (ドア・ドア, Doa Doa)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Puzzle game by Koichi Nakamura.[5]\nPorted to the Famicom in 1985 and mobile phones in 2004.[5][6]"
+      },
+      {
+        "Month": "Guest Mariko Hashimoto (マリちゃん危機一髪, Mari-chan Kikiippatsu)",
+        "Title": "FM-8, other models",
+        "Platform(s)": "Adult game by Tadashi Makimura.[7]"
+      },
+      {
+        "Month": "Cosmic Soldier (宇宙の戦士, Uchū no Senshi)",
+        "Title": "NEC PC-8801",
+        "Platform(s)": "Shooter game by Yoshiyuki Okada.[8]"
+      },
+      {
+        "Month": "D.I.S Airport (Ｄ・Ｉ・Ｓエアポート, D.I.S Eapōto)",
+        "Title": "Sharp X1",
+        "Platform(s)": "Game by Seiji Fujihara.[citation needed]"
+      },
+      {
+        "Month": "Seiko's Adventure (星子のアドベンチャー, Seiko no Adobenchā)",
+        "Title": "NEC PC-8801",
+        "Platform(s)": "Adventure game by Toshiyuki Asanuma.[9]"
+      },
+      {
+        "Month": "Underground Monster (地底のモンスター, Chitei no Monsutā)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Maze game by Osamu Hasegawa.[10]"
+      },
+      {
+        "Month": "Bacteria Escape (バクテリアエスケープ, Bakuteria Esukēpu)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Maze game by Tomoshige Hashishita.[11][12]"
+      },
+      {
+        "Month": "Napoleon (ナポレオン, Naporeon)",
+        "Title": "NEC PC-6001",
+        "Platform(s)": "Card game by Hiroaki Shimada.[citation needed]"
+      },
+      {
+        "Month": "Love Match Tennis (ラブマッチテニス, Rabu Macchi Tenisu)",
+        "Title": "NEC PC-6001",
+        "Platform(s)": "Tennis game by Yuji Horii.[3]"
+      },
+      {
+        "Month": "Bōsō! Orient Kyūkō (暴走！オリエント急行, Bōsō! Oriento Kyūkō)",
+        "Title": "Sharp MZ-80K, other models",
+        "Platform(s)": "Action game by Toshiyuki Nagase.[13]"
+      },
+      {
+        "Month": "Piranha-kun no Isshūkan (ピラニア君の一週間, Pirania-kun no Isshūkan)",
+        "Title": "Sharp MZ-80B, other models",
+        "Platform(s)": "Action game by Atsushi Shirai.[citation needed]"
+      },
+      {
+        "Month": "Poker Extra (ポーカーエキストラ, Pōka Ēkisutora)",
+        "Title": "NEC PC-8001, other models",
+        "Platform(s)": "Card game by Masahiro Kawaguchi.[citation needed]"
+      },
+      {
+        "Month": "Alphos (アルフォス, Arufosu)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Shoot 'em up by Random House (Kazurou Morita's company), based on Namco's title Xevious.[14][15]"
+      },
+      {
+        "Month": "The Portopia Serial Murder Case (ポートピア連続殺人事件, Pōtopia Renzoku Satsujin Jiken)",
+        "Title": "NEC PC-6001, other models",
+        "Platform(s)": "Adventure game designed by Yuji Horii.[16]\nPorted to the Famicom in 1985 and mobile phones in 2001.[16][17]"
+      },
+      {
+        "Month": "Raita no Growing Up (雷太のグローイングアップ, Raita no Gurōinguappu)",
+        "Title": "NEC PC-6001, other models",
+        "Platform(s)": "Action game by Hiroaki Shimada.[18]"
+      },
+      {
+        "Month": "Titan Bōeisen (タイタン防衛戦, Taitan Bōeisen)",
+        "Title": "Sharp X1",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Gekisen! Minamitaiheiyō (激戦！南太平洋)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Action game by Osamu Hasegawa.[19]"
+      },
+      {
+        "Month": "Joshiryō Panic (女子寮パニック, Joshiryō Panikku)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Adventure game by Tadashi Makimura.[20]"
+      },
+      {
+        "Month": "Light Flipper (ライト・フリッパー, Raito Furippā)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Maze game by Yoshiyuki Okada.[21]"
+      },
+      {
+        "Month": "Toward 8 (トワード８, Towādo 8)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Fan Fun (ファンファン, Fan Fan)",
+        "Title": "NEC PC-8001, other models",
+        "Platform(s)": "Action game by Yasuhiro Miyata.[22]"
+      },
+      {
+        "Month": "Game Kyōjin no Uchū Ryokō (芸夢狂人の宇宙旅行)",
+        "Title": "NEC PC-8001mkII, other models",
+        "Platform(s)": "Shoot 'em up by Takanari Suzuki.[23]"
+      },
+      {
+        "Month": "Dokuron no Yakata (ドクロンの館)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": "Action game by Takashi Goto.[24]"
+      },
+      {
+        "Month": "Kagirinaki Tatakai (限りなき戦い)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": "Run & gun shooter game by Hiroshi Ishikawa.[25][26]"
+      },
+      {
+        "Month": "Lolita Syndrome (ロリータ・シンドローム, Rorīta Shindorōmu)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Adult game by Katsumi Mochizuki.[27]"
+      },
+      {
+        "Month": "Fushigi na Tabi (不思議な旅)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Adventure game by Tadashi Sugie.[28]"
+      },
+      {
+        "Month": "Tropical Boy (トロピカルボーイ, Toropikaru Boī)",
+        "Title": "NEC PC-8801",
+        "Platform(s)": "Action game by Takeshi Nakazawa.[29]"
+      },
+      {
+        "Month": "Mazeland",
+        "Title": "Sharp MZ-700",
+        "Platform(s)": "Maze game by Takashi Shimizu, based on the manga Dr. Slump."
+      },
+      {
+        "Month": "Magnetic Field (マグネチックフィールド, Magunechikku Fīrudo)",
+        "Title": "NEC PC-8001mkII, other models",
+        "Platform(s)": "Puzzle game by Hideyuki Akiyama[30]"
+      },
+      {
+        "Month": "PushMan (プッシュマン, Pusshuman)",
+        "Title": "NEC PC-8001, other models",
+        "Platform(s)": "Puzzle game by Masashi Hijikata.[31]"
+      },
+      {
+        "Month": "Checker Flag (チェッカーフラッグ, Chiekkā Furaggu)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Racing game by Masao Aoba.[citation needed]"
+      },
+      {
+        "Month": "Cosmo Crash (コスモクラッシュ, Kosumo Kurasshu)",
+        "Title": "FM-7",
+        "Platform(s)": "Shoot 'em up by Kazuhiro Hasegawa.[32]"
+      },
+      {
+        "Month": "Lovely Asuka (Ｌｏｖｅｌｙ飛鳥)",
+        "Title": "FM-7",
+        "Platform(s)": "Adventure game by Hiroyuki Odawara.[33]"
+      },
+      {
+        "Month": "Parallel World (パラレルワールド, Parareru Wārudo)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": "Role-playing game by Toshiyuki Nagase.[34]"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Month": "Newtron (ニュートロン, Nyūtoron)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Puzzle game by Chunsoft (Koichi Nakamura's company).[35]\nPorted to mobile phones in 2004.[35]"
+      },
+      {
+        "Month": "New Fan Fun (ニューファンファン, Nyūfanfan)",
+        "Title": "NEC PC-6001mkII, other models",
+        "Platform(s)": "Action game by Yasuhiro Miyata.[36]"
+      },
+      {
+        "Month": "No.1 Golf (Ｎｏ．１ゴルフ, No.1 Gorufu)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": "Golf game by Masashi Muramori.[37][38]"
+      },
+      {
+        "Month": "Blizzard (ブリザード, Burizādo)",
+        "Title": "Sharp-1500",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "High School Adventure (ハイスクールアドベンチャー, Hai Sukūru Adobenchā)",
+        "Title": "FM77",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Gootsn (グッツン, Guttsun)",
+        "Title": "Sharp X1",
+        "Platform(s)": "Puzzle game by Komei Kato."
+      },
+      {
+        "Month": "Rukteu Dark Castle: Dragon Angel's Miracle Voyage (暗黒城, Ankoku Shiro)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Game by Random House.[14]"
+      },
+      {
+        "Month": "Flipflop (フリップフロップ, Furippufuroppu)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Puzzle game by Teshige Dokite."
+      },
+      {
+        "Month": "Karakuri Ninpou (カラクリ忍法)",
+        "Title": "NEC PC-8801",
+        "Platform(s)": "Game by Takeshi Nakazawa."
+      },
+      {
+        "Month": "Swarm (スウォーム, Sūōmu)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Zarth (ザース, Zāsu)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Game by Studio Jandora."
+      },
+      {
+        "Month": "Arale no Jump Up (アラレのJump up)",
+        "Title": "NEC PC-8001mkII",
+        "Platform(s)": "Action game by Takanari Suzuki, based on the manga Dr. Slump."
+      },
+      {
+        "Month": "Magic Garden (マジックガーデン, Majikku Gāden)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Game by Toru Hidaka."
+      },
+      {
+        "Month": "Wingman (ウイングマン, Uinguman)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Game by Tam Tam, based on the Wingman manga series."
+      },
+      {
+        "Month": "Shabon Tama Arare (シャボン玉アラレ)",
+        "Title": "NEC PC-6001mkII",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Gumball (ガムボール, Gamubōru)",
+        "Title": "NEC PC-8801mkII, other models",
+        "Platform(s)": "Japanese version of the game of the same name developed by Broderbund."
+      },
+      {
+        "Month": "Blue Fox (ブルーフォックス, Burū Fokkusu)",
+        "Title": "FM-7, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Zunou 4989 (頭脳４９８９)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Game by Kazuo Ohashi."
+      },
+      {
+        "Month": "Again (アゲイン, Agein)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Adventure game by Yuhei Yamaguchi, co-published by Enix and Random House."
+      },
+      {
+        "Month": "Dr. Slump Bubble Daisakusen (Dr.スランプ バブル大作戦, Dr. Suranpu Baburu Daisakusen)",
+        "Title": "",
+        "Platform(s)": "Shooter game by Koji Okamoto, based on the manga Dr. Slump."
+      },
+      {
+        "Month": "The Hokkaido Serial Murder Case: The Okhotsk Disappearance (北海道連鎖殺人 オホーツクに消ゆ)",
+        "Title": "",
+        "Platform(s)": "Visual novel adventure game by Yuji Horii."
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Month": "El Dorado Denki (エルドラド伝奇, Eru Dorado Denki)",
+        "Title": "FM-7, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Door Door mk2 (ドアドアｍｋ２, Doa Doa mk2)",
+        "Title": "Sharp MZ-1500, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Hashire Senbeisan (走れせんべいさん)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": "Run & gun shooter game by Takashi Goto, based on the manga Dr. Slump."
+      },
+      {
+        "Month": "Zaxus (ザクサス, Zakusasu)",
+        "Title": "NEC PC-8001, other models",
+        "Platform(s)": "Game by Yasuhiro Miyata."
+      },
+      {
+        "Month": "Typing Exercise (ゲームDeタイプ, Gēmu De Taipu)",
+        "Title": "",
+        "Platform(s)": "Educational game by Chunsoft."
+      },
+      {
+        "Month": "Tokyo Nampa Street (Ｔｏｋｙｏナンパストリート, Tokyo Nanpa Sutorīto)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Collaboration between Yuji Horii and manga artist Hikaru Sekino.[39]"
+      },
+      {
+        "Month": "Karuizawa Yūkai Annai (軽井沢誘拐案内)",
+        "Title": "NEC PC-8801, other models",
+        "Platform(s)": "Adventure game by Yuji Horii.\nPorted to mobile phones in 2001.[17]"
+      },
+      {
+        "Month": "World Golf (ワールドゴルフ, Wārudo Gorufu)",
+        "Title": "",
+        "Platform(s)": "Golf game by Masashi Muramori.[37][38]"
+      },
+      {
+        "Month": "Morita Kazurou no Shogi (森田和郎の将棋)",
+        "Title": "NEC PC-9801, other models",
+        "Platform(s)": "Shogi game by Random House.[14]"
+      },
+      {
+        "Month": "Xevious (ゼビウス, Zebiusu)",
+        "Title": "NEC PC-8801",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Savior (セイバー, Seibā)",
+        "Title": "NEC PC-9801E, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "The Earth Fighter Rayieza (地球戦士ライーザ, Chikyū Senshi Raīza)",
+        "Title": "FM-7, other models",
+        "Platform(s)": "Role-playing game by Makoto Kuba."
+      },
+      {
+        "Month": "Pac-Land (パックランド, Pakku-Rando)",
+        "Title": "NEC PC-8001mkII",
+        "Platform(s)": "Based on the arcade game by Namco."
+      },
+      {
+        "Month": "Brain Breaker (ブレインブレイカー, Burein Bureikā)",
+        "Title": "Sharp X1, other models",
+        "Platform(s)": "Open-world platform-adventure game by Hiroshi Ishikawa.[26]"
+      },
+      {
+        "Month": "Phalanx[40] (ロゲームファンサイト, Falancse)",
+        "Title": "MSX",
+        "Platform(s)": ""
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Month": "Wingman 2: Kītakurā no Fukkatsu (ウイングマン２ キータクラーの復活, Uinguman 2: Kītakurā no Fukkatsu)",
+        "Title": "NEC PC-8801, Sharp X1, MSX",
+        "Platform(s)": "Sequel of Wingman\nFirst game with music by Koichi Sugiyama"
+      },
+      {
+        "Month": "Cannon Shot (キャノンショット, Kyanon Shotto)",
+        "Title": "SMC-777",
+        "Platform(s)": "Pool Game by Takashi Shimizu"
+      },
+      {
+        "Month": "Dragon Quest (ドラゴンクエスト, Doragon Kuesuto)",
+        "Title": "MSX2, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Hokuto no Ken (北斗の拳)",
+        "Title": "",
+        "Platform(s)": "Game by Toru Hidaka, based on the Fist of the North Star manga series."
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Month": "Jesus (ジーザス, Jīzasu)",
+        "Title": "NEC PC-8801 VA, other models",
+        "Platform(s)": "Adventure game by Game Kyojin."
+      },
+      {
+        "Month": "Gandhara: Buddha no Seisen (ガンダーラ 仏陀の聖戦, Gandāra: Budda no Seisen)",
+        "Title": "NEC PC-8801 VA, MSX2",
+        "Platform(s)": "Game by Toru Hidaka."
+      },
+      {
+        "Month": "Animal Land Murder Case (アニマルランド殺人事件, Animaru Rando Satsujin Jiken)",
+        "Title": "MSX",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Dragon Buster (ドラゴンバスター, Doragon Basutā)",
+        "Title": "NEC PC-8801 VA, other models",
+        "Platform(s)": "Based on the arcade game by Namco."
+      },
+      {
+        "Month": "World Golf II (ワールドゴルフII, Wārudo Gorufu II)",
+        "Title": "NEC PC-8801 VA, Sharp X1, MSX2",
+        "Platform(s)": "Golf game by Masashi Muramori.[37][38]"
+      },
+      {
+        "Month": "Wingman Special (ウイングマンスペシャル, Uinguman Supesharu)",
+        "Title": "NEC PC-8801 FA, other models",
+        "Platform(s)": "The sequel to Wingman 2."
+      }
+    ]
+  },
+  {
+    "table6": [
+      {
+        "Month": "Dragon Quest II (ドラゴンクエストII, Doragon Kuesuto II)",
+        "Title": "MSX",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Angelus: Akuma no Fukuin[41] (アンジェラス～悪魔の福音～, Anjierasu: Akuma no Fukuin)",
+        "Title": "PC-8801, PC-9801, MSX2",
+        "Platform(s)": "Adventure game composed by Koichi Sugiyama."
+      },
+      {
+        "Month": "The Old Village Story",
+        "Title": "NEC PC-8801 FE, other models",
+        "Platform(s)": ""
+      }
+    ]
+  },
+  {
+    "table7": [
+      {
+        "Month": "Burning Point (バーニングポイント, Bāningu Pointo)",
+        "Title": "NEC PC-8801 FE, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Morita Shogi 2 (森田将棋２)",
+        "Title": "NEC PC-9801 RA, other models",
+        "Platform(s)": "Shogi game by Random House.[42]"
+      },
+      {
+        "Month": "Prajator: Image Ranger (プラジェータ, Purajiēta)",
+        "Title": "NEC PC-8801 FE, other models",
+        "Platform(s)": ""
+      }
+    ]
+  },
+  {
+    "table8": [
+      {
+        "Month": "Misty Blue (ミスティ・ブルー, Misuti Burū)",
+        "Title": "NEC PC-8801 MC, other models",
+        "Platform(s)": "Music by Yuzo Koshiro."
+      },
+      {
+        "Month": "Ryūou Hanyuu Yoshiharu Jissen Shū (竜王　羽生善治実践集)",
+        "Title": "NEC PC-9801 RA, other models",
+        "Platform(s)": "By Random House.[42]"
+      },
+      {
+        "Month": "4.6 Billion Year Story (４６億年物語ＴＨＥ進化論)",
+        "Title": "PC-9801",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Formula C.M.S",
+        "Title": "NEC PC-8801 SR, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Shutendouji (手天童子)",
+        "Title": "NEC PC-9801 VM, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "World Golf III (ワールドゴルフIII, Wārudo Gorufu III)",
+        "Title": "PC-8801, PC-9801, Sharp X68000",
+        "Platform(s)": "Golf game by Masashi Muramori.[37][38]"
+      }
+    ]
+  },
+  {
+    "table9": [
+      {
+        "Month": "Reichsritter (ライヒスリッター, Raihisurittā)",
+        "Title": "NEC PC-9801 RA, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Jesus 2 (ジーザス2, Jīzasu 2)",
+        "Title": "PC-8801, PC-9801, Sharp X68000",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Gunyū Sangokushi (群雄三国志)",
+        "Title": "NEC PC-9801 VM, other models",
+        "Platform(s)": ""
+      },
+      {
+        "Month": "Code-0 (コード０, Kōdo 0)",
+        "Title": "Sharp X68000",
+        "Platform(s)": "Shooter game by Random House.[42]"
+      },
+      {
+        "Month": "Fangs: The Saga of Wolf Blood (ファングス, Fangusu)",
+        "Title": "NEC PC-8801 FH, other models",
+        "Platform(s)": ""
+      }
+    ]
+  },
+  {
+    "table10": [
+      {
+        "Month": "Morita Shogi 4 (森田将棋４)",
+        "Title": "NEC PC-9801 DA, other models",
+        "Platform(s)": "Shogi game by Random House.[42]"
+      }
+    ]
+  }
+]

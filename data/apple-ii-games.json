@@ -1,0 +1,4427 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "$100,000 Pyramid",
+        "Year": "1987",
+        "Developer": "Craig Carlson[1]",
+        "Publisher": "The Box Office",
+        "Notes": ""
+      },
+      {
+        "Title": "221B Baker Street",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "2400 A.D.",
+        "Year": "1987",
+        "Developer": "Chuck Bueche[1]",
+        "Publisher": "Origin Systems",
+        "Notes": "Graphical RPG"
+      },
+      {
+        "Title": "3 in 1 College & Pro Football",
+        "Year": "1984",
+        "Developer": "Lance Haffner",
+        "Publisher": "Lance Haffner Games",
+        "Notes": ""
+      },
+      {
+        "Title": "3-D Docking Mission",
+        "Year": "1978",
+        "Developer": "Chris Oberth",
+        "Publisher": "Programma International/The Elektrik Keyboard",
+        "Notes": ""
+      },
+      {
+        "Title": "3-D Skiing",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Continental Software",
+        "Notes": ""
+      },
+      {
+        "Title": "3-D Space Battle",
+        "Year": "1980",
+        "Developer": "Paul Berker[1]",
+        "Publisher": "Loch Ness Productions",
+        "Notes": ""
+      },
+      {
+        "Title": "50 Mission Crush",
+        "Year": "1984",
+        "Developer": "John Gray",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "ABM",
+        "Year": "1980",
+        "Developer": "Silas Warner[1]",
+        "Publisher": "Muse Software",
+        "Notes": "Clone of Missile Command"
+      },
+      {
+        "Title": "Accolade's Comics",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Accolade",
+        "Notes": ""
+      },
+      {
+        "Title": "Advanced Blackjack",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Adventure",
+        "Year": "1985",
+        "Developer": "John Rausch",
+        "Publisher": "",
+        "Notes": "Role-playing game, complete version of Colossal Cave Adventure by William Crowther & Don Woods)"
+      },
+      {
+        "Title": "Adventure Construction Set",
+        "Year": "1985",
+        "Developer": "Stuart Smith",
+        "Publisher": "Electronic Arts",
+        "Notes": "Graphical RPG and editor"
+      },
+      {
+        "Title": "Adventure Creator",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Adventure in Time",
+        "Year": "1981",
+        "Developer": "Paul Berker[1]",
+        "Publisher": "Phoenix Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Adventureland",
+        "Year": "1978",
+        "Developer": "Scott Adams[1]",
+        "Publisher": "Adventure International",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Adventures in Flesh",
+        "Year": "1983",
+        "Developer": "Fred D Williams[1]",
+        "Publisher": "Krell Software",
+        "Notes": "Adventure game"
+      },
+      {
+        "Title": "Adventures in Narnia: Dawn Treader",
+        "Year": "1984",
+        "Developer": "Lifeware / Gruen Studios[2]",
+        "Publisher": "Word Publishing",
+        "Notes": "action/adventure game"
+      },
+      {
+        "Title": "Adventures in Narnia: Narnia",
+        "Year": "1984",
+        "Developer": "Lifeware / Gruen Studios[2]",
+        "Publisher": "Word Publishing",
+        "Notes": "action/adventure game"
+      },
+      {
+        "Title": "The Adventures of Buckaroo Banzai: Across the Eighth Dimension",
+        "Year": "1984",
+        "Developer": "Scott Adams[1]",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "A.E.",
+        "Year": "1982",
+        "Developer": "Programmers-3[3] (Makato Horai & Jun Wada)[1]",
+        "Publisher": "Broderbund",
+        "Notes": "Fixed shooter"
+      },
+      {
+        "Title": "Air Traffic Controller",
+        "Year": "1979",
+        "Developer": "",
+        "Publisher": "Creative Computing",
+        "Notes": ""
+      },
+      {
+        "Title": "Airheart",
+        "Year": "1986",
+        "Developer": "Dan Gorlin Productions",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Akalabeth",
+        "Year": "1980[4]",
+        "Developer": "Richard Garriott",
+        "Publisher": "California Pacific Computer Company",
+        "Notes": "Graphical RPG"
+      },
+      {
+        "Title": "ALF: The First Adventure",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Box Office",
+        "Notes": ""
+      },
+      {
+        "Title": "Ali Baba and the Forty Thieves",
+        "Year": "1982",
+        "Developer": "Stuart Smith[1]",
+        "Publisher": "Quality Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Alice in Wonderland",
+        "Year": "1985",
+        "Developer": "",
+        "Publisher": "Windham Classics",
+        "Notes": ""
+      },
+      {
+        "Title": "The Alien",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "Avalon Hill",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Downpour",
+        "Year": "2017",
+        "Developer": "Michael Packard",
+        "Publisher": "Snacking On! Software",
+        "Notes": "Arcade shooter"
+      },
+      {
+        "Title": "Alien Rain",
+        "Year": "1981",
+        "Developer": "Tony Suzuki",
+        "Publisher": "Broderbund",
+        "Notes": "Arcade shooter"
+      },
+      {
+        "Title": "Aliens: The Computer Game",
+        "Year": "1986",
+        "Developer": "Robert Friele & Michael Ornsby",
+        "Publisher": "Activision",
+        "Notes": "Action/adventure game"
+      },
+      {
+        "Title": "Alkemstone",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Level-10"
+      },
+      {
+        "Title": "Alpine Encounter",
+        "Year": "1985",
+        "Developer": "ibidinc Games",
+        "Publisher": "Random House",
+        "Notes": ""
+      },
+      {
+        "Title": "Alter Ego",
+        "Year": "1986",
+        "Developer": "Peter J. Favaro",
+        "Publisher": "Activision",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Alternate Reality: The City",
+        "Year": "1985",
+        "Developer": "Paradise Programming",
+        "Publisher": "Datasoft",
+        "Notes": "3D RPG"
+      },
+      {
+        "Title": "Alternate Reality: The Dungeon",
+        "Year": "1987",
+        "Developer": "Paradise Programming",
+        "Publisher": "Datasoft",
+        "Notes": "3D RPG"
+      },
+      {
+        "Title": "Amazon",
+        "Year": "1984",
+        "Developer": "Michael Crichton",
+        "Publisher": "Telarium",
+        "Notes": "Graphic adventure game"
+      },
+      {
+        "Title": "American Challenge: A Sailing Simulation",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Amnesia",
+        "Year": "1986",
+        "Developer": "Cognetics Corporation",
+        "Publisher": "Electronic Arts",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "The Ancient Art of War",
+        "Year": "1984",
+        "Developer": "Evryware",
+        "Publisher": "Broderbund",
+        "Notes": "War strategy game"
+      },
+      {
+        "Title": "The Ancient Art of War at Sea",
+        "Year": "1987",
+        "Developer": "War strategy game",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Android Nim",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Andromeda Conquest",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "Avalon Hill",
+        "Notes": ""
+      },
+      {
+        "Title": "Anti-Gravity",
+        "Year": "1984",
+        "Developer": "Michael Katz & Tom Johnson",
+        "Publisher": "shareware",
+        "Notes": ""
+      },
+      {
+        "Title": "APBA Major League Players Baseball",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Random House",
+        "Notes": ""
+      },
+      {
+        "Title": "Ape Escape",
+        "Year": "1982",
+        "Developer": "Kevin Bagley[5]",
+        "Publisher": "SAMS",
+        "Notes": ""
+      },
+      {
+        "Title": "Apple Adventure",
+        "Year": "1980",
+        "Developer": "Peter Schmuckal & Leonard Barshack",
+        "Publisher": "Apple Computer",
+        "Notes": "adapted from Colossal Cave Adventure (William Crowther and Don Woods)"
+      },
+      {
+        "Title": "Apple Cider Spider",
+        "Year": "1983",
+        "Developer": "Ivan Strand",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Apple Panic",
+        "Year": "1981",
+        "Developer": "Ben Serki",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Apple Trek",
+        "Year": "1979",
+        "Developer": "Wendell Sander[6]",
+        "Publisher": "Apple Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Apple-Oids",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "California Pacific",
+        "Notes": ""
+      },
+      {
+        "Title": "Apventure to Atlantis",
+        "Year": "1982",
+        "Developer": "Robert C. Clardy[1]",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Aquatron",
+        "Year": "1983",
+        "Developer": "Justin Gray",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Arac (Spiderbot)",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Addictive Games",
+        "Notes": ""
+      },
+      {
+        "Title": "Arcade Boot Camp",
+        "Year": "1984",
+        "Developer": "John Besnard[1]",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "The Arcade Machine",
+        "Year": "1982",
+        "Developer": "Doug Carlston & Chris Jochumson",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Archon",
+        "Year": "1983",
+        "Developer": "Free Fall Associates",
+        "Publisher": "Electronic Arts",
+        "Notes": "action/strategy game"
+      },
+      {
+        "Title": "Archon II: Adept",
+        "Year": "1984",
+        "Developer": "Free Fall Associates",
+        "Publisher": "Electronic Arts",
+        "Notes": "action/strategy game"
+      },
+      {
+        "Title": "Arcticfox",
+        "Year": "1986",
+        "Developer": "Dynamix",
+        "Publisher": "Electronic Arts",
+        "Notes": "Arcade game, Tank simulation"
+      },
+      {
+        "Title": "Ardy the Aardvark",
+        "Year": "1983",
+        "Developer": "Chris Oberth",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Arena of Octos",
+        "Year": "1981",
+        "Developer": "Steve Kropinak",
+        "Publisher": "SoftSide",
+        "Notes": ""
+      },
+      {
+        "Title": "Arkanoid",
+        "Year": "1988",
+        "Developer": "",
+        "Publisher": "Taito",
+        "Notes": "Arcade shooter"
+      },
+      {
+        "Title": "Arthur: The Quest for Excalibur",
+        "Year": "1989",
+        "Developer": "",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Asteroid Field, The",
+        "Year": "1980",
+        "Developer": "Jim Nitchals",
+        "Publisher": "Cavalier Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Astro-Grover",
+        "Year": "1984",
+        "Developer": "Children's Computer Workshop",
+        "Publisher": "CBS Software",
+        "Notes": ""
+      },
+      {
+        "Title": "At the Gates of Moscow 1941",
+        "Year": "1985",
+        "Developer": "",
+        "Publisher": "Strategic Games Publications",
+        "Notes": ""
+      },
+      {
+        "Title": "Australian Cockroach",
+        "Year": "1988",
+        "Developer": "Bryan Vekovius and Jim Weiler",
+        "Publisher": "Softdisk",
+        "Notes": ""
+      },
+      {
+        "Title": "Autoduel",
+        "Year": "1985",
+        "Developer": "Richard Garriott & Chuck Bueche",
+        "Publisher": "Origin Systems",
+        "Notes": "Role-playing game"
+      },
+      {
+        "Title": "Axis Assassin",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Aztec",
+        "Year": "1982",
+        "Developer": "Paul Stephenson",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Bad Dudes",
+        "Year": "1988",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "B-1 Nuclear Bomber",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Avalon Hill",
+        "Notes": ""
+      },
+      {
+        "Title": "Balance of Power",
+        "Year": "1985",
+        "Developer": "Chris Crawford",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Ballblazer",
+        "Year": "1985",
+        "Developer": "Lucasfilm Games, K-Byte",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Ballyhoo",
+        "Year": "1985",
+        "Developer": "Jeff O'Neill",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Baltic 1985: Corridor to Berlin",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Bandits",
+        "Year": "1982",
+        "Developer": "Tony Ngo and Benny Ngo",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Bard's Tale, The",
+        "Year": "1985",
+        "Developer": "Interplay Productions (Michael Cranford)",
+        "Publisher": "Electronic Arts",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "The Bard's Tale II: The Destiny Knight",
+        "Year": "1986",
+        "Developer": "Interplay Productions (Michael Cranford)",
+        "Publisher": "Electronic Arts",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "The Bard's Tale III: Thief of Fate",
+        "Year": "1988",
+        "Developer": "Interplay Productions (Rebecca Heineman, Bruce Schlickbernd, and Michael A. Stackpole)",
+        "Publisher": "Electronic Arts",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Bats in the Belfry",
+        "Year": "1983",
+        "Developer": "Samuel Moore",
+        "Publisher": "Phoenix Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Battle Chess",
+        "Year": "1990",
+        "Developer": "Interplay",
+        "Publisher": "Interplay",
+        "Notes": "Chess simulation"
+      },
+      {
+        "Title": "Battlefront",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Strategic Studies Group",
+        "Notes": ""
+      },
+      {
+        "Title": "BattleTech: The Crescent Hawk's Inception",
+        "Year": "1989",
+        "Developer": "",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Battlezone",
+        "Year": "1984",
+        "Developer": "Quality Software (James Albanese)",
+        "Publisher": "Atarisoft",
+        "Notes": "Arcade game"
+      },
+      {
+        "Title": "B.C.'s Quest for Tires",
+        "Year": "1983",
+        "Developer": "Sydney Development",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Beach Head",
+        "Year": "1983",
+        "Developer": "Access Software",
+        "Publisher": "U.S. Gold",
+        "Notes": "Arcade game"
+      },
+      {
+        "Title": "Beach Head II",
+        "Year": "1988",
+        "Developer": "Peter Adams[1]",
+        "Publisher": "Access Software",
+        "Notes": "Arcade game"
+      },
+      {
+        "Title": "Bee Crunch",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "Keypunch Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Beer Run",
+        "Year": "1981",
+        "Developer": "Mark Turmell",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Below the Root",
+        "Year": "1984",
+        "Developer": "Dale DeSharone",
+        "Publisher": "Windham Classics",
+        "Notes": ""
+      },
+      {
+        "Title": "Beneath Apple Manor",
+        "Year": "1978",
+        "Developer": "Don Worth",
+        "Publisher": "The Software Factory",
+        "Notes": ""
+      },
+      {
+        "Title": "Beyond Castle Wolfenstein",
+        "Year": "1984",
+        "Developer": "Silas Warner",
+        "Publisher": "Muse Software",
+        "Notes": "Stealth game"
+      },
+      {
+        "Title": "Beyond Zork",
+        "Year": "1987",
+        "Developer": "Brian Moriarty",
+        "Publisher": "Infocom",
+        "Notes": "Text-based (mostly) RPG"
+      },
+      {
+        "Title": "Bez-MX",
+        "Year": "1981",
+        "Developer": "John Besnard",
+        "Publisher": "Bez",
+        "Notes": "Nuclear strategy game[7][8]"
+      },
+      {
+        "Title": "Bezman",
+        "Year": "1981",
+        "Developer": "John Besnard[1]",
+        "Publisher": "Bez",
+        "Notes": "Pac-Man clone"
+      },
+      {
+        "Title": "Bezoff",
+        "Year": "1982",
+        "Developer": "John Besnard[1]",
+        "Publisher": "Bez",
+        "Notes": ""
+      },
+      {
+        "Title": "Bez Wars",
+        "Year": "1981",
+        "Developer": "John Besnard[1]",
+        "Publisher": "Bez",
+        "Notes": ""
+      },
+      {
+        "Title": "Bilestoad, The",
+        "Year": "1982",
+        "Developer": "Marc Goodman (as \"Mangrove Earthshoe\")",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Birth of the Phoenix",
+        "Year": "1981",
+        "Developer": "Paul Berker",
+        "Publisher": "Phoenix Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Black Belt (1984 video game)",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Earthware Computer Services",
+        "Notes": ""
+      },
+      {
+        "Title": "The Black Cauldron",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Black Magic",
+        "Year": "1987",
+        "Developer": "Peter Ward",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Blade of Blackpoole",
+        "Year": "1982",
+        "Developer": "Tim Wilson",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Blister Ball",
+        "Year": "1981",
+        "Developer": "Rodney McAuley",
+        "Publisher": "Creative Computing Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Blitzkrieg",
+        "Year": "1979",
+        "Developer": "Mark Cross[1]",
+        "Publisher": "Programma International",
+        "Notes": ""
+      },
+      {
+        "Title": "Bloody Murder",
+        "Year": "1979",
+        "Developer": "Arthur Wells[1]",
+        "Publisher": "Stoneware",
+        "Notes": ""
+      },
+      {
+        "Title": "Bolo",
+        "Year": "1982",
+        "Developer": "James Lane",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Bomber",
+        "Year": "1978",
+        "Developer": "Bob Bishop",
+        "Publisher": "Softape",
+        "Notes": "Arcade game"
+      },
+      {
+        "Title": "Bongo's Bash",
+        "Year": "1985",
+        "Developer": "John Romero",
+        "Publisher": "inCider Magazine",
+        "Notes": "Maze game"
+      },
+      {
+        "Title": "Border Zone",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Borg",
+        "Year": "1981",
+        "Developer": "Dan Thompson",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Borrowed Time",
+        "Year": "1985",
+        "Developer": "Interplay",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Boulder Dash",
+        "Year": "1984",
+        "Developer": "First Star Software (Pat Montelo)",
+        "Publisher": "Electronic Arts",
+        "Notes": "Action"
+      },
+      {
+        "Title": "Bouncing Kamungas",
+        "Year": "1983",
+        "Developer": "Tom Becklund",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Breakers (1986 video game)",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Breakout",
+        "Year": "1977",
+        "Developer": "Steve Wozniak",
+        "Publisher": "Apple Computer",
+        "Notes": "Arcade game, Precursor to Little Brick Out[9]"
+      },
+      {
+        "Title": "Broadsides",
+        "Year": "1983",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Bronze Dragon: Conquest of Infinity",
+        "Year": "1985",
+        "Developer": "",
+        "Publisher": "Commonwealth Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Bruce Lee",
+        "Year": "1984",
+        "Developer": "Rick Mirsky",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Bubble Bobble",
+        "Year": "1988",
+        "Developer": "NovaLogic",
+        "Publisher": "Taito",
+        "Notes": ""
+      },
+      {
+        "Title": "Buck Rogers: Planet of Zoom",
+        "Year": "1982",
+        "Developer": "Ken Jordan",
+        "Publisher": "Sega",
+        "Notes": "Arcade game, flight"
+      },
+      {
+        "Title": "Bug Attack",
+        "Year": "1981",
+        "Developer": "Jim Nitchals",
+        "Publisher": "Cavalier Computer",
+        "Notes": "Arcade"
+      },
+      {
+        "Title": "Bureaucracy",
+        "Year": "1987",
+        "Developer": "Douglas Adams",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "BurgerTime",
+        "Year": "1983",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Notes": "A home port of the arcade game of the same name developed under license from Data East USA"
+      },
+      {
+        "Title": "Buzzard Bait",
+        "Year": "1983",
+        "Developer": "Mike Ryeburn",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "California Games",
+        "Year": "1987",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": "A collection of California-themed sports games, such as half-pipe skateboarding and surfing"
+      },
+      {
+        "Title": "Cannonball Blitz",
+        "Year": "1982",
+        "Developer": "Olaf Lubeck",
+        "Publisher": "Sierra On-Line",
+        "Notes": "Donkey Kong clone"
+      },
+      {
+        "Title": "Canyon Climber",
+        "Year": "1982",
+        "Developer": "Brian Mountford",
+        "Publisher": "Datasoft",
+        "Notes": "Platform game"
+      },
+      {
+        "Title": "Captain Goodnight and the Islands of Fear",
+        "Year": "1985",
+        "Developer": "Michael Wise",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Castle Dain",
+        "Year": "2023",
+        "Developer": "Frank Rossi",
+        "Publisher": "homebrew",
+        "Notes": "mini-RPG"
+      },
+      {
+        "Title": "Castle Smurfenstein",
+        "Year": "1983",
+        "Developer": "Andrew Johnson & Preston Nevins[10]",
+        "Publisher": "Dead Smurf Software",
+        "Notes": "parody hack of Castle Wolfenstein"
+      },
+      {
+        "Title": "Castle Wolfenstein",
+        "Year": "1981",
+        "Developer": "Silas Warner",
+        "Publisher": "Muse Software",
+        "Notes": "Stealth game"
+      },
+      {
+        "Title": "Catacomb",
+        "Year": "1989",
+        "Developer": "John Carmack",
+        "Publisher": "Softdisk",
+        "Notes": ""
+      },
+      {
+        "Title": "Cavern Creatures",
+        "Year": "1983",
+        "Developer": "Paul Lowrance",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Caverns of Callisto",
+        "Year": "1983",
+        "Developer": "Chuck Bueche",
+        "Publisher": "Origin Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Caverns of Freitag, The",
+        "Year": "1981",
+        "Developer": "David Shapiro (as \"Dr. Cat\")[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Caves of Olympus",
+        "Year": "1982",
+        "Developer": "Thomas Noone & Patrick Noone[1]",
+        "Publisher": "SAMS[5]",
+        "Notes": ""
+      },
+      {
+        "Title": "Ceiling Zero",
+        "Year": "1981",
+        "Developer": "RAM Software",
+        "Publisher": "Turnkey Software",
+        "Notes": "Shoot em up"
+      },
+      {
+        "Title": "Centauri Alliance",
+        "Year": "1990",
+        "Developer": "Michael Cranford",
+        "Publisher": "Broderbund",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Centipede",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Championship Baseball",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Gamestar",
+        "Notes": ""
+      },
+      {
+        "Title": "Championship Golf",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "Hayden Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Championship Lode Runner",
+        "Year": "1983",
+        "Developer": "Douglas E. Smith",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Championship Wrestling",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Chennault's Flying Tigers",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Discovery Games",
+        "Notes": ""
+      },
+      {
+        "Title": "Chess 7.0",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "Odesta",
+        "Notes": "Chess"
+      },
+      {
+        "Title": "Chessmaster 2000",
+        "Year": "1986",
+        "Developer": "Mark Manyen",
+        "Publisher": "The Software Toolworks",
+        "Notes": "Chess"
+      },
+      {
+        "Title": "ChipWits",
+        "Year": "1985",
+        "Developer": "",
+        "Publisher": "BrainPower",
+        "Notes": ""
+      },
+      {
+        "Title": "Chivalry",
+        "Year": "1983",
+        "Developer": "Richard Hefter, Steve Worthington, & Janie Worthington",
+        "Publisher": "Optimum Resource",
+        "Notes": "Action/RPG"
+      },
+      {
+        "Title": "Choplifter",
+        "Year": "1982",
+        "Developer": "Dan Gorlin",
+        "Publisher": "Broderbund",
+        "Notes": "Action"
+      },
+      {
+        "Title": "Chuck Yeager's Advanced Flight Trainer",
+        "Year": "1987",
+        "Developer": "Lerner Research",
+        "Publisher": "Electronic Arts"
+      },
+      {
+        "Title": "Clue: Master Detective",
+        "Year": "1989",
+        "Developer": "",
+        "Publisher": "Virgin Mastertronic",
+        "Notes": ""
+      },
+      {
+        "Title": "Colossus Chess 4",
+        "Year": "1986",
+        "Developer": "",
+        "Publisher": "CDS Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Commando",
+        "Year": "1987",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "Competition Karate",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Motivated Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Computer Baseball",
+        "Year": "1987",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": "Sports game"
+      },
+      {
+        "Title": "The Computer Edition of Risk: The World Conquest Game",
+        "Year": "1989",
+        "Developer": "",
+        "Publisher": "Leisure Genius",
+        "Notes": ""
+      },
+      {
+        "Title": "The Computer Edition of Scrabble",
+        "Year": "1989",
+        "Developer": "",
+        "Publisher": "Leisure Genius",
+        "Notes": ""
+      },
+      {
+        "Title": "Computer Quarterback",
+        "Year": "1981",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": "Sports game"
+      },
+      {
+        "Title": "Conan: Hall of Volta",
+        "Year": "1984",
+        "Developer": "SE Software (Eric Robinson & Eric Parker)",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Congo",
+        "Year": "1982",
+        "Developer": "Sentient Software (Michael Berlyn & Harry Walker)",
+        "Publisher": "Sogiciel",
+        "Notes": ""
+      },
+      {
+        "Title": "Congo Bongo",
+        "Year": "1983",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Notes": "Arcade"
+      },
+      {
+        "Title": "Conquering Worlds",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Copts and Robbers",
+        "Year": "1983",
+        "Developer": "Alan Merell & Eric Knopp",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Corruption (1988 video game)",
+        "Year": "1988",
+        "Developer": "",
+        "Publisher": "Rainbird Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Cosmos Mission",
+        "Year": "1979",
+        "Developer": "",
+        "Publisher": "Astar International Inc.",
+        "Notes": "Space Invaders clone"
+      },
+      {
+        "Title": "Count, The",
+        "Year": "1981",
+        "Developer": "Scott Adams",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Countdown to Shutdown",
+        "Year": "1985",
+        "Developer": "T.L. Gale & Ivan Manley",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "The Coveted Mirror",
+        "Year": "1983",
+        "Developer": "Eagle Berns and Holly Thomason",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Cranston Manor",
+        "Year": "1981",
+        "Developer": "Ken Williams and Harold DeWitz[1]",
+        "Publisher": "On-Line Systems",
+        "Notes": "Also known as Hi-Res Adventure #3"
+      },
+      {
+        "Title": "Crazy Mazey",
+        "Year": "1982",
+        "Developer": "Datamost",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Creature Venture",
+        "Year": "1980",
+        "Developer": "",
+        "Publisher": "Highlands Computer Services",
+        "Notes": ""
+      },
+      {
+        "Title": "Crickety Manor",
+        "Year": "1988",
+        "Developer": "Pat Relf & Tara Framer",
+        "Publisher": "Scholastic",
+        "Notes": "On Microzine Jr. issue #2"
+      },
+      {
+        "Title": "Crisis Mountain",
+        "Year": "1982",
+        "Developer": "David Schroeder",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Crosscountry Canada",
+        "Year": "1986",
+        "Developer": "Dave Vincent",
+        "Publisher": "Didatech",
+        "Notes": ""
+      },
+      {
+        "Title": "Crosscountry USA",
+        "Year": "1985",
+        "Developer": "Dave Vincent",
+        "Publisher": "Didatech",
+        "Notes": ""
+      },
+      {
+        "Title": "Crossfire",
+        "Year": "1981",
+        "Developer": "Jay Sullivan",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Crush, Crumble and Chomp!",
+        "Year": "1981",
+        "Developer": "Michael Farren",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Crypt of Medea",
+        "Year": "1984",
+        "Developer": "Arthur Britto & Allan Lamb",
+        "Publisher": "Sir-Tech",
+        "Notes": ""
+      },
+      {
+        "Title": "Crystal Castles",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Curse of the Azure Bonds",
+        "Year": "1989",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Curse of Crowley Manor",
+        "Year": "1981",
+        "Developer": "Adventure International",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Cyber Strike",
+        "Year": "1980",
+        "Developer": "Nasir Gebelli",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Cyclod",
+        "Year": "1981",
+        "Developer": "Hunter Hancock",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "The Dallas Quest",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Dam Busters",
+        "Year": "1984",
+        "Developer": "Sydney Development",
+        "Publisher": "Accolade",
+        "Notes": ""
+      },
+      {
+        "Title": "Dangerous Dave",
+        "Year": "1988",
+        "Developer": "John Romero",
+        "Publisher": "UpTime",
+        "Notes": "Platform game"
+      },
+      {
+        "Title": "Dark Crystal",
+        "Year": "1983",
+        "Developer": "Sierra On-Line",
+        "Publisher": "SierraVenture",
+        "Notes": ""
+      },
+      {
+        "Title": "Dark Forest",
+        "Year": "1981",
+        "Developer": "Tom Mornini",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Darkhorn: Realm of the Warlords",
+        "Year": "1985",
+        "Developer": "Thomas G. Cleaver",
+        "Publisher": "Avalon Hill",
+        "Notes": ""
+      },
+      {
+        "Title": "Dark Tower",
+        "Year": "1984",
+        "Developer": "Melbourne House",
+        "Publisher": "Melbourne House",
+        "Notes": ""
+      },
+      {
+        "Title": "Dart Room",
+        "Year": "1979",
+        "Developer": "The Elektrik Keyboard",
+        "Publisher": "Chris Oberth",
+        "Notes": ""
+      },
+      {
+        "Title": "David's Midnight Magic",
+        "Year": "1982",
+        "Developer": "David Snider",
+        "Publisher": "Broderbund",
+        "Notes": "Pinball"
+      },
+      {
+        "Title": "Dawn Patrol",
+        "Year": "1982",
+        "Developer": "Keith Enge[1]",
+        "Publisher": "TSR",
+        "Notes": ""
+      },
+      {
+        "Title": "Deadline",
+        "Year": "1982",
+        "Developer": "Marc Blank",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Death in the Caribbean",
+        "Year": "1983",
+        "Developer": "Philip Hess & Bob Hess",
+        "Publisher": "Micro Fun",
+        "Notes": "A graphic adventure game"
+      },
+      {
+        "Title": "Death Race",
+        "Year": "1979",
+        "Developer": "Bob Andrews",
+        "Publisher": "Programma International",
+        "Notes": ""
+      },
+      {
+        "Title": "Death Race '82",
+        "Year": "1982",
+        "Developer": "Don Fudge",
+        "Publisher": "Avant-Garde Creations",
+        "Notes": ""
+      },
+      {
+        "Title": "Death Sword",
+        "Year": "1987",
+        "Developer": "Designer Software (Jimmy Huey)",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Deathlord",
+        "Year": "1987",
+        "Developer": "Electronic Arts",
+        "Publisher": "Electronic Arts",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Deathmaze 5000",
+        "Year": "1980",
+        "Developer": "Frank Corr and William Denman",
+        "Publisher": "Med Systems Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Defender",
+        "Year": "1983",
+        "Developer": "Williams Electronics",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Delta Squadron",
+        "Year": "1983",
+        "Developer": "Nexa",
+        "Publisher": "Nexa",
+        "Notes": ""
+      },
+      {
+        "Title": "The Demon's Forge",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Saber Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Demon's Winter",
+        "Year": "1988",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Depth Charge",
+        "Year": "1978",
+        "Developer": "Chris Oberth",
+        "Publisher": "The Elektrik Keyboard",
+        "Notes": ""
+      },
+      {
+        "Title": "Designasaurus",
+        "Year": "1988",
+        "Developer": "DesignWare",
+        "Publisher": "Britannica Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Diamond Mine",
+        "Year": "1983",
+        "Developer": "IDSI",
+        "Publisher": "Roklan",
+        "Notes": ""
+      },
+      {
+        "Title": "Dig Dug",
+        "Year": "1982",
+        "Developer": "Atari, Inc.",
+        "Publisher": "Atarisoft",
+        "Notes": "Arcade"
+      },
+      {
+        "Title": "Dino Eggs",
+        "Year": "1983",
+        "Developer": "David Schroeder",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Dino Smurf",
+        "Year": "1983",
+        "Developer": "Andrew Johnson & Preston Nevins[10]",
+        "Publisher": "Dead Smurf Software",
+        "Notes": "parody hack of Dino Eggs"
+      },
+      {
+        "Title": "Dogfight",
+        "Year": "1980",
+        "Developer": "Bill Basham",
+        "Publisher": "Microlab",
+        "Notes": ""
+      },
+      {
+        "Title": "Donald Duck's Playground",
+        "Year": "1985",
+        "Developer": "",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Donald's Alphabet Chase",
+        "Year": "1988",
+        "Developer": "Westwood Associates",
+        "Publisher": "Disney Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Dondra",
+        "Year": "1987",
+        "Developer": "Spectrum Holobyte",
+        "Publisher": "Spectrum Holobyte",
+        "Notes": ""
+      },
+      {
+        "Title": "Donkey Kong",
+        "Year": "1984",
+        "Developer": "Michael Cranford",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Doom Cavern",
+        "Year": "1980",
+        "Developer": "Morwe",
+        "Publisher": "Synergistic Software",
+        "Notes": "RPG; included with the game Sorcerer's Challenge on the same disk."
+      },
+      {
+        "Title": "Dragon Wars",
+        "Year": "1989",
+        "Developer": "Interplay",
+        "Publisher": "Interplay",
+        "Notes": ""
+      },
+      {
+        "Title": "Dragon's Eye",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Automated Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Dragonworld",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Trillium",
+        "Notes": ""
+      },
+      {
+        "Title": "Drelbs",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Synapse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Drol",
+        "Year": "1983",
+        "Developer": "Aik Beng",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Dung Beetles",
+        "Year": "1982",
+        "Developer": "Bob Bishop",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Dungeon!",
+        "Year": "1982",
+        "Developer": "Bruce Nesmith & Keith Enge",
+        "Publisher": "TSR",
+        "Notes": ""
+      },
+      {
+        "Title": "Dungeon Campaign",
+        "Year": "1978",
+        "Developer": "Robert C. Clardy",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Dunzhin",
+        "Year": "1982",
+        "Developer": "",
+        "Publisher": "Screenplay",
+        "Notes": ""
+      },
+      {
+        "Title": "Dynasty",
+        "Year": "1978",
+        "Developer": "Weyman Fong",
+        "Publisher": "Apple Core",
+        "Notes": ""
+      },
+      {
+        "Title": "Eamon",
+        "Year": "1980",
+        "Developer": "Donald Brown",
+        "Publisher": "public domain",
+        "Notes": ""
+      },
+      {
+        "Title": "Earl Weaver Baseball",
+        "Year": "1989",
+        "Developer": "Mirage Graphics",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Earth Orbit Stations",
+        "Year": "1987",
+        "Developer": "Karl Buiter",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Earthly Delights",
+        "Year": "1983",
+        "Developer": "Roger Webster and Dan Leviton",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Electrifying Adventures",
+        "Year": "1983",
+        "Developer": "Unknown",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite",
+        "Year": "1985",
+        "Developer": "David Braben and Ian Bell",
+        "Publisher": "Firebird",
+        "Notes": ""
+      },
+      {
+        "Title": "Empire: Wargame of the Century",
+        "Year": "1987",
+        "Developer": "Northwest Software",
+        "Publisher": "Interstel",
+        "Notes": ""
+      },
+      {
+        "Title": "Empire I: World Builders",
+        "Year": "1981",
+        "Developer": "Edu-ware Services",
+        "Publisher": "Interactive Fantasies",
+        "Notes": ""
+      },
+      {
+        "Title": "Empire II: Interstellar Sharks",
+        "Year": "1982",
+        "Developer": "Edu-ware Services",
+        "Publisher": "Interactive Fantasies",
+        "Notes": ""
+      },
+      {
+        "Title": "Empire III: Armageddon",
+        "Year": "1983",
+        "Developer": "Edu-ware Services",
+        "Publisher": "Interactive Fantasies",
+        "Notes": ""
+      },
+      {
+        "Title": "Epoch",
+        "Year": "1981",
+        "Developer": "Larry Miller",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Escape!",
+        "Year": "1978",
+        "Developer": "Silas Warner[1]",
+        "Publisher": "Muse Software",
+        "Notes": "Also rereleased in 1980 on The Best of Muse compilation disk."
+      },
+      {
+        "Title": "Escape from ANTcatraz",
+        "Year": "1987",
+        "Developer": "Lorri Hopping[11]",
+        "Publisher": "Scholastic Corporation",
+        "Notes": "On Microzine issue #23[12]"
+      },
+      {
+        "Title": "Escape from Arcturus",
+        "Year": "1981",
+        "Developer": "Synergistic Software",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Escape from Rungistan",
+        "Year": "1982",
+        "Developer": "Bob Bluaschild",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "ET Comes Back",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Alliance Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Evolution",
+        "Year": "1982",
+        "Developer": "Jeff Sember & Don Mattrick",
+        "Publisher": "Sydney Development",
+        "Notes": ""
+      },
+      {
+        "Title": "Expedition Amazon",
+        "Year": "1983",
+        "Developer": "Willard Phillips",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Exterminator",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "EZ Logo",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "F-15 Strike Eagle",
+        "Year": "1985",
+        "Developer": "MicroProse",
+        "Publisher": "MicroProse",
+        "Notes": ""
+      },
+      {
+        "Title": "Falcons",
+        "Year": "1981",
+        "Developer": "Thomas Ball (computer scientist),[1] Eric Varsanyi[1]",
+        "Publisher": "Piccadilly Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Fat City",
+        "Year": "1983",
+        "Developer": "Optimum Resource (Richard Hefter, Steve Worthington)[13]",
+        "Publisher": "Weekly Reader Family Software",
+        "Notes": "First-person action game"
+      },
+      {
+        "Title": "Fight Night",
+        "Year": "1985",
+        "Developer": "Sydney Development",
+        "Publisher": "Accolade",
+        "Notes": ""
+      },
+      {
+        "Title": "Firebug",
+        "Year": "1982",
+        "Developer": "Silas Warner[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "First Encounter",
+        "Year": "1987",
+        "Developer": "John Besnard[1]",
+        "Publisher": "Softdisk",
+        "Notes": ""
+      },
+      {
+        "Title": "Fleet Street Phantom, The",
+        "Year": "1987",
+        "Developer": "Simon Hosler and Bill Bonham[14]",
+        "Publisher": "Sherston Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Flight Simulator",
+        "Year": "1979",
+        "Developer": "Bruce Artwick[1]",
+        "Publisher": "Sublogic",
+        "Notes": "Also known as A2-FS1 Flight Simulator"
+      },
+      {
+        "Title": "Flight Simulator II",
+        "Year": "1983",
+        "Developer": "Bruce Artwick[1]",
+        "Publisher": "Sublogic",
+        "Notes": ""
+      },
+      {
+        "Title": "Fooblitzky",
+        "Year": "1985",
+        "Developer": "Marc Blank, Michael Berlyn, Poh C. Lim, & Paula Maxwell",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Fracas",
+        "Year": "1980",
+        "Developer": "Quality Software",
+        "Publisher": "Computersmiths",
+        "Notes": ""
+      },
+      {
+        "Title": "Fraction Munchers",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Fraktured Faebles",
+        "Year": "1985",
+        "Developer": "Phoenix Software",
+        "Publisher": "Dale Johnson and Rick Incrocci",
+        "Notes": ""
+      },
+      {
+        "Title": "Freedom!",
+        "Year": "1992",
+        "Developer": "MECC",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Frogger",
+        "Year": "1983",
+        "Developer": "Olaf Lubeck",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Frogger II: ThreeeDeep!",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Sega",
+        "Notes": ""
+      },
+      {
+        "Title": "G.I. Joe: A Real American Hero",
+        "Year": "1985",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Galaxian",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Gamma Goblins",
+        "Year": "1981",
+        "Developer": "Sirius Software",
+        "Publisher": "Sirius Software",
+        "Notes": "Arcade"
+      },
+      {
+        "Title": "Gato",
+        "Year": "1985",
+        "Developer": "Spectrum Holobyte",
+        "Publisher": "Spectrum Holobyte",
+        "Notes": ""
+      },
+      {
+        "Title": "Gauntlet",
+        "Year": "1985",
+        "Developer": "Atari",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Gemstone Healer",
+        "Year": "1986",
+        "Developer": "Paradigm Creators",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Gemstone Warrior",
+        "Year": "1984",
+        "Developer": "Paradigm Creators",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Gertrude's Secrets",
+        "Year": "1984",
+        "Developer": "The Learning Company",
+        "Publisher": "The Learning Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Ghostbusters",
+        "Year": "1984",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Global War",
+        "Year": "1979",
+        "Developer": "Alan M. Boyd[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Gobbler",
+        "Year": "1981",
+        "Developer": "Olaf Lubeck",
+        "Publisher": "On-Line Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Gold Rush!",
+        "Year": "1988",
+        "Developer": "Sierra On-Line",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Golden Flutes and Great Escapes",
+        "Year": "1984",
+        "Developer": "Delton T. Horn",
+        "Publisher": "Dilithium Press",
+        "Notes": "book and software"
+      },
+      {
+        "Title": "Golf's Best: St. Andrews - The Home of Golf",
+        "Year": "1986",
+        "Developer": "Robert Jenks & Nathan Tennises",
+        "Publisher": "1 Step Software",
+        "Notes": "Golf simulator"
+      },
+      {
+        "Title": "The Goonies",
+        "Year": "1985",
+        "Developer": "Scott Spanburg",
+        "Publisher": "Datasoft",
+        "Notes": "Arcade game"
+      },
+      {
+        "Title": "Gorgon",
+        "Year": "1981",
+        "Developer": "Sirius Software",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Grammar Gremlins",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Davidson & Associates",
+        "Notes": ""
+      },
+      {
+        "Title": "The Great American Cross-Country Road Race",
+        "Year": "1985",
+        "Developer": "Ivan Manley",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Gremlins",
+        "Year": "1984",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Gruds in Space",
+        "Year": "1983",
+        "Developer": "Sirius Software",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Guerrilla War",
+        "Year": "1987",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "Hacker",
+        "Year": "1985",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Hacker II: The Doomsday Papers",
+        "Year": "1986",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Hadron",
+        "Year": "1981",
+        "Developer": "Sirius Software",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Halley Project",
+        "Year": "1985",
+        "Developer": "Tom Snyder & Omar Khudari",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Hammurabi",
+        "Year": "1978",
+        "Developer": "Mark Cross",
+        "Publisher": "Apple Computer",
+        "Notes": "appears on Apple Software Bank Contributed Programs Volume 1[15]"
+      },
+      {
+        "Title": "Hard Hat Mack",
+        "Year": "1983",
+        "Developer": "Michael Abbot and Matthew Alexander",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "HardBall!",
+        "Year": "1986",
+        "Developer": "Accolade",
+        "Publisher": "Accolade",
+        "Notes": ""
+      },
+      {
+        "Title": "Heavy Barrel",
+        "Year": "1989",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "The Heist",
+        "Year": "1983",
+        "Developer": "Mike Livesay and Mike Mooney",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Hellfire Warrior",
+        "Year": "1980",
+        "Developer": "Automated Simulations",
+        "Publisher": "Automated Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Hera",
+        "Year": "1987",
+        "Developer": "Jeff Hendrix",
+        "Publisher": "shareware",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "H.E.R.O.",
+        "Year": "1984",
+        "Developer": "Microsmiths",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Hi-Res Computer Golf",
+        "Year": "1981",
+        "Developer": "Avant-Garde",
+        "Publisher": "Avant-Garde",
+        "Notes": ""
+      },
+      {
+        "Title": "Hi-Res Computer Golf 2",
+        "Year": "1983",
+        "Developer": "Avant-Garde",
+        "Publisher": "Avant-Garde",
+        "Notes": ""
+      },
+      {
+        "Title": "High Rise",
+        "Year": "1983",
+        "Developer": "Joe Calabrese",
+        "Publisher": "Micro Learn",
+        "Notes": ""
+      },
+      {
+        "Title": "The Hitchhiker's Guide to the Galaxy",
+        "Year": "1984",
+        "Developer": "Douglas Adams & Steve Meretzky",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "The Hobbit: A Software Adventure",
+        "Year": "1982",
+        "Developer": "Beam Software",
+        "Publisher": "Addison-Wesley",
+        "Notes": ""
+      },
+      {
+        "Title": "House of Seven Gables",
+        "Year": "1978",
+        "Developer": "Greg Hassett",
+        "Publisher": "Mad Hatter Software[16]",
+        "Notes": "text adventure; also appears on the Adventure Disk \"A\" compilation disk."
+      },
+      {
+        "Title": "The Hunt for Red October",
+        "Year": "1987",
+        "Developer": "Oxford Digital Enterprises",
+        "Publisher": "Argus Press Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Impossible Mission",
+        "Year": "1986",
+        "Developer": "Peter Filiberti",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Impossible Mission II",
+        "Year": "1988",
+        "Developer": "Novotrade Software",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "In Search of the Most Amazing Thing",
+        "Year": "1983",
+        "Developer": "Tom Snyder Productions",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Indoor Sports",
+        "Year": "1987",
+        "Developer": "SportTime/Designware Consultants",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Infiltrator",
+        "Year": "1986",
+        "Developer": "Chris Gray Enterprises",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Infiltrator II",
+        "Year": "1987",
+        "Developer": "Chris Gray Enterprises",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Intellectual Decathlon",
+        "Year": "1984",
+        "Developer": "Gabor Laufer & Alexander Laufer",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Intrigue!",
+        "Year": "1986",
+        "Developer": "Kinemation",
+        "Publisher": "Spectrum Holobyte",
+        "Notes": ""
+      },
+      {
+        "Title": "James Bond 007: Goldfinger",
+        "Year": "1986",
+        "Developer": "Angelsoft",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "James Bond 007: A View to a Kill",
+        "Year": "1985",
+        "Developer": "Angelsoft",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Jawbreaker",
+        "Year": "1981",
+        "Developer": "Olaf Lubeck",
+        "Publisher": "On-Line Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Jawbreaker II",
+        "Year": "1982",
+        "Developer": "Chuck Bueche",
+        "Publisher": "On-Line Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Jenny's Journeys",
+        "Year": "1984",
+        "Developer": "MECC",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Jeopardy!",
+        "Year": "1987",
+        "Developer": "Sharedata",
+        "Publisher": "Sharedata",
+        "Notes": ""
+      },
+      {
+        "Title": "Jet",
+        "Year": "1986",
+        "Developer": "Sublogic",
+        "Publisher": "Sublogic",
+        "Notes": ""
+      },
+      {
+        "Title": "Journey to the Center of the Earth",
+        "Year": "1978",
+        "Developer": "Greg Hassett",
+        "Publisher": "Mad Hatter Software[16]",
+        "Notes": "text adventure; also appears on the Adventure Disk \"A\" compilation disk."
+      },
+      {
+        "Title": "Jumpman",
+        "Year": "1983",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Jungle Hunt",
+        "Year": "1984",
+        "Developer": "Ivan Manley",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Kabul Spy",
+        "Year": "1982",
+        "Developer": "Sirius Software",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Kampfgruppe",
+        "Year": "1985",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Karate Champ",
+        "Year": "1985",
+        "Developer": "Berkeley Softworks",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "Karateka",
+        "Year": "1984",
+        "Developer": "Jordan Mechner",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Kid Niki: Radical Ninja",
+        "Year": "1987",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "King Tut's Tomb",
+        "Year": "1978",
+        "Developer": "Greg Hassett",
+        "Publisher": "Mad Hatter Software[16]",
+        "Notes": "text adventure; also appears on the Adventure Disk \"A\" compilation disk."
+      },
+      {
+        "Title": "King's Bounty",
+        "Year": "1990",
+        "Developer": "New World Computing",
+        "Publisher": "New World Computing",
+        "Notes": ""
+      },
+      {
+        "Title": "Koronis Rift",
+        "Year": "1985",
+        "Developer": "Lucasfilm Games",
+        "Publisher": "Lucasfilm Games",
+        "Notes": ""
+      },
+      {
+        "Title": "Kung-Fu Master",
+        "Year": "1985",
+        "Developer": "Berkeley Softworks",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "LA Crackdown",
+        "Year": "1988",
+        "Developer": "Nexa",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Labyrinth",
+        "Year": "1982",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Labyrinth: The Computer Game",
+        "Year": "1986",
+        "Developer": "Lucasfilm",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Labyrinth of Crete",
+        "Year": "1982",
+        "Developer": "Cliff Johnson",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Lady Tut",
+        "Year": "1984",
+        "Developer": "Spinnaker",
+        "Publisher": "Programme",
+        "Notes": ""
+      },
+      {
+        "Title": "Law of the West",
+        "Year": "1985",
+        "Developer": "Accolade",
+        "Publisher": "Accolade",
+        "Notes": ""
+      },
+      {
+        "Title": "Leather Goddesses of Phobos",
+        "Year": "1986",
+        "Developer": "Steve Meretzky",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Legacy of the Ancients",
+        "Year": "1987",
+        "Developer": "Quest Software",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Legend of Blacksilver",
+        "Year": "1988",
+        "Developer": "Quest Software",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Leisure Suit Larry in the Land of the Lounge Lizards",
+        "Year": "1987",
+        "Developer": "Sierra On-Line",
+        "Publisher": "Sierra On-Line",
+        "Notes": "Adventure"
+      },
+      {
+        "Title": "Lemonade Stand",
+        "Year": "1979",
+        "Developer": "MECC",
+        "Publisher": "Apple Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Little Brick Out",
+        "Year": "1979",
+        "Developer": "Bruce Tognazzini",
+        "Publisher": "Apple Computer",
+        "Notes": "An abbreviated Applesoft version of Steve Wozniak's Integer BASIC Breakout game.[17][18][9]"
+      },
+      {
+        "Title": "Lode Runner",
+        "Year": "1983",
+        "Developer": "Douglas E. Smith",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Lords of Conquest",
+        "Year": "1986",
+        "Developer": "Eon Software",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Lords of Karma",
+        "Year": "1981",
+        "Developer": "Microcomputer Games",
+        "Publisher": "Avalon Hill",
+        "Notes": ""
+      },
+      {
+        "Title": "Lunar Leepers",
+        "Year": "1982",
+        "Developer": "Syndein Systems",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Lurking Horror, The",
+        "Year": "1987",
+        "Developer": "Dave Lebling",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Mabel's Mansion",
+        "Year": "1984",
+        "Developer": "Kevin Bagley",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Magic Candle",
+        "Year": "1989",
+        "Developer": "Mindcraft",
+        "Publisher": "Mindcraft",
+        "Notes": ""
+      },
+      {
+        "Title": "Maniac Mansion",
+        "Year": "1987",
+        "Developer": "Lucasfilm Games",
+        "Publisher": "Lucasfilm Games",
+        "Notes": ""
+      },
+      {
+        "Title": "Marble Madness",
+        "Year": "1986",
+        "Developer": "Will Harvey",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Mars Cars",
+        "Year": "1982",
+        "Developer": "Datamost",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Mask of the Sun, The",
+        "Year": "1982",
+        "Developer": "Ultrasoft",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Masquerade",
+        "Year": "1983",
+        "Developer": "Dale Johnson & Rick Incrocci",
+        "Publisher": "Phoenix Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Math Jam",
+        "Year": "1985",
+        "Developer": "JAM Software",
+        "Publisher": "JAM Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Matterhorn Screamer",
+        "Year": "1988",
+        "Developer": "Walt Disney Computer Software",
+        "Publisher": "Hi-Tech Expressions",
+        "Notes": ""
+      },
+      {
+        "Title": "Maze Game",
+        "Year": "1978",
+        "Developer": "Silas Warner[1]",
+        "Publisher": "Muse Software",
+        "Notes": "Also rereleased in 1980 on The Best of Muse compilation disk."
+      },
+      {
+        "Title": "Micro Habit",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "Microsoft Adventure",
+        "Year": "1979",
+        "Developer": "Softwin Associates (Gordon Letwin)[1]",
+        "Publisher": "Microsoft",
+        "Notes": "Port of Colossal Cave Adventure (William Crowther and Don Woods)[19]"
+      },
+      {
+        "Title": "Microwave",
+        "Year": "1982",
+        "Developer": "Jay Zimmerman & Jim Nitchals",
+        "Publisher": "Cavalier Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Might and Magic",
+        "Year": "1986",
+        "Developer": "New World Computing",
+        "Publisher": "New World Computing",
+        "Notes": ""
+      },
+      {
+        "Title": "Might and Magic II",
+        "Year": "1988",
+        "Developer": "New World Computing",
+        "Publisher": "New World Computing",
+        "Notes": ""
+      },
+      {
+        "Title": "Mind Forever Voyaging, A",
+        "Year": "1985",
+        "Developer": "Steve Meretzky",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Mindshadow",
+        "Year": "1984",
+        "Developer": "Interplay Productions",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Mindwheel",
+        "Year": "1984",
+        "Developer": "Synapse Software",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Miner 2049er",
+        "Year": "1982",
+        "Developer": "Mike Livesay",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Miner's Cave",
+        "Year": "1988",
+        "Developer": "Intentional Educations",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Mines of Titan",
+        "Year": "1989",
+        "Developer": "Westwood Associates",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Mission Asteroid",
+        "Year": "1980",
+        "Developer": "Roberta Williams & Ken Williams",
+        "Publisher": "On-Line Systems",
+        "Notes": "Also known as Hi-Res Adventure #0"
+      },
+      {
+        "Title": "The Mist",
+        "Year": "1985",
+        "Developer": "Angelsoft",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Moebius: The Orb of Celestial Harmony",
+        "Year": "1985",
+        "Developer": "Origin Systems",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Money Munchers",
+        "Year": "1982",
+        "Developer": "Bob Bishop",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Montezuma's Revenge",
+        "Year": "1983",
+        "Developer": "BCI Software",
+        "Publisher": "Parker Brothers",
+        "Notes": ""
+      },
+      {
+        "Title": "Moon Patrol",
+        "Year": "1983",
+        "Developer": "TMQ Software",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Morloc's Tower",
+        "Year": "1979",
+        "Developer": "Automated Simulations",
+        "Publisher": "Automated Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Mr. Do!",
+        "Year": "1985",
+        "Developer": "Rick Mirsky",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Mr. Robot and His Robot Factory",
+        "Year": "1983",
+        "Developer": "Robert McNally[1]",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Ms. Pac-Man",
+        "Year": "1983",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Muppets on Stage",
+        "Year": "1986",
+        "Developer": "Mike Fish, Anders McCarthy, Jon Sweedler, & Melissa Verber[20]",
+        "Publisher": "Sunburst Communications",
+        "Notes": ""
+      },
+      {
+        "Title": "Murphy's Minerals",
+        "Year": "1990",
+        "Developer": "MECC",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Mystery Fun House",
+        "Year": "1981",
+        "Developer": "Scott Adams[1]",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Mystery House",
+        "Year": "1980",
+        "Developer": "Roberta Williams & Ken Williams[1]",
+        "Publisher": "On-Line Systems",
+        "Notes": "Also known as Hi-Res Adventure #1"
+      },
+      {
+        "Title": "Neptune",
+        "Year": "1987",
+        "Developer": "Nasir Gebelli[1]",
+        "Publisher": "Gebelli Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Network",
+        "Year": "1980",
+        "Developer": "David Mullich[1]",
+        "Publisher": "Edu-Ware",
+        "Notes": "Business simulation"
+      },
+      {
+        "Title": "Neuromancer",
+        "Year": "1988",
+        "Developer": "Interplay Productions",
+        "Publisher": "Mediagenic",
+        "Notes": ""
+      },
+      {
+        "Title": "Night Driver",
+        "Year": "1980",
+        "Developer": "Bill Budge",
+        "Publisher": "California Pacific Computer Company",
+        "Notes": "Part of Bill Budge's Trilogy of Games"
+      },
+      {
+        "Title": "Night Mission Pinball",
+        "Year": "1982",
+        "Developer": "Bruce Artwick[21]",
+        "Publisher": "SubLOGIC",
+        "Notes": ""
+      },
+      {
+        "Title": "Nightmare #6",
+        "Year": "1978",
+        "Developer": "Gary Shannon",
+        "Publisher": "Apple Computer",
+        "Notes": "appears on Apple Software Bank Contributed Programs Vol. 1[15]"
+      },
+      {
+        "Title": "Nightmare Gallery",
+        "Year": "1982",
+        "Developer": "Ron Aldrich[1]",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Number Crunch",
+        "Year": "1982",
+        "Developer": "Greg Carbonaro[1]",
+        "Publisher": "Unique",
+        "Notes": ""
+      },
+      {
+        "Title": "Number Munchers",
+        "Year": "1990",
+        "Developer": "MECC",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Odell Lake",
+        "Year": "1986",
+        "Developer": "MECC",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Odell Woods",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "Odyssey: The Compleat Apventure",
+        "Year": "1980",
+        "Developer": "Robert C. Clardy[1]",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Ogre",
+        "Year": "1986",
+        "Developer": "Steve Meuse",
+        "Publisher": "Origin Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Oil Barons",
+        "Year": "1983",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Olympic Decathlon",
+        "Year": "1981",
+        "Developer": "Timothy W. Smith",
+        "Publisher": "Microsoft",
+        "Notes": "also known as Microsoft Olympic Decathlon"
+      },
+      {
+        "Title": "One on One: Dr. J vs. Larry Bird",
+        "Year": "1983",
+        "Developer": "Electronic Arts",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "The Oregon Trail",
+        "Year": "1985",
+        "Developer": "MECC",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Pac-Man",
+        "Year": "1983",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Notes": "Arcade"
+      },
+      {
+        "Title": "Paragon",
+        "Year": "1988",
+        "Developer": "Softdisk",
+        "Publisher": "Softdisk",
+        "Notes": ""
+      },
+      {
+        "Title": "Pensate",
+        "Year": "1983",
+        "Developer": "John Besnard[1]",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Pentapus",
+        "Year": "1983",
+        "Developer": "Jeremy Sagan",
+        "Publisher": "Turning Point Software",
+        "Notes": ""
+      },
+      {
+        "Title": "People Pong",
+        "Year": "1982",
+        "Developer": "Greg Carbonaro[1]",
+        "Publisher": "Unique",
+        "Notes": ""
+      },
+      {
+        "Title": "Perception",
+        "Year": "1979",
+        "Developer": "Edu-Ware",
+        "Publisher": "Edu-Ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Pest Patrol",
+        "Year": "1982",
+        "Developer": "Mark Allen",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Phantasie",
+        "Year": "1985",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Phantasie II",
+        "Year": "1986",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Phantasie III: The Wrath of Nikademus",
+        "Year": "1987",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Phantoms Five",
+        "Year": "1980",
+        "Developer": "Nasir Gebelli",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Pharaoh's Revenge",
+        "Year": "1988",
+        "Developer": "Ivan Manley",
+        "Publisher": "Publishing International",
+        "Notes": ""
+      },
+      {
+        "Title": "Pick-A-Dilly",
+        "Year": "1983",
+        "Developer": "Norm Gray",
+        "Publisher": "Actioncraft",
+        "Notes": ""
+      },
+      {
+        "Title": "Pigpen",
+        "Year": "1982",
+        "Developer": "TMQ Software",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Pillbox",
+        "Year": "1982",
+        "Developer": "Douglas E. Wolfgram",
+        "Publisher": "Lord of the Games",
+        "Notes": "Battlezone clone"
+      },
+      {
+        "Title": "Pinball Construction Set",
+        "Year": "1983",
+        "Developer": "Bill Budge",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Pirate Adventure",
+        "Year": "1978",
+        "Developer": "Scott Adams",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitfall II: Lost Caverns",
+        "Year": "1984",
+        "Developer": "Microsmiths (Rex E. Bradford)",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitstop II",
+        "Year": "1984",
+        "Developer": "Ivan Manley",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Planetfall",
+        "Year": "1983",
+        "Developer": "Steve Meretzky",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Pleins Gaz",
+        "Year": "1986",
+        "Developer": "Richard Soberka",
+        "Publisher": "Froggy Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Police Artist",
+        "Year": "1983",
+        "Developer": "Elizabeth Levin",
+        "Publisher": "Sir-Tech",
+        "Notes": ""
+      },
+      {
+        "Title": "Police Quest: In Pursuit of the Death Angel",
+        "Year": "1987",
+        "Developer": "Jim Walls",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Pool of Radiance",
+        "Year": "1988",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Pooyan",
+        "Year": "1984",
+        "Developer": "Datasoft",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Portal",
+        "Year": "1986",
+        "Developer": "Nexa",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "President Elect",
+        "Year": "1981",
+        "Developer": "Nelson G. Hernandez",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Prince of Persia",
+        "Year": "1989",
+        "Developer": "Jordan Mechner",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "The Prisoner",
+        "Year": "1980",
+        "Developer": "Edu-Ware",
+        "Publisher": "Edu-Ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Prisoner 2",
+        "Year": "1982",
+        "Developer": "Edu-Ware",
+        "Publisher": "Edu-Ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Pro Golf I",
+        "Year": "1985",
+        "Developer": "Micro Imagery",
+        "Publisher": "Hesware",
+        "Notes": ""
+      },
+      {
+        "Title": "Project Space Station",
+        "Year": "1987",
+        "Developer": "Micro Imagery",
+        "Publisher": "Hesware",
+        "Notes": ""
+      },
+      {
+        "Title": "Pyramids of Egypt",
+        "Year": "1987",
+        "Developer": "John Romero",
+        "Publisher": "UpTime",
+        "Notes": "Maze game"
+      },
+      {
+        "Title": "Pyromania",
+        "Year": "",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "Quasar",
+        "Year": "1983",
+        "Developer": "Jonathan Dubman",
+        "Publisher": "Aristotle Software",
+        "Notes": ""
+      },
+      {
+        "Title": "The Queen of Phobos",
+        "Year": "1982",
+        "Developer": "Paul Berker & Bill Crawford",
+        "Publisher": "Phoenix Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Quest, The",
+        "Year": "1983",
+        "Developer": "Dallas Snell",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Questprobe",
+        "Year": "1985",
+        "Developer": "Adventure International",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Raft Away River",
+        "Year": "1984",
+        "Developer": "Gerald M. Wluka",
+        "Publisher": "Jacaranda Wiley LTD",
+        "Notes": ""
+      },
+      {
+        "Title": "Raid over Moscow",
+        "Year": "1985",
+        "Developer": "Access Software",
+        "Publisher": "Access Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Raiders of the Lost Ring (a.k.a. Ring Raiders)",
+        "Year": "1983",
+        "Developer": "Jim Nitchals",
+        "Publisher": "Cavalier Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Raster Blaster",
+        "Year": "1981",
+        "Developer": "Bill Budge",
+        "Publisher": "BudgeCo",
+        "Notes": ""
+      },
+      {
+        "Title": "Reach for the Stars",
+        "Year": "1985",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations Group",
+        "Notes": "Strategy game"
+      },
+      {
+        "Title": "Read n' Roll",
+        "Year": "1988",
+        "Developer": "",
+        "Publisher": "Davidson & Associates",
+        "Notes": ""
+      },
+      {
+        "Title": "Reader Rabbit",
+        "Year": "1984",
+        "Developer": "The Learning Company",
+        "Publisher": "The Learning Company",
+        "Notes": "Edutainment"
+      },
+      {
+        "Title": "Rear Guard",
+        "Year": "1982",
+        "Developer": "Adventure International",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Reforger '88",
+        "Year": "1984",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Renegade",
+        "Year": "1989",
+        "Developer": "NovaLogic",
+        "Publisher": "Taito"
+      },
+      {
+        "Title": "Repton",
+        "Year": "1983",
+        "Developer": "Sirius Software",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Rescue at Rigel",
+        "Year": "1980",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Rescue on Fractalus!",
+        "Year": "1985",
+        "Developer": "THQ Software",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Rescue Raiders",
+        "Year": "1983",
+        "Developer": "Arthur Britto & Greg Hale",
+        "Publisher": "Sir-Tech",
+        "Notes": ""
+      },
+      {
+        "Title": "Return of Heracles",
+        "Year": "1983",
+        "Developer": "Stuart Smith",
+        "Publisher": "Quality Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Ring Quest",
+        "Year": "1983",
+        "Developer": "Dallas Snell",
+        "Publisher": "Penguin Software",
+        "Notes": "Sequel to The Quest"
+      },
+      {
+        "Title": "Roach Hotel",
+        "Year": "1981",
+        "Developer": "Mike Livesay",
+        "Publisher": "Microlab",
+        "Notes": ""
+      },
+      {
+        "Title": "Roadwar 2000",
+        "Year": "1986",
+        "Developer": "Jeffrey Johnson",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Roadwar Europa",
+        "Year": "1987",
+        "Developer": "Jeffrey Johnson",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "RoboCop",
+        "Year": "1988",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "Robot Odyssey",
+        "Year": "1984",
+        "Developer": "Mike Wallace & Dr. Leslie Grimm",
+        "Publisher": "The Learning Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Robotron: 2084",
+        "Year": "1983",
+        "Developer": "TMQ Software",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "RobotWar",
+        "Year": "1981",
+        "Developer": "Silas Warner[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Rocky's Boots",
+        "Year": "1982",
+        "Developer": "Warren Robinett & Dr. Leslie Grimm",
+        "Publisher": "The Learning Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Round About",
+        "Year": "1983",
+        "Developer": "Gumby Bitworks (Ray Giarratana)[22]",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Russki Duck",
+        "Year": "1982",
+        "Developer": "Allen Merrell & Eric Knopp",
+        "Publisher": "Gebelli Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sabotage",
+        "Year": "1981",
+        "Developer": "Mark Allen",
+        "Publisher": "On-Line Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Sammy Lightfoot",
+        "Year": "1983",
+        "Developer": "Warren Schwader",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Sands of Mars",
+        "Year": "1981",
+        "Developer": "John Bell & Patty Bell",
+        "Publisher": "Crystal Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Santa Paravia en Fiumaccio",
+        "Year": "1979",
+        "Developer": "George Blank",
+        "Publisher": "Instant Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Saracen",
+        "Year": "1987",
+        "Developer": "IntelliCreations",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Sargon",
+        "Year": "1979",
+        "Developer": "Dan and Kathleen Spracklen",
+        "Publisher": "Hayden Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sargon II",
+        "Year": "1982",
+        "Developer": "Dan and Kathleen Spracklen",
+        "Publisher": "Hayden Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sea Dragon",
+        "Year": "1982",
+        "Developer": "John Anderson",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Search for the Titanic",
+        "Year": "1991",
+        "Developer": "Codesmiths, Intracorp",
+        "Publisher": "Capstone Software",
+        "Notes": "Oceanographic simulation"
+      },
+      {
+        "Title": "Secret Agent: Mission One",
+        "Year": "1983",
+        "Developer": "Jorge Davies & Andrew Golder",
+        "Publisher": "Jor-And",
+        "Notes": ""
+      },
+      {
+        "Title": "Serpentine",
+        "Year": "1982",
+        "Developer": "David Snider",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "The Seven Cities of Gold",
+        "Year": "1984",
+        "Developer": "Ozark Software",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Shamus",
+        "Year": "1983",
+        "Developer": "Synapse Software",
+        "Publisher": "Synapse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Shard of Spring",
+        "Year": "1986",
+        "Developer": "Craig Roth and David Stark",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Sherlock Holmes: Another Bow",
+        "Year": "1985",
+        "Developer": "Imagic",
+        "Publisher": "Bantam Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sherwood Forest",
+        "Year": "1982",
+        "Developer": "Dale Johnson and Dav Holle",
+        "Publisher": "Phoenix Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Shogun",
+        "Year": "1988",
+        "Developer": "Dave Lebling",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Short Circuit",
+        "Year": "1985",
+        "Developer": "David Schroeder",
+        "Publisher": "Micro Fun",
+        "Notes": ""
+      },
+      {
+        "Title": "Sid Meier's Pirates!",
+        "Year": "1987",
+        "Developer": "MicroProse Software",
+        "Publisher": "MicroProse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Silent Service",
+        "Year": "1985",
+        "Developer": "MicroProse Software",
+        "Publisher": "MicroProse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Silvern Castle",
+        "Year": "1988",
+        "Developer": "Jeff Fink",
+        "Publisher": "Softdisk (unreleased)[23]",
+        "Notes": "RPG; released by author in 1999."
+      },
+      {
+        "Title": "Situation Critical",
+        "Year": "1984",
+        "Developer": "Alex Stern, Peter Rokitski, & Greg George",
+        "Publisher": "Prism Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Ski crazed",
+        "Year": "1987",
+        "Developer": "JAM Software",
+        "Publisher": "Baudville",
+        "Notes": ""
+      },
+      {
+        "Title": "Skyfox",
+        "Year": "1984",
+        "Developer": "Ray Tobey",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Snack Attack",
+        "Year": "1982",
+        "Developer": "Funtastic (Dan Illowsky)",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Snack Attack II",
+        "Year": "1982",
+        "Developer": "Funtastic",
+        "Publisher": "Funtastic",
+        "Notes": ""
+      },
+      {
+        "Title": "Snake Byte",
+        "Year": "1982",
+        "Developer": "Chuck Summerville",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sneakers",
+        "Year": "1981",
+        "Developer": "Mark Turmell",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Snooper Troops: Case #1 - The Granite Point Ghost",
+        "Year": "1982",
+        "Developer": "Tom Snyder",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Snooper Troops: Case #2 - The Case of the Disappearing Dolphin",
+        "Year": "1982",
+        "Developer": "Tom Snyder",
+        "Publisher": "Spinnaker Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Snoopy to the Rescue",
+        "Year": "1984",
+        "Developer": "Random House",
+        "Publisher": "Random House",
+        "Notes": ""
+      },
+      {
+        "Title": "Softporn Adventure",
+        "Year": "1981",
+        "Developer": "Chuck Benton",
+        "Publisher": "On-Line Systems",
+        "Notes": "Text adventure"
+      },
+      {
+        "Title": "Sokoban",
+        "Year": "1984",
+        "Developer": "Thinking Rabbit",
+        "Publisher": "Thinking Rabbit",
+        "Notes": ""
+      },
+      {
+        "Title": "Sorcerer's Castle",
+        "Year": "1978",
+        "Developer": "Greg Hassett",
+        "Publisher": "Mad Hatter Software[16]",
+        "Notes": "text adventure; also appears on the Adventure Disk \"A\" compilation disk."
+      },
+      {
+        "Title": "Sorcerer's Challenge",
+        "Year": "1980",
+        "Developer": "Robert C. Clardy[1]",
+        "Publisher": "Synergistic Software",
+        "Notes": "Included with the game Doom Cavern on the same disk."
+      },
+      {
+        "Title": "Southern Command",
+        "Year": "1981",
+        "Developer": "Strategic Simulations",
+        "Publisher": "Strategic Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Space",
+        "Year": "1978",
+        "Developer": "Steven Pederson",
+        "Publisher": "Edu-Ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Space II",
+        "Year": "1979",
+        "Developer": "David Mullich",
+        "Publisher": "Edu-Ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Defender",
+        "Year": "1982",
+        "Developer": "Daniel Schuyler",
+        "Publisher": "Bel-Air Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Eggs",
+        "Year": "1981",
+        "Developer": "Nasir Gebelli",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Quarks",
+        "Year": "1981",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Quest",
+        "Year": "1986",
+        "Developer": "Sierra On-Line",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Quest II: Vohaul's Revenge",
+        "Year": "1987",
+        "Developer": "Sierra",
+        "Publisher": "Sierra",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Vikings",
+        "Year": "1982",
+        "Developer": "Mitchell Robbins",
+        "Publisher": "Sublogic",
+        "Notes": ""
+      },
+      {
+        "Title": "Spare Change",
+        "Year": "1983",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Speedway Classic",
+        "Year": "1984",
+        "Developer": "Norm Gray",
+        "Publisher": "Actioncraft",
+        "Notes": ""
+      },
+      {
+        "Title": "Spellevator",
+        "Year": "1988",
+        "Developer": "",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Spellicopter",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Designware",
+        "Notes": ""
+      },
+      {
+        "Title": "SpellWielder",
+        "Year": "2019",
+        "Developer": "Roby Sherman",
+        "Publisher": "CrowCousins",
+        "Notes": "Action / Adventure Game"
+      },
+      {
+        "Title": "Spider-Man",
+        "Year": "1985",
+        "Developer": "Adventure International",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Spindizzy",
+        "Year": "1986",
+        "Developer": "The Softworks Factory",
+        "Publisher": "Activision",
+        "Notes": ""
+      },
+      {
+        "Title": "Spy Hunter",
+        "Year": "1986",
+        "Developer": "Bally Midway",
+        "Publisher": "Bally Midway",
+        "Notes": ""
+      },
+      {
+        "Title": "Spy vs. Spy",
+        "Year": "1984",
+        "Developer": "First Star Software",
+        "Publisher": "First Star Software",
+        "Notes": "action/strategy game, 1 and 2 player support (keyboard, joystick)"
+      },
+      {
+        "Title": "Spy's Demise",
+        "Year": "1982",
+        "Developer": "Alan Zeldin",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Standing Stones",
+        "Year": "1983",
+        "Developer": "Peter Schmuckal and Dan Sommers",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Blazer",
+        "Year": "1982",
+        "Developer": "StarCraft",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Star League Baseball",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Gamestar",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Fleet I: The War Begins",
+        "Year": "1984",
+        "Developer": "Interstel",
+        "Publisher": "Interstel",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Thief",
+        "Year": "1981",
+        "Developer": "Jim Nitchals",
+        "Publisher": "Cavalier Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: The Kobayashi Alternative",
+        "Year": "1985",
+        "Developer": "MicroMosaics",
+        "Publisher": "Simon & Schuster Interactive",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: Strategic Operations Simulator",
+        "Year": "1983",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Notes": ""
+      },
+      {
+        "Title": "Starcross",
+        "Year": "1982",
+        "Developer": "Infocom",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Starlanes",
+        "Year": "1977",
+        "Developer": "",
+        "Publisher": "",
+        "Notes": "Interstellar shipping company stock trading game."
+      },
+      {
+        "Title": "Stargate",
+        "Year": "1983",
+        "Developer": "Atarisoft",
+        "Publisher": "Atarisoft",
+        "Notes": "Port of Defender II arcade game"
+      },
+      {
+        "Title": "Starship Commander",
+        "Year": "1981",
+        "Developer": "Gilman Louie",
+        "Publisher": "Voyager Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Stationfall",
+        "Year": "April 30, 1987",
+        "Developer": "Steve Meretzky",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Stellar 7",
+        "Year": "1983",
+        "Developer": "Damon Slye",
+        "Publisher": "Software Entertainment Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Strange Odyssey",
+        "Year": "1981",
+        "Developer": "Scott Adams",
+        "Publisher": "Adventure International",
+        "Notes": "Scott Adams' sixth game"
+      },
+      {
+        "Title": "Strike Fleet",
+        "Year": "1987",
+        "Developer": "Lucasfilm Games",
+        "Publisher": "Electronic Arts",
+        "Notes": "Naval simulation game"
+      },
+      {
+        "Title": "Strip Poker",
+        "Year": "1982",
+        "Developer": "Artworx",
+        "Publisher": "Artworx",
+        "Notes": ""
+      },
+      {
+        "Title": "Structris",
+        "Year": "2012",
+        "Developer": "Martin Haye",
+        "Publisher": "Martin Haye",
+        "Notes": "Tetris"
+      },
+      {
+        "Title": "Suicide!",
+        "Year": "1981",
+        "Developer": "Steve Hawley",
+        "Publisher": "Piccadilly Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sumer",
+        "Year": "1981",
+        "Developer": "",
+        "Publisher": "Crystal Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Summer Games",
+        "Year": "1984",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": "Sports game"
+      },
+      {
+        "Title": "SunDog: Frozen Legacy",
+        "Year": "1986",
+        "Developer": "FTL Games",
+        "Publisher": "Accolade",
+        "Notes": "Space trading game"
+      },
+      {
+        "Title": "Super Bunny",
+        "Year": "1983",
+        "Developer": "Datamost",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Invader",
+        "Year": "1979",
+        "Developer": "M. Hata",
+        "Publisher": "California Pacific Computer Company",
+        "Notes": "Arcade"
+      },
+      {
+        "Title": "Supermartian",
+        "Year": "1984",
+        "Developer": "Ted Griggs",
+        "Publisher": "Computer Easy",
+        "Notes": ""
+      },
+      {
+        "Title": "Suspect",
+        "Year": "1984",
+        "Developer": "Dave Lebling",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Suspended",
+        "Year": "1983",
+        "Developer": "Michael Berlyn",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Swashbuckler",
+        "Year": "1982",
+        "Developer": "Paul Stephenson",
+        "Publisher": "Datamost",
+        "Notes": ""
+      },
+      {
+        "Title": "Sword of Kadash",
+        "Year": "1984",
+        "Developer": "Dynamix",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Sword of Zedec (a.k.a. Pythagoras and the Dragon)",
+        "Year": "1983",
+        "Developer": "John O'Hare",
+        "Publisher": "Krell Software",
+        "Notes": "Text Adventure"
+      },
+      {
+        "Title": "SwordThrust",
+        "Year": "1981",
+        "Developer": "Donald Brown",
+        "Publisher": "CE Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Syzygy",
+        "Year": "1983",
+        "Developer": "Ed Hobbs",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "T.W.E.R.P.S.",
+        "Year": "1981",
+        "Developer": "Dan Thompson",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Tactical Armor Command",
+        "Year": "1983",
+        "Developer": "Avalon Hill",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "Tag Team Wrestling",
+        "Year": "1984",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "Taipan!",
+        "Year": "1982",
+        "Developer": "Mega-micro Computers (Art Canfil)",
+        "Publisher": "Avalanche Productions",
+        "Notes": ""
+      },
+      {
+        "Title": "Tank War",
+        "Year": "1978",
+        "Developer": "Ed Zaron[1]",
+        "Publisher": "Muse Software",
+        "Notes": "Also rereleased in 1980 on The Best of Muse compilation disk."
+      },
+      {
+        "Title": "Tapper",
+        "Year": "1984",
+        "Developer": "Marvin Glass and Associates",
+        "Publisher": "Bally Midway",
+        "Notes": ""
+      },
+      {
+        "Title": "Tass Times in Tonetown",
+        "Year": "1986",
+        "Developer": "Interplay ProductionsBrainwave Creations",
+        "Publisher": "Activision",
+        "Notes": "Graphic adventure game"
+      },
+      {
+        "Title": "Tawala's Last Redoubt",
+        "Year": "1981",
+        "Developer": "Doug Carlston",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Taxman",
+        "Year": "1981",
+        "Developer": "Brian Fitzgerald",
+        "Publisher": "H.A.L. Labs",
+        "Notes": "A Pac-Man clone"
+      },
+      {
+        "Title": "Techno Cop",
+        "Year": "1988",
+        "Developer": "Gray Matter",
+        "Publisher": "US Gold",
+        "Notes": ""
+      },
+      {
+        "Title": "Telengard",
+        "Year": "1982",
+        "Developer": "Daniel Lawrence",
+        "Publisher": "Avalon Hill",
+        "Notes": ""
+      },
+      {
+        "Title": "Teleport",
+        "Year": "1982",
+        "Developer": "Mike Abbott & Jim Nitchals[1]",
+        "Publisher": "Cavalier Computer",
+        "Notes": ""
+      },
+      {
+        "Title": "Temple of Apshai",
+        "Year": "1979",
+        "Developer": "Automated Simulations",
+        "Publisher": "Automated Simulations",
+        "Notes": ""
+      },
+      {
+        "Title": "Terrorist",
+        "Year": "1980",
+        "Developer": "Steven Pederson",
+        "Publisher": "Edu-Ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Test Drive",
+        "Year": "1987",
+        "Developer": "Distinctive Software",
+        "Publisher": "Accolade",
+        "Notes": ""
+      },
+      {
+        "Title": "Tetris",
+        "Year": "1988",
+        "Developer": "Spectrum Holobyte",
+        "Publisher": "Spectrum Holobyte",
+        "Notes": ""
+      },
+      {
+        "Title": "Theseus and the Minotaur",
+        "Year": "1982",
+        "Developer": "Bruce Nesmith[1]",
+        "Publisher": "TSR",
+        "Notes": ""
+      },
+      {
+        "Title": "Thexder",
+        "Year": "1987",
+        "Developer": "Synergistic Software",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Think Quick!",
+        "Year": "1987",
+        "Developer": "The Learning Company",
+        "Publisher": "The Learning Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Three Mile Island",
+        "Year": "1979",
+        "Developer": "Richard Orban[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Three Mile Island: Special Edition",
+        "Year": "1980",
+        "Developer": "Richard Orban[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Threshold",
+        "Year": "1981",
+        "Developer": "On-Line Systems",
+        "Publisher": "On-Line Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Time Tunnels",
+        "Year": "1983",
+        "Developer": "Paul Coletta",
+        "Publisher": "Reston Publishing Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Time Zone",
+        "Year": "1982",
+        "Developer": "Roberta Williams & Rorke Weigandt[1]",
+        "Publisher": "On-Line Systems",
+        "Notes": "Also known as Hi-Res Adventure #5"
+      },
+      {
+        "Title": "Titan Empire",
+        "Year": "1981",
+        "Developer": "Ed Zaron[1]",
+        "Publisher": "Muse Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Torpedos Away",
+        "Year": "1987",
+        "Developer": "",
+        "Publisher": "Keypunch Software",
+        "Notes": "contains 4 games: Sub Hunt (aka. Subnodule), Sea Battle, Depth Charge, & Sea Raider."
+      },
+      {
+        "Title": "Track & Field",
+        "Year": "1984",
+        "Developer": "",
+        "Publisher": "Atarisoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Transylvania",
+        "Year": "1982",
+        "Developer": "Antonio Antiochia & Steve Meuse",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Transylvania II: Crimson Crown",
+        "Year": "1985",
+        "Developer": "Penguin Software",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Trek of the 49ers",
+        "Year": "1988",
+        "Developer": "Black, Tran, McNichols, et al.",
+        "Publisher": "CUE SoftSwap",
+        "Notes": ""
+      },
+      {
+        "Title": "Trinity",
+        "Year": "1986",
+        "Developer": "Infocom",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Trolls and Tribulations",
+        "Year": "1984",
+        "Developer": "Jimmy Huey",
+        "Publisher": "Creative Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Troll's Tale",
+        "Year": "1983",
+        "Developer": "Al Lowe, Sunnyside Soft",
+        "Publisher": "Sierra Entertainment",
+        "Notes": ""
+      },
+      {
+        "Title": "Ultima",
+        "Year": "1981",
+        "Developer": "Richard Garriott",
+        "Publisher": "California Pacific Computer Company",
+        "Notes": ""
+      },
+      {
+        "Title": "Ultima I: The First Age of Darkness",
+        "Year": "1986",
+        "Developer": "Richard Garriott",
+        "Publisher": "Origin Systems",
+        "Notes": "Remake of Ultima from 1981"
+      },
+      {
+        "Title": "Ultima II: The Revenge of the Enchantress",
+        "Year": "1982",
+        "Developer": "Richard Garriott",
+        "Publisher": "Sierra On-Line",
+        "Notes": ""
+      },
+      {
+        "Title": "Ultima III: Exodus",
+        "Year": "1983",
+        "Developer": "Richard Garriott",
+        "Publisher": "Origin Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Ultima IV: Quest of the Avatar",
+        "Year": "1985",
+        "Developer": "Richard Garriott",
+        "Publisher": "Origin Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Ultima V: Warriors of Destiny",
+        "Year": "1988",
+        "Developer": "Richard Garriott",
+        "Publisher": "Origin Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Ulysses and the Golden Fleece",
+        "Year": "1981",
+        "Developer": "Ken Williams & Bob Davis",
+        "Publisher": "On-Line Systems",
+        "Notes": "Also known as Hi-Res Adventure #4"
+      },
+      {
+        "Title": "Valley of the Minotaur",
+        "Year": "1983",
+        "Developer": "Nicolas van Dyk & Chris M. Evans",
+        "Publisher": "Softalk",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Victory Road",
+        "Year": "1987",
+        "Developer": "Quicksilver Software",
+        "Publisher": "Data East",
+        "Notes": ""
+      },
+      {
+        "Title": "Video Stock Market",
+        "Year": "1985",
+        "Developer": "",
+        "Publisher": "Computer Adversary Publishing",
+        "Notes": "The first game from the company;[24] an investment strategy game; \"a quick (averages 1 and 1/2 hr.) and easy game, useful as a light and friendly evening among other \"beer and pretzel\" games.\"[25]"
+      },
+      {
+        "Title": "Vindicator",
+        "Year": "1983",
+        "Developer": "Jimmy Huey",
+        "Publisher": "H.A.L. Labs",
+        "Notes": ""
+      },
+      {
+        "Title": "Voodoo Castle",
+        "Year": "1980",
+        "Developer": "Scott Adams & Alexis Adams",
+        "Publisher": "Adventure International",
+        "Notes": ""
+      },
+      {
+        "Title": "Voodoo Island",
+        "Year": "1985",
+        "Developer": "Angelsoft",
+        "Publisher": "Mindscape",
+        "Notes": ""
+      },
+      {
+        "Title": "Warlords",
+        "Year": "1978",
+        "Developer": "Brian Beninger",
+        "Publisher": "Speakeasy Software Ltd",
+        "Notes": ""
+      },
+      {
+        "Title": "Wasteland",
+        "Year": "1988",
+        "Developer": "Interplay Productions",
+        "Publisher": "Electronic Arts",
+        "Notes": ""
+      },
+      {
+        "Title": "Wavy Navy",
+        "Year": "1983",
+        "Developer": "Rodney McAuley",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Wayout",
+        "Year": "1982",
+        "Developer": "Paul Edelstein",
+        "Publisher": "Sirius Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Where in America's Past is Carmen Sandiego?",
+        "Year": "1991",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Where in Europe is Carmen Sandiego?",
+        "Year": "1988",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Where in North Dakota is Carmen Sandiego?",
+        "Year": "1989",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Where in Time Is Carmen Sandiego?",
+        "Year": "1989",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Where in the U.S.A. is Carmen Sandiego?",
+        "Year": "1986",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Where in the World is Carmen Sandiego?",
+        "Year": "1985",
+        "Developer": "Broderbund",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Who Framed Roger Rabbit",
+        "Year": "1988",
+        "Developer": "Buena Vista Software",
+        "Publisher": "Buena Vista Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Wilderness Campaign",
+        "Year": "1979",
+        "Developer": "Robert C. Clardy",
+        "Publisher": "Synergistic Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Willy Byte in the Digital Dimension",
+        "Year": "1984",
+        "Developer": "Murray Krehbiel",
+        "Publisher": "Data Trek",
+        "Notes": "Graphics by Greg Hammond"
+      },
+      {
+        "Title": "Windfall: The Oil Crisis Game",
+        "Year": "1980",
+        "Developer": "Edu-ware",
+        "Publisher": "Edu-ware",
+        "Notes": ""
+      },
+      {
+        "Title": "Windwalker",
+        "Year": "1989",
+        "Developer": "Origin Systems",
+        "Publisher": "Origin Systems",
+        "Notes": ""
+      },
+      {
+        "Title": "Wings of Fury",
+        "Year": "1987",
+        "Developer": "Steve Waldo",
+        "Publisher": "Broderbund",
+        "Notes": ""
+      },
+      {
+        "Title": "Wings Out of Shadow",
+        "Year": "1983",
+        "Developer": "",
+        "Publisher": "Berserker Works",
+        "Notes": ""
+      },
+      {
+        "Title": "Winter Games",
+        "Year": "1985",
+        "Developer": "Epyx",
+        "Publisher": "Epyx",
+        "Notes": ""
+      },
+      {
+        "Title": "Wishbringer",
+        "Year": "1985",
+        "Developer": "Infocom",
+        "Publisher": "Infocom",
+        "Notes": ""
+      },
+      {
+        "Title": "Wizard and the Princess",
+        "Year": "1982",
+        "Developer": "Ken Williams & Roberta Williams[1]",
+        "Publisher": "On-Line Systems",
+        "Notes": "Also known as Hi-Res Adventure #2"
+      },
+      {
+        "Title": "The Wizard of Oz",
+        "Year": "1985",
+        "Developer": "Windham Classics",
+        "Publisher": "Windham Classics",
+        "Notes": ""
+      },
+      {
+        "Title": "Wizardry: Proving Grounds of the Mad Overlord",
+        "Year": "1981",
+        "Developer": "Andrew C. Greenberg & Robert Woodhead",
+        "Publisher": "Sir-Tech",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Wizardry II: The Knight of Diamonds",
+        "Year": "1982",
+        "Developer": "Andrew C. Greenberg & Robert Woodhead",
+        "Publisher": "Sir-Tech",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Wizardry III: Legacy of Llylgamyn",
+        "Year": "1983",
+        "Developer": "Andrew C. Greenberg & Robert Woodhead",
+        "Publisher": "Sir-Tech",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Wizardry IV: The Return of Werdna",
+        "Year": "1987",
+        "Developer": "Andrew C. Greenberg, Robert Woodhead, & Roe R. Adams III",
+        "Publisher": "Sir-Tech",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Wizardry V: Heart of the Maelstrom",
+        "Year": "1988",
+        "Developer": "Andrew C. Greenberg & David W. Bradley",
+        "Publisher": "Sir-Tech",
+        "Notes": "RPG"
+      },
+      {
+        "Title": "Word Attack!",
+        "Year": "1984",
+        "Developer": "Davidson & Associates",
+        "Publisher": "Davidson & Associates",
+        "Notes": ""
+      },
+      {
+        "Title": "Word Munchers",
+        "Year": "1985",
+        "Developer": "Philip Bouchard, et al.[26]",
+        "Publisher": "MECC",
+        "Notes": ""
+      },
+      {
+        "Title": "Xonix[citation needed]",
+        "Year": "1983",
+        "Developer": "Matthais Gerhardt",
+        "Publisher": "",
+        "Notes": ""
+      },
+      {
+        "Title": "Xyphus",
+        "Year": "1984",
+        "Developer": "Robert \"Skip\" Waller & Dave Albert",
+        "Publisher": "Penguin Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Zaxxon",
+        "Year": "1983",
+        "Developer": "John A. Garcia",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      },
+      {
+        "Title": "Zenith",
+        "Year": "1982",
+        "Developer": "Nasir Gebelli",
+        "Publisher": "Gebelli Software",
+        "Notes": ""
+      },
+      {
+        "Title": "Zork: The Great Underground Empire",
+        "Year": "1980",
+        "Developer": "Marc Blank, Dave Lebling, Bruce Daniels, & Tim Anderson",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Zork II: The Wizard of Frobozz",
+        "Year": "1981",
+        "Developer": "Marc Blank, Dave Lebling, Bruce Daniels, & Tim Anderson",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Zork III: The Dungeon Master",
+        "Year": "1982",
+        "Developer": "Marc Blank, Dave Lebling, Bruce Daniels, & Tim Anderson",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Zork Zero: The Revenge of Megaboz",
+        "Year": "1989",
+        "Developer": "Steve Meretzky",
+        "Publisher": "Infocom",
+        "Notes": "Interactive fiction"
+      },
+      {
+        "Title": "Zorro",
+        "Year": "1985",
+        "Developer": "Rick Mirsky & James Garon",
+        "Publisher": "Datasoft",
+        "Notes": ""
+      }
+    ]
+  }
+]

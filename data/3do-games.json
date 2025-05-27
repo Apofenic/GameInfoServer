@@ -1,0 +1,2707 @@
+[
+  {
+    "table1": [
+      {
+        "Regions_released": "North America and other NTSC territories.",
+        "Region_description": "162"
+      },
+      {
+        "Regions_released": "PAL/SECAM territories: much of Europe and Australia.",
+        "Region_description": "93"
+      },
+      {
+        "Regions_released": "Japan and other NTSC-J territories.",
+        "Region_description": "214"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {},
+      {
+        "Title": "Advanced Dungeons & Dragons: DeathKeep",
+        "Developer(s)": "Lion Entertainment",
+        "Publisher(s)": "Strategic Simulations, Inc.",
+        "First_released": "November 20, 1995NA",
+        "Release_date": "November 20, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Advanced Dungeons & Dragons: Slayer",
+        "Developer(s)": "Lion Entertainment",
+        "Publisher(s)": "Strategic Simulations, Inc. (NA)Mindscape (PAL)T&E Soft (JP)",
+        "First_released": "September 8, 1994NA",
+        "Release_date": "September 8, 1994",
+        "undefined": "1995"
+      },
+      {
+        "Title": "AI Shogi",
+        "Developer(s)": "Taito",
+        "Publisher(s)": "Taito",
+        "First_released": "September 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Akagi Tōhaiden",
+        "Developer(s)": "Micronet",
+        "Publisher(s)": "Micronet",
+        "First_released": "January 13, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Alfred Hitchcock Presents",
+        "Developer(s)": "Toyota",
+        "Publisher(s)": "Panasonic",
+        "First_released": "1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Alone in the Dark",
+        "Developer(s)": "I-Motion, Krisalis Software",
+        "Publisher(s)": "Interplay Productions (NA)Infogrames (PAL)Pony Canyon (JP)",
+        "First_released": "August 3, 1994NA",
+        "Release_date": "August 3, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Alone in the Dark 2",
+        "Developer(s)": "I-Motion, Krisalis Software",
+        "Publisher(s)": "Interplay Productions (NA)Infogrames Multimedia (PAL)Electronic Arts Victor (JP)",
+        "First_released": "September 8, 1995JP",
+        "Release_date": "October 31, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Another World",
+        "Developer(s)": "Interplay Productions, Lil' Gangsters Entertainment",
+        "Publisher(s)": "Interplay ProductionsElectronic Arts Victor (JP)",
+        "First_released": "1994PAL",
+        "Release_date": "February 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Armageddon",
+        "Developer(s)": "GoldStar / LG Electronics",
+        "Publisher(s)": "GoldStar / LG Electronics",
+        "First_released": "1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "AutoBahn Tokio",
+        "Developer(s)": "Sanai Enterprise, Sanyei Shobou",
+        "Publisher(s)": "Panasonic",
+        "First_released": "December 22, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Bakushō!! All Yoshimoto Quiz-Ou Ketteisen",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Yoshimoto Kogyo",
+        "First_released": "March 24, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ballz: The Director's Cut",
+        "Developer(s)": "Cave Logic Studios, PF.Magic",
+        "Publisher(s)": "PanasonicBMG Interactive (JP)",
+        "First_released": "September 13, 1995NA",
+        "Release_date": "September 13, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Battle Blues",
+        "Developer(s)": "Shin's Deco",
+        "Publisher(s)": "GoldStar / LG Electronics",
+        "First_released": "1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Battle Chess",
+        "Developer(s)": "Krisalis Software",
+        "Publisher(s)": "Interplay ProductionsElectronic Arts Victor (JP)",
+        "First_released": "September 16, 1994NA JP",
+        "Release_date": "September 16, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Battle Pinball",
+        "Developer(s)": "Japan DataWorks",
+        "Publisher(s)": "Panasonic",
+        "First_released": "November 25, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "BattleSport",
+        "Developer(s)": "Cyclone Studios",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "December 15, 1995NA",
+        "Release_date": "December 15, 1995",
+        "undefined": "1996"
+      },
+      {
+        "Title": "BC Racers",
+        "Developer(s)": "Core Design",
+        "Publisher(s)": "GoldStar / LG Electronics",
+        "First_released": "1995PAL",
+        "Release_date": "December 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Belzerion",
+        "Developer(s)": "Human Entertainment",
+        "Publisher(s)": "Human Entertainment",
+        "First_released": "December 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Blade Force",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "October 2, 1995NA",
+        "Release_date": "October 2, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Blue Forest Story: Kaze no Fūin",
+        "Developer(s)": "Right Stuff",
+        "Publisher(s)": "Panasonic",
+        "First_released": "April 26, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Bonogurashi",
+        "Developer(s)": "Amuse Productions, Bandai Visual",
+        "Publisher(s)": "Amuse Productions",
+        "First_released": "April 21, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Brain Dead 13",
+        "Developer(s)": "ReadySoft",
+        "Publisher(s)": "ReadySoft",
+        "First_released": "December 15, 1995NA",
+        "Release_date": "December 15, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Burning Soldier",
+        "Developer(s)": "Genki",
+        "Publisher(s)": "PanasonicPack-In-Video (JP)",
+        "First_released": "June 25, 1994JP",
+        "Release_date": "September 12, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Bust-a-Move",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "Taito (JP)Panasonic (NA)",
+        "First_released": "November 22, 1995JP",
+        "Release_date": "December 15, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Cannon Fodder",
+        "Developer(s)": "Sensible Software",
+        "Publisher(s)": "Virgin Interactive",
+        "First_released": "1994NA PAL",
+        "Release_date": "1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Captain Quazar",
+        "Developer(s)": "Cyclone Studios",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "January 29, 1996NA",
+        "Release_date": "January 29, 1996",
+        "undefined": "1996"
+      },
+      {
+        "Title": "Carrier: Fortress at Sea",
+        "Developer(s)": "RMG Dentsu USA",
+        "Publisher(s)": "Panasonic",
+        "First_released": "April 4, 1995NA",
+        "Release_date": "April 4, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Casper",
+        "Developer(s)": "Logicware",
+        "Publisher(s)": "Interplay Productions",
+        "First_released": "September 15, 1996NA",
+        "Release_date": "September 15, 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Chiki Chiki Machine Mō Race",
+        "Developer(s)": "Future Pirates",
+        "Publisher(s)": "Future Pirates",
+        "First_released": "March 20, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Chiki Chiki Machine Mō Race 2: In Space",
+        "Developer(s)": "Future Pirates",
+        "Publisher(s)": "Future Pirates",
+        "First_released": "August 11, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Club 3DO: Station Invasion",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "December 6, 1994NA",
+        "Release_date": "December 6, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Corpse Killer",
+        "Developer(s)": "Digital Pictures",
+        "Publisher(s)": "Acclaim Distribution (NA)Acclaim Japan (JP)",
+        "First_released": "March 1, 1995NA",
+        "Release_date": "March 1, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Cowboy Casino",
+        "Developer(s)": "The Computer Studio, Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "First_released": "July 21, 1995NA",
+        "Release_date": "July 21, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Crash 'n Burn",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Crystal Dynamics",
+        "First_released": "October 4, 1993NA",
+        "Release_date": "October 4, 1993",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Crayon Shin-chan: Puzzle Daimaou no Nazo",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Bandai",
+        "First_released": "March 10, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Creature Shock",
+        "Developer(s)": "Argonaut Software",
+        "Publisher(s)": "Virgin Interactive",
+        "First_released": "March 19, 1996NA",
+        "Release_date": "March 19, 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Crime Patrol",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "November 15, 1994NA",
+        "Release_date": "November 15, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Cyberdillo",
+        "Developer(s)": "Pixel Technologies",
+        "Publisher(s)": "Panasonic",
+        "First_released": "April 15, 1996NA",
+        "Release_date": "April 15, 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Cyberia",
+        "Developer(s)": "Xatrix Entertainment",
+        "Publisher(s)": "Interplay ProductionsElectronic Arts Victor (JP)",
+        "First_released": "November 1, 1994PAL",
+        "Release_date": "February 12, 1996",
+        "undefined": "November 1, 1994"
+      },
+      {
+        "Title": "D•D no Shokutaku: Director's CutJP",
+        "Developer(s)": "Warp",
+        "Publisher(s)": "PanasonicSanei Shobo Publishing (JP)",
+        "First_released": "April 1, 1995JP",
+        "Release_date": "October 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "The Daedalus Encounter",
+        "Developer(s)": "Life Like Productions, Palmsoft",
+        "Publisher(s)": "PanasonicHatnet (JP)",
+        "First_released": "September 30, 1995NA",
+        "Release_date": "September 30, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Defcon 5",
+        "Developer(s)": "Millennium Interactive",
+        "Publisher(s)": "GoldStar / LG Electronics (PAL)Multisoft (JP)",
+        "First_released": "1995PAL",
+        "Release_date": "Unreleased",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Demolition Man",
+        "Developer(s)": "Alexandria, Inc.",
+        "Publisher(s)": "Virgin Interactive",
+        "First_released": "November 23, 1994NA",
+        "Release_date": "November 23, 1994",
+        "undefined": "1995"
+      },
+      {
+        "Title": "DinoPark Tycoon",
+        "Developer(s)": "Manley & Associates",
+        "Publisher(s)": "MECC",
+        "First_released": "December 31, 1994NA",
+        "Release_date": "December 31, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Doctor Hauzer",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Panasonic",
+        "First_released": "April 29, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Doom",
+        "Developer(s)": "Art Data Interactive, id Software, Logicware",
+        "Publisher(s)": "Art Data InteractiveBasho House (JP)",
+        "First_released": "January 15, 1996NA",
+        "Release_date": "January 15, 1996",
+        "undefined": "1996"
+      },
+      {
+        "Title": "Doraemon Yūjō Densetsu",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Shogakukan",
+        "First_released": "April 7, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Dragon Lore: The Legend Begins",
+        "Developer(s)": "Cryo Interactive",
+        "Publisher(s)": "Mindscape",
+        "First_released": "October 30, 1995NA",
+        "Release_date": "October 30, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Dragon Tycoon Edge",
+        "Developer(s)": "Sala International",
+        "Publisher(s)": "Sanyo",
+        "First_released": "February 24, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Dragon's Lair",
+        "Developer(s)": "ReadySoft",
+        "Publisher(s)": "ReadySoftT&E Soft (JP)",
+        "First_released": "March 26, 1994JP",
+        "Release_date": "June 24, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Drug Wars",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Eigo de Go!",
+        "Developer(s)": "Gakken",
+        "Publisher(s)": "Gakken",
+        "First_released": "February 16, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Emit Vol. 1: Toki no Maigo",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "First_released": "April 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Emit Vol. 2: Inochigake no Tabi",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "First_released": "July 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Emit Vol. 3: Watashi ni Sayonara o",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "First_released": "September 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Escape from Monster Manor",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "March 15, 1994NA",
+        "Release_date": "March 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "The Eye of Typhoon",
+        "Developer(s)": "Viccom",
+        "Publisher(s)": "GoldStar / LG Electronics",
+        "First_released": "1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "F1GP",
+        "Developer(s)": "Dynamite, Opera House",
+        "Publisher(s)": "Pony Canyon",
+        "First_released": "October 28, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Family Feud",
+        "Developer(s)": "Eurocom",
+        "Publisher(s)": "GameTek",
+        "First_released": "May 6, 1994NA",
+        "Release_date": "May 6, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Fatty Bear's Birthday Surprise",
+        "Developer(s)": "Humongous Entertainment",
+        "Publisher(s)": "Humongous Entertainment (NA)Marubeni, Media Vision (JP)",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Fatty Bear's Fun Pack",
+        "Developer(s)": "Humongous Entertainment",
+        "Publisher(s)": "Humongous Entertainment (NA)Marubeni, Media Vision (JP)",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "FIFA International Soccer",
+        "Developer(s)": "Extended Play Productions",
+        "Publisher(s)": "EA Sports",
+        "First_released": "1994PAL",
+        "Release_date": "November 16, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Firewall: Man vs. Machine",
+        "Developer(s)": "Visionary Media, Inc.",
+        "Publisher(s)": "GoldStar / LG Electronics",
+        "First_released": "1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Flashback: The Quest for Identity",
+        "Developer(s)": "Delphine Software International, Tiertex Design Studios",
+        "Publisher(s)": "U.S. GoldElectronic Arts Victor, Interplay Productions (JP)",
+        "First_released": "February 17, 1995JP",
+        "Release_date": "March 24, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Flying Nightmares",
+        "Developer(s)": "Life Like Productions, Simis Limited",
+        "Publisher(s)": "Domark Software",
+        "First_released": "September 8, 1995NA",
+        "Release_date": "September 8, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Foes of Ali",
+        "Developer(s)": "Gray Matter",
+        "Publisher(s)": "EA Sports",
+        "First_released": "December 15, 1995NA",
+        "Release_date": "December 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Fun 'n Games",
+        "Developer(s)": "Williams Entertainment",
+        "Publisher(s)": "Panasonic (NA)Virgin Interactive (JP)",
+        "First_released": "February 17, 1995JP",
+        "Release_date": "March 28, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Furopon World",
+        "Developer(s)": "Warp",
+        "Publisher(s)": "Warp",
+        "First_released": "September 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Gakkō no Kowai Uwasa: Hanako-San ga Kita!!",
+        "Developer(s)": "JASPAC",
+        "Publisher(s)": "Amuse Productions",
+        "First_released": "August 11, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Game no Tatsujin",
+        "Developer(s)": "Sunsoft",
+        "Publisher(s)": "Sunsoft",
+        "First_released": "June 9, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Gex",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Crystal Dynamics (NA)BMG Interactive",
+        "First_released": "November 16, 1994NA",
+        "Release_date": "November 16, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Goal FH",
+        "Developer(s)": "JASPAC, NHK",
+        "Publisher(s)": "Carrozzeria Japan",
+        "First_released": "October 13, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Golf Ba Multimedia Shinchaku: Susuno Country Club Hen",
+        "Developer(s)": "JISC Life Support",
+        "Publisher(s)": "JISC Life Support",
+        "First_released": "August 3, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Gridders",
+        "Developer(s)": "Tetragon",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "July 13, 1994NA",
+        "Release_date": "July 13, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Guardian War",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "Panasonic",
+        "First_released": "September 20, 1994NA",
+        "Release_date": "September 20, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Hell: A Cyberpunk Thriller",
+        "Developer(s)": "Take-Two Interactive, Tetragon",
+        "Publisher(s)": "GameTek",
+        "First_released": "December 1994NA",
+        "Release_date": "December 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Hello Kitty: Asobi no Omochabako",
+        "Developer(s)": "Mizuki",
+        "Publisher(s)": "Mizuki, Sanrio",
+        "First_released": "June 16, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "The Horde",
+        "Developer(s)": "Toys For Bob",
+        "Publisher(s)": "Crystal Dynamics (NA)BMG Interactive (PAL)Byse, Inc. (JP)",
+        "First_released": "March 8, 1994NA",
+        "Release_date": "March 8, 1994",
+        "undefined": "April 1994"
+      },
+      {
+        "Title": "Icebreaker",
+        "Developer(s)": "Magnet Interactive Studios",
+        "Publisher(s)": "Panasonic",
+        "First_released": "August 15, 1995NA",
+        "Release_date": "August 15, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ide Yōsuke Meijin no Shinmi Sen Mahjong",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "Capcom",
+        "First_released": "June 28, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Idol Janshi Suchie-Pai Special",
+        "Developer(s)": "Jaleco",
+        "Publisher(s)": "Jaleco",
+        "First_released": "January 12, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Idol Mahjong Final Romance 2: Hyper Edition",
+        "Developer(s)": "Infini Entertainment Technology, Video System",
+        "Publisher(s)": "ASK-Kodansha",
+        "First_released": "January 19, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Igo Time Trial: Shikatsu Daihyakka",
+        "Developer(s)": "Ematec",
+        "Publisher(s)": "Ematec",
+        "First_released": "August 11, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Igo Time Trial: Thumego 1",
+        "Developer(s)": "Ematec",
+        "Publisher(s)": "Ematec",
+        "First_released": "August 6, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Īda Jōji Nightmare Interactive: Moon Cradle - Igyō no Hanayome",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Pack-In-Video",
+        "First_released": "December 15, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Immercenary",
+        "Developer(s)": "Five Miles Out",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "March 16, 1995NA",
+        "Release_date": "March 16, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "The Incredible Machine",
+        "Developer(s)": "Dynamix",
+        "Publisher(s)": "DynamixSierra On-Line, T&E Soft (JP)",
+        "First_released": "May 7, 1994NA",
+        "Release_date": "May 7, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Insect War",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Panasonic",
+        "First_released": "December 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Iron Angel of the Apocalypse",
+        "Developer(s)": "Synergy, Inc.",
+        "Publisher(s)": "Panasonic (JP)Synergy Interactive",
+        "First_released": "April 9, 1994JP",
+        "Release_date": "April 27, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Iron Angel of the Apocalypse: The Return",
+        "Developer(s)": "Synergy, Inc.",
+        "Publisher(s)": "Synergy, Inc (JP)Synergy Interactive (NA)",
+        "First_released": "September 22, 1995NA JP",
+        "Release_date": "September 22, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ishida Yoshio Kudan no Igo Seiha",
+        "Developer(s)": "G.A.M.",
+        "Publisher(s)": "Electronic Arts Victor",
+        "First_released": "January 27, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "J.League Virtual Stadium",
+        "Developer(s)": "JASPAC",
+        "Publisher(s)": "Electronic Arts Victor",
+        "First_released": "November 3, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "J.League Virtual Stadium '95",
+        "Developer(s)": "EA Sports",
+        "Publisher(s)": "Electronic Arts Victor",
+        "First_released": "October 27, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "J.B. Harold: Blue Chicago Blues",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "First_released": "November 22, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Jammit",
+        "Developer(s)": "GTE Vantage",
+        "Publisher(s)": "GTE Entertainment",
+        "First_released": "November 1, 1994NA",
+        "Release_date": "November 1, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Jikki Pachi-Slot Simulator Vol. 1",
+        "Developer(s)": "Nexton",
+        "Publisher(s)": "Electronic Arts Victor",
+        "First_released": "July 21, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "John Madden Football",
+        "Developer(s)": "High Score Productions",
+        "Publisher(s)": "EA SportsElectronic Arts Victor (JP)",
+        "First_released": "May 6, 1994NA",
+        "Release_date": "May 6, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Johnny Bazookatone",
+        "Developer(s)": "Arc Developments",
+        "Publisher(s)": "U.S. Gold",
+        "First_released": "1995PAL",
+        "Release_date": "February 22, 1996",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Jurassic Park Interactive",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "Universal Interactive StudiosPanasonic (JP)",
+        "First_released": "May 10, 1994NA",
+        "Release_date": "May 10, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Kakinoki Shogi",
+        "Developer(s)": "ASCII Corporation",
+        "Publisher(s)": "Panasonic",
+        "First_released": "October 21, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Keiba Saishō no Hōsoku",
+        "Developer(s)": "Copya System",
+        "Publisher(s)": "Copya System",
+        "First_released": "October 21, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Kero Kero Keroppi to Origami no Tabibito",
+        "Developer(s)": "JASPAC, Mizuki",
+        "Publisher(s)": "Mizuki, Sanrio",
+        "First_released": "June 16, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Killing Time",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "August 15, 1995NA",
+        "Release_date": "August 15, 1995",
+        "undefined": "November 10, 1995"
+      },
+      {
+        "Title": "Kingdom: The Far Reaches",
+        "Developer(s)": "Interplay Productions, Virtual Image Productions",
+        "Publisher(s)": "Interplay Productions",
+        "First_released": "July 18, 1995NA",
+        "Release_date": "July 18, 1995",
+        "undefined": "1996"
+      },
+      {
+        "Title": "Konpeki no Kantai",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "Tokuma Shoten",
+        "First_released": "April 21, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Kurokishi no Kamen",
+        "Developer(s)": "HummingBirdSoft",
+        "Publisher(s)": "Panasonic",
+        "First_released": "May 28, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "The Last Bounty Hunter",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "October 16, 1995NA",
+        "Release_date": "October 16, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Lemmings",
+        "Developer(s)": "DMA Design",
+        "Publisher(s)": "Psygnosis (NA)Electronic Arts Victor (JP)",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "The Life Stage: Virtual House",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "Panasonic",
+        "First_released": "March 20, 1994NA JP",
+        "Release_date": "March 20, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Lost Eden",
+        "Developer(s)": "Cryo Interactive",
+        "Publisher(s)": "Virgin Interactive",
+        "First_released": "March 1, 1995NA",
+        "Release_date": "March 1, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "The Lost Files of Sherlock Holmes",
+        "Developer(s)": "Mythos Software",
+        "Publisher(s)": "Electronic Arts",
+        "First_released": "June 1, 1994NA",
+        "Release_date": "June 1, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Lucienne's Quest",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "Panasonic (NA)Microcabin (JP)",
+        "First_released": "September 14, 1995JP",
+        "Release_date": "April 15, 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Macaroni Hōren Shō Interactive",
+        "Developer(s)": "Future Pirates",
+        "Publisher(s)": "Toshiba EMI",
+        "First_released": "January 13, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mad Dog II: The Lost Gold",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "September 1, 1994NA",
+        "Release_date": "September 1, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mad Dog McCree",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "January 1994NA",
+        "Release_date": "January 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mahjong Gokū Tenjiku",
+        "Developer(s)": "Chat Noir",
+        "Publisher(s)": "ASCII Corporation",
+        "First_released": "June 25, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mahjong Kuru Jidai: AV Gal Seifukuhen",
+        "Developer(s)": "Micronet",
+        "Publisher(s)": "Micronet",
+        "First_released": "July 20, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mahjong Kuru Jidai: Ko Gal Hokagohen",
+        "Developer(s)": "Micronet",
+        "Publisher(s)": "Micronet",
+        "First_released": "October 18, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Masters: Harukanaru Augusta 3",
+        "Developer(s)": "T&E Soft",
+        "Publisher(s)": "T&E Soft",
+        "First_released": "July 9, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mazer",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "July 31, 1995NA",
+        "Release_date": "July 31, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "MegaRace",
+        "Developer(s)": "Cryo Interactive",
+        "Publisher(s)": "MindscapeMultisoft (JP)",
+        "First_released": "May 1994NA",
+        "Release_date": "May 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Microcosm",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Psygnosis (NA)T&E Soft (JP)",
+        "First_released": "March 14, 1994NA",
+        "Release_date": "March 14, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Mind Teazzer",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Monoshiri Koro Yūgaku",
+        "Developer(s)": "Shinko Human Create",
+        "Publisher(s)": "Shinko Human Create",
+        "First_released": "December 15, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Montana Jones",
+        "Developer(s)": "Future Pirates",
+        "Publisher(s)": "Future Pirates",
+        "First_released": "January 20, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Murphy da yo Zenin Shūgō",
+        "Developer(s)": "Vantan International",
+        "Publisher(s)": "Vantan International",
+        "First_released": "October 21, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Myst",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "PanasonicMicrocabin (JP)",
+        "First_released": "March 17, 1995NA",
+        "Release_date": "March 17, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "N.O.B.: Neo Organic Bioform",
+        "Developer(s)": "Octagon Entertainment",
+        "Publisher(s)": "Sanyo",
+        "First_released": "December 15, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Nemurenu Yoru no Chīsana Ohanashi",
+        "Developer(s)": "Amuse Productions",
+        "Publisher(s)": "Amuse Productions",
+        "First_released": "December 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "NeuroDancer: Journey Into the Neuronet!",
+        "Developer(s)": "Electric Dreams Inc.",
+        "Publisher(s)": "PIXIS Interactive",
+        "First_released": "December 6, 1994NA",
+        "Release_date": "December 6, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Nice Body All-Star Suiei Taikai",
+        "Developer(s)": "BrainBusters, East Wind Corporation",
+        "Publisher(s)": "Fuji Television",
+        "First_released": "May 19, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Night Trap",
+        "Developer(s)": "Digital Pictures",
+        "Publisher(s)": "Virgin InteractiveVirgin Games (JP)",
+        "First_released": "January 1994NA",
+        "Release_date": "January 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Nishimura Kyōtarō Travel Mystery: Akugyaku no Kisetsu - Tokyo~Nanki Shirahama Renzoku Satsujin Jiken",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Pack-In-Video, Panasonic",
+        "First_released": "November 25, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Nobunaga no Yabō: Haōden",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "First_released": "September 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Nontan to Issho: Hoshino Okurimono",
+        "Developer(s)": "Victor Entertainment",
+        "Publisher(s)": "Panasonic",
+        "First_released": "May 19, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Nontan to Issho: Nohara de Asobo",
+        "Developer(s)": "Victor Entertainment",
+        "Publisher(s)": "Panasonic",
+        "First_released": "June 11, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Novastorm",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Psygnosis (NA)T&E Soft (JP)",
+        "First_released": "October 7, 1994JP",
+        "Release_date": "December 15, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Off-World Interceptor",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Crystal DynamicsBMG Interactive (JP)",
+        "First_released": "November 23, 1994NA",
+        "Release_date": "November 23, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Olympic Soccer",
+        "Developer(s)": "Silicon Dreams, Tiertex Design Studios",
+        "Publisher(s)": "Eidos Interactive, Panasonic, U.S. Gold",
+        "First_released": "April 12, 1996NA",
+        "Release_date": "April 12, 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Olympic Summer Games",
+        "Developer(s)": "Silicon Dreams, Tiertex Design Studios",
+        "Publisher(s)": "Eidos Interactive, Panasonic, U.S. Gold",
+        "First_released": "June 1996NA",
+        "Release_date": "June 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Oneesan to Issho! Janken Paradise",
+        "Developer(s)": "V.I.P. Corporation",
+        "Publisher(s)": "Intarus",
+        "First_released": "December 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Oneesan to Issho! Kisekae Paradise",
+        "Developer(s)": "B.S.S. Corporation",
+        "Publisher(s)": "B.S.S. Corporation",
+        "First_released": "November 22, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ōkoku no Grand Chef",
+        "Developer(s)": "Sala International",
+        "Publisher(s)": "Sala International",
+        "First_released": "March 1, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Oyaji Hunter Mahjong",
+        "Developer(s)": "Warp",
+        "Publisher(s)": "Warp",
+        "First_released": "July 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Paddock Note '95",
+        "Developer(s)": "Scitron & Art",
+        "Publisher(s)": "Fuji Television",
+        "First_released": "April 14, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Panzer General",
+        "Developer(s)": "Strategic Simulations, Inc.",
+        "Publisher(s)": "Strategic Simulations, Inc. (NA)Mindscape (PAL)",
+        "First_released": "1995NA",
+        "Release_date": "1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "PaTaank",
+        "Developer(s)": "PF.Magic",
+        "Publisher(s)": "PF.MagicBMG Interactive (JP)",
+        "First_released": "November 3, 1994NA JP",
+        "Release_date": "November 3, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Pebble Beach Golf Links",
+        "Developer(s)": "T&E Soft",
+        "Publisher(s)": "PanasonicT&E Soft (JP)",
+        "First_released": "March 15, 1994NA",
+        "Release_date": "March 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "The Perfect General",
+        "Developer(s)": "Game Guild",
+        "Publisher(s)": "Kirin Entertainment",
+        "First_released": "1996NA",
+        "Release_date": "1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Peter Frankl: Puzzle no Tō",
+        "Developer(s)": "TBS Multimedia",
+        "Publisher(s)": "Hamlet",
+        "First_released": "January 13, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "PGA Tour 96",
+        "Developer(s)": "Hitmen Productions, NuFX",
+        "Publisher(s)": "EA Sports",
+        "First_released": "November 1995NA",
+        "Release_date": "November 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Phoenix 3",
+        "Developer(s)": "Gray Matter",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "1995NA",
+        "Release_date": "1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Plumbers Don't Wear Ties",
+        "Developer(s)": "United Pixtures",
+        "Publisher(s)": "Kirin Entertainment",
+        "First_released": "September 30, 1994NA",
+        "Release_date": "September 30, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "PO'ed",
+        "Developer(s)": "Any Channel",
+        "Publisher(s)": "Any Channel (NA)The 3DO Company (PAL)",
+        "First_released": "November 6, 1995NA",
+        "Release_date": "November 6, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Policenauts",
+        "Developer(s)": "Konami",
+        "Publisher(s)": "Konami",
+        "First_released": "September 29, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Pretty Soldier Sailor Moon S",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Bandai",
+        "First_released": "March 17, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Primal Rage",
+        "Developer(s)": "Probe Entertainment",
+        "Publisher(s)": "GoldStar / LG Electronics",
+        "First_released": "December 15, 1995NA",
+        "Release_date": "December 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Princess Maker 2",
+        "Developer(s)": "Gainax",
+        "Publisher(s)": "Microcabin",
+        "First_released": "December 9, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Pro Stadium",
+        "Developer(s)": "Workman",
+        "Publisher(s)": "Sanyo",
+        "First_released": "December 8, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Pro Yakyū Virtual Stadium: Professional Baseball",
+        "Developer(s)": "EA Sports",
+        "Publisher(s)": "Electronic Arts Victor",
+        "First_released": "December 29, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Psychic Detective",
+        "Developer(s)": "Colossal Pictures, Electronic Arts",
+        "Publisher(s)": "Electronic Arts",
+        "First_released": "November 10, 1995NA",
+        "Release_date": "November 10, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Puppet Tale",
+        "Developer(s)": "Microcabin",
+        "Publisher(s)": "Panasonic",
+        "First_released": "July 23, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Putt-Putt Goes to the Moon",
+        "Developer(s)": "Humongous Entertainment",
+        "Publisher(s)": "Humongous Entertainment",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Putt-Putt Joins the Parade",
+        "Developer(s)": "Humongous Entertainment",
+        "Publisher(s)": "Humongous Entertainment (NA)Marubeni, Media Vision (JP)",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Putt-Putt's Fun Pack",
+        "Developer(s)": "Humongous Entertainment",
+        "Publisher(s)": "Humongous Entertainment (NA)Marubeni, Media Vision (JP)",
+        "First_released": "June 1, 1994NA",
+        "Release_date": "June 1, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Pyramid Intruder",
+        "Developer(s)": "HighTech Lab. Japan",
+        "Publisher(s)": "Taito",
+        "First_released": "August 11, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Quarantine",
+        "Developer(s)": "Imagexcel",
+        "Publisher(s)": "GameTekImagineer (JP)",
+        "First_released": "March 17, 1995NA",
+        "Release_date": "March 17, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Quarterback Attack with Mike Ditka",
+        "Developer(s)": "Digital Pictures",
+        "Publisher(s)": "Acclaim Distribution",
+        "First_released": "November 27, 1995NA",
+        "Release_date": "November 27, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Real Pinball",
+        "Developer(s)": "Japan DataWorks",
+        "Publisher(s)": "Panasonic",
+        "First_released": "March 20, 1994JP",
+        "Release_date": "July 6, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Return Fire",
+        "Developer(s)": "Silent Software",
+        "Publisher(s)": "Prolific PublishingThe 3DO Company (JP)",
+        "First_released": "January 11, 1995NA",
+        "Release_date": "January 11, 1995",
+        "undefined": "December 22, 1995"
+      },
+      {
+        "Title": "Return Fire: Maps O' Death (expansion)",
+        "Developer(s)": "Silent Software",
+        "Publisher(s)": "Prolific Publishing (NA)The 3DO Company (PAL)",
+        "First_released": "December 15, 1995NA",
+        "Release_date": "December 15, 1995",
+        "undefined": "1996"
+      },
+      {
+        "Title": "Rise of the Robots",
+        "Developer(s)": "Art Data Interactive",
+        "Publisher(s)": "Absolute Entertainment (NA)Mirage (PAL)",
+        "First_released": "March 17, 1995PAL",
+        "Release_date": "March 24, 1995",
+        "undefined": "March 17, 1995"
+      },
+      {
+        "Title": "Road & Track Presents: The Need for Speed",
+        "Developer(s)": "Electronic Arts Canada",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "December 2, 1994PAL",
+        "Release_date": "December 13, 1994",
+        "undefined": "December 2, 1994"
+      },
+      {
+        "Title": "Road Rash",
+        "Developer(s)": "Monkey Do Productions, New Level Software",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "August 19, 1994NA",
+        "Release_date": "August 19, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Robinson's Requiem",
+        "Developer(s)": "Silmarils",
+        "Publisher(s)": "ReadySoft",
+        "First_released": "April 4, 1996NA",
+        "Release_date": "April 4, 1996",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Royal Pro Wrestling: Jikkyō Live!!",
+        "Developer(s)": "Natsume Co., Ltd.",
+        "Publisher(s)": "Natsume Co., Ltd.",
+        "First_released": "February 23, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Samurai Shodown",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Crystal Dynamics (NA)BMG Interactive",
+        "First_released": "November 23, 1994NA",
+        "Release_date": "November 23, 1994",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Sangokushi IV",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "First_released": "March 24, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Scramble Cobra",
+        "Developer(s)": "Genki",
+        "Publisher(s)": "PanasonicPack-In-Video (JP)",
+        "First_released": "August 11, 1995JP",
+        "Release_date": "November 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Seal of the Pharaoh",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "Panasonic (NA)ASK-Kodansha (JP)",
+        "First_released": "June 25, 1994JP",
+        "Release_date": "March 6, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Sesame Street: Numbers",
+        "Developer(s)": "Viridis Corporation",
+        "Publisher(s)": "EA Kids (NA)Electronic Arts Victor (JP)",
+        "First_released": "March 1, 1994NA",
+        "Release_date": "March 1, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Sewer Shark",
+        "Developer(s)": "Digital Pictures",
+        "Publisher(s)": "Hasbro (NA)Virgin Interactive (PAL)",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Shadow: War of Succession",
+        "Developer(s)": "Tribeca Digital Studios",
+        "Publisher(s)": "Tribeca Digital Studios (NA)T&E Soft (JP)",
+        "First_released": "September 2, 1994JP",
+        "Release_date": "September 6, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Shanghai: Triple-Threat",
+        "Developer(s)": "Activision, Success",
+        "Publisher(s)": "Activision (NA)Electronic Arts Victor (JP)",
+        "First_released": "December 16, 1994JP",
+        "Release_date": "January 17, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Shelley Duvall's It's a Bird's Life",
+        "Developer(s)": "Sanctuary Woods",
+        "Publisher(s)": "Sanctuary Woods",
+        "First_released": "1994NA",
+        "Release_date": "1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Shock Wave (expansion)",
+        "Developer(s)": "The Advanced Technology Group",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "June 27, 1994NA",
+        "Release_date": "June 27, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Shock Wave 2: Beyond the Gate",
+        "Developer(s)": "Advanced Technology Group 2",
+        "Publisher(s)": "Electronic Arts Studios (NA)Electronic Arts (PAL)",
+        "First_released": "December 31, 1995NA",
+        "Release_date": "December 31, 1995",
+        "undefined": "January 5, 1996"
+      },
+      {
+        "Title": "Shock Wave: Operation JumpGate",
+        "Developer(s)": "The Advanced Technology Group",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "December 6, 1994NA",
+        "Release_date": "December 6, 1994",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Short Warp",
+        "Developer(s)": "Warp",
+        "Publisher(s)": "Warp",
+        "First_released": "January 15, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Slam 'N Jam '95",
+        "Developer(s)": "Left Field Productions",
+        "Publisher(s)": "Crystal Dynamics (NA)BMG Interactive",
+        "First_released": "May 23, 1995NA",
+        "Release_date": "May 23, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Snow Job",
+        "Developer(s)": "iXL Interactive Excellence",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "May 15, 1996NA",
+        "Release_date": "May 15, 1996",
+        "undefined": "1996"
+      },
+      {
+        "Title": "Soccer Kid",
+        "Developer(s)": "Team17",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "September 15, 1994NA",
+        "Release_date": "September 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Sotsugyō II: Neo Generation Special",
+        "Developer(s)": "Fill-in-Cafe",
+        "Publisher(s)": "Shar Rock",
+        "First_released": "November 22, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Sotsugyō: Graduation Final",
+        "Developer(s)": "Fupac",
+        "Publisher(s)": "Shar Rock",
+        "First_released": "December 9, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Space Ace",
+        "Developer(s)": "ReadySoft",
+        "Publisher(s)": "ReadySoft",
+        "First_released": "July 17, 1995NA",
+        "Release_date": "July 17, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Space Hulk: Vengeance of the Blood Angels",
+        "Developer(s)": "Key Game",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "September 13, 1995NA",
+        "Release_date": "September 13, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Space Pirates",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "June 26, 1995NA",
+        "Release_date": "June 26, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Space Shuttle",
+        "Developer(s)": "Amazing Media",
+        "Publisher(s)": "The Software Toolworks",
+        "First_released": "October 6, 1994NA",
+        "Release_date": "October 6, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Star Control II",
+        "Developer(s)": "Toys For Bob",
+        "Publisher(s)": "Crystal Dynamics (NA)BMG Interactive",
+        "First_released": "September 26, 1994NA",
+        "Release_date": "September 26, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Star Fighter",
+        "Developer(s)": "Krisalis Software",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "1995PAL",
+        "Release_date": "November 30, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Star Wars: Rebel Assault",
+        "Developer(s)": "LucasArts",
+        "Publisher(s)": "LucasArts (NA)Electronic Arts (PAL)Electronic Arts Victor (JP)",
+        "First_released": "December 1, 1994NA",
+        "Release_date": "December 1, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Starblade",
+        "Developer(s)": "HighTech Lab. Japan",
+        "Publisher(s)": "PanasonicNamco (JP)",
+        "First_released": "December 15, 1994NA",
+        "Release_date": "December 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Stellar 7: Draxon's Revenge",
+        "Developer(s)": "Dynamix",
+        "Publisher(s)": "Dynamix (NA)T&E Soft (JP)",
+        "First_released": "January 1994NA",
+        "Release_date": "January 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Strahl",
+        "Developer(s)": "Media Entertainment",
+        "Publisher(s)": "Panasonic (NA) Media Entertainment (JP)",
+        "First_released": "December 2, 1994JP",
+        "Release_date": "July 6, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Striker: World Cup Special",
+        "Developer(s)": "Rage Software",
+        "Publisher(s)": "Coconuts Japan Entertainment JPPanasonic PAL",
+        "First_released": "May 19, 1995JP PAL",
+        "Release_date": "Unreleased",
+        "undefined": "May 19, 1995"
+      },
+      {
+        "Title": "Super Real Mahjong P V",
+        "Developer(s)": "SETA Corporation",
+        "Publisher(s)": "SETA Corporation",
+        "First_released": "December 15, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Super Real Mahjong PIV + Aishō Shindan",
+        "Developer(s)": "Opus Studio",
+        "Publisher(s)": "SETA Corporation",
+        "First_released": "March 10, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Super Street Fighter II Turbo",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "PanasonicCapcom JP",
+        "First_released": "November 7, 1994NA",
+        "Release_date": "November 7, 1994",
+        "undefined": "November 23, 1994"
+      },
+      {
+        "Title": "Super Wing Commander",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Origin Systems (NA)Electronic Arts (PAL)Electronic Arts Victor (JP)",
+        "First_released": "May 15, 1994NA",
+        "Release_date": "May 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Supreme Warrior",
+        "Developer(s)": "Digital Pictures",
+        "Publisher(s)": "Acclaim Distribution (NA)Acclaim Japan (JP)",
+        "First_released": "August 25, 1994JP",
+        "Release_date": "November 1, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Syndicate",
+        "Developer(s)": "Bullfrog Productions",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "June 9, 1995NA",
+        "Release_date": "June 9, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Taiketsu! Rooms",
+        "Developer(s)": "Sanyei Shobou",
+        "Publisher(s)": "Sanyo",
+        "First_released": "August 7, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Tanjō: Debut Pure",
+        "Developer(s)": "Fill-in-Cafe",
+        "Publisher(s)": "Shar Rock",
+        "First_released": "March 22, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Terasawa Takeichi no Takeru",
+        "Developer(s)": "Fun Project",
+        "Publisher(s)": "Panasonic",
+        "First_released": "April 29, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Theatre Wars: Goraku no Dendō",
+        "Developer(s)": "Scitron & Art",
+        "Publisher(s)": "Hamlet",
+        "First_released": "May 14, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Theme Park",
+        "Developer(s)": "Bullfrog Productions",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "January 15, 1995NA",
+        "Release_date": "January 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Toki o Koeta Tegami: The Letter That Over Came Time",
+        "Developer(s)": "Thinking Rabbit",
+        "Publisher(s)": "Panasonic",
+        "First_released": "May 28, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Tokimeki Mahjong Paradise Special",
+        "Developer(s)": "Sonnet Computer Entertainment",
+        "Publisher(s)": "Sonnet Computer Entertainment",
+        "First_released": "March 1, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Total Eclipse",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Crystal DynamicsByse, Inc. (JP)",
+        "First_released": "January 8, 1994NA",
+        "Release_date": "January 8, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Totsugeki Kikan (Karakuri) Megadasu!!",
+        "Developer(s)": "Warp",
+        "Publisher(s)": "Warp",
+        "First_released": "December 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "The Tower",
+        "Developer(s)": "OpenBook Co., Ltd.",
+        "Publisher(s)": "OpenBook Co., Ltd.",
+        "First_released": "March 8, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Trip'd",
+        "Developer(s)": "Warp",
+        "Publisher(s)": "PanasonicSanei Shobo Publishing (JP)",
+        "First_released": "August 6, 1994JP",
+        "Release_date": "July 15, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Twinkle Knights",
+        "Developer(s)": "Axes Art Amuse",
+        "Publisher(s)": "Intarus",
+        "First_released": "March 17, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Twisted: The Game Show",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "Electronic ArtsElectronic Arts Victor (JP)",
+        "First_released": "April 15, 1994NA",
+        "Release_date": "April 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Uchuu Seibutsu Flopon-kun",
+        "Developer(s)": "WARP",
+        "Publisher(s)": "Sanyei Shobou",
+        "First_released": "August 6, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Ultraman Powered",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Bandai",
+        "First_released": "March 20, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "V-Goal Soccer '96",
+        "Developer(s)": "Tecmo",
+        "Publisher(s)": "Tecmo",
+        "First_released": "March 22, 1996JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Virtual Cameraman Part 1: Sawada Naomi and Juri Anna",
+        "Developer(s)": "Naxat Soft",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "First_released": "February 17, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Virtual Cameraman Part 2: Kawai Natsumi and Tachihara Kimi",
+        "Developer(s)": "Naxat Soft",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "First_released": "March 24, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Virtual Cameraman Part 3: Sugimoto Yumika",
+        "Developer(s)": "Naxat Soft",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "First_released": "April 28, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Virtual Cameraman Part 4: Toya Shiori",
+        "Developer(s)": "Naxat Soft",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "First_released": "June 2, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Virtual Cameraman Part 5: Anzo Ari",
+        "Developer(s)": "Naxat Soft",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "First_released": "June 30, 1995JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Virtuoso",
+        "Developer(s)": "MotiveTime Ltd.",
+        "Publisher(s)": "Data East (NA)Elite Systems (PAL)Imagineer (JP)",
+        "First_released": "July 6, 1995NA",
+        "Release_date": "July 6, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "VR Stalker",
+        "Developer(s)": "Morpheus Interactive",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "October 13, 1994NA",
+        "Release_date": "October 13, 1994",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Waialae Country Club",
+        "Developer(s)": "T&E Soft",
+        "Publisher(s)": "Panasonic(NA)T&E Soft (JP)",
+        "First_released": "October 20, 1994NA",
+        "Release_date": "October 20, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Way of the Warrior",
+        "Developer(s)": "Naughty Dog",
+        "Publisher(s)": "Universal Interactive Studios",
+        "First_released": "August 30, 1994NA",
+        "Release_date": "August 30, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "Who Shot Johnny Rock?",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "First_released": "June 21, 1994NA",
+        "Release_date": "June 21, 1994",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Wicked 18",
+        "Developer(s)": "T&E Soft",
+        "Publisher(s)": "Panasonic",
+        "First_released": "March 28, 1995NA",
+        "Release_date": "March 28, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Wing Commander III: Heart of the Tiger",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Origin Systems",
+        "First_released": "June 12, 1995NA",
+        "Release_date": "June 12, 1995",
+        "undefined": "1995"
+      },
+      {
+        "Title": "Winning Post",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "First_released": "September 16, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Wolfenstein 3D",
+        "Developer(s)": "Logicware",
+        "Publisher(s)": "Interplay ProductionsElectronic Arts Victor (JP)",
+        "First_released": "October 19, 1995NA",
+        "Release_date": "October 19, 1995",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "World Cup Golf: Hyatt Dorado Beach",
+        "Developer(s)": "Arc Developments",
+        "Publisher(s)": "U.S. Gold",
+        "First_released": "November 15, 1994NA",
+        "Release_date": "November 15, 1994",
+        "undefined": "1994"
+      },
+      {
+        "Title": "The Yakyūken Special",
+        "Developer(s)": "Societa",
+        "Publisher(s)": "Societa Daikanyama",
+        "First_released": "November 11, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Yamamura Misa Suspense: Kyōto Anba Sansō Satsujin Jiken",
+        "Developer(s)": "Tose",
+        "Publisher(s)": "Pack-In-Video",
+        "First_released": "March 20, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Yū Yū Hakusho",
+        "Developer(s)": "Hudson Soft, Tose",
+        "Publisher(s)": "Tomy",
+        "First_released": "December 23, 1994JP",
+        "Release_date": "Unreleased",
+        "undefined": "Unreleased"
+      },
+      {
+        "Title": "Zhadnost: The People's Party",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "The 3DO Company",
+        "First_released": "March 2, 1995",
+        "Release_date": "March 2, 1995",
+        "undefined": "1995"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title": "3D Atlas",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "The MultiMedia Corporation",
+        "Publisher(s)": "Electronic Arts",
+        "Year": "1994",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "3DO Action Pak",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "—",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "3DO Buffet",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "Interplay Productions",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "April 27, 1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "3DO Game Guru",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Symbiosis Media",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1995",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "3DO Interactive Sampler",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "The 3DO Company",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "3DO Interactive Sampler 2",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "The 3DO Company",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "3DO Interactive Sampler 3",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "The 3DO Company",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "3DO Interactive Sampler 4",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "The 3DO Company",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "3DO Maniac Pack",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "—",
+        "Publisher(s)": "Interplay Productions",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "20th Century Video Almanac",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "The Software Toolworks",
+        "Publisher(s)": "The Software Toolworks",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Aqua World: Umibi Monogatari",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Mizuki",
+        "Publisher(s)": "Mizuki",
+        "Year": "October 13, 1995JP",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Battery Navi",
+        "Genre(s)": "Dai Nippon Printing",
+        "Developer(s)": "Dai Nippon Printing",
+        "Publisher(s)": "October 13, 1995JP",
+        "Year": "1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Blonde Justice",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1994",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Trans-Pegasus Limited",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "Year": "December 23, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Chizu Monogatari: Sono 1",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Byse, Inc.",
+        "Publisher(s)": "Ariadne",
+        "Year": "October 27, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "The Coven",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Dennis Miller: That's News to Me",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Sanctuary Woods",
+        "Publisher(s)": "Sanctuary Woods",
+        "Year": "December 31, 1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Dennō Hyōryū: Multimedia Cruising",
+        "Genre(s)": "Non-game, Art Game",
+        "Developer(s)": "Scitron & Art",
+        "Publisher(s)": "Hamlet",
+        "Year": "May 19, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Digital Dreamware",
+        "Genre(s)": "Music",
+        "Developer(s)": "Virgin Interactive",
+        "Publisher(s)": "Virgin Interactive",
+        "Year": "1995",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "Endlessly",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Baseball: Interactive Hitting",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Golf: Lower Your Score with Tom Kite - Shot Making",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay (NA) Byse, Inc. (JP)",
+        "Year": "January 1, 1994",
+        "Notes": "NA, JP"
+      },
+      {
+        "Title": "ESPN Golf: Lower Your Score with Tom Kite - Mental Messages",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Let's Go Skiing",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "ESPN Enterprises, Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Let's Play Beach Volleyball",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Let's Play Soccer",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "ESPN Enterprises, Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Let's Play Tennis",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "ESPN Enterprises, Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "ESPN Step Aerobics",
+        "Genre(s)": "Edutainment, Sports",
+        "Developer(s)": "ESPN Enterprises, Intellimedia Sports",
+        "Publisher(s)": "IntelliPlay",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Grimm Meisaku Gekijō: Akazukin",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "JASPAC",
+        "Publisher(s)": "Ima Company",
+        "Year": "September 2, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Grimm Meisaku Gekijō: Bremen no Ongakutai",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "JASPAC",
+        "Publisher(s)": "Ima Company",
+        "Year": "September 2, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Grimm Meisaku Gekijō: Hansel to Gretel",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "JASPAC",
+        "Publisher(s)": "Ima Company",
+        "Year": "September 2, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Gunslinger Collection",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Hirata Shōgo Interactive Ehon: Aesop Monogatari Vol. 1",
+        "Genre(s)": "Non-game, Edutainment, Interactive movie",
+        "Developer(s)": "Elcom",
+        "Publisher(s)": "Elcom",
+        "Year": "November 3, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Hirata Shōgo Interactive Ehon: Cinderella",
+        "Genre(s)": "Non-game, Edutainment, Interactive movie",
+        "Developer(s)": "Elcom",
+        "Publisher(s)": "Elcom",
+        "Year": "January 13, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Hirata Shōgo Interactive Ehon: Ningyo Hime",
+        "Genre(s)": "Non-game, Edutainment, Interactive movie",
+        "Developer(s)": "Elcom",
+        "Publisher(s)": "Elcom",
+        "Year": "December 2, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Hirata Shōgo Interactive Ehon: Ookami to Shichi Hiki no Koyagi",
+        "Genre(s)": "Non-game, Edutainment, Interactive movie",
+        "Developer(s)": "Elcom",
+        "Publisher(s)": "Elcom",
+        "Year": "January 13, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Hirata Shōgo Interactive Ehon: Sanhiki no Kabuta",
+        "Genre(s)": "Non-game, Edutainment, Interactive movie",
+        "Developer(s)": "Elcom",
+        "Publisher(s)": "Elcom",
+        "Year": "December 2, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Hirata Shōgo Interactive Ehon: Shirayuki Hime",
+        "Genre(s)": "Non-game, Edutainment, Interactive movie",
+        "Developer(s)": "Elcom",
+        "Publisher(s)": "Elcom",
+        "Year": "November 3, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Immortal Desire",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1994",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "Jieitai World",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Opera House",
+        "Publisher(s)": "Japan Vistec",
+        "Year": "1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Kyūsei Senjutsu Niyoru Heisei Kaiun Koyomi",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Ariadne",
+        "Publisher(s)": "Ariadne",
+        "Year": "December 9, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Love Bites",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1995",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Marine Tour",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Office Create",
+        "Publisher(s)": "Office Create",
+        "Year": "August 6, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Mathemagics",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "L3 Interactive",
+        "Publisher(s)": "The 3DO Company",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Mirai Shōnen Konan Digital Library",
+        "Genre(s)": "Non-game, Interactive Movie",
+        "Developer(s)": "Bandai Visual",
+        "Publisher(s)": "Bandai Visual",
+        "Year": "October 20, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Multimedia Shinsho: Driving School - Futsū Menkyoka Hen",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "JISC Life Support",
+        "Publisher(s)": "JISC Life Support",
+        "Year": "October 25, 1995JP",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Nais How's 1 - Front How's '95-'96",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "A&i Games, National Human Electronics",
+        "Publisher(s)": "A&i Games, National Human Electronics",
+        "Year": "January 8, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Naoko to Hide Bō: Kanji no Tensai 1",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Gakuman",
+        "Publisher(s)": "Gakuman",
+        "Year": "March 10, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Naoko to Hide Bō: Sansū no Tensai 1",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Gakuman",
+        "Publisher(s)": "Gakuman",
+        "Year": "March 10, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Naoko to Hide Bō: Sansū no Tensai 2",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Gakuman",
+        "Publisher(s)": "Gakuman",
+        "Year": "March 10, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "New How's 1 - Front How's '94-'95",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "A&i Games, National Human Electronics",
+        "Publisher(s)": "A&i Games, National Human Electronics",
+        "Year": "1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Oceans Below",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Amazing Media",
+        "Publisher(s)": "The Software ToolworksMultisoft (JP)",
+        "Year": "1995",
+        "Notes": "NA, JP"
+      },
+      {
+        "Title": "Ogura Hyakunin Isshu",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Shinko Human Create",
+        "Publisher(s)": "Bunsoft",
+        "Year": "May 26, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Penthouse Interactive Virtual Photo Shoot Vol. 1",
+        "Genre(s)": "Non-game, Adult",
+        "Developer(s)": "Apollon",
+        "Publisher(s)": "Apollon, Bunkasha, GAGA Communications",
+        "Year": "December 23, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Peperon Mura no Shiki",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Marubeni, Mitsumasa Anno, NHK",
+        "Publisher(s)": "Marubeni Corporation, NHK",
+        "Year": "October 20, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Policenauts Pilot Disk",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "Konami",
+        "Publisher(s)": "Konami",
+        "Year": "April 21, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Sample This!",
+        "Genre(s)": "Demodisc",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Crystal Dynamics",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "San Diego Zoo Presents: The Animals!",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Arnowitz Studios",
+        "Publisher(s)": "The Software Toolworks",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Secre: Fūmin no Omocha Hako",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Glams Interactive Labo",
+        "Publisher(s)": "Glams Interactive Labo",
+        "Year": "August 27, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Seimei Handan",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Ariadne",
+        "Publisher(s)": "Ariadne",
+        "Year": "February 17, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Sex",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1995",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "Sid Meier's C.P.U. Bach",
+        "Genre(s)": "Music",
+        "Developer(s)": "MicroProse",
+        "Publisher(s)": "MicroProse",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Slopestyle",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "L3 Interactive",
+        "Publisher(s)": "L3 Interactive",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Super Model Gail McKenna",
+        "Genre(s)": "Non-Game, Adult, Interactive movie",
+        "Developer(s)": "Digital Production",
+        "Publisher(s)": "Trans-Pegasus Limited",
+        "Year": "January 28, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "SuperModels Go Wild",
+        "Genre(s)": "Non-game, Adult, Interactive movie",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1994",
+        "Notes": "NA, PAL"
+      },
+      {
+        "Title": "Tarot Uranai",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Axes Art Amuse",
+        "Publisher(s)": "Ariadne",
+        "Year": "January 13, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "ToonTime ...in the classroom",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "Videoact V LC",
+        "Publisher(s)": "Videoact V LC",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Virtual Puppet Reika",
+        "Genre(s)": "Music",
+        "Developer(s)": "h.a.n.d., Kuki Inc.",
+        "Publisher(s)": "h.a.n.d.",
+        "Year": "October 7, 1994",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Virtual Vivid Sampler",
+        "Genre(s)": "Demodisc, Adult",
+        "Developer(s)": "Vivid Interactive",
+        "Publisher(s)": "Vivid Interactive",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Woody Woodpecker And Friends Volume One",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "MCA Universal",
+        "Publisher(s)": "MCA Universal",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Woody Woodpecker And Friends Volume Two",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "MCA Universal",
+        "Publisher(s)": "MCA Universal",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Woody Woodpecker And Friends Volume Three",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "MCA Universal",
+        "Publisher(s)": "MCA Universal",
+        "Year": "1994",
+        "Notes": "NA"
+      },
+      {
+        "Title": "World Cup Super Stadium",
+        "Genre(s)": "Sports",
+        "Developer(s)": "TV Tokyo",
+        "Publisher(s)": "GAGA Communications",
+        "Year": "April 28, 1995",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Yamada Kamachi Bijutsukan: Kamachi's Museum",
+        "Genre(s)": "Non-game, Interactive movie",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "TV Asahi",
+        "Year": "June 9, 1995JP",
+        "Notes": "JP"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title": "BioFury",
+        "Genre(s)": "First Person Shooter",
+        "Developer(s)": "Retro Love Letter",
+        "Publisher(s)": "World Of Games",
+        "Date_first_released": "January 27, 2024",
+        "Regions_released": "NA"
+      },
+      {
+        "Title": "Double Header: Complete Onside Soccer and Power Slide",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "MotiveTime Ltd.",
+        "Publisher(s)": "Good Deal Games",
+        "Date_first_released": "2007",
+        "Regions_released": "NA"
+      },
+      {
+        "Title": "Icebreaker 2",
+        "Genre(s)": "Action, Strategy",
+        "Developer(s)": "Magnet Interactive Studios",
+        "Publisher(s)": "OlderGames",
+        "Date_first_released": "July 28, 2007",
+        "Regions_released": "NA"
+      },
+      {
+        "Title": "OnSide Soccer",
+        "Genre(s)": "Sports",
+        "Developer(s)": "MotiveTime Ltd.",
+        "Publisher(s)": "OlderGames",
+        "Date_first_released": "July 28, 2007",
+        "Regions_released": "NA"
+      },
+      {
+        "Title": "PowerSlide",
+        "Genre(s)": "Racing",
+        "Developer(s)": "Maelstrom Games, MotiveTime Ltd.",
+        "Publisher(s)": "OlderGames",
+        "Date_first_released": "July 28, 2007",
+        "Regions_released": "NA"
+      },
+      {
+        "Title": "3DO Games: Decathlon",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Studio 3DO",
+        "Publisher(s)": "OlderGames",
+        "Date_first_released": "July 28, 2007",
+        "Regions_released": "NA"
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Title": "Beavis and Butt-Head",
+        "Genre(s)": "Action",
+        "Developer(s)": "Atari Games",
+        "Publisher(s)": "Time Warner Interactive",
+        "Year": "1996",
+        "Notes": "The game underwent a location testing in 1996, but was unreleased due to poor reception.[15]"
+      },
+      {
+        "Title": "Crime Patrol",
+        "Genre(s)": "Interactive movie, Light gun shooter",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1994",
+        "Notes": "Some arcade cabinets used the 3DO as the main hardware.[16]"
+      },
+      {
+        "Title": "Die Alien Scum!!",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)": "Atari Games",
+        "Publisher(s)": "Time Warner Interactive",
+        "Year": "1994",
+        "Notes": "Development was halted and the game was left unreleased due to hardware issues.[17]"
+      },
+      {
+        "Title": "Mad Dog II: The Lost Gold",
+        "Genre(s)": "Interactive movie, Light gun shooter",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1994",
+        "Notes": "Some arcade cabinets used the 3DO as the main hardware."
+      },
+      {
+        "Title": "Mazer",
+        "Genre(s)": "Run and gun",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1995",
+        "Notes": "Its arcade cabinet used the 3DO as the main hardware."
+      },
+      {
+        "Title": "Orbatak",
+        "Genre(s)": "Action",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1994",
+        "Notes": "Its arcade cabinet used the 3DO as the main hardware."
+      },
+      {
+        "Title": "Shootout at Old Tucson",
+        "Genre(s)": "Interactive movie, Light gun shooter",
+        "Developer(s)": "American Laser Games",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1994",
+        "Notes": "Its arcade cabinet used the 3DO as the main hardware."
+      },
+      {
+        "Title": "Way of the Warrior",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Naughty Dog",
+        "Publisher(s)": "American Laser Games",
+        "Year": "1994",
+        "Notes": "Its arcade cabinet used the 3DO as the main hardware.[18]"
+      }
+    ]
+  }
+]

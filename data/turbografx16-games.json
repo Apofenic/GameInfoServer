@@ -1,0 +1,5179 @@
+[
+  {
+    "table1": [
+      {
+        "Format": "Standard HuCards designed to run on any PC Engine console."
+      },
+      {
+        "Format": "HuCard games designed solely for the PC Engine SuperGrafx"
+      },
+      {
+        "Format": "Discs designed for any version of the CD-ROM² System add-on."
+      },
+      {
+        "Format": "Discs designed for the Super CD-ROM² System or CD-ROM² System with Super System Card."
+      },
+      {
+        "Format": "Discs designed for the Super CD-ROM² System with Arcade Card Duo or CD-ROM² System with Arcade Card Pro."
+      }
+    ]
+  },
+  {
+    "table2": [
+      {},
+      {
+        "Main Title": "1552: Tenka Tairan",
+        "Distributor": "ASK Kodansha",
+        "Release Date": "July 16, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "1941: Counter Attack",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "SuperGrafx"
+      },
+      {
+        "Main Title": "1943 Kai",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "21 Emon: Mezase! Hotel Ō",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "December 16, 1994",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sazan Eyes: Sanjiyan Henjō",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "July 8, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "A-Densha de Ikō III",
+        "Distributor": "Artdink",
+        "Release Date": "June 11, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Addams Family, The",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "November 1991[2]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Advanced V.G.",
+        "Distributor": "TGL",
+        "Release Date": "July 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Adventure Quiz: Capcom World /Hatena no Daibōken",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 12, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Aero Blasters",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "November 2, 1990",
+        "Format": "January 1991[3]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "After Burner II",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Ai Cho Aniki",
+        "Distributor": "Masaya",
+        "Release Date": "February 24, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Air Zonk•PC DenjinJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "November 20, 1992",
+        "Format": "October 1992[4]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Akiyama Jin no Sūgaku Mystery",
+        "Distributor": "NHK",
+        "Release Date": "December 10, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Aldynes",
+        "Distributor": "Hudson Soft",
+        "Release Date": "February 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "SuperGrafx"
+      },
+      {
+        "Main Title": "Alien Crush",
+        "Distributor": "NEC (US)Naxat Soft (JP)",
+        "Release Date": "September 14, 1988",
+        "Format": "August 29, 1989",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Alshark",
+        "Distributor": "Victor Entertainment",
+        "Release Date": "August 26, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Alzadick",
+        "Distributor": "Naxat Soft",
+        "Release Date": "July 17, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ane-san",
+        "Distributor": "NEC Avenue",
+        "Release Date": "February 24, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Aoi Blink",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Aoki Ōkami to Shiroki Mejika: Genchō Hishi",
+        "Distributor": "Koei",
+        "Release Date": "September 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Appare! Gateball",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 22, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Astralius",
+        "Distributor": "IGS",
+        "Release Date": "June 21, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Asuka 120% Maxima BURNING Fest.",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 28, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "The Atlas",
+        "Distributor": "Artdink",
+        "Release Date": "March 4, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Atomic Robo-Kid Special",
+        "Distributor": "UPL",
+        "Release Date": "January 19, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Aurora Quest: Otaku no Seiza in Another World",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "December 10, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Auto Crusher Palladium",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "February 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Avenger",
+        "Distributor": "Telenet Japan",
+        "Release Date": "December 7, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Andre Panza Kick Boxing•The Kick BoxingJP",
+        "Distributor": "NEC (US)Micro World (JP)",
+        "Release Date": "July 31, 1992",
+        "Format": "December 1991[5]",
+        "undefined": "HuCardUSSuper CD-ROM²JP"
+      },
+      {
+        "Main Title": "Babel",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 27, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Baby Jo the Superhero",
+        "Distributor": "Micro World",
+        "Release Date": "August 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bakuchō Yoshimoto Shinkigeki",
+        "Distributor": "Hudson Soft",
+        "Release Date": "January 3, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bakuden: Unbalanced Zone",
+        "Distributor": "Sony Music Entertainment",
+        "Release Date": "April 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Ballistix",
+        "Distributor": "NEC (US)Coconuts Japan (JP)",
+        "Release Date": "December 13, 1991",
+        "Format": "May 1992[6]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bari Bari Densetsu",
+        "Distributor": "Taito",
+        "Release Date": "November 29, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Barunba",
+        "Distributor": "Namco",
+        "Release Date": "April 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Basted",
+        "Distributor": "NEC Avenue",
+        "Release Date": "October 21, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Batman",
+        "Distributor": "Sunsoft",
+        "Release Date": "October 12, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Battle Ace",
+        "Distributor": "Hudson Soft",
+        "Release Date": "November 30, 1989",
+        "Format": "Unreleased",
+        "undefined": "SuperGrafx"
+      },
+      {
+        "Main Title": "Battle Field '94 in Tokyo Dome",
+        "Distributor": "Fujicom",
+        "Release Date": "November 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Battle Lode Runner",
+        "Distributor": "Hudson Soft",
+        "Release Date": "February 10, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Battle Royale",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "October 1990[7]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bazar dé Gozarre no Game de Gozāru",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "July 25, 1996",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Benkei Gaiden",
+        "Distributor": "Sunsoft",
+        "Release Date": "December 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Beyond Shadowgate",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "December 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bikkuriman Daijikai",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 23, 1988",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Bikkuriman World",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 30, 1987",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bishōjo Senshi Sailor Moon",
+        "Distributor": "Banpresto",
+        "Release Date": "August 5, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bishōjo Senshi Sailor Moon Collection",
+        "Distributor": "Banpresto",
+        "Release Date": "November 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Black Hole Assault",
+        "Distributor": "Micronet",
+        "Release Date": "July 23, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Blazing Lazers•GunhedJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "July 7, 1989",
+        "Format": "November 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Blood Gear",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 28, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bloody Wolf•Narazumono Sentō Butai Bloody WolfJP",
+        "Distributor": "NEC (US)Data East (JP)",
+        "Release Date": "September 1, 1989",
+        "Format": "June 1990[9]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bomberman",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "December 7, 1990",
+        "Format": "April 1991[10]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bomberman '93",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "December 11, 1992",
+        "Format": "March 1993[11]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bomberman '94",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 10, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bomberman Users Battle",
+        "Distributor": "Hudson Soft",
+        "Release Date": "1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bonanza Bros.",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 31, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bonk's Adventure•PC GenjinJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "December 15, 1989",
+        "Format": "April 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bonk's Revenge•PC Genjin 2JP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "July 19, 1991",
+        "Format": "July 1991",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bonk 3: Bonk's Big Adventure•PC Genjin 3JP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "April 2, 1993",
+        "Format": "June 1993",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Bonk 3: Bonk's Big Adventure CD",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "December 1994",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bōken Danshaku Don: The Lost Sunheart",
+        "Distributor": "I'Max",
+        "Release Date": "January 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Boxyboy •Sōkoban WorldJP",
+        "Distributor": "NEC (US)Media Rings (JP)",
+        "Release Date": "March 16, 1990",
+        "Format": "October 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Brandish",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "June 17, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Bravoman•Chōzetsurin-jin BerabōmanJP",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "July 13, 1990",
+        "Format": "October 1990[7]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Break In",
+        "Distributor": "Naxat Soft",
+        "Release Date": "August 10, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Browning",
+        "Distributor": "Telenet Japan",
+        "Release Date": "February 7, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bubblegum Crash",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 6, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Builder Land",
+        "Distributor": "Micro World",
+        "Release Date": "April 1, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Bullfight Ring no Hasha",
+        "Distributor": "Cream",
+        "Release Date": "December 8, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Burai",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "August 9, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Burai II",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Burning Angels",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 7, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Buster Bros.•Pomping WorldJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "May 31, 1991",
+        "Format": "January 1993[12]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Cadash",
+        "Distributor": "Working Designs (US)Taito (JP)",
+        "Release Date": "January 18, 1991",
+        "Format": "November 1991[2]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "CAL II",
+        "Distributor": "NEC Avenue",
+        "Release Date": "March 31, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Cal III",
+        "Distributor": "NEC Avenue",
+        "Release Date": "March 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Camp California",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "January 1993[12]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Card Angels",
+        "Distributor": "Fujicom",
+        "Release Date": "December 9, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Akumajō Dracula X: Chi no Rondo",
+        "Distributor": "Konami",
+        "Release Date": "October 29, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "CD Battle: Hikari no Yūshatachi",
+        "Distributor": "King Records",
+        "Release Date": "March 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Champion Wrestler",
+        "Distributor": "Taito",
+        "Release Date": "December 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Champions Forever Boxing",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "October 1991[13]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Championship Rally",
+        "Distributor": "Intec",
+        "Release Date": "August 6, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Chase H.Q.•Taito Chase HQJP",
+        "Distributor": "TTI (US)Taito (JP)",
+        "Release Date": "January 26, 1990",
+        "Format": "November 1992[14]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Chew Man Fu•Be BallJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "March 30, 1990",
+        "Format": "July 1990[15]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Chibi Maruko-chan: Quiz de Piihira",
+        "Distributor": "Namco",
+        "Release Date": "January 10, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Chiki Chiki Boys",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 15, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Chikuden-ya Toubei",
+        "Distributor": "Naxat Soft",
+        "Release Date": "January 26, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "China Warrior•The Kung FuJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "November 27, 1987",
+        "Format": "November 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cho Aniki",
+        "Distributor": "Masaya",
+        "Release Date": "December 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Chō Jikū Yōsai Macross: Eien no Love Song",
+        "Distributor": "Masaya",
+        "Release Date": "December 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Chō Jikū Yōsai Macross 2036",
+        "Distributor": "Masaya",
+        "Release Date": "April 3, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Circus Lido",
+        "Distributor": "Uni Post Company Ltd",
+        "Release Date": "April 6, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "City Hunter",
+        "Distributor": "Sunsoft",
+        "Release Date": "March 2, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cobra: Kokuryū-Ō no Densetsu",
+        "Distributor": "Hudson Soft",
+        "Release Date": "March 31, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Cobra II: Densetsu no Otoko",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 7, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Color Wars",
+        "Distributor": "Coconuts Japan",
+        "Release Date": "July 10, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Columns",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Coryoon: Child of Dragon",
+        "Distributor": "Naxat Soft",
+        "Release Date": "November 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cosmic Fantasy 2•Cosmic Fantasy 2: Bōken Shōnen VanJP",
+        "Distributor": "Working Designs (US)Telenet Japan (JP)",
+        "Release Date": "April 5, 1991",
+        "Format": "June 1992[16]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Cosmic Fantasy 3: Bōken Shōnen Rei",
+        "Distributor": "Telenet Japan",
+        "Release Date": "September 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Cosmic Fantasy 4: Ginga Shōnen Densetsu: Gekitouhen",
+        "Distributor": "Telenet Japan",
+        "Release Date": "November 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Cosmic Fantasy 4: Ginga Shōnen Densetsu: Totsunyūhen",
+        "Distributor": "Telenet Japan",
+        "Release Date": "June 10, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Cosmic Fantasy: Bōken Shōnen Yū",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 30, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Cotton: Fantastic Night Dreams•CottonJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "February 12, 1993",
+        "Format": "April 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Cratermaze•Doraemon: Meikyū DaisakusenJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "October 31, 1989[a]",
+        "Format": "March 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cross Wiber: Cyber Combat Police",
+        "Distributor": "Face",
+        "Release Date": "December 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cyber City Oedo: Kemono no Alignment",
+        "Distributor": "Masaya",
+        "Release Date": "March 15, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Cyber Core",
+        "Distributor": "NEC (US) IGS (JP)",
+        "Release Date": "March 9, 1990",
+        "Format": "May 1990[17]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cyber Cross",
+        "Distributor": "Face",
+        "Release Date": "June 23, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cyber Dodge",
+        "Distributor": "Tonkin House",
+        "Release Date": "January 31, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cyber Knight",
+        "Distributor": "Tonkin House",
+        "Release Date": "October 12, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dai Makaimura",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "SuperGrafx"
+      },
+      {
+        "Main Title": "Daichikun Crisis",
+        "Distributor": "Salio",
+        "Release Date": "November 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Daisenpū Custom",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 26, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Daisenpuu",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Daisenryaku II: Campaign Version",
+        "Distributor": "Micro Cabin",
+        "Release Date": "May 29, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Darius Alpha",
+        "Distributor": "NEC Avenue",
+        "Release Date": "1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard (PC-SG)"
+      },
+      {
+        "Main Title": "Darius Plus",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard (PC-SG)"
+      },
+      {
+        "Main Title": "Darkwing Duck",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "January 1992[18]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Davis Cup Tennis",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "April 1, 1992",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Davis Cup Tennis, The (CD)",
+        "Distributor": "Micro World",
+        "Release Date": "April 1, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Dead Moon",
+        "Distributor": "TTI (US) T.T.S (JP)",
+        "Release Date": "February 22, 1991",
+        "Format": "October 1992[4]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dead of the Brain 1 & 2",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "June 3, 1999",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Death Bringer",
+        "Distributor": "Telenet Japan",
+        "Release Date": "April 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Deep Blue•Deep Blue: Kaitei ShinwaJP",
+        "Distributor": "NEC (US) Pack-In-Video (JP)",
+        "Release Date": "March 31, 1989",
+        "Format": "March 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Deko Boko Densetsu",
+        "Distributor": "Telenet Japan",
+        "Release Date": "November 2, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Dennō Tenshi: Digital Angel",
+        "Distributor": "Tokuma Shoten Intermedia",
+        "Release Date": "November 28, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Detana!! TwinBee",
+        "Distributor": "Konami",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Devil's Crush•Devil CrashJP",
+        "Distributor": "NEC (US) Naxat Soft (JP)",
+        "Release Date": "July 20, 1990",
+        "Format": "September 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "DE.JA",
+        "Distributor": "NEC Interchannel",
+        "Release Date": "July 12, 1996",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Die Hard",
+        "Distributor": "Pack-In-Video (distribution)Nihon Bussan",
+        "Release Date": "September 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Digital Champ: Battle Boxing",
+        "Distributor": "Naxat Soft",
+        "Release Date": "October 13, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Digital Comic Patlabor: Chapter of Griffon",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "September 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dōkyūsei",
+        "Distributor": "NEC Avenue",
+        "Release Date": "November 23, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Don Doko Don",
+        "Distributor": "Taito",
+        "Release Date": "May 31, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Doraemon: Nobita no Dorabian Night",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 6, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Doraemon: Nobita no Dorabian Night (CD)",
+        "Distributor": "Hudson Soft",
+        "Release Date": "May 29, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Double Dragon II: The Revenge",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 5, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Double Dungeons",
+        "Distributor": "NEC (US) Masaya (JP)",
+        "Release Date": "September 29, 1989",
+        "Format": "July 1990[9]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Double Ring•W-Ring: The Double RingsJP",
+        "Distributor": "Naxat Soft",
+        "Release Date": "September 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Download",
+        "Distributor": "NEC Avenue",
+        "Release Date": "June 22, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Download 2",
+        "Distributor": "NEC Avenue",
+        "Release Date": "March 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Downtown Nekketsu Kōshinkyoku",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 11, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Downtown Nekketsu Monogatari",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 24, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Ball Z: Idainaru Son Goku Densetsu",
+        "Distributor": "Bandai",
+        "Release Date": "November 11, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon EGG!",
+        "Distributor": "Masaya",
+        "Release Date": "September 27, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dragon Half",
+        "Distributor": "Micro Cabin",
+        "Release Date": "September 30, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Knight & Graffiti",
+        "Distributor": "NEC Avenue",
+        "Release Date": "March 31, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Knight II",
+        "Distributor": "NEC Avenue",
+        "Release Date": "August 7, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Knight III",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Saber",
+        "Distributor": "Namco",
+        "Release Date": "December 27, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dragon Slayer: The Legend of Heroes•Dragon Slayer: Eiyū DensetsuJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "October 25, 1991",
+        "Format": "December 1992",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Slayer: The Legend of Heroes II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 22, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dragon Spirit",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "December 16, 1988",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dragon's Curse•Adventure IslandJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "April 19, 1991",
+        "Format": "December 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Drop Off•Drop Rock Hora HoraJP",
+        "Distributor": "NEC (US)Data East (JP)",
+        "Release Date": "March 30, 1990",
+        "Format": "October 1990[15]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dungeons & Dragons: Order of the Griffon",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "September 1992[19]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dungeon Explorer",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "March 4, 1989",
+        "Format": "November 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Dungeon Explorer II",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "March 26, 1993",
+        "Format": "October 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dungeon Master•Dungeon Master: Theron's QuestJP",
+        "Distributor": "TTI (US)Victor Musical Industries (JP)",
+        "Release Date": "September 18, 1992",
+        "Format": "May 1993[20]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Dynastic Hero, The•Chō Eiyū Densetsu Dynastic HeroJP",
+        "Distributor": "TTI (US)Victor Entertainment (JP)",
+        "Release Date": "May 20, 1994",
+        "Format": "March 1994",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Efera and Jiliora: The Emblem from Darkness",
+        "Distributor": "Brain Grey",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Eikan wa Kimi ni",
+        "Distributor": "Artdink",
+        "Release Date": "July 15, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Eiyū Saigokushi",
+        "Distributor": "Irem",
+        "Release Date": "March 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Emerald Dragon",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "January 17, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Energy",
+        "Distributor": "Masaya",
+        "Release Date": "April 19, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Exile",
+        "Distributor": "Working Designs (US)Telenet Japan (JP)",
+        "Release Date": "March 29, 1991",
+        "Format": "September 1992",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Exile: Wicked Phenomenon•Exile IIJP",
+        "Distributor": "Working Designs (US)Telenet Japan (JP)",
+        "Release Date": "September 22, 1992",
+        "Format": "July 31, 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "F-1 Dream",
+        "Distributor": "NEC Avenue",
+        "Release Date": "August 25, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "F-1 Pilot",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 23, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "F1 Circus",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "September 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "F1 Circus '91",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "July 12, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "F-1 CIRCUS'92",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "F1 Circus Special",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "June 26, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "F1 Team Simulation Project F",
+        "Distributor": "Telenet Japan",
+        "Release Date": "September 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "F1 Triple Battle",
+        "Distributor": "Human",
+        "Release Date": "December 23, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Faceball",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "November 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Falcon",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "July 1992",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Fang of Alnam",
+        "Distributor": "Right Stuff",
+        "Release Date": "December 23, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Fantasy Zone",
+        "Distributor": "NEC (US)NEC Avenue (JP)",
+        "Release Date": "October 14, 1988",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Farjius no Jakōtei",
+        "Distributor": "Human Entertainment",
+        "Release Date": "August 29, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Faussete Amour",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Fiend Hunter",
+        "Distributor": "Right Stuff",
+        "Release Date": "April 16, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Fighting Run",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "November 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Fighting Street",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "December 4, 1988",
+        "Format": "December 1989[8]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Final Blaster",
+        "Distributor": "Namco",
+        "Release Date": "September 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Final Lap Twin",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "July 7, 1989",
+        "Format": "January 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Final Match Tennis",
+        "Distributor": "Human",
+        "Release Date": "March 1, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Final Soldier",
+        "Distributor": "Hudson Soft",
+        "Release Date": "July 5, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Final Zone II",
+        "Distributor": "NEC (US)Telenet Japan (JP)",
+        "Release Date": "March 23, 1990",
+        "Format": "November 1990[21]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Fire Pro Joshi: Shōmu Chōjo Taisen: Zenjo vs. JWP",
+        "Distributor": "Human Entertainment",
+        "Release Date": "February 3, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Fire Pro Wrestling 2nd Bout",
+        "Distributor": "Human",
+        "Release Date": "August 30, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Fire Pro Wrestling 3 Legend Bout",
+        "Distributor": "Human Entertainment",
+        "Release Date": "November 13, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Fire Pro Wrestling Combination Tag",
+        "Distributor": "Human",
+        "Release Date": "June 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Flash Hiders",
+        "Distributor": "Right Stuff",
+        "Release Date": "December 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Forgotten Worlds",
+        "Distributor": "TTI (US)NEC Avenue (JP)",
+        "Release Date": "March 27, 1992",
+        "Format": "November 1992[14]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Formation Armed F",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 23, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Formation Soccer",
+        "Distributor": "Human",
+        "Release Date": "April 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Formation Soccer '95 della Seria A",
+        "Distributor": "Human Entertainment",
+        "Release Date": "April 7, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Formation Soccer on J-League",
+        "Distributor": "Human Entertainment",
+        "Release Date": "January 15, 1994",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "World Circuit",
+        "Distributor": "Namco",
+        "Release Date": "October 18, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Fray CD: Xak Gaiden",
+        "Distributor": "Micro Cabin",
+        "Release Date": "March 30, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Fushigi no Yume no Alice",
+        "Distributor": "Face",
+        "Release Date": "December 7, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Gaia no Monshou",
+        "Distributor": "Masaya",
+        "Release Date": "September 23, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Gaiflame",
+        "Distributor": "Masaya",
+        "Release Date": "January 26, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Gain Ground SX",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Galaga '90•Galaga '88JP",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "July 15, 1988",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Galaxy Deka Gayvan",
+        "Distributor": "Intec",
+        "Release Date": "October 29, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Galaxy Fräulein Yuna",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 23, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Galaxy Fräulein Yuna 2",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 30, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Ganbare! Golf Boys",
+        "Distributor": "Masaya",
+        "Release Date": "March 28, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Garō Densetsu 2",
+        "Distributor": "Hudson Soft",
+        "Release Date": "March 12, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Garō Densetsu Special",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 2, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Gate of Thunder",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "February 21, 1992",
+        "Format": "October 10, 1992",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Gekisha Boy",
+        "Distributor": "Irem",
+        "Release Date": "October 2, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Genji Tsūshin Agedama",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Genocide",
+        "Distributor": "Brain Gray",
+        "Release Date": "June 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Genpei Tōma Den",
+        "Distributor": "Namco",
+        "Release Date": "March 16, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Gensō Tairiku Auleria",
+        "Distributor": "Taito",
+        "Release Date": "February 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ghost Manor",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "October 1992[4]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Ghost Sweeper Mikami",
+        "Distributor": "Banpresto",
+        "Release Date": "July 29, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Ginga Fukei Densetsu Sapphire",
+        "Distributor": "Hudson Soft",
+        "Release Date": "November 24, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Go! Go! Birdie Chance",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "June 28, 1996",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "God Panic: Shijō Saikyō Gundan",
+        "Distributor": "Teichiku",
+        "Release Date": "November 27, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Godzilla•Gojira: Bakutō RetsudenJP",
+        "Distributor": "TTI (US)Toho (JP)",
+        "Release Date": "February 26, 1994",
+        "Format": "October 3, 1994[22]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Gokuraku! Chuuka Daisen",
+        "Distributor": "Taito",
+        "Release Date": "March 13, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Golden Axe",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 16, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Gomola Speed",
+        "Distributor": "UPL",
+        "Release Date": "September 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Götzendiener",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "November 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Gradius",
+        "Distributor": "Konami",
+        "Release Date": "November 15, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Gradius II",
+        "Distributor": "Konami",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sotsugyō II",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "December 23, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Gulclight TDF-2",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "January 25, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Gulliver Boy",
+        "Distributor": "Hudson Soft",
+        "Release Date": "May 26, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Gunboat",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "June 1992[16]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Gyuwanburā Jiko Chūshin Ha: Gekitō Sanjūroku Janshi",
+        "Distributor": "Hudson Soft",
+        "Release Date": "November 24, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Gyuwanburā Jiko Chūshin Ha: Mahjong Puzzle Collection",
+        "Distributor": "Taito",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Hanataa ka daka!?",
+        "Distributor": "Taito",
+        "Release Date": "August 9, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Hataraku Shōjo: Tekipaki Working Love",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "March 28, 1997",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Hatris",
+        "Distributor": "Micro Cabin",
+        "Release Date": "May 24, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Hatsukoi Monogatari",
+        "Distributor": "Tokuma Shoten Intermedia",
+        "Release Date": "April 28, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Hawk F-123",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 13, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Heavy Unit",
+        "Distributor": "Taito",
+        "Release Date": "December 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Hellfire S",
+        "Distributor": "NEC Avenue",
+        "Release Date": "April 12, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "High Grenadier",
+        "Distributor": "Telenet Japan",
+        "Release Date": "April 12, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Hihō Densetsu: Chris no Bōken",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Himitsu no Hanazono",
+        "Distributor": "Tokuma Shoten Intermedia",
+        "Release Date": "December 10, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Hisou Kihei Kai-Serd[b]",
+        "Distributor": "Masaya",
+        "Release Date": "February 23, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Hit the Ice",
+        "Distributor": "TTI (US)Taito (JP)",
+        "Release Date": "September 20, 1991",
+        "Format": "November 1992[14]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Honey in the Sky",
+        "Distributor": "Face",
+        "Release Date": "March 1, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Honey on the Road",
+        "Distributor": "Face",
+        "Release Date": "September 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Honō no Dōkyūji: Dodge Danpei",
+        "Distributor": "Hudson Soft",
+        "Release Date": "September 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Horror Story",
+        "Distributor": "NEC Avenue",
+        "Release Date": "February 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Human Sports Festival",
+        "Distributor": "Human",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Hyakumonogatari: Honto ni Atta Kowai Hanashi",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 4, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Hyper Wars",
+        "Distributor": "Hudson Soft",
+        "Release Date": "November 5, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "I.Q. Panic",
+        "Distributor": "IGS",
+        "Release Date": "February 21, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Iga Ninden Gaiō",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "December 10, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Image Fight",
+        "Distributor": "Irem",
+        "Release Date": "July 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Image Fight II",
+        "Distributor": "Irem",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Impossamole",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "October 1991[13]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "It Came From The Desert",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "December 1991[5]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "J-League Greatest Eleven",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "May 14, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Jack Nicklaus' Turbo Golf•Jack Nicklaus Championship GolfJP",
+        "Distributor": "Accolade (US)Victor Musical Industries (JP)",
+        "Release Date": "November 24, 1989",
+        "Format": "1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Jack Nicklaus' Turbo Golf•Jack Nicklaus' World Golf TourJP",
+        "Distributor": "Accolade (US)Victor Musical Industries (JP)",
+        "Release Date": "September 14, 1990",
+        "Format": "1990",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Jackie Chan's Action Kung Fu•Jackie ChanJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "January 18, 1991",
+        "Format": "August 1992[23]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Janshin Densetsu: Quest of Jongmaster",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "February 24, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Jantei Monogatari",
+        "Distributor": "Telenet Japan",
+        "Release Date": "October 9, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Jantei Monogatari 2: Uchū Tantei Diban: Kanketsu Hen",
+        "Distributor": "Atlus",
+        "Release Date": "April 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Jantei Monogatari 2: Uchū Tantei Diban: Shutsudō Hen",
+        "Distributor": "Atlus",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Jantei Monogatari 3: Saver Angels",
+        "Distributor": "Atlus",
+        "Release Date": "April 23, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Jaseiken Necromancer",
+        "Distributor": "Hudson Soft",
+        "Release Date": "January 22, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Jigoku Meguri",
+        "Distributor": "Taito",
+        "Release Date": "August 3, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Jim Power",
+        "Distributor": "Micro World",
+        "Release Date": "March 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Jinmu Denshō Yaksa",
+        "Distributor": "Big Club",
+        "Release Date": "June 28, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "John Madden Duo CD Football",
+        "Distributor": "TTI",
+        "Release Date": "Unreleased",
+        "Format": "September 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Jūōki",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Jūōki",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 29, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "J. League Tremendous Soccer '94",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "December 23, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "J.B. Harold Murder Club",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "November 23, 1990[21]",
+        "Format": "August 1991",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "J.J. & Jeff•Kato-chan Ken-chanJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "November 30, 1987[c]",
+        "Format": "March 15, 1990[24]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kabuki Ittō Ryōdan",
+        "Distributor": "Hudson Soft",
+        "Release Date": "February 24, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Kagami no Kuni no Legend[25]",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "October 27, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Kaizō Chōjin Shubibinman",
+        "Distributor": "Masaya",
+        "Release Date": "March 18, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kaizō Chōjin Shubibinman 3: Ikai no Princess",
+        "Distributor": "Masaya",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Kakuto Haō Densetsu Algunos",
+        "Distributor": "Intec",
+        "Release Date": "January 21, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Kattobi! Takuhai-Kun",
+        "Distributor": "Tonkin House",
+        "Release Date": "November 9, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kawa no Nushizuri: Shizenha",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 27, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Kaze Kiri",
+        "Distributor": "Naxat Soft",
+        "Release Date": "April 28, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Keith Courage in Alpha Zones•Mashin Eiyuuden WataruJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "August 30, 1988",
+        "Format": "August 29, 1989",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kiaidan 00",
+        "Distributor": "Telenet Japan",
+        "Release Date": "October 23, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Kickball",
+        "Distributor": "Masaya",
+        "Release Date": "November 23, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kiki Kaikai",
+        "Distributor": "Taito",
+        "Release Date": "March 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "King Of Casino",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "March 30, 1990",
+        "Format": "June 1990[15]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kisō Louga",
+        "Distributor": "Kogado Studio",
+        "Release Date": "December 3, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Klax",
+        "Distributor": "Tengen",
+        "Release Date": "August 10, 1990",
+        "Format": "September 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Knight Rider Special",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "December 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kore ga Pro Yakyū '89",
+        "Distributor": "Intec",
+        "Release Date": "December 15, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kore ga Pro Yakyuu '90",
+        "Distributor": "Intec",
+        "Release Date": "June 29, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Kyūkyoku Tiger",
+        "Distributor": "Taito",
+        "Release Date": "March 31, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "K.O. Seiki Beast Sanjūshi",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "June 17, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "L-Dis",
+        "Distributor": "Masaya",
+        "Release Date": "April 5, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "La Valeur",
+        "Distributor": "Kogado Studio",
+        "Release Date": "March 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Lady Phantom",
+        "Distributor": "Telenet Japan",
+        "Release Date": "November 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Langrisser: Hikari no Matsuei",
+        "Distributor": "Masaya",
+        "Release Date": "August 6, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Laplace no Ma",
+        "Distributor": "Human Entertainment",
+        "Release Date": "March 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Last Alert•Red AlertJP",
+        "Distributor": "NEC (US)Telenet Japan (JP)",
+        "Release Date": "December 15, 1989",
+        "Format": "November 1990[21]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Last Armageddon",
+        "Distributor": "Brain Grey",
+        "Release Date": "August 31, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Legend of Hero Tonma",
+        "Distributor": "TTI (US)Irem (JP)",
+        "Release Date": "March 13, 1991",
+        "Format": "February 1993[26]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Legend of Xanadu, The",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "February 18, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Legend of Xanadu II, The",
+        "Distributor": "Nihon Falcom",
+        "Release Date": "June 30, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Legendary Axe, The•Makyō DensetsuJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "September 23, 1988",
+        "Format": "August 29, 1989",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Legendary Axe II, The•Ankoku DensetsuJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "September 7, 1990",
+        "Format": "October 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Legion",
+        "Distributor": "Telenet Japan",
+        "Release Date": "September 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Lemmings",
+        "Distributor": "Sunsoft",
+        "Release Date": "November 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Linda³",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "October 13, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Lode Runner: Ushina Wareta Meikyū",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "July 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Loom",
+        "Distributor": "TTI (US)Victor Musical Industries (JP)",
+        "Release Date": "September 25, 1992",
+        "Format": "November 1992[14]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Lord of Wars",
+        "Distributor": "SystemSoft",
+        "Release Date": "November 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Lords of the Rising Sun•Rising SunJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "March 13, 1992",
+        "Format": "July 1992[27]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Lords of Thunder•Winds of ThunderJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "April 23, 1993",
+        "Format": "March 1993[11]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Louga II: The Ends of Shangrila",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "May 26, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mad Stalker: Full Metal Force",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "September 15, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Madō King Granzort",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "SuperGrafx"
+      },
+      {
+        "Main Title": "Madō Monogatari I",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 13, 1996",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Magical Chase",
+        "Distributor": "TTI (US) Palsoft (JP)",
+        "Release Date": "November 15, 1991",
+        "Format": "July 1993[28]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Magical Dinosaur Tour•Magical Saurus TourJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "August 24, 1990",
+        "Format": "December 1990",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Magicoal",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "October 29, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mahjong Clinic Special",
+        "Distributor": "Naxat Soft",
+        "Release Date": "September 24, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mahjong Gakuen - Tōma Sōhirō Tōjō",
+        "Distributor": "Face",
+        "Release Date": "November 24, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Mahjong Gakuen Mild",
+        "Distributor": "Face",
+        "Release Date": "June 29, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Mahjong Gokū Special",
+        "Distributor": "Sunsoft",
+        "Release Date": "August 10, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Mahjong Haōden: Kaiser's Quest",
+        "Distributor": "UPL",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Mahjong Lemon Angel",
+        "Distributor": "Naxat Soft",
+        "Release Date": "February 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mahjong on the Beach",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mahjong Shikaku Retsuden: Mahjong Wars",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "February 1, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Mahjong Sword Princess Quest Gaiden",
+        "Distributor": "Naxat Soft",
+        "Release Date": "August 11, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Maison Ikkoku",
+        "Distributor": "Micro Cabin",
+        "Release Date": "August 4, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Makai Hakkenden Shada",
+        "Distributor": "Data East",
+        "Release Date": "April 1, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Makai Prince Dorabocchan",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mamono Hunter Yōko: Makai Kara no Tenkōsai",
+        "Distributor": "Masaya",
+        "Release Date": "March 13, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mamono Hunter Yōko: Tooki Yobikoe",
+        "Distributor": "Masaya",
+        "Release Date": "January 8, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "The Manhole",
+        "Distributor": "Sunsoft",
+        "Release Date": "March 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Maniac Pro Wrestling",
+        "Distributor": "Hudson Soft",
+        "Release Date": "May 25, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Märchen Maze",
+        "Distributor": "Namco",
+        "Release Date": "December 11, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Martial Champion",
+        "Distributor": "Konami",
+        "Release Date": "December 17, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Master of Monsters",
+        "Distributor": "Micro Cabin",
+        "Release Date": "February 15, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Megami Paradise",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "September 30, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Meikyū no Elfine",
+        "Distributor": "Telenet Japan",
+        "Release Date": "July 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Metal Angel",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "September 24, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Metal Angel 2",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "January 20, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Metal Stoker",
+        "Distributor": "Face",
+        "Release Date": "July 12, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Metamor Jupiter",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "January 14, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Might & Magic",
+        "Distributor": "NEC Avenue",
+        "Release Date": "January 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Might and Magic III: Isles of Terra",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "October 29, 1993",
+        "Format": "August 17, 1994",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Military Madness•NectarisJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "February 9, 1989",
+        "Format": "February 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Minesweeper",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 20, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Mirai Shōnen Conan",
+        "Distributor": "Telenet Japan",
+        "Release Date": "February 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mitsubachi Gakuen",
+        "Distributor": "Hudson Soft",
+        "Release Date": "September 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Mizubaku Daibouken",
+        "Distributor": "Taito",
+        "Release Date": "January 17, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Momotaro Densetsu Gaiden Dai Ichi Shu",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Momotarou Densetsu Turbo",
+        "Distributor": "Hudson Soft",
+        "Release Date": "July 20, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Momotarou Densetsu II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 22, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Momotarō Katsugeki",
+        "Distributor": "Hudson Soft",
+        "Release Date": "September 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Monster Lair•Wonder Boy III: Monster LairJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "August 31, 1989",
+        "Format": "December 1989[8]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Monster Maker: Yami no Ryūkishi",
+        "Distributor": "NEC Avenue",
+        "Release Date": "March 30, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Monster Pro Wrestling",
+        "Distributor": "ASK Kodansha",
+        "Release Date": "November 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Moonlight Lady",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "March 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Morita Shogi PC",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 27, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Motteke Tamago",
+        "Distributor": "Naxat Soft",
+        "Release Date": "April 16, 1997",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Moto Roader",
+        "Distributor": "NEC (US) Masaya (JP)",
+        "Release Date": "February 23, 1989",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Moto Roader II",
+        "Distributor": "Masaya",
+        "Release Date": "March 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Moto Roader MC",
+        "Distributor": "Masaya",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mr Heli no Daibouken",
+        "Distributor": "Irem",
+        "Release Date": "December 1, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Mystic Formula",
+        "Distributor": "Micro Cabin",
+        "Release Date": "July 23, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Fushigi no Umi no Nadia",
+        "Distributor": "Hudson Soft",
+        "Release Date": "January 29, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Naritore: The Sugoroku '92",
+        "Distributor": "Telenet Japan",
+        "Release Date": "December 20, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Naxat Open",
+        "Distributor": "Naxat Soft",
+        "Release Date": "May 30, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Naxat Stadium",
+        "Distributor": "Naxat Soft",
+        "Release Date": "October 26, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Nazo no Masquerade",
+        "Distributor": "Masaya",
+        "Release Date": "March 2, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Necros no Yōsai",
+        "Distributor": "ASK Kodansha",
+        "Release Date": "April 20, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Nekketsu Kōkō Dodgeball Bu: CD Soccer Hen",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 20, 1991",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Nekketsu Kōkō Dodgeball Bu: PC Soccer Hen",
+        "Distributor": "Naxat Soft",
+        "Release Date": "April 3, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Nekketsu Kōkō Dodgeball Bu: PC Bangai Hen",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 30, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Nekketsu Legend Baseballer",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "June 16, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Nemurenu Yoru Chiisaina Ohanashi",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "July 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Neo Nectaris",
+        "Distributor": "Hudson Soft",
+        "Release Date": "July 29, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Neutopia",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "November 17, 1989",
+        "Format": "April 15, 1990[24]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Neutopia II",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "September 27, 1991",
+        "Format": "August 1992[23]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "New Adventure Island•Takahashi Meijin no Shin Bōken JimaJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "June 26, 1992",
+        "Format": "September 1992[19]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "The NewZealand Story",
+        "Distributor": "Taito",
+        "Release Date": "February 23, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Nexzr",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 11, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Nexzr Special",
+        "Distributor": "Naxat Soft",
+        "Release Date": "July 23, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "NHK Taiga Drama Taiheki",
+        "Distributor": "NHK Vook",
+        "Release Date": "January 31, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Night Creatures",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "May 1992[6]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Niko Niko Pun",
+        "Distributor": "NHK Vook",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Ninja Ryūkenden",
+        "Distributor": "Hudson Soft",
+        "Release Date": "January 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Ninja Spirit•Saigo no Nindō: Ninja SpiritJP",
+        "Distributor": "NEC (US)Irem (JP)",
+        "Release Date": "July 6, 1990",
+        "Format": "October 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Ninja Warriors",
+        "Distributor": "Taito",
+        "Release Date": "June 30, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Nishimura Kyōtaro Mystery: Hokutosei no Onna",
+        "Distributor": "Naxat Soft",
+        "Release Date": "February 23, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "No-Ri-Ko[29]",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 4, 1988",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Nobunaga no Yabō: Bushō Fūunroku",
+        "Distributor": "Koei",
+        "Release Date": "February 27, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Nobunaga no Yabō: Zenkokuban",
+        "Distributor": "Koei",
+        "Release Date": "December 11, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Obocchamakun",
+        "Distributor": "Namco",
+        "Release Date": "March 15, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Operation Wolf",
+        "Distributor": "NEC Avenue",
+        "Release Date": "August 31, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Ordyne",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "September 8, 1989",
+        "Format": "February 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Out Live",
+        "Distributor": "Sunsoft",
+        "Release Date": "March 17, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Out Run",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Override",
+        "Distributor": "Data East",
+        "Release Date": "January 8, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "P-47: The Freedom Fighter",
+        "Distributor": "Aicom",
+        "Release Date": "March 20, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Pac-Land",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "June 1, 1989",
+        "Format": "January 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Pachio-kun: Jūban Shōbu",
+        "Distributor": "Coconuts Japan",
+        "Release Date": "March 13, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Pachio-kun: Maboroshi no Densetsu",
+        "Distributor": "Coconuts Japan",
+        "Release Date": "April 19, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Pachio-kun: Warau Uchū",
+        "Distributor": "Coconuts Japan",
+        "Release Date": "December 22, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Pachio-kun 3: Pachislot & Pachinko",
+        "Distributor": "Coconuts Japan",
+        "Release Date": "April 15, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Panic Bomber",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Parasol Stars: The Story of Bubble Bobble III",
+        "Distributor": "Working Designs (US)Taito (JP)",
+        "Release Date": "February 15, 1991",
+        "Format": "October 1991[13]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Parodius Da!",
+        "Distributor": "Konami",
+        "Release Date": "February 21, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Pastel Lime",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Police Connection",
+        "Distributor": "Telenet Japan",
+        "Release Date": "February 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Pop'n Magic",
+        "Distributor": "Telenet Japan",
+        "Release Date": "July 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Popful Mail",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "August 12, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Populous",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 5, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Populous: The Promised Lands",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 25, 1991",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Power Drift",
+        "Distributor": "Asmik",
+        "Release Date": "April 13, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power Eleven",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 21, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power Gate",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "August 30, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power Golf",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "May 25, 1989",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power Golf 2",
+        "Distributor": "Hudson Soft",
+        "Release Date": "March 4, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Power League II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 8, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power League III",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 10, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power League 4",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 9, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power League V",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 7, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power League '93",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 15, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Power Tennis",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 25, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Prince of Persia",
+        "Distributor": "TTI (US)Riverhillsoft (JP)",
+        "Release Date": "November 8, 1991",
+        "Format": "October 1992[4]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Princess Maker 1",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "January 3, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Princess Maker 2",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "June 16, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Princess Minerva",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "March 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Private Eyedol",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "August 11, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "The Pro Yakyū",
+        "Distributor": "Intec",
+        "Release Date": "October 5, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "The Pro Yakyū Super '94",
+        "Distributor": "Intec",
+        "Release Date": "June 17, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Pro Yakyuu World Stadium",
+        "Distributor": "Namco",
+        "Release Date": "May 20, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Pro Yakyuu World Stadium '91",
+        "Distributor": "Namco",
+        "Release Date": "March 21, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "The Pro Yakyū Super",
+        "Distributor": "Intec",
+        "Release Date": "October 9, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Psychic Detective Series Vol. 3: Aýa",
+        "Distributor": "Data West",
+        "Release Date": "November 20, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Psychic Detective Vol. 4: Orgel",
+        "Distributor": "Data West",
+        "Release Date": "August 6, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Psychic Storm",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 19, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Psycho Chaser",
+        "Distributor": "Naxat Soft",
+        "Release Date": "April 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Psychosis•ParanoiaJP",
+        "Distributor": "NEC (US)Naxat Soft (JP)",
+        "Release Date": "March 1, 1990",
+        "Format": "October 1990[30]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Puyo Puyo CD",
+        "Distributor": "NEC Avenue",
+        "Release Date": "April 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Puyo Puyo CD Tsū",
+        "Distributor": "NEC Interchannel",
+        "Release Date": "March 29, 1996",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Puzzle Boy",
+        "Distributor": "Telenet Japan",
+        "Release Date": "February 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Puzznic",
+        "Distributor": "Taito",
+        "Release Date": "June 29, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Quiz Avenue",
+        "Distributor": "NEC Avenue",
+        "Release Date": "February 15, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Avenue II",
+        "Distributor": "NEC Avenue",
+        "Release Date": "October 11, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Avenue 3",
+        "Distributor": "NEC Avenue",
+        "Release Date": "November 25, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Caravan Cult Q",
+        "Distributor": "Hudson Soft",
+        "Release Date": "May 28, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz de Gakuensai",
+        "Distributor": "Naxat Soft",
+        "Release Date": "November 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Marugoto The World",
+        "Distributor": "Atlus",
+        "Release Date": "April 5, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Marugoto The World: Time Machine ni Onegai!",
+        "Distributor": "Atlus",
+        "Release Date": "March 27, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz no Hoshi",
+        "Distributor": "Sunsoft",
+        "Release Date": "August 10, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Tonosama no Yabō",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 10, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "R-Type",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased[d]",
+        "Format": "November 1989",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "R-Type I",
+        "Distributor": "Hudson Soft",
+        "Release Date": "March 25, 1988",
+        "Format": "Unreleased[d]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "R-Type II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 3, 1988",
+        "Format": "Unreleased[d]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "R-Type: Complete CD",
+        "Distributor": "Irem",
+        "Release Date": "December 20, 1991",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Rabio Lepus Special",
+        "Distributor": "Video System",
+        "Release Date": "October 19, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Racing Damashii",
+        "Distributor": "Irem",
+        "Release Date": "July 19, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Raiden",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "November 22, 1991",
+        "Format": "November 1991[2]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Rainbow Islands",
+        "Distributor": "NEC Avenue",
+        "Release Date": "June 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ranma ½",
+        "Distributor": "Masaya",
+        "Release Date": "December 7, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ranma ½: Datō, Ganso Musabetsu Kakuto Ryū",
+        "Distributor": "Masaya",
+        "Release Date": "October 9, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ranma ½: Toraware no Hayanome",
+        "Distributor": "Masaya",
+        "Release Date": "December 6, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Rastan Saga II",
+        "Distributor": "Taito",
+        "Release Date": "July 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Rayxanber II",
+        "Distributor": "Data West",
+        "Release Date": "June 7, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Rayxanber III",
+        "Distributor": "Data West",
+        "Release Date": "June 26, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Record of Lodoss War",
+        "Distributor": "Hudson Soft",
+        "Release Date": "July 17, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Record of Lodoss War II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 16, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Renny Blaster",
+        "Distributor": "NEC Avenue",
+        "Release Date": "June 23, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Riot Zone•Crest of WolfJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "February 26, 1993",
+        "Format": "February 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Road Spirits",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 22, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Rock-On",
+        "Distributor": "Big Club",
+        "Release Date": "August 25, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "ROM ROM Stadium",
+        "Distributor": "Masaya",
+        "Release Date": "December 22, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ruin: Kami no Isan",
+        "Distributor": "Victor Entertainment",
+        "Release Date": "November 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Ryūkō no Ken",
+        "Distributor": "Hudson Soft",
+        "Release Date": "March 26, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Ryūkyū",
+        "Distributor": "Face",
+        "Release Date": "October 26, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "S.C.I.",
+        "Distributor": "Taito",
+        "Release Date": "January 25, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sadakichi Sebun: Hideyoshi no Ougon",
+        "Distributor": "Hudson Soft",
+        "Release Date": "November 18, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Saint Dragon",
+        "Distributor": "Aicom",
+        "Release Date": "December 21, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Salamander",
+        "Distributor": "Konami",
+        "Release Date": "December 6, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Samurai Ghost•Genpei Toumaden: KannoniJP",
+        "Distributor": "TTI (US)Namco (JP)",
+        "Release Date": "April 7, 1992",
+        "Format": "December 1992[31]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sangokushi: Eiketsu Tenka ni Nozomu",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Sangokushi III",
+        "Distributor": "Koei",
+        "Release Date": "October 2, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Seirei Senshi Spriggan",
+        "Distributor": "Naxat Soft",
+        "Release Date": "July 12, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Seiryū Densetsu Monbit",
+        "Distributor": "Hudson Soft",
+        "Release Date": "August 30, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Seisenshi Denshō",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "August 5, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Seiya Monogatari",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 22, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sekigahara",
+        "Distributor": "Tonkin House",
+        "Release Date": "September 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sengoku Kantō Sangokushi",
+        "Distributor": "Intec",
+        "Release Date": "June 28, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Sengoku Mahjong",
+        "Distributor": "Hudson Soft",
+        "Release Date": "July 8, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sexy Idol Mahjong",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "December 24, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sexy Idol Mahjong: Mahjong Fashion Monogatari",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "September 16, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Sexy Idol Mahjong 2: Yakyūken no Uta",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "January 31, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shadow of the Beast",
+        "Distributor": "TTI (US)Victor Musical Industries (JP)",
+        "Release Date": "March 27, 1992",
+        "Format": "1992",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shanghai",
+        "Distributor": "Hudson Soft",
+        "Release Date": "October 30, 1987",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Shanghai II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 13, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Shanghai III: Dragon's Eye",
+        "Distributor": "ASK Kodansha",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shape Shifter•Shapeshift: Makai Eiyū DenJP",
+        "Distributor": "TTI (US)Victor Musical Industries (JP)",
+        "Release Date": "September 25, 1992",
+        "Format": "October 1992[4]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sherlock Holmes Consulting Detective",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "July 26, 1991",
+        "Format": "June 1991[32]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Sherlock Holmes: Consulting Detective Vol. II",
+        "Distributor": "TTI (US)Victor Musical Industries (JP)",
+        "Release Date": "May 28, 1993",
+        "Format": "June 1993[33]",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shin Megami Tensei",
+        "Distributor": "Atlus",
+        "Release Date": "December 25, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shin Onryō Senki",
+        "Distributor": "Fujicom",
+        "Release Date": "September 22, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shin Sangokushi: Tenka wa Waga ni",
+        "Distributor": "Naxat Soft",
+        "Release Date": "November 20, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Shinobi",
+        "Distributor": "Asmik",
+        "Release Date": "December 8, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Shiryō Sensen",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "March 24, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Shockman•Kaizō Chōjin Shubibinman 2: Aratanaru TekiJP",
+        "Distributor": "TTI (US) Masaya (JP)",
+        "Release Date": "April 27, 1991",
+        "Format": "December 1992[31]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Shōgi Database Kiyū",
+        "Distributor": "Seta",
+        "Release Date": "October 28, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shogi Shodan Icchokusen",
+        "Distributor": "Home Data",
+        "Release Date": "August 10, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Shogi Shoshinsha Muyou",
+        "Distributor": "Home Data",
+        "Release Date": "November 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Side Arms Hyper Dyne•Hyper Dyne Side ArmsJP",
+        "Distributor": "Radiance Software (US)NEC Avenue (JP)",
+        "Release Date": "July 14, 1989",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Side Arms Special",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 15, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Silent Debuggers",
+        "Distributor": "NEC (US)Data East (JP)",
+        "Release Date": "March 29, 1991",
+        "Format": "October 1991[13]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "SimEarth",
+        "Distributor": "Hudson Soft",
+        "Release Date": "January 14, 1993",
+        "Format": "April 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sindibad: Chitei No Dai Makyu",
+        "Distributor": "IGS",
+        "Release Date": "June 2, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sinistron•Violent SoldierJP",
+        "Distributor": "IGS",
+        "Release Date": "December 14, 1990",
+        "Format": "January 1991",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Skweek",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "August 2, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Slime World",
+        "Distributor": "Micro World",
+        "Release Date": "October 9, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Slot Gambler",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "April 28, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Snatcher CD-ROMantic",
+        "Distributor": "Konami",
+        "Release Date": "October 23, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sol Bianca",
+        "Distributor": "Masaya",
+        "Release Date": "June 29, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Sol Moonarge",
+        "Distributor": "Irem",
+        "Release Date": "January 7, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Soldier Blade",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "July 10, 1992",
+        "Format": "September 1992[19]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Solid Force",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "March 17, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Somer Assault•MesopotamiaJP",
+        "Distributor": "TTI (US)Atlus (JP)",
+        "Release Date": "October 4, 1991",
+        "Format": "December 1992[31]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sonic Spike•World Beach VolleyJP",
+        "Distributor": "IGS",
+        "Release Date": "July 27, 1990",
+        "Format": "September 1990[15]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Son Son II",
+        "Distributor": "NEC Avenue",
+        "Release Date": "January 27, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sorcerian",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "July 17, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sotsugyō: Graduation",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sotsugyō Shashin: Miki",
+        "Distributor": "Coconuts Japan",
+        "Release Date": "October 28, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Space Harrier",
+        "Distributor": "NEC (US)NEC Avenue (JP)",
+        "Release Date": "December 9, 1988",
+        "Format": "February 1990[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Space Invaders: Fukkatsu no Hi",
+        "Distributor": "Taito",
+        "Release Date": "March 2, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Space Invaders: The Original Game",
+        "Distributor": "NEC Avenue",
+        "Release Date": "July 21, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Spin Pair",
+        "Distributor": "Media Rings",
+        "Release Date": "December 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Spiral Wave",
+        "Distributor": "Media Rings",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Splash Lake",
+        "Distributor": "TTI (US)NEC Avenue (JP)",
+        "Release Date": "June 28, 1991",
+        "Format": "August 1992[23]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Splatterhouse",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "April 3, 1990",
+        "Format": "August 1990[34]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Spriggan Mk. II",
+        "Distributor": "Naxat Soft",
+        "Release Date": "May 1, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Star Breaker",
+        "Distributor": "Ray Force",
+        "Release Date": "February 10, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Star Mobile",
+        "Distributor": "Naxat Soft",
+        "Release Date": "October 2, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Star Parodier",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Startling Odyssey",
+        "Distributor": "Ray Force",
+        "Release Date": "October 22, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Startling Odyssey II",
+        "Distributor": "Ray Force",
+        "Release Date": "October 21, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Steam-Heart's",
+        "Distributor": "TGL",
+        "Release Date": "March 22, 1996",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Stratego",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "July 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Street Fighter II: Champion Edition",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "June 12, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Strider Hiryū",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Super Air Zonk•CD-ROM² DenjinJP",
+        "Distributor": "TTI (US)Hudson Soft (JP)",
+        "Release Date": "July 30, 1993",
+        "Format": "April 1994",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Albatross",
+        "Distributor": "Telenet Japan",
+        "Release Date": "September 14, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Super Daisenryaku",
+        "Distributor": "Micro Cabin",
+        "Release Date": "April 27, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Super Darius",
+        "Distributor": "NEC Avenue",
+        "Release Date": "March 16, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Super Darius II",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 23, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Mahjong Taikai",
+        "Distributor": "Koei",
+        "Release Date": "December 28, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Metal Crusher",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "November 29, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Super Momotaro Dentetsu",
+        "Distributor": "Hudson Soft",
+        "Release Date": "September 15, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Super Momotarou Dentetsu II",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 20, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Super Raiden",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 2, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Real Mahjong P II/III Custom",
+        "Distributor": "Naxat Soft",
+        "Release Date": "August 5, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Super Real Mahjong PIV",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 17, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Real Mahjong P.V Custom",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 3, 1995",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Super Real Mahjong Special",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Schwarzchild",
+        "Distributor": "Kogado Studio",
+        "Release Date": "December 6, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Super Schwarzschild 2",
+        "Distributor": "Kogado Studio",
+        "Release Date": "December 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super Star Soldier",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "July 6, 1990",
+        "Format": "March 1991[35]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Super Volleyball",
+        "Distributor": "NEC (US)Video System (JP)",
+        "Release Date": "February 7, 1990",
+        "Format": "September 1990[15]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Susano-ou Densetsu",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 27, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Sword Master",
+        "Distributor": "Right Stuff",
+        "Release Date": "November 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Syd Mead's Terraforming•TerraformingJP",
+        "Distributor": "TTI (US)Naxat Soft (JP)",
+        "Release Date": "May 1, 1992",
+        "Format": "May 1993",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Sylphia",
+        "Distributor": "Tonkin House",
+        "Release Date": "October 22, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Taidaima Yūsha Boshūchū",
+        "Distributor": "Human Entertainment",
+        "Release Date": "November 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Taiheiki",
+        "Distributor": "Intec",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Takeda Shingen",
+        "Distributor": "Aicom",
+        "Release Date": "July 28, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Takin' it to the Hoop•USA Pro BasketballJP",
+        "Distributor": "NEC (US) Aicom (JP)",
+        "Release Date": "December 1, 1989",
+        "Format": "March 15, 1990[24]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "TaleSpin",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "July 1991[36]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Tanjō: Debut",
+        "Distributor": "NEC Avenue",
+        "Release Date": "September 22, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Tatsu no Ko Fighter",
+        "Distributor": "Tonkin House",
+        "Release Date": "October 20, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "TATSUJIN",
+        "Distributor": "Taito",
+        "Release Date": "July 24, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Tecmo World Cup: Super Soccer",
+        "Distributor": "Media Rings",
+        "Release Date": "December 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tenchi Muyō! Ryōōki",
+        "Distributor": "NEC Avenue",
+        "Release Date": "May 26, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tenchi wo Kurau",
+        "Distributor": "NEC Avenue",
+        "Release Date": "June 17, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tengai Makyō: Deden no Den",
+        "Distributor": "Hudson Soft",
+        "Release Date": "1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tengai Makyō: Fuun Kabukiden",
+        "Distributor": "Hudson Soft",
+        "Release Date": "July 10, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tengai Makyō: Ziria",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 30, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Tengai Makyō II: Manji Maru",
+        "Distributor": "Hudson Soft",
+        "Release Date": "March 26, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tenshi no Uta",
+        "Distributor": "Telenet Japan",
+        "Release Date": "October 25, 1991",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tenshi no Uta II",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Terra Cresta II",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "November 27, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Thunder Blade",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 7, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Tiger Road•Tora he no MichiJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "February 23, 1990",
+        "Format": "October 1990[7]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Time Cruise•Time Cruise IIJP",
+        "Distributor": "TTI (US) Face (JP)",
+        "Release Date": "November 8, 1991",
+        "Format": "December 1992[31]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Timeball•BlodiaJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "February 23, 1990",
+        "Format": "July 1990[37]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Titan",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 15, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Toilet Kids",
+        "Distributor": "Media Rings",
+        "Release Date": "March 6, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Tokimeki Memorial",
+        "Distributor": "Konami",
+        "Release Date": "May 27, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Top o Nerae! GunBuster Vol. 1",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "June 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Top o Nerae! GunBuster Vol. 2",
+        "Distributor": "Riverhillsoft",
+        "Release Date": "March 26, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Toshi Tensō Keikaku Eternal City",
+        "Distributor": "Naxat Soft",
+        "Release Date": "April 12, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "The Tower of Druaga",
+        "Distributor": "Namco",
+        "Release Date": "June 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Toy Shop Boys",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "December 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Travelers!: Densetsu o Buttobase",
+        "Distributor": "Victor Entertainment",
+        "Release Date": "December 29, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Travel Epuru",
+        "Distributor": "Telenet Japan",
+        "Release Date": "September 4, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Tricky Kick•TrickyJP",
+        "Distributor": "IGS",
+        "Release Date": "July 6, 1991",
+        "Format": "March 1991",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Tsuppari Oozumou Heisei Ban",
+        "Distributor": "Naxat Soft",
+        "Release Date": "February 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Tsuru Teruto no Jissen Kabushiki Bi-Game",
+        "Distributor": "Intec",
+        "Release Date": "November 10, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Turrican",
+        "Distributor": "Accolade",
+        "Release Date": "Unreleased",
+        "Format": "November 1991[2]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "The TV Show",
+        "Distributor": "Right Stuff",
+        "Release Date": "September 29, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "TV Sports Basketball",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "April 29, 1993",
+        "Format": "June 1991",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "TV Sports: Football",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "March 29, 1991",
+        "Format": "December 1990[38]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "TV Sports Hockey•TV Sports Ice HockeyJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "April 29, 1993",
+        "Format": "September 1991",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Uchū Senkan Yamato",
+        "Distributor": "Human Entertainment",
+        "Release Date": "December 22, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Ultra Box No. 2",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "September 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ultra Box No. 3",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "December 28, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ultra Box No. 4",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "May 24, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ultra Box No. 5",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "September 27, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ultra Box No. 6",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "January 31, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ultra Box Premiere Issue",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "June 15, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Urusei Yatsura: Stay With You",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 29, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Valis II",
+        "Distributor": "NEC (US)Telenet Japan (JP)",
+        "Release Date": "June 23, 1989",
+        "Format": "May 23, 1990",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Valis III",
+        "Distributor": "NEC (US)Telenet Japan (JP)",
+        "Release Date": "September 7, 1990",
+        "Format": "March 1992[39]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Valis IV",
+        "Distributor": "Telenet Japan",
+        "Release Date": "August 23, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Valis: The Fantasm Soldier",
+        "Distributor": "Telenet Japan",
+        "Release Date": "March 19, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Valkyrie no Densetsu",
+        "Distributor": "Namco",
+        "Release Date": "August 9, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Vanilla Syndrome",
+        "Distributor": "Nihon Bussan",
+        "Release Date": "October 25, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Vasteel",
+        "Distributor": "Working Designs (US)Human Entertainment (JP)",
+        "Release Date": "December 20, 1990",
+        "Format": "April 1993[40]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Vasteel 2",
+        "Distributor": "Human Entertainment",
+        "Release Date": "July 8, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "Veigues Tactical Gladiator•VeiguesJP",
+        "Distributor": "NEC (US)Victor Musical Industries (JP)",
+        "Release Date": "June 15, 1990",
+        "Format": "December 1990",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Victory Run",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "December 28, 1987",
+        "Format": "August 29, 1989",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Vigilante",
+        "Distributor": "NEC (US)Irem (JP)",
+        "Release Date": "January 14, 1989",
+        "Format": "November 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Virgin Dream",
+        "Distributor": "Tokuma Shoten Intermedia",
+        "Release Date": "May 31, 1996",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Volfied",
+        "Distributor": "Taito",
+        "Release Date": "December 27, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Wai Wai Mahjong",
+        "Distributor": "Video System",
+        "Release Date": "June 19, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Wallaby!!",
+        "Distributor": "Masaya",
+        "Release Date": "December 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Where in the World is Carmen Sandiego?",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "March 30, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Winning Shot",
+        "Distributor": "Data East",
+        "Release Date": "March 3, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Wizardry I & II",
+        "Distributor": "Naxat Soft",
+        "Release Date": "July 23, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Wizardry III & IV",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 4, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Wizardry V",
+        "Distributor": "Naxat Soft",
+        "Release Date": "September 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Wonder Momo",
+        "Distributor": "Namco",
+        "Release Date": "April 21, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "World Class Baseball•Power LeagueJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "June 24, 1988",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "World Court Tennis•Pro Tennis: World CourtJP",
+        "Distributor": "NEC (US)Namco (JP)",
+        "Release Date": "August 11, 1988",
+        "Format": "December 1989[8]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "World Heroes 2",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 4, 1994",
+        "Format": "Unreleased",
+        "undefined": "Arcade CD-ROM²"
+      },
+      {
+        "Main Title": "World Jockey",
+        "Distributor": "Namco",
+        "Release Date": "September 20, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "World Sports Competition•Power SportsJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "October 10, 1992",
+        "Format": "February 1993[26]",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Wrestle Angels: Double Impact",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "May 19, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Xak I & II",
+        "Distributor": "Telenet Japan",
+        "Release Date": "December 25, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Xak III: The Eternal Recurrence",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "September 30, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Xevious: Fardraut Saga",
+        "Distributor": "Namco",
+        "Release Date": "June 29, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Yamamura Misa Suspense: Kizenka Kyō Ezara Satsujin Jiken",
+        "Distributor": "Naxat Soft",
+        "Release Date": "March 6, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Yami no Ketsuzoku",
+        "Distributor": "Naxat Soft",
+        "Release Date": "December 17, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Yawara!",
+        "Distributor": "Sofix",
+        "Release Date": "October 1, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Yawara! 2",
+        "Distributor": "Sofix",
+        "Release Date": "September 23, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Yo, Bro",
+        "Distributor": "NEC",
+        "Release Date": "Unreleased",
+        "Format": "September 1991",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Yōkai Dochuki",
+        "Distributor": "Namco",
+        "Release Date": "February 5, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Yūyū Jinsei",
+        "Distributor": "Hudson Soft",
+        "Release Date": "April 22, 1988",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Yū Yū Hakusho: Yami Shōbu!! Ankoku Bujutsu Kai",
+        "Distributor": "Banpresto",
+        "Release Date": "September 30, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Ys: Book I & II•Ys I & IIJP",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "December 21, 1989",
+        "Format": "May 1990[41]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ys III: Wanderers from Ys",
+        "Distributor": "NEC (US)Hudson Soft (JP)",
+        "Release Date": "March 22, 1991",
+        "Format": "November 1991[42]",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Ys IV: The Dawn of Ys",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 22, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Zan: Kagerō no Toki",
+        "Distributor": "Taito",
+        "Release Date": "December 27, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Zero4 Champ",
+        "Distributor": "Media Rings",
+        "Release Date": "March 8, 1991",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Zero4 Champ II",
+        "Distributor": "Media Rings",
+        "Release Date": "March 5, 1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Zero Wing",
+        "Distributor": "Naxat Soft",
+        "Release Date": "September 18, 1992",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Zipang",
+        "Distributor": "Pack-In-Video",
+        "Release Date": "December 14, 1990",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {},
+      {
+        "Main Title": "4 in 1 Super CD",
+        "Distributor": "Hudson Soft",
+        "Release Date": "Unreleased",
+        "Format": "October 10, 1992",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Artist Tool",
+        "Distributor": "NEC Home Electronics",
+        "Release Date": "September 29, 1989",
+        "Format": "Unreleased",
+        "undefined": "HuCard"
+      },
+      {
+        "Main Title": "Cosmic Fantasy: Visual Collection",
+        "Distributor": "Telenet Japan",
+        "Release Date": "February 12, 1993",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Develo Magazine Vol. 1",
+        "Distributor": "Tokuma Shoten Intermedia",
+        "Release Date": "1996",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Duo Comic: Bakuretsu Hunter",
+        "Distributor": "Media Works Inc.",
+        "Release Date": "June 30, 1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Galaxy Fräulein Yuna HuVIDEO[e]",
+        "Distributor": "Hudson Soft",
+        "Release Date": "June 18, 1995",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Fan: Special CD-ROM Vol. 1",
+        "Distributor": "Tokuma Shoten Intermedia",
+        "Release Date": "1996",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Hyper Catalog",
+        "Distributor": "Alfa System",
+        "Release Date": "1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Hyper Catalog 1993 Spring",
+        "Distributor": "Alfa System",
+        "Release Date": "1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Hyper Catalog 1993 Summer",
+        "Distributor": "Alfa System",
+        "Release Date": "1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Hyper Catalog 1993 Winter",
+        "Distributor": "Alfa System",
+        "Release Date": "1993",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Hyper Catalog 1994 Spring",
+        "Distributor": "Alfa System",
+        "Release Date": "1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Engine Hyper Catalog 1994 Summer",
+        "Distributor": "Alfa System",
+        "Release Date": "1994",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 1",
+        "Distributor": "NEC Avenue",
+        "Release Date": "October 27, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 1: Sutekini Standard",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "March 30, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 2",
+        "Distributor": "NEC Avenue",
+        "Release Date": "October 27, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 2: Nattoku Idol",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "March 30, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 3",
+        "Distributor": "NEC Avenue",
+        "Release Date": "December 20, 1989",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 3: Yatsubashi Band",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "April 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 4",
+        "Distributor": "NEC Avenue",
+        "Release Date": "January 19, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 4: Choito Otona!?",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "April 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 5",
+        "Distributor": "NEC Avenue",
+        "Release Date": "April 20, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "ROM² Karaoke Vol. 5: Karaoke Makunouchi",
+        "Distributor": "Victor Musical Industries",
+        "Release Date": "April 6, 1990",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Snatcher CD-ROMantic: Pilot Disk",
+        "Distributor": "Konami",
+        "Release Date": "August 7, 1992",
+        "Format": "Unreleased",
+        "undefined": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Super CD-ROM² Taiken Soft-shuu",
+        "Distributor": "Hudson Soft",
+        "Release Date": "December 13, 1991",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      },
+      {
+        "Main Title": "Valis: Visual Collection",
+        "Distributor": "Telenet Japan",
+        "Release Date": "February 19, 1993",
+        "Format": "Unreleased",
+        "undefined": "CD-ROM²"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Main Title": "Atlantean",
+        "Distributor": "Aetherbyte Studios",
+        "Release Date": "August 8, 2014",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "AV Poker: World Gambler",
+        "Distributor": "Hacker International",
+        "Release Date": "1992",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "AV Tanjō",
+        "Distributor": "Hacker International",
+        "Release Date": "February 24, 1995",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "Bikini Girls",
+        "Distributor": "Excite Software Corp.",
+        "Release Date": "1993",
+        "Format": "CD-ROM²"
+      },
+      {
+        "Main Title": "Bishōjo Jyanshi Idol Pai",
+        "Distributor": "Hacker International",
+        "Release Date": "November 10, 1995",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "Body Conquest II",
+        "Distributor": "Hacker International",
+        "Release Date": "1993",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "CD Bishōjo Pachinko 4 Sisters",
+        "Distributor": "Hacker International",
+        "Release Date": "January 5, 1995",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "CD Hanafuda Bishōjo Gambler",
+        "Distributor": "Hacker International",
+        "Release Date": "November 25, 1994",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "CD Mahjong Bishōjo Tyuushinha",
+        "Distributor": "Hacker International",
+        "Release Date": "July 30, 1993",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "CD Pachisuro Bishōjo Gambler",
+        "Distributor": "Hacker International",
+        "Release Date": "July 29, 1994",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "Crazy Hospital: Fushigi No Kuni No Tenshi",
+        "Distributor": "Asia Soft Lab",
+        "Release Date": "March 10, 1995",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "FX Unit Yuki: The Henshin Engine",
+        "Distributor": "SaruPro",
+        "Release Date": "April 12, 2018",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Hawaiian Island Girls",
+        "Distributor": "Excite Software Corp.",
+        "Release Date": "1993",
+        "Format": "CD-ROM²"
+      },
+      {
+        "Main Title": "Hi-Leg Fantasy",
+        "Distributor": "Hacker International",
+        "Release Date": "September 16, 1994",
+        "Format": "Game Express CD"
+      },
+      {
+        "Main Title": "Hypernova Blast",
+        "Distributor": "MindRec",
+        "Release Date": "September 8, 2014",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Idol Hanafuda Fan Club",
+        "Distributor": "Hacker International",
+        "Release Date": "1991",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "Implode",
+        "Distributor": "MindRec",
+        "Release Date": "September 1, 2002",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Insanity",
+        "Distributor": "Aetherbyte Studios",
+        "Release Date": "2009",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "J Thunder",
+        "Distributor": "Unknown",
+        "Release Date": "1990",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Jessie Jaeger in Cleopatra's Curse",
+        "Distributor": "Bold Game Studio",
+        "Release Date": "January 2021",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Kyūkyoku Mah-jong: Idol Graphic",
+        "Distributor": "Hacker International",
+        "Release Date": "1992",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "Kyūkyoku Mah-jong II: Super Idol Graphic",
+        "Distributor": "Hacker International",
+        "Release Date": "1992",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "Lady Sword",
+        "Distributor": "Hacker International",
+        "Release Date": "1992",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "Local Girls of Hawaii",
+        "Distributor": "Excite Software Corp.",
+        "Release Date": "1993",
+        "Format": "CD-ROM²"
+      },
+      {
+        "Main Title": "Meteor Blaster DX",
+        "Distributor": "MindRec",
+        "Release Date": "August 1, 2004",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Mysterious Song",
+        "Distributor": "Frozen Utopia",
+        "Release Date": "August 27, 2012",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "PC Pachi-Slot: Idol Gambler",
+        "Distributor": "Hacker International",
+        "Release Date": "1992",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "Pyramid Plunder",
+        "Distributor": "Aetherbyte Studios",
+        "Release Date": "March 2013",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Quiz Tōkō Shashin",
+        "Distributor": "Hacker International",
+        "Release Date": "December 1992",
+        "Format": "HuCard"
+      },
+      {
+        "Main Title": "Revival Chase",
+        "Distributor": "Revival Games",
+        "Release Date": "January 2013",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shiawase Usagi",
+        "Distributor": "B-Project",
+        "Release Date": "1995",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shiawase Usagi 2",
+        "Distributor": "B-Project",
+        "Release Date": "August 1, 1995",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shinsetsu Shiawase Usagi",
+        "Distributor": "B-Project",
+        "Release Date": "September 30, 1995",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shinsetsu Shiawase Usagi 2",
+        "Distributor": "B-Project",
+        "Release Date": "February 25, 1996",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Shinsetsu Shiawase Usagi F",
+        "Distributor": "B-Project",
+        "Release Date": "September 10, 1997",
+        "Format": "Super CD-ROM²"
+      },
+      {
+        "Main Title": "Strip Fighter II",
+        "Distributor": "Hacker International",
+        "Release Date": "1993",
+        "Format": "HuCard"
+      }
+    ]
+  }
+]

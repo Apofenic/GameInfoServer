@@ -1,0 +1,223 @@
+[
+  {
+    "table1": [
+      {
+        "Name": "2010: The Text Adventure Game",
+        "Date": "1984",
+        "Genre": "Interactive fiction",
+        "Notes": "",
+        "Refs": "[10]"
+      },
+      {
+        "Name": "A Christmas Adventure",
+        "Date": "Late 1984",
+        "Genre": "Adventure",
+        "Notes": "",
+        "Refs": "[11]"
+      },
+      {
+        "Name": "The Adam Home Software Library",
+        "Date": "Mid-1985",
+        "Genre": "Compilation",
+        "Notes": "A package of 32 applications, six of which are games.",
+        "Refs": "[12]"
+      },
+      {
+        "Name": "Adventure Pack I",
+        "Date": "Mid-1984",
+        "Genre": "Compilation, adventure",
+        "Notes": "Developed by Victory Software.",
+        "Refs": "[13]: 87"
+      },
+      {
+        "Name": "Adventure Pack II",
+        "Date": "Mid-1984",
+        "Genre": "Compilation, adventure",
+        "Notes": "Developed by Victory Software.",
+        "Refs": "[13]: 87"
+      },
+      {
+        "Name": "Best of B.C.",
+        "Date": "April 1985",
+        "Genre": "Compilation, action",
+        "Notes": "Developed by Sydney Development Corporation in cooperation with Video Take-Out. Contains B.C.'s Quest for Tires and B.C. II: Grog's Revenge. Released noncommercially.",
+        "Refs": "[14][15]"
+      },
+      {
+        "Name": "Best of Broderbund",
+        "Date": "January 1985",
+        "Genre": "Compilation, shooter",
+        "Notes": "Contains A.E. and Choplifter.",
+        "Refs": "[16]"
+      },
+      {
+        "Name": "Best of Electronic Arts",
+        "Date": "1984",
+        "Genre": "Compilation",
+        "Notes": "Contains Hard Hat Mack and Pinball Construction Set.",
+        "Refs": "[17]"
+      },
+      {
+        "Name": "Bounty Hunter",
+        "Date": "Mid-1984",
+        "Genre": "Adventure",
+        "Notes": "Developed by Victory Software.",
+        "Refs": "[18]"
+      },
+      {
+        "Name": "Buck Rogers: Planet of Zoom",
+        "Date": "October 1983",
+        "Genre": "Platform",
+        "Notes": "The pack-in game.",
+        "Refs": "[1]"
+      },
+      {
+        "Name": "Cabbage Patch Kids Picture Show",
+        "Date": "Late 1984",
+        "Genre": "Art, educational",
+        "Notes": "",
+        "Refs": "[19]: 50"
+      },
+      {
+        "Name": "Campaign '84",
+        "Date": "Q3 1984",
+        "Genre": "Simulation",
+        "Notes": "Developed by Sunrise Software.",
+        "Refs": "[13]: 88 [20]"
+      },
+      {
+        "Name": "Donkey Kong",
+        "Date": "Q2 1984",
+        "Genre": "Platform",
+        "Notes": "",
+        "Refs": "[21]"
+      },
+      {
+        "Name": "Donkey Kong Jr.",
+        "Date": "April 1984",
+        "Genre": "Platform",
+        "Notes": "",
+        "Refs": "[22]"
+      },
+      {
+        "Name": "Dragon's Lair",
+        "Date": "Q4 1984",
+        "Genre": "Interactive film",
+        "Notes": "",
+        "Refs": "[23]"
+      },
+      {
+        "Name": "Family Feud",
+        "Date": "1984–5",
+        "Genre": "Game show",
+        "Notes": "",
+        "Refs": "[19]: 18"
+      },
+      {
+        "Name": "Fantasy Gamer",
+        "Date": "May 1985",
+        "Genre": "Compilation, interactive fiction",
+        "Notes": "Developed by Martin Consulting. Contains two games and an adventure game creator.",
+        "Refs": "[24]"
+      },
+      {
+        "Name": "Games Pack I",
+        "Date": "May 1985",
+        "Genre": "Compilation",
+        "Notes": "Developed by Victory Software. Contains three games.",
+        "Refs": "[24]"
+      },
+      {
+        "Name": "Gust Buster",
+        "Date": "Q3 1984",
+        "Genre": "Action",
+        "Notes": "Developed by Sunrise Software.",
+        "Refs": "[13]: 88"
+      },
+      {
+        "Name": "Jeopardy!",
+        "Date": "1984–5",
+        "Genre": "Game show, quiz",
+        "Notes": "",
+        "Refs": "[19]: 18"
+      },
+      {
+        "Name": "Mountain King",
+        "Date": "Q3 1984",
+        "Genre": "Platform",
+        "Notes": "Developed by Sunrise Software.",
+        "Refs": "[13]: 88"
+      },
+      {
+        "Name": "Quest for Quintana Roo",
+        "Date": "Q3 1984",
+        "Genre": "Action-adventure",
+        "Notes": "Developed by Sunrise Software.",
+        "Refs": "[13]: 88 [25]"
+      },
+      {
+        "Name": "Richard Scarry's Best Electronic Word Book Ever",
+        "Date": "Q4 1984",
+        "Genre": "Educational",
+        "Notes": "",
+        "Refs": "[26]"
+      },
+      {
+        "Name": "Rolloverture",
+        "Date": "Q3 1984",
+        "Genre": "Educational, music, platform",
+        "Notes": "Developed by Sunrise Software.",
+        "Refs": "[13]: 88 [27]"
+      },
+      {
+        "Name": "SmartBASIC Bonanza",
+        "Date": "Late 1984",
+        "Genre": "Compilation",
+        "Notes": "A package of 15 applications developed by Martin Consulting. Includes eight games.",
+        "Refs": "[28]"
+      },
+      {
+        "Name": "Strategy Pack I",
+        "Date": "May 1985",
+        "Genre": "Compilation, strategy",
+        "Notes": "Developed by Victory Software. Contains four games, including Othello.",
+        "Refs": "[24]"
+      },
+      {
+        "Name": "SubRoc",
+        "Date": "1984",
+        "Genre": "Shooter",
+        "Notes": "",
+        "Refs": "[29]"
+      },
+      {
+        "Name": "Trek",
+        "Date": "Q4 1984",
+        "Genre": "Strategy",
+        "Notes": "Developed by Victory Software.",
+        "Refs": "[30]"
+      },
+      {
+        "Name": "Wacky Word Games",
+        "Date": "1984–5",
+        "Genre": "Word",
+        "Notes": "",
+        "Refs": "[31][verification needed]"
+      },
+      {
+        "Name": "The Wizard of Id's WizType",
+        "Date": "May 1985",
+        "Genre": "Educational, typing",
+        "Notes": "Developed by Sydney Development Corporation.",
+        "Refs": "[24]"
+      },
+      {
+        "Name": "Zaxxon",
+        "Date": "1984",
+        "Genre": "Shooter",
+        "Notes": "",
+        "Refs": "[29]"
+      }
+    ]
+  }
+]

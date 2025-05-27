@@ -1,0 +1,145 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "APL/S",
+        "Model": "APL/S - the only programming language available for the VideoBrain. The tape connections of the Expander 1 can be used to load and save programs.",
+        "Description": ""
+      },
+      {
+        "Title": "CM01",
+        "Model": "The only program to use the Expander 2. This gives the user access the data banks of other computers with which the user is doing business, in effect transforming the VideoBrain into a timeshare terminal.",
+        "Description": "[16]: 32"
+      },
+      {
+        "Title": "ED01",
+        "Model": "This program converts the keyboard into a piano keyboard, teaching users how to sight-read, compose, and play music in a 4-octave range. Music that the user composes can be played back via the VideoBrain using the television's speakers. Two pre-encoded songs come built-in on the cartridge: \"Happy Birthday\" and \"Row, Row, Row Your Boat\".",
+        "Description": "[16]: 32–33 [17]: 46"
+      },
+      {
+        "Title": "ED02",
+        "Model": "This program teaches users addition, subtraction, multiplication, and division. There are four skill levels, and the option for a third party to create a math problem for the user to solve.",
+        "Description": "[16]: 33 [17]: 46"
+      },
+      {
+        "Title": "ED03",
+        "Model": "This program functions as a four-player educational game. Each player is given a random assortment of ten letters which must be organized into words. At the end of each round, points are awarded for words formed, and a winner is selected. The program features three skill levels that can be assigned to each player individually.",
+        "Description": "[16]: 33"
+      },
+      {
+        "Title": "ED04",
+        "Model": "The program is intended to familiarize users with the VideoBrain keyboard. Users are subjected to a number of touch-typing exercises and are presented with a final words per minute count. An educational word game is also available on the same cartridge.",
+        "Description": "[16]: 33"
+      },
+      {
+        "Title": "ED05",
+        "Model": "This program allows users to create original designs in 16 digital colors, add special effects and animated motion.",
+        "Description": "[18]"
+      },
+      {
+        "Title": "ED06",
+        "Model": "This program functions as an educational business simulation game. Users operate a virtual lemonade stand where decisions like how much lemonade to produce, how much to charge, and how much to spend on advertising must be weighed against a variety of market factors including market competition and the vagaries of the weather.",
+        "Description": "[16]: 32"
+      },
+      {
+        "Title": "EN01",
+        "Model": "This video game cartridge provides players with three basic games. In Ancient Gladiator, players use bow and arrow to fight and defend against hungry lions and other players. In Modern Gladiator, players must run or pass to two different receivers to score points. And in Future Gladiator, players control laser-firing spaceships in an interstellar setting. The games can be played in a multiplayer format or versus the computer. Player-set variables allow for as many as 381 variations in gameplay.",
+        "Description": "[16]: 33 [17]: 46"
+      },
+      {
+        "Title": "EN02",
+        "Model": "This video game cartridge simulates a pinball machine. Using two joysticks (one for each flipper), players take turns trying to score as many points as possible with the five balls they start with. Points are awarded for sending the ball into the \"thumper-bumpers\".",
+        "Description": "[16]: 33 [17]: 46"
+      },
+      {
+        "Title": "EN03",
+        "Model": "This video game cartridge simulates the game of Tennis. There are four points per game, and six games per set. Player-set variables including curve balls, net rushing, handicapping, and varying skill and speed settings allow for as many as 96 variations in gameplay. Pre-defined game modes such as \"Bounce-Back\" (wherein players must bounce the ball off of the net and back to themselves once before hitting the ball over the net) are also available.",
+        "Description": "[16]: 33"
+      },
+      {
+        "Title": "EN04",
+        "Model": "This video game cartridge simulates the standard game of Checkers. The game can be played versus other players or versus the computer with four different skill settings: Defensive, Aggressive, Super-Intelligent, and Not Quite Championship Caliber.",
+        "Description": "[16]: 33 [17]: 46"
+      },
+      {
+        "Title": "EN05",
+        "Model": "This video game cartridge simulates the standard game of Blackjack. One or several players play against the computer which acts as the house. Each player starts with $500 and can bet up to $250 per game. Winning rewards players with a song and 1.5 times the bet.",
+        "Description": "[16]: 33 [17]: 46"
+      },
+      {
+        "Title": "EN06",
+        "Model": "This video game cartridge simulates the game of Go.",
+        "Description": "[16]: 33"
+      },
+      {
+        "Title": "ST01",
+        "Model": "This cartridge was intended for store displays as a way to show off the VideoBrain's capabilities.",
+        "Description": ""
+      },
+      {
+        "Title": "VB-81",
+        "Model": "This cartridge shipped with the VideoBrain, and could be used to solve financial equations. It functions as an expanded calculator with twelve built-in formulae for calculating such things as mortgage cost, accumulated principal and interest, compound interest, and depreciation among others.",
+        "Description": "[16]: 32"
+      },
+      {
+        "Title": "VB-1000",
+        "Model": "This cartridge acts as personal accounting software, allowing the creation of detailed personal financial information that could be saved on audiocassette tapes via the VideoBrain's Expander 1 port.",
+        "Description": "[16]: 32"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title": "ED07",
+        "Model": "Planned sequel to Music Teacher 1. renamed to Musicianship 1. Unreleased, Prototype cartriages are reported to exist.",
+        "Description": "[19]"
+      },
+      {
+        "Title": "ED08",
+        "Model": "",
+        "Description": "[20]"
+      },
+      {
+        "Title": "ED09",
+        "Model": "Unreleased, Reached Prototype stage. Image of program exists within a VideoBrain advert, although is unverified.",
+        "Description": "[21]"
+      },
+      {
+        "Title": "EN07",
+        "Model": "",
+        "Description": "[20]"
+      },
+      {
+        "Title": "EN08",
+        "Model": "",
+        "Description": "[20]"
+      },
+      {
+        "Title": "EN09",
+        "Model": "",
+        "Description": "[20]"
+      },
+      {
+        "Title": "EN10",
+        "Model": "",
+        "Description": "[20]"
+      },
+      {
+        "Title": "VB-59",
+        "Model": "",
+        "Description": "[20]"
+      },
+      {
+        "Title": "VB-1100",
+        "Model": "Rumored to have been in development. Likely similar to Money Minder.",
+        "Description": "[20]"
+      },
+      {
+        "Title": "VB-1200",
+        "Model": "One prototype cart found 2015. There are no known manuals.",
+        "Description": "[22]"
+      }
+    ]
+  }
+]

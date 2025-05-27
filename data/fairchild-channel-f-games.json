@@ -1,0 +1,181 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Hockey (integrated)",
+        "Release date": "1976",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Tennis (integrated)",
+        "Release date": "1976",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Videocart-1: Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle",
+        "Release date": "1976",
+        "Genre": "Trivia, shooter"
+      },
+      {
+        "Title": "Videocart-2: Desert Fox, Shooting Gallery",
+        "Release date": "1976",
+        "Genre": "Action, shooter"
+      },
+      {
+        "Title": "Videocart-3: Video Blackjack",
+        "Release date": "1976",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "Videocart-4: Spitfire",
+        "Release date": "1977",
+        "Genre": "Action, shooter"
+      },
+      {
+        "Title": "Videocart-5: Space War",
+        "Release date": "1977",
+        "Genre": "Action, shooter"
+      },
+      {
+        "Title": "Videocart-6: Math Quiz I (Addition & Subtraction)",
+        "Release date": "1977",
+        "Genre": "Educational"
+      },
+      {
+        "Title": "Videocart-7: Math Quiz II (Multiplication & Division)",
+        "Release date": "1977",
+        "Genre": "Educational"
+      },
+      {
+        "Title": "Videocart-8: Magic Numbers (Mind Reader & Nim)",
+        "Release date": "1977",
+        "Genre": "Trivia"
+      },
+      {
+        "Title": "Videocart-9: Drag Race",
+        "Release date": "1977",
+        "Genre": "Racing"
+      },
+      {
+        "Title": "Videocart-10: Maze, Jailbreak, Blind-Man's-Bluff, Trailblazer",
+        "Release date": "1977",
+        "Genre": "Maze"
+      },
+      {
+        "Title": "Videocart-11: Backgammon, Acey-Deucey",
+        "Release date": "1977",
+        "Genre": "Trivia"
+      },
+      {
+        "Title": "Videocart-12: Baseball",
+        "Release date": "1977",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Videocart-13: Robot War, Torpedo Alley",
+        "Release date": "1977",
+        "Genre": "Platform, action"
+      },
+      {
+        "Title": "Videocart-14: Sonar Search",
+        "Release date": "1977",
+        "Genre": "Strategy"
+      },
+      {
+        "Title": "Videocart-15: Memory Match 1, Memory Match 2",
+        "Release date": "1978",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Videocart-16: Dodge' It",
+        "Release date": "1978",
+        "Genre": "Platform, action"
+      },
+      {
+        "Title": "Videocart-17: Pinball Challenge",
+        "Release date": "1978",
+        "Genre": "Pinball"
+      },
+      {
+        "Title": "Videocart-18: Hangman",
+        "Release date": "1978",
+        "Genre": "Puzzle"
+      },
+      {
+        "Title": "Videocart-19: Checkers",
+        "Release date": "1978",
+        "Genre": "Trivia"
+      },
+      {
+        "Title": "Videocart-20: Video Whizball",
+        "Release date": "1978[36]",
+        "Genre": "Miscellaneous"
+      },
+      {
+        "Title": "Videocart-21: Bowling",
+        "Release date": "1978",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Chess (Schach)",
+        "Release date": "1979 (SABA Videoplay, German-exclusive)",
+        "Genre": "Board"
+      },
+      {
+        "Title": "Werbetextcassette electronic partner",
+        "Release date": "19?? (German-exclusive)",
+        "Genre": "Advertising"
+      },
+      {
+        "Title": "Videocart-22: Slot Machine",
+        "Release date": "1980",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "Videocart-23: Galactic Space Wars",
+        "Release date": "1980",
+        "Genre": "Action, shooter"
+      },
+      {
+        "Title": "Videocart-24: Pro Football",
+        "Release date": "1981",
+        "Genre": "Sports"
+      },
+      {
+        "Title": "Videocart-25: Casino Poker",
+        "Release date": "1981",
+        "Genre": "Gambling"
+      },
+      {
+        "Title": "Videocart-26: Alien Invasion",
+        "Release date": "1981[36]",
+        "Genre": "Action, shooter"
+      },
+      {
+        "Title": "Videocart-27: Pac-Man",
+        "Release date": "2009[37]",
+        "Genre": "Maze, Homebrew"
+      },
+      {
+        "Title": "Kevin vs Tomatoes",
+        "Release date": "2018",
+        "Genre": "Maze, Homebrew"
+      },
+      {
+        "Title": "Videocart-28: Tetris",
+        "Release date": "2019",
+        "Genre": "Puzzle, Homebrew"
+      },
+      {
+        "Title": "trimerous",
+        "Release date": "2020",
+        "Genre": "Sports, Shooter, Homebrew"
+      },
+      {
+        "Title": "Videocart-29: The Arlasoft Collection",
+        "Release date": "2022",
+        "Genre": "Puzzle, Shooter, Homebrew"
+      }
+    ]
+  }
+]

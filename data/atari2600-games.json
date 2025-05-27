@@ -1,0 +1,4766 @@
+[
+  {
+    "table1": [
+      {
+        "Atari_title": "4 Games in 1 Cartridge",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "2023",
+        "Notes": "A multi-genre cartridge that is included with the CX30+ Paddle Controller Bundle released in 2023.[5][6] Four games are included: Breakout, Canyon Bomber, Night Driver, and Video Olympics. Two paddle controllers are also included with the cartridge. CX26501"
+      },
+      {
+        "Atari_title": "10 Games in 1",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "2023",
+        "Notes": "A multi-genre cartridge that is the pack-in game for the Atari 2600+. Ten games are included: Adventure, Combat, Dodge 'Em, Haunted House, Maze Craze, Missile Command, RealSports Volleyball, Surround, Video Pinball, and Yars' Revenge. CX26500"
+      },
+      {
+        "Atari_title": "32 in 1",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "1988",
+        "Notes": "A multi-genre cartridge. It is a PAL-only release and is compatible with the Atari 7800.[7] 32 games are included, including games by Atari, Inc., Activision, CommaVid, and U.S. Games."
+      },
+      {
+        "Atari_title": "3-D Tic-Tac-Toe",
+        "Sears_title": "3-D Tic-Tac-Toe",
+        "Designer_or_programmer": "Carol Shaw",
+        "Year": "July 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Adventure",
+        "Sears_title": "Adventure",
+        "Designer_or_programmer": "Warren Robinett",
+        "Year": "March 1980",
+        "Notes": "Contains first well-known Easter egg, containing the designer's name."
+      },
+      {
+        "Atari_title": "Avalanche",
+        "Sears_title": "",
+        "Designer_or_programmer": "John Champeau",
+        "Year": "July 2025",
+        "Notes": "Developed By Champ Games CX26519"
+      },
+      {
+        "Atari_title": "Air-Sea Battle",
+        "Sears_title": "Target Fun",
+        "Designer_or_programmer": "Larry Kaplan",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games."
+      },
+      {
+        "Atari_title": "Alpha Beam with Ernie",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Michael Callahan (programmer), Preston Stuart (graphics)",
+        "Year": "November 1983",
+        "Notes": "Co-developed by Children's Computer Workshop"
+      },
+      {
+        "Atari_title": "Asteroids",
+        "Sears_title": "Asteroids",
+        "Designer_or_programmer": "Brad Stewart",
+        "Year": "August 1981",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Atari Video Cube",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "June 1983",
+        "Notes": "Originally released as mail-order through Atari Club. Later re-released as Rubik's Cube."
+      },
+      {
+        "Atari_title": "Backgammon",
+        "Sears_title": "Backgammon",
+        "Designer_or_programmer": "Craig Nelson",
+        "Year": "November 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Basic Math a.k.a. Fun with Numbers",
+        "Sears_title": "Math",
+        "Designer_or_programmer": "Gary Palmer",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "BASIC Programming",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Warren Robinett",
+        "Year": "April 1980",
+        "Notes": "Advertised in 1979, but appears to have gone unreleased until 1980"
+      },
+      {
+        "Atari_title": "Basketball",
+        "Sears_title": "Basketball",
+        "Designer_or_programmer": "Alan Miller",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "BattleZone",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mike Feinstein and Brad Rice",
+        "Year": "August 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Berzerk",
+        "Sears_title": "Berzerk",
+        "Designer_or_programmer": "Dan Hitchens",
+        "Year": "August 1982",
+        "Notes": "Licensed by Stern Electronics. A version of the game called Berzerk Enhanced Edition containing digitized speech and diagonal shooting was released in November 2023 after Atari purchased the rights to Berzerk."
+      },
+      {
+        "Atari_title": "Berzerk (Enhanced Edition)",
+        "Sears_title": "",
+        "Designer_or_programmer": "",
+        "Year": "",
+        "Notes": "An Enhanced Version of the 2600 Original, adding Voices and More Accurate Level Design CX26502"
+      },
+      {
+        "Atari_title": "Big Bird's Egg Catch",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Christopher Omarzu",
+        "Year": "November 1983",
+        "Notes": "Co-developed by Children's Computer Workshop"
+      },
+      {
+        "Atari_title": "Blackjack",
+        "Sears_title": "Blackjack",
+        "Designer_or_programmer": "Bob Whitehead",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "BMX Air Master",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Adam Clayton",
+        "Year": "1990",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Bowling",
+        "Sears_title": "Bowling",
+        "Designer_or_programmer": "Larry Kaplan",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Brain Games",
+        "Sears_title": "Brain Games",
+        "Designer_or_programmer": "Larry Kaplan",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Breakout",
+        "Sears_title": "Breakaway IV",
+        "Designer_or_programmer": "Brad Stewart",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Canyon Bomber",
+        "Sears_title": "Canyon Bomber",
+        "Designer_or_programmer": "David Crane",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Casino",
+        "Sears_title": "Poker Plus",
+        "Designer_or_programmer": "Bob Whitehead",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Caverns of Mars",
+        "Sears_title": "",
+        "Designer_or_programmer": "",
+        "Year": "November 2024",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Centipede",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "March 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Circus Atari",
+        "Sears_title": "Circus",
+        "Designer_or_programmer": "Michael Lorenzen",
+        "Year": "July 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Codebreaker",
+        "Sears_title": "Codebreaker",
+        "Designer_or_programmer": "Unknown",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Combat",
+        "Sears_title": "Tank Plus",
+        "Designer_or_programmer": "Larry Wagner, Joe Decuir",
+        "Year": "August 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "Cookie Monster Munch",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Gary Stark",
+        "Year": "December 1983",
+        "Notes": "Co-developed by Children's Computer Workshop."
+      },
+      {
+        "Atari_title": "Crazy Climber",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Alex Leavens",
+        "Year": "March 1983",
+        "Notes": "Licensed by Nihon Bussan Co. Mail-order exclusive through Atari Club."
+      },
+      {
+        "Atari_title": "Crossbow",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "May 1988",
+        "Notes": "Licensed by Exidy"
+      },
+      {
+        "Atari_title": "Crystal Castles",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Peter C. Niday (programmer), Robert Vieira (sound), Michael Kosaka (graphics)",
+        "Year": "April 1984",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Dark Chambers",
+        "Sears_title": "-",
+        "Designer_or_programmer": "John Palevich",
+        "Year": "May 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Defender",
+        "Sears_title": "Defender",
+        "Designer_or_programmer": "Bob Polaro",
+        "Year": "June 1982",
+        "Notes": "Licensed by Williams Electronics"
+      },
+      {
+        "Atari_title": "Demons to Diamonds",
+        "Sears_title": "Demons to Diamonds",
+        "Designer_or_programmer": "Nick Turner",
+        "Year": "July 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Desert Falcon",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Bob Polaro",
+        "Year": "December 1987",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Dig Dug",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "October 1983",
+        "Notes": "Licensed by Namco"
+      },
+      {
+        "Atari_title": "Dodge 'Em",
+        "Sears_title": "Dodger Cars",
+        "Designer_or_programmer": "Carla Meninsky",
+        "Year": "September 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Donald Duck's Speedboat",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Suki Lee",
+        "Year": "1983",
+        "Notes": "Only released in Brazil"
+      },
+      {
+        "Atari_title": "Double Dunk",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Matthew Hubbard",
+        "Year": "May 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Epyx Games Collection",
+        "Sears_title": "",
+        "Designer_or_programmer": "Summer Games: Peter Engelbrite Winter Games: Peter Engelbrite\nCalifornia Games: Steve Baker and Peter Engelbrite",
+        "Year": "November 2024",
+        "Notes": "Epyx Games Collection is a compilation that includes Summer Games, Winter Games, and California Games."
+      },
+      {
+        "Atari_title": "E.T. the Extra-Terrestrial",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Howard Scott Warshaw",
+        "Year": "December 1982",
+        "Notes": "Considered the worst video game of all time and cause of the “video game crash of 1983”"
+      },
+      {
+        "Atari_title": "Fatal Run",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Steve Aguirre",
+        "Year": "1990",
+        "Notes": "PAL-only release; developed by Sculptured Software"
+      },
+      {
+        "Atari_title": "Flag Capture",
+        "Sears_title": "Capture",
+        "Designer_or_programmer": "Jim Huether",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Football",
+        "Sears_title": "Football",
+        "Designer_or_programmer": "Bob Whitehead",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Galaxian",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mark Ackerman, Glen Parker and Tom Calderwood",
+        "Year": "April 1983",
+        "Notes": "Licensed by Namco"
+      },
+      {
+        "Atari_title": "Golf",
+        "Sears_title": "Golf",
+        "Designer_or_programmer": "Michael Lorenzen",
+        "Year": "July 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Gravitar",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "October 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Gremlins",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Scott Smith (programmer), Mimi Nyden (graphics), Robert Vieira (sound)",
+        "Year": "July 1984",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Hangman",
+        "Sears_title": "Spelling",
+        "Designer_or_programmer": "Alan Miller",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Haunted House",
+        "Sears_title": "Haunted House",
+        "Designer_or_programmer": "James Andreasen",
+        "Year": "February 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Home Run",
+        "Sears_title": "Baseball",
+        "Designer_or_programmer": "Bob Whitehead",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Human Cannonball",
+        "Sears_title": "Cannon Man",
+        "Designer_or_programmer": "Unknown",
+        "Year": "March 1979",
+        "Notes": "Based on an unreleased arcade concept by Owen Rubin"
+      },
+      {
+        "Atari_title": "Hunt & Score",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Jim Huether",
+        "Year": "October 1978",
+        "Notes": "Also released as Concentration, released under Sears as Memory Match"
+      },
+      {
+        "Atari_title": "Ikari Warriors",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "March 1991",
+        "Notes": "Licensed by SNK"
+      },
+      {
+        "Atari_title": "Indy 500",
+        "Sears_title": "Race",
+        "Designer_or_programmer": "Ed Riddle",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "Joust",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mike Feinstein and Kevin Osborn",
+        "Year": "October 1983",
+        "Notes": "Licensed by Williams Electronics"
+      },
+      {
+        "Atari_title": "Jr. Pac-Man",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Ava-Robin Cohen",
+        "Year": "October 1986",
+        "Notes": "Licensed by Bally Midway"
+      },
+      {
+        "Atari_title": "Jungle Hunt",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mike Feinstein and John Allred",
+        "Year": "July 1983",
+        "Notes": "Licensed by Taito"
+      },
+      {
+        "Atari_title": "Kangaroo",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Kevin Osborn",
+        "Year": "July 1983",
+        "Notes": "Licensed by Sun Electronics"
+      },
+      {
+        "Atari_title": "Klax",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Steve DeFrisco",
+        "Year": "1990",
+        "Notes": "PAL-only. Last official game released for 2600."
+      },
+      {
+        "Atari_title": "Krull",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Dave Staugas",
+        "Year": "November 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "M Network Collection",
+        "Sears_title": "",
+        "Designer_or_programmer": "Armor Ambush: Hal Finney\nAstroblast: Hal Finney\nFrogs and Flies: Dave Rolfe\nStar Strike: Dave Akers and Patricia Lewis Du Long",
+        "Year": "November 2024",
+        "Notes": "M Network Collection is a compilation that includes Astroblast, Armor Ambush, Frogs & Flies, and Starstrike."
+      },
+      {
+        "Atari_title": "Mario Bros.",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Dan Hitchens",
+        "Year": "December 1983",
+        "Notes": "Licensed by Nintendo"
+      },
+      {
+        "Atari_title": "Math Gran Prix",
+        "Sears_title": "Math Gran Prix",
+        "Designer_or_programmer": "Suki Lee",
+        "Year": "July 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Maze Craze: A Game of Cops and Robbers",
+        "Sears_title": "Maze Mania",
+        "Designer_or_programmer": "Rick Maurer",
+        "Year": "September 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Midnight Magic",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Glenn Axworthy",
+        "Year": "November 1986",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Millipede",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Dave Staugas (programmer), Jerome Domurat (graphics), Andrew Fuchs (sound), Robert Vieira (sound)",
+        "Year": "March 1984",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Miniature Golf",
+        "Sears_title": "Arcade Golf[8]",
+        "Designer_or_programmer": "Tom Reuterdahl",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Missile Command",
+        "Sears_title": "Missile Command",
+        "Designer_or_programmer": "Rob Fulop",
+        "Year": "April 1981",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Moon Patrol",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "October 1983",
+        "Notes": "licensed by Irem"
+      },
+      {
+        "Atari_title": "MotoRodeo",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Steve DeFrisco",
+        "Year": "March 1991",
+        "Notes": "Developed by Axlon"
+      },
+      {
+        "Atari_title": "Mr Run and Jump",
+        "Sears_title": "",
+        "Designer_or_programmer": "John Mikula",
+        "Year": "November 2023",
+        "Notes": "Developed by Graphite Labs. CX26503"
+      },
+      {
+        "Atari_title": "Ms. Pac-Man",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mike Horowitz and Josh Littlefield",
+        "Year": "February 1983",
+        "Notes": "Licensed by Bally Midway[9]"
+      },
+      {
+        "Atari_title": "Night Driver",
+        "Sears_title": "Night Driver",
+        "Designer_or_programmer": "Rob Fulop",
+        "Year": "July 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Obelix",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Suki Lee (programmer), Dave Jolly (graphics), Jeff Gusman (sound), Andrew Fuchs (sound)",
+        "Year": "1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Off the Wall",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "August 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Oscar's Trash Race",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Christopher Omarzu (programmer), Preston Stuart (graphics)",
+        "Year": "March 1984",
+        "Notes": "Co-developed by Children's Computer Workshop"
+      },
+      {
+        "Atari_title": "Othello",
+        "Sears_title": "Othello",
+        "Designer_or_programmer": "Ed Logg",
+        "Year": "March 1981",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Outlaw",
+        "Sears_title": "Gunslinger",
+        "Designer_or_programmer": "David Crane",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Pac-Man",
+        "Sears_title": "Pac-Man",
+        "Designer_or_programmer": "Tod Frye",
+        "Year": "March 16, 1982",
+        "Notes": "Licensed by Namco"
+      },
+      {
+        "Atari_title": "Pelé's Soccer a.k.a. Championship Soccer",
+        "Sears_title": "Soccer",
+        "Designer_or_programmer": "Steve Wright",
+        "Year": "February 1981",
+        "Notes": "Announced for Fall 1980, but delayed to early 1981"
+      },
+      {
+        "Atari_title": "Pengo",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mark R. Hahn (programmer), Andrew Fuchs (sound), Jeff Gusman (sound), Courtney Granner (unknown)",
+        "Year": "May 1984",
+        "Notes": "Licensed by Coreland, Sega"
+      },
+      {
+        "Atari_title": "Phoenix",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Mike Feinstein and John Mracek",
+        "Year": "February 1983",
+        "Notes": "Licensed by Amstar Electronics."
+      },
+      {
+        "Atari_title": "Pigs in Space",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Rob Zdybel (programmer), John Russell (programmer), Bill Aspromonte (programmer), Michael Sierchio (designer)",
+        "Year": "November 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Pole Position",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Doug Macrae and John Allred",
+        "Year": "August 1983",
+        "Notes": "Licensed by Namco"
+      },
+      {
+        "Atari_title": "Quadrun",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Steve Woita",
+        "Year": "November 1983",
+        "Notes": "Mail-order exclusive through Atari Club."
+      },
+      {
+        "Atari_title": "Radar Lock",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Doug Neubauer",
+        "Year": "August 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Raiders of the Lost Ark",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Howard Scott Warshaw",
+        "Year": "November 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "RealSports Baseball",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Joseph Tung (Programmer), D. Smith (Art)",
+        "Year": "October 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "RealSports Boxing",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Alex DeMeo (Programmer)",
+        "Year": "December 1987",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "RealSports Collection",
+        "Sears_title": "-",
+        "Designer_or_programmer": "RealSports Baseball: Joseph Tung (Programmer), D. Smith (Art)\nRealSports Boxing: Alex DeMeo (Programmer)\nRealSports Football: Robert Zdybel (Programmer), Michel Allaire (Art)\nRealSports Soccer: Michael Sierchio (Programmer), Warren Chang (Art)\nRealSports Tennis: Alan Hodgkinson (Programmer), Doug Macrae (Graphics), and Terry Hoff (Art) \nRealSports Volleyball: Bob Polaro (Programmer), Alan Murphy (Graphics), Terry Hoff (Art)\nRealSports Basketball: Joe Gaucher, Terry Hoff (Art)",
+        "Year": "November 2024",
+        "Notes": "RealSports Collection is a compilation that includes RealSports Baseball, RealSports Football, RealSports Volleyball, RealSports Tennis, RealSports Boxing, and RealSports Basketball (previously unreleased for the Atari 2600)."
+      },
+      {
+        "Atari_title": "RealSports Football",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Robert Zdybel (Programmer), Michel Allaire (Art)",
+        "Year": "December 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "RealSports Soccer",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Michael Sierchio (Programmer), Warren Chang (Art)",
+        "Year": "April 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "RealSports Tennis",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Alan Hodgkinson (Programmer), Doug Macrae (Graphics), and Terry Hoff (Art)",
+        "Year": "April 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "RealSports Volleyball",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Bob Polaro (Programmer), Alan Murphy (Graphics), Terry Holf (Art)",
+        "Year": "October 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Road Runner",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Bob Polaro",
+        "Year": "August 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Secret Quest",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Steve DeFrisco (programmer), Nolan Bushnell (designer)",
+        "Year": "May 1989",
+        "Notes": "Developed by Axlon."
+      },
+      {
+        "Atari_title": "Sentinel",
+        "Sears_title": "-",
+        "Designer_or_programmer": "David Lubar (programmer)",
+        "Year": "March 1991",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Sky Diver",
+        "Sears_title": "Dare Diver",
+        "Designer_or_programmer": "Jim Huether",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Slot Machine",
+        "Sears_title": "Slots",
+        "Designer_or_programmer": "David Crane",
+        "Year": "March 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Slot Racers",
+        "Sears_title": "Maze",
+        "Designer_or_programmer": "Warren Robinett",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Snoopy and the Red Baron",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Richard Dobbis (programmer), Sam Comstock (graphics)",
+        "Year": "November 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Solaris",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Doug Neubauer",
+        "Year": "November 1986",
+        "Notes": "Originally released by mail-order through Atari Club."
+      },
+      {
+        "Atari_title": "Sorcerer's Apprentice",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Peter C. Niday",
+        "Year": "December 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Space Invaders",
+        "Sears_title": "Space Invaders",
+        "Designer_or_programmer": "Rick Maurer (original), Christopher Omarzu (Pepsi Invaders)",
+        "Year": "March 1980",
+        "Notes": "Licensed by Taito. Retooled as Pepsi Invaders for Coca-Cola in 1983."
+      },
+      {
+        "Atari_title": "Space War",
+        "Sears_title": "Space Combat",
+        "Designer_or_programmer": "Ian Shepard",
+        "Year": "October 1978",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Sprint Master",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Bob Polaro",
+        "Year": "March 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Stargate",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Bill Aspromonte (programmer), Andrew Fuchs (sound)",
+        "Year": "June 1984",
+        "Notes": "Licensed by Williams Electronic Games. Re-released as Defender II in 1988."
+      },
+      {
+        "Atari_title": "Star Raiders",
+        "Sears_title": "Star Raiders",
+        "Designer_or_programmer": "Carla Meninsky",
+        "Year": "September 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Star Ship",
+        "Sears_title": "Outer Space",
+        "Designer_or_programmer": "Bob Whitehead",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "Steeplechase",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Jim Huether",
+        "Year": "March 1981",
+        "Notes": "One of the three games Atari produced exclusively for Sears."
+      },
+      {
+        "Atari_title": "Stellar Track",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Robert Zdybel",
+        "Year": "March 1981",
+        "Notes": "One of the three games Atari produced exclusively for Sears."
+      },
+      {
+        "Atari_title": "Street Racer",
+        "Sears_title": "Speedway II",
+        "Designer_or_programmer": "Larry Kaplan",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "Submarine Commander",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Matthew Hubbard",
+        "Year": "September 1982",
+        "Notes": "One of the three games Atari produced exclusively for Sears."
+      },
+      {
+        "Atari_title": "Super Baseball",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "March 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Super Breakout",
+        "Sears_title": "Super Breakout",
+        "Designer_or_programmer": "Nick Turner",
+        "Year": "October 1981",
+        "Notes": "Sears exclusive title through the end of 1981"
+      },
+      {
+        "Atari_title": "Super Football",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Doug Neubauer",
+        "Year": "March 1989",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Superman",
+        "Sears_title": "Superman",
+        "Designer_or_programmer": "John Dunn",
+        "Year": "September 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Surround",
+        "Sears_title": "Chase",
+        "Designer_or_programmer": "Alan Miller",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "Swordquest: Earthworld",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Dan Hitchens",
+        "Year": "October 1982",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Swordquest: Fireworld",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Tod Frye",
+        "Year": "February 1983",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Swordquest: Waterworld",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Tod Frye",
+        "Year": "October 1983",
+        "Notes": "Sold via mail-order through Atari Club."
+      },
+      {
+        "Atari_title": "Taz",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Steve Woita",
+        "Year": "April 1984",
+        "Notes": "Reworked for PAL regions as Asterix in March 1985."
+      },
+      {
+        "Atari_title": "Track & Field",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Seth Lipkin and Jacques Hugon",
+        "Year": "July 1986",
+        "Notes": "Licensed by Konami."
+      },
+      {
+        "Atari_title": "Vanguard",
+        "Sears_title": "-",
+        "Designer_or_programmer": "Dave Payne",
+        "Year": "December 1982",
+        "Notes": "Licensed by SNK"
+      },
+      {
+        "Atari_title": "Video Checkers",
+        "Sears_title": "Checkers",
+        "Designer_or_programmer": "Carol Shaw",
+        "Year": "September 1980",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Video Chess",
+        "Sears_title": "Video Chess",
+        "Designer_or_programmer": "Larry Wagner, Bob Whitehead",
+        "Year": "November 1979",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Video Olympics",
+        "Sears_title": "Pong Sports",
+        "Designer_or_programmer": "Joe Decuir",
+        "Year": "September 1977",
+        "Notes": "One of the nine Atari 2600 launch games"
+      },
+      {
+        "Atari_title": "Video Pinball",
+        "Sears_title": "Arcade Pinball",
+        "Designer_or_programmer": "Bob Smith",
+        "Year": "April 1981",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Warlords",
+        "Sears_title": "Warlords",
+        "Designer_or_programmer": "Carla Meninsky",
+        "Year": "July 1981",
+        "Notes": ""
+      },
+      {
+        "Atari_title": "Xenophobe",
+        "Sears_title": "-",
+        "Designer_or_programmer": "",
+        "Year": "March 1991",
+        "Notes": "Licensed by Bally Midway"
+      },
+      {
+        "Atari_title": "Yars' Revenge",
+        "Sears_title": "Yars' Revenge",
+        "Designer_or_programmer": "Howard Scott Warshaw",
+        "Year": "May 1982",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Game_Title": "Acid Drop",
+        "Developer_(Designer)": "Dennis Kiss[12]",
+        "Publisher": "Salu Ltd",
+        "Year": "1992",
+        "Genre": "Strategy",
+        "Notes": "PAL-only; puzzle game; last game released. Atari 2600s stopped being manufactured"
+      },
+      {
+        "Game_Title": "The Activision Decathlon",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "August 1983",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Adventures of Tron",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Airlock",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Air Raid",
+        "Developer_(Designer)": "MenAVision",
+        "Publisher": "MenAVision",
+        "Year": "1982",
+        "Genre": "Action",
+        "Notes": "Only 13 copies known to exist [citation needed]"
+      },
+      {
+        "Game_Title": "Air Raiders",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Alien",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "November 1982",
+        "Genre": "Maze",
+        "Notes": "[13][14]"
+      },
+      {
+        "Game_Title": "Alien's Return",
+        "Developer_(Designer)": "Gem International Corporation",
+        "Publisher": "Home Vision",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "Primarily a PAL release. Released in NTSC format as E.T Go Home"
+      },
+      {
+        "Game_Title": "Amidar",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Konami"
+      },
+      {
+        "Game_Title": "Armor Ambush",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "September 1982",
+        "Genre": "Action, Racing / Driving",
+        "Notes": "conversion of Intellivision Armor Battle"
+      },
+      {
+        "Game_Title": "Artillery Duel/Chuck Norris Superkicks",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "November 1983",
+        "Genre": "Strategy",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Artillery Duel/Ghost Manor",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Strategy",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Artillery Duel/Spike's Peak",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Strategy",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Artillery Duel",
+        "Developer_(Designer)": "Action Graphics",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Assault",
+        "Developer_(Designer)": "Bomb",
+        "Publisher": "Bomb",
+        "Year": "Q4 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Astroblast",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": "conversion of Intellivision Astrosmash"
+      },
+      {
+        "Game_Title": "Atlantis",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Atlantis II",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Bachelor Party",
+        "Developer_(Designer)": "Mystique",
+        "Publisher": "PlayAround",
+        "Year": "November 1982",
+        "Genre": "Adult, Action",
+        "Notes": "Originally marketed under the \"Swedish Erotica\" series."
+      },
+      {
+        "Game_Title": "Bachelorette Party",
+        "Developer_(Designer)": "",
+        "Publisher": "PlayAround",
+        "Year": "1982",
+        "Genre": "Adult, Action",
+        "Notes": "Released as a 2-in-1 cart with Burning Desire"
+      },
+      {
+        "Game_Title": "Bank Heist",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "July 1983",
+        "Genre": "Action, Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Barnstorming",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "March 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Base Attack",
+        "Developer_(Designer)": "Home Vision",
+        "Publisher": "Home Vision",
+        "Year": "1983",
+        "Genre": "shooter",
+        "Notes": "Shooter game where the player controls a jet bombing enemy bases, and has to avoid missiles launched from the cities.[15]"
+      },
+      {
+        "Game_Title": "Beamrider",
+        "Developer_(Designer)": "Cheshire Engineering",
+        "Publisher": "Activision",
+        "Year": "July 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Beany Bopper",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Beat Em and Eat Em",
+        "Developer_(Designer)": "Mystique",
+        "Publisher": "PlayAround",
+        "Year": "November 1982",
+        "Genre": "Adult, Action",
+        "Notes": "Originally marketed under the \"Swedish Erotica\" series. First pornographic video game released for the Atari 2600."
+      },
+      {
+        "Game_Title": "Berenstain Bears",
+        "Developer_(Designer)": "Coleco",
+        "Publisher": "Coleco",
+        "Year": "March 1984",
+        "Genre": "Educational",
+        "Notes": "Kid Vid Voice Module required to function"
+      },
+      {
+        "Game_Title": "Bermuda",
+        "Developer_(Designer)": "Suntek?",
+        "Publisher": "Suntek/Quelle/Rainbow Vision/Hertie",
+        "Year": "1983",
+        "Genre": "Shooter",
+        "Notes": "Hack of River Raid"
+      },
+      {
+        "Game_Title": "Bermuda Triangle",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "March 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Birthday Mania",
+        "Developer_(Designer)": "Tokar, Robert Anthony",
+        "Publisher": "Personal Games Company",
+        "Year": "August 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Blue Print",
+        "Developer_(Designer)": "CBS Electronics",
+        "Publisher": "CBS Electronics",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": "Licensed by Bally Midway",
+        "undefined": ""
+      },
+      {
+        "Game_Title": "Bobby is Going Home",
+        "Developer_(Designer)": "Bit Corporation",
+        "Publisher": "CCE",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Boing!",
+        "Developer_(Designer)": "First Star Software",
+        "Publisher": "First Star Software",
+        "Year": "January 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Boxing",
+        "Developer_(Designer)": "Activision (Bob Whitehead)",
+        "Publisher": "Activision",
+        "Year": "August 1980",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Bridge",
+        "Developer_(Designer)": "Activision (Larry Kaplan)",
+        "Publisher": "Activision",
+        "Year": "December 1980",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Buck Rogers: Planet of Zoom",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "November 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Bugs",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Bumper Bash",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Bump 'n' Jump",
+        "Developer_(Designer)": "Mattel Electronics",
+        "Publisher": "M Network",
+        "Year": "November 1983",
+        "Genre": "Action, Racing / Driving",
+        "Notes": "licensed by Data East USA"
+      },
+      {
+        "Game_Title": "BurgerTime",
+        "Developer_(Designer)": "Mattel Electronics",
+        "Publisher": "M Network",
+        "Year": "1982",
+        "Genre": "Action",
+        "Notes": "licensed by Data East USA"
+      },
+      {
+        "Game_Title": "Burning Desire",
+        "Developer_(Designer)": "",
+        "Publisher": "PlayAround",
+        "Year": "1983",
+        "Genre": "Adult, Action",
+        "Notes": "Released as a 2-in-1 cart with Bachelorette Party"
+      },
+      {
+        "Game_Title": "Busy Police",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Keystone Kapers[16]"
+      },
+      {
+        "Game_Title": "Cakewalk",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "June 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "California Games",
+        "Developer_(Designer)": "Epyx",
+        "Publisher": "Epyx",
+        "Year": "June 1988",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Carnival",
+        "Developer_(Designer)": "Woodside Design Associates",
+        "Publisher": "Coleco",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cathouse Blues",
+        "Developer_(Designer)": "",
+        "Publisher": "PlayAround",
+        "Year": "1982",
+        "Genre": "Adult",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Challenge",
+        "Developer_(Designer)": "",
+        "Publisher": "Funvision",
+        "Year": "",
+        "Genre": "",
+        "Notes": "Released in NTSC format by Zellers"
+      },
+      {
+        "Game_Title": "Challenge of Nexar",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "Spectravision",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Chase the Chuck Wagon",
+        "Developer_(Designer)": "TMQ Software",
+        "Publisher": "Spectravision",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Checkers",
+        "Developer_(Designer)": "Activision (Alan Miller)",
+        "Publisher": "Activision",
+        "Year": "August 1980",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "China Syndrome",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Chopper Command",
+        "Developer_(Designer)": "Activision (Bob Whitehead)",
+        "Publisher": "Activision",
+        "Year": "May 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Chuck Norris Superkicks/Ghost Manor",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Chuck Norris Superkicks/Spike's Peak",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Chuck Norris Superkicks",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Coconuts",
+        "Developer_(Designer)": "Telesys",
+        "Publisher": "Telesys",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Color Bar Generator",
+        "Developer_(Designer)": "Videosoft",
+        "Publisher": "Videosoft",
+        "Year": "December 1983",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Commando",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Activision",
+        "Year": "June 1988",
+        "Genre": "Action",
+        "Notes": "licensed by Data East USA"
+      },
+      {
+        "Game_Title": "Commando Raid",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Communist Mutants from Space (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Condor Attack",
+        "Developer_(Designer)": "",
+        "Publisher": "Ultravision",
+        "Year": "November 1982",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Confrontation",
+        "Developer_(Designer)": "Answer Software",
+        "Publisher": "Answer Software",
+        "Year": "1983",
+        "Genre": "Strategy",
+        "Notes": "Only originally available directly from Answer Software for a short time."
+      },
+      {
+        "Game_Title": "Congo Bongo",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cosmic Ark",
+        "Developer_(Designer)": "Imagic (Rob Fulop)",
+        "Publisher": "Imagic",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cosmic Commuter",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "August 1985",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cosmic Corridor",
+        "Developer_(Designer)": "",
+        "Publisher": "Zimag",
+        "Year": "February 1983",
+        "Genre": "",
+        "Notes": "NTSC release of Bit Corporation's Space Tunnel"
+      },
+      {
+        "Game_Title": "Cosmic Creeps",
+        "Developer_(Designer)": "Telesys",
+        "Publisher": "Telesys",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cosmic Free Fire",
+        "Developer_(Designer)": "",
+        "Publisher": "Action Hi-Tech",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL-format[17]"
+      },
+      {
+        "Game_Title": "Cosmic Swarm",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "May 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Crab Control",
+        "Developer_(Designer)": "",
+        "Publisher": "Action Hi-Tech",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL-format[17]"
+      },
+      {
+        "Game_Title": "Crackpots",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Crash Dive",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Creature Strike",
+        "Developer_(Designer)": "",
+        "Publisher": "Home Entertainment Suppliers",
+        "Year": "1992",
+        "Genre": "Shooter",
+        "Notes": "Released as part of a \"2 PAK SPECIAL\"[18]"
+      },
+      {
+        "Game_Title": "Cross Force",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cruise Missile",
+        "Developer_(Designer)": "",
+        "Publisher": "Froggo",
+        "Year": "1987",
+        "Genre": "",
+        "Notes": "Same game as Exocet released by Panda"
+      },
+      {
+        "Game_Title": "Crypts of Chaos",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "February 1983",
+        "Genre": "Adventure, Role-Playing (RPG)",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Cubicolor",
+        "Developer_(Designer)": "Rob Fulop",
+        "Publisher": "",
+        "Year": "December 1986",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Custer's Revenge",
+        "Developer_(Designer)": "Mystique",
+        "Publisher": "Mystique",
+        "Year": "November 1982",
+        "Genre": "Adult, Western",
+        "Notes": "Originally marketed under the \"Swedish Erotica\" series. Withdrawn in the state of Oklahoma.[19]"
+      },
+      {
+        "Game_Title": "Dancing Plate",
+        "Developer_(Designer)": "",
+        "Publisher": "Bit Corporation",
+        "Year": "1982",
+        "Genre": "",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Dark Cavern",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "November 1982",
+        "Genre": "",
+        "Notes": "conversion of Intellivision Night Stalker"
+      },
+      {
+        "Game_Title": "Deadly Discs",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "Telegames",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "reissue of M Network's Tron: Deadly Discs"
+      },
+      {
+        "Game_Title": "Deadly Duck",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Death Trap",
+        "Developer_(Designer)": "Avalon Hill",
+        "Publisher": "Avalon Hill",
+        "Year": "July 1983",
+        "Genre": "Action, Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Demolition Herby",
+        "Developer_(Designer)": "Telesys",
+        "Publisher": "Telesys",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Demon Attack",
+        "Developer_(Designer)": "Imagic (Rob Fulop)",
+        "Publisher": "Imagic",
+        "Year": "April 1982",
+        "Genre": "Fixed shooter",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Dice Puzzle",
+        "Developer_(Designer)": "",
+        "Publisher": "Panda",
+        "Year": "January 1984",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Dishaster",
+        "Developer_(Designer)": "Zimag",
+        "Publisher": "Zimag",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": "Zimag's NTSC release of Bit Corporation's Dancing Plate"
+      },
+      {
+        "Game_Title": "Dolphin",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "May 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Donkey Kong",
+        "Developer_(Designer)": "Imaginative Systems Software",
+        "Publisher": "Coleco",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Nintendo Co., Ltd; reissued by Atari in 1988 (CX-26143)"
+      },
+      {
+        "Game_Title": "Donkey Kong Junior",
+        "Developer_(Designer)": "Woodside Design Associates",
+        "Publisher": "Coleco",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Nintendo Co., Ltd; reissued by Atari in 1988 (CX-26144)"
+      },
+      {
+        "Game_Title": "Double Dragon",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Activision",
+        "Year": "Q4 1989",
+        "Genre": "Action",
+        "Notes": "licensed by Technōs Japan"
+      },
+      {
+        "Game_Title": "Dragon Treasure",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Dragonfire[16]"
+      },
+      {
+        "Game_Title": "Dragonfire",
+        "Developer_(Designer)": "Imagic (Bob Smith)",
+        "Publisher": "Imagic",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Dragonstomper (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "October 1982",
+        "Genre": "Role-Playing (RPG)",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Dragster",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "August 1980",
+        "Genre": "Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Dungeon Master",
+        "Developer_(Designer)": "",
+        "Publisher": "Home Entertainment Suppliers",
+        "Year": "1992",
+        "Genre": "Action, Adventure",
+        "Notes": "Released as part of a \"2 pak special\"[18]"
+      },
+      {
+        "Game_Title": "The Earth Dies Screaming",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "June 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Earth Attack",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Defender[16]"
+      },
+      {
+        "Game_Title": "Eddy Langfinger, der Museumsdieb",
+        "Developer_(Designer)": "",
+        "Publisher": "Quelle",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Eggomania",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Eli's Ladder",
+        "Developer_(Designer)": "Simage",
+        "Publisher": "Simage",
+        "Year": "August 1984",
+        "Genre": "Educational",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Encounter at L-5",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Enduro",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "May 1983",
+        "Genre": "Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Entombed",
+        "Developer_(Designer)": "Western Technologies",
+        "Publisher": "U.S. Games",
+        "Year": "March 1983",
+        "Genre": "Action, Strategy",
+        "Notes": "Researchers going through the game code in the 2010s have been unable to figure out how the game's maze-generating algorithm managed to consistently generate playable mazes. The original coder says he got it from another programmer who wrote it while drunk."
+      },
+      {
+        "Game_Title": "Escape from the Mindmaster (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "October 1982",
+        "Genre": "Adventure",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Espial",
+        "Developer_(Designer)": "Orca Corporation",
+        "Publisher": "Tigervision",
+        "Year": "May 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Exocet",
+        "Developer_(Designer)": "Panda",
+        "Publisher": "Panda",
+        "Year": "January 1984",
+        "Genre": "Action",
+        "Notes": "Same game as Cruise Missile released by Froggo"
+      },
+      {
+        "Game_Title": "Exocet Missile",
+        "Developer_(Designer)": "",
+        "Publisher": "John Sands",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Extra Terrestrials",
+        "Developer_(Designer)": "Herman Quast",
+        "Publisher": "Skill Screen Games",
+        "Year": "Q1 1984",
+        "Genre": "Action",
+        "Notes": "Only 5 copies are known to exist"
+      },
+      {
+        "Game_Title": "Fantastic Voyage",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Farmer Dan",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Gopher[16]"
+      },
+      {
+        "Game_Title": "Fast Eddie",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fast Food",
+        "Developer_(Designer)": "Telesys",
+        "Publisher": "Telesys",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fathom",
+        "Developer_(Designer)": "Imagic (Rob Fulop)",
+        "Publisher": "Imagic",
+        "Year": "August 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fighter Pilot",
+        "Developer_(Designer)": "",
+        "Publisher": "Activision",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL release of Tomcat: The F-14 Fighter Simulator"
+      },
+      {
+        "Game_Title": "Final Approach",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "September 1982",
+        "Genre": "Simulation, Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fireball (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fire Fighter",
+        "Developer_(Designer)": "Imagic (Brad Stewart)",
+        "Publisher": "Imagic",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fire Fly",
+        "Developer_(Designer)": "Mythicon",
+        "Publisher": "Mythicon",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Fisher Price",
+        "Developer_(Designer)": "",
+        "Publisher": "CCE",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "Same game as Aquatak, Sea Hunt and Scuba Diver"
+      },
+      {
+        "Game_Title": "Fishing Derby",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "August 1980",
+        "Genre": "Action, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Flash Gordon",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "May 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Frankenstein's Monster",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "March 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Freeway",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "July 1981",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Frogger",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "Parker Brothers",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Frogs and Flies",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": "conversion of Intellivision Frog Bog"
+      },
+      {
+        "Game_Title": "The Official Frogger (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Frogger II: ThreeeDeep!",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "October 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Front Line",
+        "Developer_(Designer)": "Individeo",
+        "Publisher": "Coleco",
+        "Year": "March 1984",
+        "Genre": "Action",
+        "Notes": "licensed by Taito"
+      },
+      {
+        "Game_Title": "Frostbite",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gamma-Attack",
+        "Developer_(Designer)": "Gammation",
+        "Publisher": "Gammation",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": "Only one copy known to exist.  It was listed on eBay for $500,000 but never sold."
+      },
+      {
+        "Game_Title": "Gangster Alley",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gas Hog",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gauntlet",
+        "Developer_(Designer)": "Answer Software",
+        "Publisher": "Answer Software",
+        "Year": "Q3 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "General Retreat",
+        "Developer_(Designer)": "PlayAround",
+        "Publisher": "PlayAround",
+        "Year": "1983",
+        "Genre": "Adult, Western",
+        "Notes": "Gender-swapped version of Custer’s Revenge, which never appeared in the US markets. PAL-only."
+      },
+      {
+        "Game_Title": "Ghostbusters",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "August 1985",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Ghostbusters II",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Salu Ltd",
+        "Year": "1990",
+        "Genre": "Action",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Ghost Manor/Spike's Peak",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Ghost Manor",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "G.I. Joe: Cobra Strike",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gigolo",
+        "Developer_(Designer)": "",
+        "Publisher": "PlayAround",
+        "Year": "1982",
+        "Genre": "Adult",
+        "Notes": "Released as a 2-in-1 cart with Bachelor Party"
+      },
+      {
+        "Game_Title": "Glacier Patrol",
+        "Developer_(Designer)": "VSS",
+        "Publisher": "Telegames",
+        "Year": "September 1989",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Glib",
+        "Developer_(Designer)": "Qualtronic Devices",
+        "Publisher": "Selchow and Righter",
+        "Year": "September 1983",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gopher",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gorf",
+        "Developer_(Designer)": "Roklan Corporation",
+        "Publisher": "CBS Electronics",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Bally Midway"
+      },
+      {
+        "Game_Title": "Grand Prix",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "March 1982",
+        "Genre": "Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Great Escape",
+        "Developer_(Designer)": "Bomb",
+        "Publisher": "Bomb",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Guardian",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Gyruss",
+        "Developer_(Designer)": "Roklan Corporation",
+        "Publisher": "Parker Brothers",
+        "Year": "June 1984",
+        "Genre": "Action",
+        "Notes": "licensed by Konami"
+      },
+      {
+        "Game_Title": "Halloween",
+        "Developer_(Designer)": "VSS",
+        "Publisher": "Wizard Video",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Harbor Escape",
+        "Developer_(Designer)": "",
+        "Publisher": "Panda",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "H.E.R.O.",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "March 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "I Want My Mommy",
+        "Developer_(Designer)": "Zimag",
+        "Publisher": "Zimag",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": "NTSC release of Bit Corporation's Open Sesame"
+      },
+      {
+        "Game_Title": "Ice Hockey",
+        "Developer_(Designer)": "Activision (Alan Miller)",
+        "Publisher": "Activision",
+        "Year": "December 1981",
+        "Genre": "Action, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Inca Gold",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "1982",
+        "Genre": "",
+        "Notes": "Zeller's NTSC release of Funvision's Inca Gold"
+      },
+      {
+        "Game_Title": "Infiltrate",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "September 1982",
+        "Genre": "Action, Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "International Soccer",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "November 1982",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "James Bond 007",
+        "Developer_(Designer)": "On Time Software",
+        "Publisher": "Parker Brothers",
+        "Year": "May 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Jawbreaker",
+        "Developer_(Designer)": "On-Line Systems",
+        "Publisher": "Tigervision",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Journey Escape",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Jungle Fever",
+        "Developer_(Designer)": "PlayAround",
+        "Publisher": "PlayAround",
+        "Year": "1982",
+        "Genre": "Adult, Action",
+        "Notes": "Released as a 2-in-1 cart with Knight on the Town"
+      },
+      {
+        "Game_Title": "Kaboom!",
+        "Developer_(Designer)": "Activision (Larry Kaplan, David Crane)",
+        "Publisher": "Activision",
+        "Year": "July 1981",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Karate",
+        "Developer_(Designer)": "Ultravision",
+        "Publisher": "Ultravision",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Keystone Kapers",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "May 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Killer Satellites (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "March 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "King Kong",
+        "Developer_(Designer)": "Software Electronics",
+        "Publisher": "Tigervision",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Knight on the Town",
+        "Developer_(Designer)": "",
+        "Publisher": "PlayAround",
+        "Year": "1982",
+        "Genre": "Adult, Action",
+        "Notes": "Released as a 2-in-1 cart with Jungle Fever"
+      },
+      {
+        "Game_Title": "Kool-Aid Man",
+        "Developer_(Designer)": "Mattel Electronics",
+        "Publisher": "M Network",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Kung-Fu Master",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Activision",
+        "Year": "September 1987",
+        "Genre": "Action",
+        "Notes": "licensed by Data East USA"
+      },
+      {
+        "Game_Title": "Lady in Wading",
+        "Developer_(Designer)": "PlayAround",
+        "Publisher": "PlayAround",
+        "Year": "1982",
+        "Genre": "Adult, Action",
+        "Notes": "Released as a 2-in-1 cart with Beat 'Em & Eat 'Em"
+      },
+      {
+        "Game_Title": "Laser Blast",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "March 1981",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Laser Gates",
+        "Developer_(Designer)": "Imagic, VentureVision",
+        "Publisher": "Imagic",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Laser Volley",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Laser Gates[16]"
+      },
+      {
+        "Game_Title": "Lochjaw",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "June 1982",
+        "Genre": "Action",
+        "Notes": "Later released by Apollo as Shark Attack"
+      },
+      {
+        "Game_Title": "Lock 'n' Chase",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Data East USA."
+      },
+      {
+        "Game_Title": "London Blitz",
+        "Developer_(Designer)": "Avalon Hill",
+        "Publisher": "Avalon Hill",
+        "Year": "June 1983",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Lost Luggage",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "June 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "M.A.D.",
+        "Developer_(Designer)": "Western Technologies",
+        "Publisher": "U.S. Games",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "MagiCard",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "May 1981",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Malagai",
+        "Developer_(Designer)": "",
+        "Publisher": "Answer Software",
+        "Year": "Q3 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Mangia",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "Q1 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Marauder",
+        "Developer_(Designer)": "On-Line Systems",
+        "Publisher": "Tigervision",
+        "Year": "October 1982",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Marine Wars",
+        "Developer_(Designer)": "Digivision",
+        "Publisher": "Konami",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL version released by Gakken."
+      },
+      {
+        "Game_Title": "M*A*S*H",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Master Builder",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "Q1 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Masters of the Universe: The Power of He-Man",
+        "Developer_(Designer)": "Mattel Electronics",
+        "Publisher": "M Network",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "MegaBoy",
+        "Developer_(Designer)": "",
+        "Publisher": "Dynacom",
+        "Year": "1990",
+        "Genre": "Educational",
+        "Notes": "The cartridge, the only known 64k Atari 2600 game, came with a Brazilian portable console also called Megaboy.[20]"
+      },
+      {
+        "Game_Title": "Mega Force",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Megamania",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "September 1982",
+        "Genre": "Fixed shooter",
+        "Notes": "[21][22]"
+      },
+      {
+        "Game_Title": "Miner 2049er",
+        "Developer_(Designer)": "Big Five Software",
+        "Publisher": "Tigervision",
+        "Year": "May 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Miner 2049er II",
+        "Developer_(Designer)": "Big Five Software",
+        "Publisher": "Tigervision",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Mines of Minos",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Missile Control",
+        "Developer_(Designer)": "",
+        "Publisher": "Video Gems",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL-format[23]"
+      },
+      {
+        "Game_Title": "Mission 3000 A.D.",
+        "Developer_(Designer)": "Bit Corporation",
+        "Publisher": "Bit Corporation",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Mission Survive",
+        "Developer_(Designer)": "",
+        "Publisher": "Video Gems",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL-format[23]"
+      },
+      {
+        "Game_Title": "Mogul Maniac",
+        "Developer_(Designer)": "Video Soft",
+        "Publisher": "Amiga",
+        "Year": "August 1983",
+        "Genre": "Action, Simulation, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Montezuma's Revenge: Starring Panama Joe",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "Parker Brothers",
+        "Year": "October 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Moonsweeper",
+        "Developer_(Designer)": "Imagic (Bob Smith)",
+        "Publisher": "Imagic",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Motocross",
+        "Developer_(Designer)": "",
+        "Publisher": "Quelle",
+        "Year": "1983",
+        "Genre": "Racing / Driving, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Motocross Racer",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "October 1984",
+        "Genre": "Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Mountain King",
+        "Developer_(Designer)": "VSS",
+        "Publisher": "CBS Electronics",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Mouse Trap",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "Coleco",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Exidy; reissued by Atari in 1988 (CX-26146)"
+      },
+      {
+        "Game_Title": "Mr. Do!",
+        "Developer_(Designer)": "Individeo",
+        "Publisher": "Coleco",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Universal Co., Ltd."
+      },
+      {
+        "Game_Title": "Mr. Do's Castle",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "December 1984",
+        "Genre": "Action",
+        "Notes": "licensed by Universal Co., Ltd."
+      },
+      {
+        "Game_Title": "Mr. Postman",
+        "Developer_(Designer)": "",
+        "Publisher": "Bit Corporation",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "The Music Machine",
+        "Developer_(Designer)": "Christian Software Development",
+        "Publisher": "Sparrow, HomeComputer Software",
+        "Year": "December 1983",
+        "Genre": "Action, Educational",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "My Golf",
+        "Developer_(Designer)": "Imagineering (company)",
+        "Publisher": "HES",
+        "Year": "1990",
+        "Genre": "",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Name This Game",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Nightmare",
+        "Developer_(Designer)": "",
+        "Publisher": "Sancho / Tang's Electronic Co.",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "Panda released this game as Stunt Man"
+      },
+      {
+        "Game_Title": "Night Stalker",
+        "Developer_(Designer)": "M Network",
+        "Publisher": "Telegames",
+        "Year": "1989",
+        "Genre": "Action",
+        "Notes": "PAL release of Dark Cavern"
+      },
+      {
+        "Game_Title": "No Escape!",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Nuts",
+        "Developer_(Designer)": "",
+        "Publisher": "Technovision",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Ocean City Defender",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Atlantis[16]"
+      },
+      {
+        "Game_Title": "Off Your Rocker",
+        "Developer_(Designer)": "Amiga",
+        "Publisher": "Amiga",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Oink!",
+        "Developer_(Designer)": "Activision (Mike Lorenzen)",
+        "Publisher": "Activision",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Omega Race",
+        "Developer_(Designer)": "CBS Electronics",
+        "Publisher": "CBS Electronics",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Bally Midway"
+      },
+      {
+        "Game_Title": "Open Sesame",
+        "Developer_(Designer)": "Bit Corporation",
+        "Publisher": "Bit Corporation",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Out of Control",
+        "Developer_(Designer)": "Avalon Hill",
+        "Publisher": "Avalon Hill",
+        "Year": "March 1984",
+        "Genre": "Action, Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Pac-Kong",
+        "Developer_(Designer)": "",
+        "Publisher": "Funvision",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "A later PAL release of Funvision's Inca Gold"
+      },
+      {
+        "Game_Title": "Panda Chase",
+        "Developer_(Designer)": "",
+        "Publisher": "Home Vision",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Parachute",
+        "Developer_(Designer)": "Gem International Corporation",
+        "Publisher": "Home Vision",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Paris Attack",
+        "Developer_(Designer)": "unknown",
+        "Publisher": "Starsoft",
+        "Year": "1982",
+        "Genre": "Action / Shooter",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Party Mix (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "October 1983",
+        "Genre": "Action, Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Pete Rose Baseball",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Absolute Entertainment",
+        "Year": "February 1989",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Phantom Tank",
+        "Developer_(Designer)": "",
+        "Publisher": "Bit Corporation",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Phantom-Panzer",
+        "Developer_(Designer)": "",
+        "Publisher": "Quelle",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "Quelle's PAL release of Bit Corporation's Phantom Tank"
+      },
+      {
+        "Game_Title": "Phaser Patrol (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Philly Flasher",
+        "Developer_(Designer)": "Mystique, PlayAround",
+        "Publisher": "Mystique",
+        "Year": "1982",
+        "Genre": "Adult, Action",
+        "Notes": "Released as a 2-in-1 cart with Cathouse Blues"
+      },
+      {
+        "Game_Title": "Pick 'n Pile",
+        "Developer_(Designer)": "Ubisoft",
+        "Publisher": "Salu Ltd",
+        "Year": "1990",
+        "Genre": "Strategy",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Picnic",
+        "Developer_(Designer)": "Western Technologies",
+        "Publisher": "U.S. Games",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Piece o' Cake",
+        "Developer_(Designer)": "Western Technologies",
+        "Publisher": "U.S. Games",
+        "Year": "March 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Pinball",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "",
+        "Genre": "Pinball",
+        "Notes": "unlicensed reproduction of Video Pinball[16]"
+      },
+      {
+        "Game_Title": "Piraten-Schiff",
+        "Developer_(Designer)": "",
+        "Publisher": "Spectravision",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL release of Gas Hog"
+      },
+      {
+        "Game_Title": "Pitfall!",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Pitfall II: Lost Caverns",
+        "Developer_(Designer)": "Activision (David Crane)",
+        "Publisher": "Activision",
+        "Year": "March 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Planet Patrol",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Planeten Patrouile",
+        "Developer_(Designer)": "",
+        "Publisher": "Spectravision",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL release of Planet Patrol"
+      },
+      {
+        "Game_Title": "Plaque Attack",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "May 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Polaris",
+        "Developer_(Designer)": "Tigervision",
+        "Publisher": "Tigervision",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Taito"
+      },
+      {
+        "Game_Title": "Pooyan",
+        "Developer_(Designer)": "Konami",
+        "Publisher": "Konami",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL version released by Gakken."
+      },
+      {
+        "Game_Title": "Popeye",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Nintendo"
+      },
+      {
+        "Game_Title": "Porky's",
+        "Developer_(Designer)": "Dunhill Electronic Media, Lazer Microsystems",
+        "Publisher": "20th Century Fox",
+        "Year": "July 1983",
+        "Genre": "Adventure",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Pressure Cooker",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Private Eye",
+        "Developer_(Designer)": "Activision (Bob Whitehead)",
+        "Publisher": "Activision",
+        "Year": "February 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Pyramid War",
+        "Developer_(Designer)": "",
+        "Publisher": "S.S.",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Q*bert",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "Parker Brothers",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": "Reissued by Atari in 1988 (CX-26150)"
+      },
+      {
+        "Game_Title": "Q*bert's Qubes",
+        "Developer_(Designer)": "Mylstar Electronics",
+        "Publisher": "Parker Brothers",
+        "Year": "December 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Quest for Quintana Roo",
+        "Developer_(Designer)": "VSS",
+        "Publisher": "Sunrise",
+        "Year": "1983",
+        "Genre": "Action, Adventure",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Quick Step",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Rabbit Transit (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Racquetball",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "June 1982",
+        "Genre": "Action, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Radar",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "unlicensed reproduction of Cruise Missile[16]"
+      },
+      {
+        "Game_Title": "Raft Rider",
+        "Developer_(Designer)": "Western Technologies",
+        "Publisher": "U.S. Games",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Ram It",
+        "Developer_(Designer)": "Telesys",
+        "Publisher": "Telesys",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Rampage",
+        "Developer_(Designer)": "Bob Polaro",
+        "Publisher": "Activision",
+        "Year": "May 1989",
+        "Genre": "Action",
+        "Notes": "licensed by Bally Midway."
+      },
+      {
+        "Game_Title": "Reactor",
+        "Developer_(Designer)": "D. Gottlieb & Co.",
+        "Publisher": "Parker Brothers",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Red Sea Crossing",
+        "Developer_(Designer)": "Steve Schustack",
+        "Publisher": "Inspirational Video Concepts",
+        "Year": "October 1983",
+        "Genre": "",
+        "Notes": "Only available through mail order from a magazine. 100 copies were apparently produced but only 2 have been found.[24]"
+      },
+      {
+        "Game_Title": "Rescue Terra 1",
+        "Developer_(Designer)": "VentureVision",
+        "Publisher": "VentureVision",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Revenge of the Beefsteak Tomatoes",
+        "Developer_(Designer)": "20th Century Fox",
+        "Publisher": "20th Century Fox",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Riddle of the Sphinx",
+        "Developer_(Designer)": "Imagic (Bob Smith)",
+        "Publisher": "Imagic",
+        "Year": "September 1982",
+        "Genre": "Action, Adventure",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "River Patrol",
+        "Developer_(Designer)": "Orca Corporation",
+        "Publisher": "Tigervision",
+        "Year": "May 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "River Raid",
+        "Developer_(Designer)": "Activision (Carol Shaw)",
+        "Publisher": "Activision",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "River Raid II",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Activision",
+        "Year": "November 1988",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Robin Hood/Sir Lancelot - The Joust",
+        "Developer_(Designer)": "Computer Magic, Ltd.",
+        "Publisher": "Xonox",
+        "Year": "Q2 1984",
+        "Genre": "Action",
+        "Notes": "double-ended cartridge"
+      },
+      {
+        "Game_Title": "Robin Hood",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Robot Commando Raid",
+        "Developer_(Designer)": "",
+        "Publisher": "VidTec",
+        "Year": "1982",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Robot Tank",
+        "Developer_(Designer)": "Activision (Alan Miller)",
+        "Publisher": "Activision",
+        "Year": "June 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Roc'n Rope",
+        "Developer_(Designer)": "Coleco",
+        "Publisher": "Coleco",
+        "Year": "June 1984",
+        "Genre": "Action",
+        "Notes": "licensed by Konami"
+      },
+      {
+        "Game_Title": "Room of Doom",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Save Our Ship",
+        "Developer_(Designer)": "",
+        "Publisher": "Technovision",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "PAL release"
+      },
+      {
+        "Game_Title": "Scuba Diver",
+        "Developer_(Designer)": "",
+        "Publisher": "Panda",
+        "Year": "January 1984",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sea Hawk",
+        "Developer_(Designer)": "Froggo",
+        "Publisher": "Froggo",
+        "Year": "1988",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Seahawk",
+        "Developer_(Designer)": "",
+        "Publisher": "Sancho (Tang's Electronic Co.)",
+        "Year": "January 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Seamonster",
+        "Developer_(Designer)": "",
+        "Publisher": "Puzzy / Bit Corporation",
+        "Year": "1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Seaquest",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sea Hunt",
+        "Developer_(Designer)": "Froggo",
+        "Publisher": "Froggo",
+        "Year": "1987",
+        "Genre": "Action",
+        "Notes": "Froggo's release of Panda's Scuba Diver"
+      },
+      {
+        "Game_Title": "Shark Attack",
+        "Developer_(Designer)": "",
+        "Publisher": "Apollo",
+        "Year": "August 1982",
+        "Genre": "",
+        "Notes": "A re-release of Lochjaw, which has subtle differences"
+      },
+      {
+        "Game_Title": "Shootin' Gallery",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "March 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Shuttle Orbiter",
+        "Developer_(Designer)": "Avalon Hill",
+        "Publisher": "Avalon Hill",
+        "Year": "March 1984",
+        "Genre": "Action, Simulation",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sir Lancelot",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Skate Boardin': A Radical Adventure",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Absolute Entertainment",
+        "Year": "January 1988",
+        "Genre": "Action, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Skeet Shoot",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "December 7, 1981",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Skiing",
+        "Developer_(Designer)": "Activision (Bob Whitehead)",
+        "Publisher": "Activision",
+        "Year": "December 1980",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sky Jinks",
+        "Developer_(Designer)": "Activision (Bob Whitehead)",
+        "Publisher": "Activision",
+        "Year": "November 1982",
+        "Genre": "Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sky Skipper",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Smurf: Rescue in Gargamel's Castle",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "Coleco",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "The Smurfs Save the Day[25]",
+        "Developer_(Designer)": "",
+        "Publisher": "Coleco",
+        "Year": "November 1983",
+        "Genre": "Action",
+        "Notes": "Kid Vid Voice Module required to function"
+      },
+      {
+        "Game_Title": "Snail Against Squirrel",
+        "Developer_(Designer)": "",
+        "Publisher": "Bit Corporation",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL release. Released in NTSC format as Squirrel"
+      },
+      {
+        "Game_Title": "Sneak 'N Peek",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "August 1982",
+        "Genre": "Simulation",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Solar Fox",
+        "Developer_(Designer)": "CBS Electronics",
+        "Publisher": "CBS Electronics",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Bally Midway"
+      },
+      {
+        "Game_Title": "Solar Storm",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "June 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sorcerer",
+        "Developer_(Designer)": "Mythicon",
+        "Publisher": "Mythicon",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Space Adventure",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "",
+        "Genre": "",
+        "Notes": "Zellers' release of 20th Century Fox's Flash Gordon"
+      },
+      {
+        "Game_Title": "Space Attack",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "July 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Space Canyon",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Panda",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "Panda's release of Apollo's Space Cavern"
+      },
+      {
+        "Game_Title": "Space Cavern",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "June 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spacechase",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "January 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Space Grid",
+        "Developer_(Designer)": "",
+        "Publisher": "Action Hi-Tech",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL-format[17]"
+      },
+      {
+        "Game_Title": "Space Jockey",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "March 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spacemaster X-7",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "June 1983",
+        "Genre": "Action, Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Space Shuttle: A Journey into Space",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "November 1983",
+        "Genre": "Simulation",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spiderdroid",
+        "Developer_(Designer)": "Froggo",
+        "Publisher": "Froggo",
+        "Year": "1987",
+        "Genre": "Action",
+        "Notes": "Froggo's release of Parker Brothers' Amidar"
+      },
+      {
+        "Game_Title": "Spider Fighter",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spider-Man",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spider Maze",
+        "Developer_(Designer)": "",
+        "Publisher": "K-Tel Vision",
+        "Year": "1982",
+        "Genre": "",
+        "Notes": "K-Tel Vision's NTSC release of Funvision's Inca Gold"
+      },
+      {
+        "Game_Title": "Spike's Peak",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spitfire Attack",
+        "Developer_(Designer)": "Milton Bradley",
+        "Publisher": "Milton Bradley",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Springer",
+        "Developer_(Designer)": "Orca Corporation",
+        "Publisher": "Tigervision",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Spy Hunter",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "October 1984",
+        "Genre": "Action, Racing / Driving",
+        "Notes": "licensed by Bally Midway"
+      },
+      {
+        "Game_Title": "Squeeze Box",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sssnake",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Stampede",
+        "Developer_(Designer)": "Activision (Bob Whitehead)",
+        "Publisher": "Activision",
+        "Year": "December 1981",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Fox",
+        "Developer_(Designer)": "Mythicon",
+        "Publisher": "Mythicon",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Stargunner",
+        "Developer_(Designer)": "Telesys",
+        "Publisher": "Telesys",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Starmaster",
+        "Developer_(Designer)": "Activision (Alan Miller)",
+        "Publisher": "Activision",
+        "Year": "June 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Strike",
+        "Developer_(Designer)": "Mattel Electronics",
+        "Publisher": "M Network",
+        "Year": "June 1983",
+        "Genre": "Action",
+        "Notes": "conversion of Intellivision Star Strike"
+      },
+      {
+        "Game_Title": "Star Trek: Strategic Operations Simulator",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Voyager",
+        "Developer_(Designer)": "Imagic (Bob Smith)",
+        "Publisher": "Imagic",
+        "Year": "April 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Wars: The Arcade Game",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "Parker Brothers",
+        "Year": "July 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Wars: Jedi Arena",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "February 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Wars Return of the Jedi: Death Star Battle",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Star Wars: The Empire Strikes Back",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "June 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Steeplechase",
+        "Developer_(Designer)": "",
+        "Publisher": "Video Gems",
+        "Year": "1983",
+        "Genre": "Action, Sports",
+        "Notes": "PAL-format[23]"
+      },
+      {
+        "Game_Title": "Strategy X",
+        "Developer_(Designer)": "Konami",
+        "Publisher": "Konami",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL version released by Gakken."
+      },
+      {
+        "Game_Title": "Strawberry Shortcake: Musical Match-ups",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "April 1983",
+        "Genre": "Strategy",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Stronghold",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "July 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Stunt Man",
+        "Developer_(Designer)": "",
+        "Publisher": "Panda",
+        "Year": "January 1984",
+        "Genre": "Action",
+        "Notes": "Panda's NTSC release of Sancho's Nightmare"
+      },
+      {
+        "Game_Title": "Sub-Scan",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "March 1983",
+        "Genre": "Strategy",
+        "Notes": "Sega's release of its Deep Scan arcade game"
+      },
+      {
+        "Game_Title": "Subterranea",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Suicide Mission (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Summer Games",
+        "Developer_(Designer)": "Epyx",
+        "Publisher": "Epyx",
+        "Year": "October 1987",
+        "Genre": "Action, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Super Baumeister",
+        "Developer_(Designer)": "",
+        "Publisher": "Spectravision",
+        "Year": "1983",
+        "Genre": "Arcade",
+        "Notes": "PAL release of Master Builder"
+      },
+      {
+        "Game_Title": "Super Challenge Baseball",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "July 1982",
+        "Genre": "Sports",
+        "Notes": "reissued by Telegames in 1988"
+      },
+      {
+        "Game_Title": "Super Challenge Football",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "July 1982",
+        "Genre": "Sports",
+        "Notes": "reissued by Telegames in 1988"
+      },
+      {
+        "Game_Title": "Super Cobra",
+        "Developer_(Designer)": "Roklan Corporation",
+        "Publisher": "Parker Brothers",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Konami"
+      },
+      {
+        "Game_Title": "Surfer's Paradise: But Danger Below!",
+        "Developer_(Designer)": "",
+        "Publisher": "Video Gems",
+        "Year": "1983",
+        "Genre": "Action, Sports",
+        "Notes": "PAL-format[23]"
+      },
+      {
+        "Game_Title": "Survival Island (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "November 1983",
+        "Genre": "Adventure",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Survival Run",
+        "Developer_(Designer)": "Renaissance Technology",
+        "Publisher": "Milton Bradley",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Sword of Saros (cassette)",
+        "Developer_(Designer)": "Starpath",
+        "Publisher": "Starpath",
+        "Year": "November 1983",
+        "Genre": "Adventure, RPG",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tac-Scan",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "March 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tank Brigade",
+        "Developer_(Designer)": "",
+        "Publisher": "Panda",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "Panda's NTSC release of Bit Corporation's Phantom Tank"
+      },
+      {
+        "Game_Title": "Tank City",
+        "Developer_(Designer)": "",
+        "Publisher": "Action Hi-Tech",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL release of Sega's Thunderground"
+      },
+      {
+        "Game_Title": "Tanks But No Tanks",
+        "Developer_(Designer)": "",
+        "Publisher": "Zimag",
+        "Year": "February 1983",
+        "Genre": "",
+        "Notes": "Zimag's NTSC release of Bit Corporation's Phantom Tank"
+      },
+      {
+        "Game_Title": "Tapeworm",
+        "Developer_(Designer)": "Spectravision",
+        "Publisher": "Spectravision",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tapper",
+        "Developer_(Designer)": "Beck-Tech",
+        "Publisher": "Sega",
+        "Year": "October 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Task Force",
+        "Developer_(Designer)": "",
+        "Publisher": "Froggo",
+        "Year": "1988",
+        "Genre": "",
+        "Notes": "Froggo's release of Spectravision's Gangster Alley"
+      },
+      {
+        "Game_Title": "Tax Avoiders",
+        "Developer_(Designer)": "Dunhill Electronics",
+        "Publisher": "American Videogame",
+        "Year": "December 1986",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tennis",
+        "Developer_(Designer)": "Activision (Alan Miller)",
+        "Publisher": "Activision",
+        "Year": "March 1981",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "The Texas Chainsaw Massacre",
+        "Developer_(Designer)": "VSS",
+        "Publisher": "Wizard Video",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Threshold",
+        "Developer_(Designer)": "On-Line Systems",
+        "Publisher": "Tigervision",
+        "Year": "August 1982",
+        "Genre": "Fixed shooter",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Thunderground",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "September 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Time Pilot",
+        "Developer_(Designer)": "Coleco",
+        "Publisher": "Coleco",
+        "Year": "October 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Konami"
+      },
+      {
+        "Game_Title": "Time Warp",
+        "Developer_(Designer)": "",
+        "Publisher": "Zellers",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "Zellers' NTSC release of Funvision's Time Warp"
+      },
+      {
+        "Game_Title": "Title Match Pro Wrestling",
+        "Developer_(Designer)": "Imagineering",
+        "Publisher": "Absolute Entertainment",
+        "Year": "October 1987",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tomarc the Barbarian",
+        "Developer_(Designer)": "Xonox",
+        "Publisher": "Xonox",
+        "Year": "Q2 1984",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator",
+        "Developer_(Designer)": "Imagineering (Dan Kitchen)",
+        "Publisher": "Absolute Entertainment",
+        "Year": "February 1989",
+        "Genre": "Action, Simulation",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tooth Protectors",
+        "Developer_(Designer)": "DSD",
+        "Publisher": "Camelot",
+        "Year": "August 1983",
+        "Genre": "Action",
+        "Notes": "Was only available via mail order from Johnson & Johnson"
+      },
+      {
+        "Game_Title": "Towering Inferno",
+        "Developer_(Designer)": "Western Technologies",
+        "Publisher": "U.S. Games",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Treasure Below",
+        "Developer_(Designer)": "",
+        "Publisher": "Video Gems",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL-format[23]"
+      },
+      {
+        "Game_Title": "Trick Shot",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "April 1982",
+        "Genre": "Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tron: Deadly Discs",
+        "Developer_(Designer)": "APh Technological Consulting",
+        "Publisher": "M Network",
+        "Year": "January 1983",
+        "Genre": "Action",
+        "Notes": "conversion of Intellivision Tron: Deadly Discs"
+      },
+      {
+        "Game_Title": "Tunnel Runner",
+        "Developer_(Designer)": "CBS Electronics",
+        "Publisher": "CBS Electronics",
+        "Year": "December 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Turmoil",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "November 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Tutankham",
+        "Developer_(Designer)": "Parker Brothers",
+        "Publisher": "Parker Brothers",
+        "Year": "June 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Konami"
+      },
+      {
+        "Game_Title": "Universal Chaos",
+        "Developer_(Designer)": "",
+        "Publisher": "Telegames",
+        "Year": "Q4 1989",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Up'n Down",
+        "Developer_(Designer)": "Sega",
+        "Publisher": "Sega",
+        "Year": "October 1984",
+        "Genre": "Action, Racing / Driving",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Venetian Blinds",
+        "Developer_(Designer)": "Activision",
+        "Publisher": "Activision",
+        "Year": "1982/2003",
+        "Genre": "Simulation",
+        "Notes": "Developed in 1982, released publicly in 2003"
+      },
+      {
+        "Game_Title": "Venture",
+        "Developer_(Designer)": "Coleco",
+        "Publisher": "Coleco",
+        "Year": "September 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Exidy; reissued by Atari in 1988 (CX-26145)"
+      },
+      {
+        "Game_Title": "Video Jogger",
+        "Developer_(Designer)": "Exus Corporation",
+        "Publisher": "Exus Corporation",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Video Life",
+        "Developer_(Designer)": "CommaVid",
+        "Publisher": "CommaVid",
+        "Year": "June 1984",
+        "Genre": "Life Simulation",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Video Reflex",
+        "Developer_(Designer)": "Exus Corporation",
+        "Publisher": "Exus Corporation",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Vulture Attack",
+        "Developer_(Designer)": "",
+        "Publisher": "K-Tel Vision",
+        "Year": "1982",
+        "Genre": "",
+        "Notes": "K-Tel Vision's release of Ultravision's Condor Attack game program"
+      },
+      {
+        "Game_Title": "Wabbit",
+        "Developer_(Designer)": "Apollo",
+        "Publisher": "Apollo",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Wall Ball",
+        "Developer_(Designer)": "",
+        "Publisher": "Avalon Hill",
+        "Year": "June 1983",
+        "Genre": "",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Wall-Defender",
+        "Developer_(Designer)": "Bomb",
+        "Publisher": "Bomb",
+        "Year": "Q4 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "War Zone",
+        "Developer_(Designer)": "",
+        "Publisher": "Action Hi-Tech",
+        "Year": "",
+        "Genre": "",
+        "Notes": "PAL release of 20th Century Fox's M*A*S*H"
+      },
+      {
+        "Game_Title": "Warplock",
+        "Developer_(Designer)": "Data Age",
+        "Publisher": "Data Age",
+        "Year": "October 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Weltraumtunnel (Space Tunnel)",
+        "Developer_(Designer)": "BitCorp",
+        "Publisher": "BitCorp - Quelle",
+        "Year": "1982",
+        "Genre": "Action",
+        "Notes": "PAL-Release - Quelle-variant is a BitCorp-clone; also known e.g. as Ataque Laser, Innerspace, Laser Volley, Laser Gate, Laser Gates"
+      },
+      {
+        "Game_Title": "Westward Ho",
+        "Developer_(Designer)": "PlayAround",
+        "Publisher": "PlayAround",
+        "Year": "1983",
+        "Genre": "Adult, Western",
+        "Notes": "PlayAround’s rebrand of Custer’s Revenge, which never appeared in the US markets. PAL-only."
+      },
+      {
+        "Game_Title": "Wing War",
+        "Developer_(Designer)": "Imagic",
+        "Publisher": "Imagic",
+        "Year": "1983",
+        "Genre": "Action",
+        "Notes": "PAL-only"
+      },
+      {
+        "Game_Title": "Winter Games",
+        "Developer_(Designer)": "Action Graphics",
+        "Publisher": "Epyx",
+        "Year": "October 1987",
+        "Genre": "Action, Sports",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Wizard of Wor",
+        "Developer_(Designer)": "Roklan Corporation",
+        "Publisher": "CBS Electronics",
+        "Year": "December 1982",
+        "Genre": "Action",
+        "Notes": "licensed by Bally Midway"
+      },
+      {
+        "Game_Title": "Word Zapper",
+        "Developer_(Designer)": "James Wickstead Design Associates",
+        "Publisher": "U.S. Games",
+        "Year": "August 1982",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Worm War I",
+        "Developer_(Designer)": "Sirius Software",
+        "Publisher": "20th Century Fox",
+        "Year": "September 1982",
+        "Genre": "Shooter",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "X-Man",
+        "Developer_(Designer)": "",
+        "Publisher": "Universal Gamex",
+        "Year": "June 1983",
+        "Genre": "Adult, Simulation",
+        "Notes": "Adult-themed game unrelated to the X-Men.[26]"
+      },
+      {
+        "Game_Title": "The Year 1999",
+        "Developer_(Designer)": "",
+        "Publisher": "Rainbow Vision",
+        "Year": "1983",
+        "Genre": "Shooter",
+        "Notes": "PAL exclusive"
+      },
+      {
+        "Game_Title": "Z-Tack",
+        "Developer_(Designer)": "Bomb",
+        "Publisher": "Bomb",
+        "Year": "Q4 1983",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Game_Title": "Zaxxon",
+        "Developer_(Designer)": "Coleco",
+        "Publisher": "Coleco",
+        "Year": "April 1983",
+        "Genre": "Action",
+        "Notes": "licensed by Sega"
+      },
+      {
+        "Game_Title": "Zoo Fun",
+        "Developer_(Designer)": "",
+        "Publisher": "Suntek",
+        "Year": "1983",
+        "Genre": "",
+        "Notes": "PAL-only"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title": "2005 Minigame Multicart",
+        "Developer(s)": "Chris Walton, Fred Quimby, Bob Montgomery, and Zach Matley",
+        "Publisher(s)": "AtariAge",
+        "Year": "2005",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "2048 2600",
+        "Developer(s)": "Carlos Duarte do Nascimento (chesterbr)",
+        "Publisher(s)": "self-published",
+        "Year": "2014",
+        "Genre": "Puzzle",
+        "Notes": "Clone of 2048"
+      },
+      {
+        "Title": "A-VCS-tec Challenge",
+        "Developer(s)": "Simon Quernhorst (Programmer), Paul Slocum (Music)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2006",
+        "Genre": "Action",
+        "Notes": "Clone of Aztec Challenge[29]"
+      },
+      {
+        "Title": "Aardvark",
+        "Developer(s)": "Óscar Toledo G. and Thomas Jentzsch and Nathan Strum",
+        "Publisher(s)": "AtariAge",
+        "Year": "2019",
+        "Genre": "Action",
+        "Notes": "Variation of Anteater"
+      },
+      {
+        "Title": "Actionauts",
+        "Developer(s)": "Rob Fulop",
+        "Publisher(s)": "",
+        "Year": "2008",
+        "Genre": "Simulation",
+        "Notes": "Originally planned for release in 1984"
+      },
+      {
+        "Title": "Alfred Challenge",
+        "Developer(s)": "Eric Bacher",
+        "Publisher(s)": "Ebivision",
+        "Year": "1998",
+        "Genre": "Action",
+        "Notes": "Platform-and-ladder game[citation needed]"
+      },
+      {
+        "Title": "Allia Quest",
+        "Developer(s)": "Igor Barzilai",
+        "Publisher(s)": "Ebivision",
+        "Year": "2001",
+        "Genre": "Action",
+        "Notes": "Fixed shooter [citation needed]"
+      },
+      {
+        "Title": "Alien Greed",
+        "Developer(s)": "Chris Read",
+        "Publisher(s)": "Self-Published",
+        "Year": "2007",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Greed 2",
+        "Developer(s)": "Scott Dayton",
+        "Publisher(s)": "Neo Games",
+        "Year": "2008",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Greed 3",
+        "Developer(s)": "Chris Read",
+        "Publisher(s)": "Neo Games",
+        "Year": "2010",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Greed 4",
+        "Developer(s)": "Chris Read",
+        "Publisher(s)": "2600Connection",
+        "Year": "2012",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Holocaust",
+        "Developer(s)": "Fernando Rodrigues Salvio",
+        "Publisher(s)": "Bitnamic",
+        "Year": "2022",
+        "Genre": "Action\nAdventure",
+        "Notes": "Based on the short film Alien Holocaust by Marcus Garrett and the developer as the character Bruce. It has a cartridge version and another sold with the DVD of the short film.[30]"
+      },
+      {
+        "Title": "Alien Holocaust 2: Invasion Earth",
+        "Developer(s)": "Fernando Rodrigues Salvio",
+        "Publisher(s)": "Bitnamic",
+        "Year": "2023",
+        "Genre": "Action/Shooter",
+        "Notes": "Sequel to Alien Holocaust. In command of flying saucers, the player can destroy cities all over the world, being the first Atari game to graphically represent cities in Brazil, North America, Europe, Asia and Egypt. With soundtrack by Pedro Pimenta. It has a special version with a flying saucer-shaped packaging.[31]"
+      },
+      {
+        "Title": "Astronomer",
+        "Developer(s)": "Alex Pietrow",
+        "Publisher(s)": "Packrat",
+        "Year": "2018",
+        "Genre": "Simulation",
+        "Notes": "A astronomy simulator where the player can use a telescope to observe stars. It is a pack in game for the Retron 77."
+      },
+      {
+        "Title": "Bee-Ball",
+        "Developer(s)": "Ivan Machado",
+        "Publisher(s)": "AtariAge",
+        "Year": "2007",
+        "Genre": "Action",
+        "Notes": "[32]"
+      },
+      {
+        "Title": "Bell Hopper",
+        "Developer(s)": "Tomas Härdin",
+        "Publisher(s)": "self-published",
+        "Year": "2011",
+        "Genre": "Action",
+        "Notes": "A demake of Winterbells. Placed 5th in the game development competition at Assembly Summer 2011.[33]"
+      },
+      {
+        "Title": "Bigfoot Family Search",
+        "Developer(s)": "Jason Santuci and Bobby Alexander"
+      },
+      {
+        "Title": "Boulder Dash",
+        "Developer(s)": "Thomas Jentzsch and Andrew Davie",
+        "Publisher(s)": "AtariAge",
+        "Year": "2011",
+        "Genre": "Action",
+        "Notes": "[34]"
+      },
+      {
+        "Title": "Chetiry",
+        "Developer(s)": "Chris Walton, Zach Matley, Fred Quimby",
+        "Publisher(s)": "Atari Age",
+        "Year": "",
+        "Genre": "Puzzle",
+        "Notes": "Tetris clone. Melody Enhanced"
+      },
+      {
+        "Title": "Circus Convoy",
+        "Developer(s)": "Audacity Games",
+        "Publisher(s)": "Audacity Games",
+        "Year": "2021",
+        "Genre": "Action Adventure",
+        "Notes": "First game from publisher founded by David Crane, Garry Kitchen and Dan Kitchen.[35]"
+      },
+      {
+        "Title": "Climber 5",
+        "Developer(s)": "Dennis Debro",
+        "Publisher(s)": "XYPE",
+        "Year": "2004",
+        "Genre": "Action",
+        "Notes": "Included in the Activision Anthology.[28]\nIncluded in the Atari Flashback 2 as  Atari Climber."
+      },
+      {
+        "Title": "Conquest of Mars",
+        "Developer(s)": "Champ Games (John W. Champeau)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2006",
+        "Genre": "Action",
+        "Notes": "Clone of Atari 8-bit computer game Caverns of Mars[36]"
+      },
+      {
+        "Title": "Draconian",
+        "Developer(s)": "SpiceWare (Darrell Spice, Jr.) Additional programming by Chris Walton. Music, Speech, Sound Effects by Michael Haas",
+        "Publisher(s)": "AtariAge",
+        "Year": "2017",
+        "Genre": "Action",
+        "Notes": "Clone of Arcade game Bosconian, Draconian includes levels from both arcade versions (Namco and Midway), plus original levels"
+      },
+      {
+        "Title": "Dungeon",
+        "Developer(s)": "David Weavil",
+        "Publisher(s)": "Atari Age",
+        "Year": "2009",
+        "Genre": "Adventure",
+        "Notes": ""
+      },
+      {
+        "Title": "Dungeon II: Solstice",
+        "Developer(s)": "David Weavil",
+        "Publisher(s)": "Atari Age",
+        "Year": "2019",
+        "Genre": "Adventure"
+      },
+      {
+        "Title": "Duck Attack!",
+        "Developer(s)": "Will Nicholes",
+        "Publisher(s)": "AtariAge",
+        "Year": "2010",
+        "Genre": "Action-Adventure",
+        "Notes": "Loosely based on Adventure[37]"
+      },
+      {
+        "Title": "Edtris 2600",
+        "Developer(s)": "Ed Federmeyer",
+        "Publisher(s)": "Hozer Video Games",
+        "Year": "1995",
+        "Genre": "Strategy",
+        "Notes": "Clone of Tetris[38]"
+      },
+      {
+        "Title": "Euchre",
+        "Developer(s)": "Erik Eid",
+        "Publisher(s)": "self-published",
+        "Year": "2002",
+        "Genre": "Strategy",
+        "Notes": "Included in the Activision Anthology as Video Euchre[28]"
+      },
+      {
+        "Title": "Fall Down",
+        "Developer(s)": "Aaron Curtis",
+        "Publisher(s)": "AtariAge",
+        "Year": "2005",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "FlapPing",
+        "Developer(s)": "Kirk Israel",
+        "Publisher(s)": "AtariAge",
+        "Year": "2004",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Four-Play",
+        "Developer(s)": "Zach Matley",
+        "Publisher(s)": "AtariAge",
+        "Year": "2006",
+        "Genre": "Strategy",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Galactopus!",
+        "Developer(s)": "Ric Pryor",
+        "Publisher(s)": "AtariAge",
+        "Year": "2015",
+        "Genre": "Action/Shooter"
+      },
+      {
+        "Title": "Galagon",
+        "Developer(s)": "John W. Champeau, Nathan Strum, Ross Keenum",
+        "Publisher(s)": "AtariAge",
+        "Year": "2019",
+        "Genre": "Action",
+        "Notes": "Supports AtariVox/Savekey for saving high scores"
+      },
+      {
+        "Title": "Grizzards",
+        "Developer(s)": "Bruce-Robert Pocock, Zephyr Salz",
+        "Publisher(s)": "AtariAge",
+        "Year": "2022",
+        "Genre": "RPG",
+        "Notes": "Supports AtariVox for voice. Contains save-to-cartridge circuitry on physical release, or uses AtariVox/Savekey for demo/download version."
+      },
+      {
+        "Title": "Go Fish!",
+        "Developer(s)": "Bob Montgomery",
+        "Publisher(s)": "AtariAge",
+        "Year": "2005",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Gunfight",
+        "Developer(s)": "Manuel Rotschkar",
+        "Publisher(s)": "XYPE",
+        "Year": "2001",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Halo 2600",
+        "Developer(s)": "Ed Fries",
+        "Publisher(s)": "AtariAge",
+        "Year": "2010",
+        "Genre": "Action",
+        "Notes": "Based on Bungie's Halo series; Fries was involved in Microsoft's acquisition of Bungie[40]"
+      },
+      {
+        "Title": "Heist",
+        "Developer(s)": "Timothy Marsh",
+        "Publisher(s)": "Self Published",
+        "Year": "2019",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "High Score Screen Burn Slow Burn",
+        "Developer(s)": "BJ Best",
+        "Publisher(s)": "8bitclassics.com",
+        "Year": "2010",
+        "Genre": "Action",
+        "Notes": "High Score Screen Burn Slow Burn: The game that’s maybe not a game!"
+      },
+      {
+        "Title": "Hunchy II",
+        "Developer(s)": "Chris Walton",
+        "Publisher(s)": "AtariAge",
+        "Year": "2005",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Jammed",
+        "Developer(s)": "Thomas Jentzsch",
+        "Publisher(s)": "XYPE",
+        "Year": "2001",
+        "Genre": "Strategy",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Juno First",
+        "Developer(s)": "Chris Walton",
+        "Publisher(s)": "AtariAge",
+        "Year": "2009",
+        "Genre": "Action",
+        "Notes": "Clone of arcade game of the same name.[citation needed]"
+      },
+      {
+        "Title": "Jatai the Bee",
+        "Developer(s)": "Fernando Rodrigues Salvio",
+        "Publisher(s)": "Bitnamic",
+        "Year": "2024",
+        "Genre": "Action",
+        "Notes": "The Jataí is a bee native to the Atlantic Forest and must fulfill its duty of pollinating flowers and collecting pollen and nectar to feed the hive. During the mission, some enemies will appear: spiders, which hang from the web; lemon bees, which raid the hive; and also a large spider, the Queen, who must be stopped. The game has a box with a 3D printed bee that serves as a key to open it.[41]"
+      },
+      {
+        "Title": "K.O. Cruiser",
+        "Developer(s)": "Devin Cook",
+        "Publisher(s)": "AtariAge",
+        "Year": "2010",
+        "Genre": "Sports",
+        "Notes": "[42]"
+      },
+      {
+        "Title": "L.E.M. Lunar Excursion Module",
+        "Developer(s)": "Filippo Santellocco",
+        "Publisher(s)": "AtariAge",
+        "Year": "2010",
+        "Genre": "Action",
+        "Notes": "Inspired by arcade game Lunar Lander."
+      },
+      {
+        "Title": "Lady Bug",
+        "Developer(s)": "Champ Games (John W. Champeau)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2006",
+        "Genre": "Action",
+        "Notes": "Clone of arcade game of the same name.[citation needed]"
+      },
+      {
+        "Title": "Mappy",
+        "Developer(s)": "John W. Champeau, Mike Haas, Thomas Jentzsch",
+        "Publisher(s)": "AtariAge",
+        "Year": "2019",
+        "Genre": "Action/Platform",
+        "Notes": "Clone of arcade game of the same name, AtariVox Enhanced"
+      },
+      {
+        "Title": "Marble Craze",
+        "Developer(s)": "Paul Slocum",
+        "Publisher(s)": "XYPE",
+        "Year": "2002",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Mean Santa",
+        "Developer(s)": "John K. Harvey",
+        "Publisher(s)": "2600 Connection [1]",
+        "Year": "2009",
+        "Genre": "Action/Strategy",
+        "Notes": ""
+      },
+      {
+        "Title": "Medieval Mayhem",
+        "Developer(s)": "SpiceWare (Darrell Spice Jr.)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2006",
+        "Genre": "Action",
+        "Notes": "Remake of Warlords that adds arcade features missing from the original home version.[43]"
+      },
+      {
+        "Title": "Monkey King",
+        "Developer(s)": "Alex Pietrow",
+        "Publisher(s)": "",
+        "Year": "2018",
+        "Genre": "Action",
+        "Notes": "Strategic endless runner."
+      },
+      {
+        "Title": "Okie Dokie",
+        "Developer(s)": "Bob Colbert",
+        "Publisher(s)": "Retroware",
+        "Year": "1996",
+        "Genre": "Strategy",
+        "Notes": "Included in the Activision Anthology[28]"
+      },
+      {
+        "Title": "Oystron",
+        "Developer(s)": "Piero Cavina",
+        "Publisher(s)": "XYPE",
+        "Year": "1997/1998",
+        "Genre": "Action",
+        "Notes": "Included in the Activision Anthology[28]"
+      },
+      {
+        "Title": "Pesco",
+        "Developer(s)": "Eric Bacher",
+        "Publisher(s)": "Ebivision",
+        "Year": "1999",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Pick Up",
+        "Developer(s)": "20th Century Fox",
+        "Publisher(s)": "Mark Klein",
+        "Year": "2002",
+        "Genre": "Shooter",
+        "Notes": "Finished, but unreleased until self-published at 2002 Classic Gaming Expo"
+      },
+      {
+        "Title": "Pressure Gauge",
+        "Developer(s)": "John K. Harvey",
+        "Publisher(s)": "Self-published",
+        "Year": "1999",
+        "Genre": "Action/Puzzle",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Princess Rescue",
+        "Developer(s)": "Chris Spry",
+        "Publisher(s)": "AtariAge",
+        "Year": "2013",
+        "Genre": "Action",
+        "Notes": "Clone of Super Mario Bros."
+      },
+      {
+        "Title": "Qb",
+        "Developer(s)": "Andrew Davie",
+        "Publisher(s)": "XYPE",
+        "Year": "2001",
+        "Genre": "Action/Puzzle",
+        "Notes": ""
+      },
+      {
+        "Title": "Scramble",
+        "Developer(s)": "John W. Champeau (Champ Games)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2016",
+        "Genre": "Action",
+        "Notes": "Clone of arcade game of the same name."
+      },
+      {
+        "Title": "Seawolf",
+        "Developer(s)": "Manuel Rotschkar",
+        "Publisher(s)": "XYPE",
+        "Year": "2004",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Shield Shifter",
+        "Developer(s)": "John Reder",
+        "Publisher(s)": "Good Deal Games",
+        "Year": "2009"
+      },
+      {
+        "Title": "Skeleton+",
+        "Developer(s)": "Eric Ball",
+        "Publisher(s)": "AtariAge",
+        "Year": "2003",
+        "Genre": "First-person shooter",
+        "Notes": "Included in the Activision Anthology[28]"
+      },
+      {
+        "Title": "Snappy",
+        "Developer(s)": "Sebastian Mihai",
+        "Publisher(s)": "Self Published",
+        "Year": "2012",
+        "Genre": "Action",
+        "Notes": "[44]"
+      },
+      {
+        "Title": "Sound X",
+        "Developer(s)": "Ed Federmeyer",
+        "Publisher(s)": "Hozer Video Games",
+        "Year": "1994",
+        "Genre": "Music",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Game",
+        "Developer(s)": "Karl Garrison, Maggie Vogel",
+        "Publisher(s)": "AtariAge",
+        "Year": "2018",
+        "Genre": "Action",
+        "Notes": "AtariVox Enhanced"
+      },
+      {
+        "Title": "Space Rocks",
+        "Developer(s)": "Darrell Spice, Jr.",
+        "Publisher(s)": "AtariAge",
+        "Year": "2013",
+        "Genre": "Action",
+        "Notes": "AtariVox Enhanced"
+      },
+      {
+        "Title": "Space Treat Deluxe",
+        "Developer(s)": "Fabrizio Zavagli",
+        "Publisher(s)": "AtariAge",
+        "Year": "2003",
+        "Genre": "Action",
+        "Notes": "Included in the Activision Anthology[28]"
+      },
+      {
+        "Title": "Space Instigators",
+        "Developer(s)": "Christopher Tumber",
+        "Publisher(s)": "XYPE",
+        "Year": "2002",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Squish 'Em",
+        "Developer(s)": "Bob Montgomery",
+        "Publisher(s)": "AtariAge",
+        "Year": "2007",
+        "Genre": "Action",
+        "Notes": "Clone of Atari 8-bit computer game of the same name.[45]"
+      },
+      {
+        "Title": "The Stacks",
+        "Developer(s)": "Mike Mika and Kevin Wilson",
+        "Publisher(s)": "Parzavision",
+        "Year": "2011",
+        "Genre": "Action",
+        "Notes": "Pitfall!-like game based on a fictional homebrew mentioned in the novel Ready Player One and made downloadable at Stacks as part of a contest to win a DMC DeLorean"
+      },
+      {
+        "Title": "Star Fire",
+        "Developer(s)": "Manuel Rotschkar, Thomas Jentzsch",
+        "Publisher(s)": "XYPE",
+        "Year": "2003",
+        "Genre": "Action",
+        "Notes": "Clone of arcade game of the same name.[39]"
+      },
+      {
+        "Title": "Stay Frosty",
+        "Developer(s)": "SpiceWare (Darrell Spice Jr.)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2007",
+        "Genre": "Action",
+        "Notes": "Also included on 2007 AtariAge Holiday Cart: Stella's Stocking"
+      },
+      {
+        "Title": "Stay Frosty 2",
+        "Developer(s)": "SpiceWare (Darrell Spice Jr.)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2014",
+        "Genre": "Action"
+      },
+      {
+        "Title": "Stell-A-Sketch/Okie Dokie",
+        "Developer(s)": "Bob Colbert",
+        "Publisher(s)": "Retroware",
+        "Year": "1997",
+        "Genre": "Strategy"
+      },
+      {
+        "Title": "Strat-O-Gems Deluxe",
+        "Developer(s)": "John Payson",
+        "Publisher(s)": "AtariAge",
+        "Year": "2005",
+        "Genre": "Strategy",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Super Cobra Arcade",
+        "Developer(s)": "Champ Games (John W. Champeau)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2017",
+        "Genre": "Action",
+        "Notes": "Clone of arcade game Super Cobra"
+      },
+      {
+        "Title": "SWOOPS!",
+        "Developer(s)": "Thomas Jentzsch",
+        "Publisher(s)": "AtariAge",
+        "Year": "2005",
+        "Genre": "Action",
+        "Notes": "[39]"
+      },
+      {
+        "Title": "Synthcart",
+        "Developer(s)": "Paul Slocum",
+        "Publisher(s)": "AtariAge",
+        "Year": "2002",
+        "Genre": "Music",
+        "Notes": "[39] Keyboard controllers are used to create sound loops"
+      },
+      {
+        "Title": "Thrust",
+        "Developer(s)": "Thomas Jentzsch",
+        "Publisher(s)": "XYPE",
+        "Year": "2000",
+        "Genre": "Action",
+        "Notes": "[39] Clone of computer game of same name. Re-released with enhancements in 2002 as Thrust+ DC Edition and in 2003 as Thrust+ Platinum"
+      },
+      {
+        "Title": "Toyshop Trouble",
+        "Developer(s)": "John Payson, Zach Matley, Bob Montgomery, Thomas Jentzsch, Nathan Strum",
+        "Publisher(s)": "AtariAge",
+        "Year": "2007",
+        "Genre": "Action",
+        "Notes": "[39] Also released in 2006 as 2006 AtariAge Holiday Cart: Toyshop Trouble"
+      },
+      {
+        "Title": "Turbo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "AtariAge",
+        "Year": "2010",
+        "Genre": "Racing / Driving",
+        "Notes": "Clone of arcade game of the same name.[citation needed]"
+      },
+      {
+        "Title": "Vault Assault",
+        "Developer(s)": "Brian Prescott",
+        "Publisher(s)": "self-published",
+        "Year": "2001",
+        "Genre": "Action",
+        "Notes": "Included in the Activision Anthology[28]"
+      },
+      {
+        "Title": "Vong",
+        "Developer(s)": "Rick Skrbina",
+        "Publisher(s)": "self-published",
+        "Year": "2008",
+        "Genre": "Sports",
+        "Notes": "[46]"
+      },
+      {
+        "Title": "Wall Jump Ninja",
+        "Developer(s)": "Walaber",
+        "Publisher(s)": "AtariAge",
+        "Year": "2015",
+        "Genre": "Action",
+        "Notes": "Supports the AtariVox"
+      },
+      {
+        "Title": "Warring Worms",
+        "Developer(s)": "Baroque Gaming (Billy Eno)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2002",
+        "Genre": "Action",
+        "Notes": "[39] Expanded and re-released in 2005 as Warring Worms: The Worm (Re)Turns"
+      },
+      {
+        "Title": "The Wicked Father",
+        "Developer(s)": "Juno (Jamie Hamshere)",
+        "Publisher(s)": "self-published",
+        "Year": "2011",
+        "Genre": "Action",
+        "Notes": ""
+      },
+      {
+        "Title": "Zippy the Porcupine",
+        "Developer(s)": "Chris Spry",
+        "Publisher(s)": "AtariAge",
+        "Year": "2015",
+        "Genre": "Action",
+        "Notes": "Game based on Sonic the Hedgehog"
+      },
+      {
+        "Title": "Zoo Keeper",
+        "Developer(s)": "Champ Games (John W. Champeau)",
+        "Publisher(s)": "AtariAge",
+        "Year": "2021",
+        "Genre": "Action",
+        "Notes": "Clone of arcade game of the same name.[47]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1595 @@
+[
+  {
+    "table3": [
+      {
+        "Title": "Auto Racing",
+        "Genre": "Racing",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}NA: 1980-10-03",
+        "Notes": "Running change with steering changed from \"directional\" to \"realistic\" (left/right)."
+      },
+      {
+        "Title": "Boxing ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-10-21",
+        "Notes": "Two players required"
+      },
+      {
+        "Title": "Major League Baseball ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979[4]",
+        "Notes": "aka Baseball, Big League Baseball;  Two players required."
+      },
+      {
+        "Title": "NASL Soccer ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-09-04",
+        "Notes": "aka Soccer; Two players required."
+      },
+      {
+        "Title": "NBA Basketball ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979[4]",
+        "Notes": "aka Basketball;  Two players required."
+      },
+      {
+        "Title": "NFL Football ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979[4]",
+        "Notes": "aka Football;  Two players required."
+      },
+      {
+        "Title": "NHL Hockey ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-10-03",
+        "Notes": "aka Hockey;  Two players required."
+      },
+      {
+        "Title": "PBA Bowling",
+        "Genre": "Sports",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-07-31",
+        "Notes": "aka Bowling"
+      },
+      {
+        "Title": "PGA Golf [5]",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-11-05",
+        "Notes": "aka Golf"
+      },
+      {
+        "Title": "Tennis ^",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-12-10",
+        "Notes": "Two players required. In addition to Gavin Claypool, programming credits are also given to Chris Lutz.[6]"
+      },
+      {
+        "Title": "U.S. Ski Team Skiing",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-12-10",
+        "Notes": "aka Skiing. In addition to Scott Reynolds, programming credits are also given to Terry Ligocki.[6]"
+      },
+      {
+        "Title": "Advanced Dungeons & Dragons",
+        "Genre": "Action-adventure",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-08-16",
+        "Notes": "aka Advanced Dungeons & Dragons Cloudy Mountain, Adventure, Crown of Kings; Programming by Chris Hawley, Tom Soulanille, and Tom Loughry.[7]"
+      },
+      {
+        "Title": "Armor Battle ^",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979",
+        "Notes": "Running change with faster tank turning.  Two players required."
+      },
+      {
+        "Title": "Frog Bog",
+        "Genre": "Platform",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-05-25",
+        "Notes": ""
+      },
+      {
+        "Title": "Lock 'N' Chase",
+        "Genre": "Maze",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-07-09",
+        "Notes": ""
+      },
+      {
+        "Title": "Night Stalker",
+        "Genre": "Stealth",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-05-16",
+        "Notes": ""
+      },
+      {
+        "Title": "Sea Battle ^",
+        "Genre": "Action, Strategy",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-10-03",
+        "Notes": "Two players required."
+      },
+      {
+        "Title": "Shark! Shark!",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-12-06",
+        "Notes": ""
+      },
+      {
+        "Title": "Sharp Shot",
+        "Genre": "",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-10-28",
+        "Notes": "designed for voice activated control for TV Powww call-in game show"
+      },
+      {
+        "Title": "Snafu",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-10-15",
+        "Notes": ""
+      },
+      {
+        "Title": "Sub Hunt",
+        "Genre": "Action, Simulation",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-05-06",
+        "Notes": "Programming by John Hershberger and Tom Loughry[7]"
+      },
+      {
+        "Title": "Triple Action ^",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-10-15",
+        "Notes": "album cartridge:  Battle Tanks, Racing Cars, and Biplanes;  Two players required for Biplanes and Battle Tanks.  In addition to Rich O'Keefe, programming credits are also given to Shal Farley.[8]"
+      },
+      {
+        "Title": "Tron: Deadly Discs",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-09",
+        "Notes": ""
+      },
+      {
+        "Title": "Tron: Maze-a-Tron",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-10-06",
+        "Notes": ""
+      },
+      {
+        "Title": "Astrosmash",
+        "Genre": "Shooter",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-10-15",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Armada",
+        "Genre": "Shooter",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-10-15",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Battle",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-08-25",
+        "Notes": "Originally part of Action network.  Running change added a fifth \"super advanced\" difficulty level."
+      },
+      {
+        "Title": "Space Hawk",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-04-19",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Strike",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981-12-22",
+        "Notes": "Running change fixes bug with left controller."
+      },
+      {
+        "Title": "ABPA Backgammon",
+        "Genre": "Board Game",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979",
+        "Notes": "aka Backgammon"
+      },
+      {
+        "Title": "Checkers",
+        "Genre": "Board Game",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979[4]",
+        "Notes": "aka Draughts in some markets"
+      },
+      {
+        "Title": "Reversi",
+        "Genre": "Board Game",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-05-11",
+        "Notes": ""
+      },
+      {
+        "Title": "USCF Chess",
+        "Genre": "Board Game",
+        "Developer": "Mattel Electronics Teletape Inc.",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-11-23",
+        "Notes": "aka Chess"
+      },
+      {
+        "Title": "Utopia",
+        "Genre": "Construction and management simulation",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-06-03",
+        "Notes": "Credited as the game that spawned the construction and management simulation genre.  For one or two players."
+      },
+      {
+        "Title": "Horse Racing",
+        "Genre": "Gambling",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-10-03",
+        "Notes": ""
+      },
+      {
+        "Title": "Las Vegas Poker & Blackjack",
+        "Genre": "Gambling",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979",
+        "Notes": "aka Blackjack & Poker; pack-in game 1980-1982"
+      },
+      {
+        "Title": "Las Vegas Roulette",
+        "Genre": "Gambling",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-10-03",
+        "Notes": "Programmed by Walter Bright[9]  Intellivision Lives also credits John Brooks."
+      },
+      {
+        "Title": "Royal Dealer",
+        "Genre": "Card Game",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-09",
+        "Notes": ""
+      },
+      {
+        "Title": "The Electric Company: Math Fun[10]",
+        "Genre": "Educational",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1979",
+        "Notes": "aka Math Masters; Running change had digit entry changed from right to left to left to right."
+      },
+      {
+        "Title": "The Electric Company: Word Fun[11]",
+        "Genre": "Educational",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980-11-05",
+        "Notes": "album cartridge:  Crosswords, Word Hunt, and Word Rockets. In addition to Kevin Miller, programming credits are also given to Don Bacon.[6]"
+      },
+      {
+        "Title": "Vectron",
+        "Genre": "Shooter",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "B-17 Bomber †",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-07-23",
+        "Notes": ""
+      },
+      {
+        "Title": "Bomb Squad †",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-09-14",
+        "Notes": ""
+      },
+      {
+        "Title": "Space Spartans †",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982-06-29",
+        "Notes": ""
+      },
+      {
+        "Title": "Tron: Solar Sailer †",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Advanced Dungeons & Dragons: Treasure of Tarmin",
+        "Genre": "Role-playing",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": "aka Minotaur"
+      },
+      {
+        "Title": "Bump 'n' Jump",
+        "Genre": "Racing",
+        "Developer": "Technology Consultants",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "BurgerTime",
+        "Genre": "Maze",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Buzz Bombers",
+        "Genre": "Shooter",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Kool-Aid Man",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Loco-Motion",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Masters of the Universe: The Power of He-Man",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Mission X",
+        "Genre": "Shooter",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Motocross",
+        "Genre": "Racing",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Pinball",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Beamrider",
+        "Genre": "Shooter",
+        "Developer": "Cheshire Engineering",
+        "Publisher": "Activision",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Happy Trails",
+        "Genre": "Puzzle",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitfall!",
+        "Genre": "Platform",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "River Raid",
+        "Genre": "Shooter",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Stampede",
+        "Genre": "Shooter",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "The Dreadnaught Factor",
+        "Genre": "Action",
+        "Developer": "Cheshire Engineering",
+        "Publisher": "Activision",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Worm Whomper",
+        "Genre": "Shooter",
+        "Developer": "Cheshire Engineering",
+        "Publisher": "Activision",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Centipede",
+        "Genre": "Shooter",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Defender",
+        "Genre": "Shooter",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Pac-Man",
+        "Genre": "Maze",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Released": "NA: 1983",
+        "Notes": "Later re-released by INTV Corporation."
+      },
+      {
+        "Title": "Carnival",
+        "Genre": "Shooter",
+        "Developer": "Roklan[12]",
+        "Publisher": "Coleco",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Donkey Kong",
+        "Genre": "Platform",
+        "Developer": "Roklan[12]",
+        "Publisher": "Coleco",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Donkey Kong Jr.",
+        "Genre": "Platform",
+        "Developer": "Roklan[12]",
+        "Publisher": "Coleco",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Lady Bug",
+        "Genre": "Maze",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Mouse Trap",
+        "Genre": "Maze",
+        "Developer": "Roklan[12]",
+        "Publisher": "Coleco",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Turbo",
+        "Genre": "Racing",
+        "Developer": "",
+        "Publisher": "Coleco",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Venture",
+        "Genre": "Action-adventure",
+        "Developer": "Roklan[12]",
+        "Publisher": "Coleco",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Zaxxon",
+        "Genre": "Shooter",
+        "Developer": "Roklan[12]",
+        "Publisher": "Coleco",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Atlantis",
+        "Genre": "Shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Beauty & the Beast",
+        "Genre": "Platform",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Demon Attack",
+        "Genre": "Shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Dracula",
+        "Genre": "Action",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Dragonfire",
+        "Genre": "Action",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Fathom",
+        "Genre": "Action-adventure",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Ice Trek[13]",
+        "Genre": "Action",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Microsurgeon",
+        "Genre": "Action, Simulation",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Nova Blast",
+        "Genre": "Shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Safecracker",
+        "Genre": "Action",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Swords & Serpents",
+        "Genre": "Action-adventure",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Tropical Trouble",
+        "Genre": "Platform",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1982",
+        "Notes": ""
+      },
+      {
+        "Title": "Truckin",
+        "Genre": "Driving, Simulation",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "White Water!",
+        "Genre": "Action",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Blockade Runner",
+        "Genre": "Shooter",
+        "Developer": "Interphase Technologies Inc.",
+        "Publisher": "Interphase Technologies Inc.",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Sewer Sam",
+        "Genre": "Shooter",
+        "Developer": "Interphase Technologies Inc.",
+        "Publisher": "Interphase Technologies Inc.",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Frogger",
+        "Genre": "Platform",
+        "Developer": "Roklan[12]",
+        "Publisher": "Parker Brothers",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Popeye",
+        "Genre": "Platform",
+        "Developer": "Roklan[12]",
+        "Publisher": "Parker Brothers",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Q*bert",
+        "Genre": "Platform",
+        "Developer": "Roklan[12]",
+        "Publisher": "Parker Brothers",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Wars: The Empire Strikes Back",
+        "Genre": "Shooter",
+        "Developer": "Roklan[12]",
+        "Publisher": "Parker Brothers",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Cobra",
+        "Genre": "Shooter",
+        "Developer": "Roklan[12]",
+        "Publisher": "Parker Brothers",
+        "Released": "NA: 1983",
+        "Notes": "Was not available in the United States.[14]"
+      },
+      {
+        "Title": "Tutankham",
+        "Genre": "Shooter",
+        "Developer": "Roklan[12]",
+        "Publisher": "Parker Brothers",
+        "Released": "NA: 1983",
+        "Notes": "Was not available in the United States.[14]"
+      },
+      {
+        "Title": "Congo Bongo",
+        "Genre": "Platform",
+        "Developer": "Beck-Tech",
+        "Publisher": "Sega",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Championship Tennis",
+        "Genre": "Sports",
+        "Developer": "Nice Ideas",
+        "Publisher": "Dextell Ltd.",
+        "Released": "NA: 1986EU: 1985",
+        "Notes": ""
+      },
+      {
+        "Title": "World Cup Soccer",
+        "Genre": "Sports",
+        "Developer": "Nice Ideas",
+        "Publisher": "Dextell Ltd.",
+        "Released": "NA: 1986EU: 1985",
+        "Notes": "When used with the ECS Computer Adapter up-to four controllers and cooperative two-player game-play is supported.  aka Super Soccer"
+      },
+      {
+        "Title": "Body Slam: Super Pro Wrestling",
+        "Genre": "Action",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1988",
+        "Notes": ""
+      },
+      {
+        "Title": "Chip Shot: Super Pro Golf",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-06",
+        "Notes": ""
+      },
+      {
+        "Title": "Commando",
+        "Genre": "Shooter",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-10",
+        "Notes": ""
+      },
+      {
+        "Title": "Dig Dug",
+        "Genre": "Action",
+        "Developer": "Atari",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-06",
+        "Notes": ""
+      },
+      {
+        "Title": "Diner",
+        "Genre": "Action",
+        "Developer": "Realtime Associates, Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-06",
+        "Notes": ""
+      },
+      {
+        "Title": "Hover Force",
+        "Genre": "Action",
+        "Developer": "Realtime Associates, Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1986",
+        "Notes": "Programmed with ChromaDepth 3-D technology[15] and shown publicly by Mattel Electronics as HoverForce 3-D at 1984 January CES.[16]  Released by INTV with modified game-play, 3-D glasses not included.[17]"
+      },
+      {
+        "Title": "Learning Fun I",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates, Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-06",
+        "Notes": "aka Factor Fun; also includes Math Master from Math Fun cartridge"
+      },
+      {
+        "Title": "Learning Fun II",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates, Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-10",
+        "Notes": "aka Memory Fun; also includes Word Rockets, Word Hunt, Crosswords from Word Fun cartridge"
+      },
+      {
+        "Title": "Mountain Madness: Super Pro Skiing",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates, APh Technological Consulting",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1988",
+        "Notes": "updated U.S. Ski Team Skiing"
+      },
+      {
+        "Title": "Pole Position",
+        "Genre": "Racing",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1988",
+        "Notes": ""
+      },
+      {
+        "Title": "Slam Dunk: Super Pro Basketball",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates, APh Technological Consulting",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-10",
+        "Notes": "updated NBA Basketball"
+      },
+      {
+        "Title": "Slap Shot: Super Pro Hockey",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates, APh Technological Consulting",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-10",
+        "Notes": "updated NHL Hockey"
+      },
+      {
+        "Title": "Spiker! Super Pro Volleyball",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1989",
+        "Notes": ""
+      },
+      {
+        "Title": "Stadium Mud Buggies",
+        "Genre": "Racing",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1989",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Pro Decathlon",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1988",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Pro Football",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates, APh Technological Consulting",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1986",
+        "Notes": "updated NFL Football"
+      },
+      {
+        "Title": "Thin Ice",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1986",
+        "Notes": ""
+      },
+      {
+        "Title": "Thunder Castle",
+        "Genre": "Maze",
+        "Developer": "Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1985[18]",
+        "Notes": ""
+      },
+      {
+        "Title": "Tower of Doom",
+        "Genre": "Role-playing",
+        "Developer": "Realtime Associates, Mattel Electronics",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-03",
+        "Notes": "Programmed by Daniel Bass as ADVANCED DUNGEONS & DRAGONS Tower of Mystery Cartridge. Game-play and strategy was incomplete when Mattel Electronics closed in 1984.  John Tomlinson prepared the game for the 1987 INTV release.[19][20]"
+      },
+      {
+        "Title": "Triple Challenge .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}*",
+        "Genre": "Board game",
+        "Developer": "Mattel Electronics Teletape Inc. APh Technological Consulting",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1987-03",
+        "Notes": "Compilation of previously released games Chess, Checkers, and Backgammon"
+      },
+      {
+        "Title": "World Championship Baseball",
+        "Genre": "Sports",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "INTV Corporation",
+        "Released": "NA: 1985[18]",
+        "Notes": "aka All-Star Major League Baseball; updated Major League Baseball"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title": "The Jetsons' Ways With Words[21] ‡",
+        "Genre": "Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": "Developed with Mattel's Educational Product Department."
+      },
+      {
+        "Title": "Melody Blaster ‡",
+        "Genre": "Music",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": "designed for the Music Synthesizer piano keyboard"
+      },
+      {
+        "Title": "Mind Strike ‡",
+        "Genre": "Strategy",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Mr. Basic Meets Bits 'N Bytes ‡",
+        "Genre": "Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": "runs without the ECS Computer Module with limited features"
+      },
+      {
+        "Title": "Scooby Doo's Maze Chase ‡",
+        "Genre": "Stealth",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": ""
+      },
+      {
+        "Title": "World Series Major League Baseball † ‡",
+        "Genre": "Sports",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1983",
+        "Notes": "aka Super Series Big League Baseball; First sports simulation and management video-game."
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Title": "BASIC Cassette & Cartridge[23]",
+        "Genre": "Programming",
+        "Developer": "APh Technological Consulting, Microsoft",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1980",
+        "Notes": "Based on Microsoft BASIC v2.0b for MOS 6502.[24]  Unique cartridge using one of the Keyboard Component I/O ports."
+      },
+      {
+        "Title": "Conversational French §",
+        "Genre": "Educational",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981",
+        "Notes": "Programming credits to Mark Stroberg, Scott Bishop, Alan Blanchard, Hal Finney, Kirsi Allison, John Tomlinson, John Brooks, Jon Buss.[6]"
+      },
+      {
+        "Title": "Crosswords I §",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982",
+        "Notes": "Requires the BASIC cartridge."
+      },
+      {
+        "Title": "Crosswords II §",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982",
+        "Notes": "Requires the BASIC cartridge."
+      },
+      {
+        "Title": "Crosswords III §",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982",
+        "Notes": "Requires the BASIC cartridge."
+      },
+      {
+        "Title": "Family Budgeting §",
+        "Genre": "Financial",
+        "Developer": "",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982",
+        "Notes": "Requires the BASIC cartridge."
+      },
+      {
+        "Title": "Geography Challenge §",
+        "Genre": "Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1982",
+        "Notes": "Requires the BASIC cartridge.  Programmed by Don Daglow and Julie Hoshizaki in BASIC.[25]"
+      },
+      {
+        "Title": "Jack LaLanne's Physical Conditioning §",
+        "Genre": "Fitness",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Released": "NA: 1981",
+        "Notes": "Programming credits to Robby Butler, Tom Loughry, Hal Finney, John Brooks, Mark Stroberg.[6]"
+      }
+    ]
+  },
+  {
+    "table6": [
+      {
+        "Title": "Adventures of TRON",
+        "Genre": "Platform",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "An Atari 2600 conversion of Mazeatron converted back to Intellivision.  Rejected by Mattel marketing."
+      },
+      {
+        "Title": "Air Strike",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Unfinished but playable.  Rejected by Mattel marketing.  Released in 1998 Intellivision Lives! PC/Mac"
+      },
+      {
+        "Title": "Brickout!",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1981",
+        "Notes": "Created for the Triple Action cartridge.  Dropped due to legal concerns.  Released in 1998 Intellivision Lives! PC/Mac."
+      },
+      {
+        "Title": "Chartcraft Stock Analysis §",
+        "Genre": "Financial",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "",
+        "Notes": "Keyboard Component cancelled. Programming credits to Jon Buss, Bill Chapman, Kevin Miller, Scott Reynolds.[6]"
+      },
+      {
+        "Title": "Choplifter!",
+        "Genre": "Action",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Copyright": "1990",
+        "Notes": "lacks some sound effects."
+      },
+      {
+        "Title": "Deep Pockets Super Pro Pool & Billiards",
+        "Genre": "Sports",
+        "Developer": "Realtime Associates",
+        "Publisher": "INTV Corporation",
+        "Copyright": "1990",
+        "Notes": "Released in 1998 Intellivision Lives! PC/Mac and Intellivision for PC Volume 2"
+      },
+      {
+        "Title": "Doubles Tennis",
+        "Genre": "Sports",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Ray Kaestner updated the original Intellivision Tennis with computer controlled players and support for ECS four controllers.[30]  Unrelated to Championship Tennis.[31]"
+      },
+      {
+        "Title": "Fireman[32][31]",
+        "Genre": "Action",
+        "Developer": "Nice Ideas",
+        "Publisher": "",
+        "Copyright": "",
+        "Notes": ""
+      },
+      {
+        "Title": "The Flintstones' Keyboard Fun ‡",
+        "Genre": "Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Developed with Mattel's Educational Product Department."
+      },
+      {
+        "Title": "Game Factory ‡",
+        "Genre": "Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Video-game construction kit.  Released in 2001 Intellivision Rocks"
+      },
+      {
+        "Title": "Gli Spartani Dello Spazio †",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Space Spartans with Italian speech; requires the unreleased International Intellivoice"
+      },
+      {
+        "Title": "Go for the Gold *",
+        "Genre": "Sports",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Compilation of previously released games Skiing, Hockey, Basketball, and Boxing"
+      },
+      {
+        "Title": "Hockey (Pong)",
+        "Genre": "Action",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1981",
+        "Notes": "Created for the Triple Action cartridge.  Dropped due to legal concerns."
+      },
+      {
+        "Title": "Illusions",
+        "Genre": "Puzzle",
+        "Developer": "Nice Ideas",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Jeanne Dixon Astrology §",
+        "Genre": "Entertainment",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "",
+        "Notes": "Keyboard Component cancelled. Programming credits to Kevin Miller, Greg Favor[6]"
+      },
+      {
+        "Title": "Joust[28]",
+        "Genre": "Action",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Copyright": "1983",
+        "Notes": "no known prototype found; unreleased due to market crash"
+      },
+      {
+        "Title": "Jungle Hunt[28]",
+        "Genre": "Action",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Copyright": "1983",
+        "Notes": "no known prototype found; unreleased due to market crash"
+      },
+      {
+        "Title": "King of the Mountain",
+        "Genre": "Action-adventure",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Lacks sound effects and only mountains 1 and 6 accessible.  Programmed by Judy Mason.  Released in 1998 Intellivision Lives! PC/Mac."
+      },
+      {
+        "Title": "Land Battle ^",
+        "Genre": "Action, Strategy",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Two-players required.  Cancelled by marketing.  Released in 1998 Intellivision Lives! PC/Mac."
+      },
+      {
+        "Title": "Las Vegas Craps",
+        "Genre": "Gambling",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "",
+        "Notes": ""
+      },
+      {
+        "Title": "League of Light",
+        "Genre": "Music",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Copyright": "1983",
+        "Notes": "Released in 2001 Intellivision Rocks.  Programmers, Russ Lieblich and Peter Kaminski,[33] switched to Commodore 64 development and released the game as Master of the Lamps in 1985.[34]"
+      },
+      {
+        "Title": "Les Spartiates De L'Espace †",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Space Spartans with French speech; requires the unreleased International Intellivoice"
+      },
+      {
+        "Title": "Magic Carousel †",
+        "Genre": "Children's Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Postponed by Mattel marketing. Released in 2001 Intellivision Rocks"
+      },
+      {
+        "Title": "Magic Carpet[32][31]",
+        "Genre": "Action",
+        "Developer": "Nice Ideas",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "",
+        "Notes": ""
+      },
+      {
+        "Title": "Meteor",
+        "Genre": "Shooter",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1981",
+        "Notes": "Unfinished but playable; embedded in Astrosmash.  Dropped due to legal concerns.  Released in 1998 Intellivision Lives! PC/Mac"
+      },
+      {
+        "Title": "Missile Command[28]",
+        "Genre": "Shooter",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Copyright": "1983",
+        "Notes": "no known prototype found; unreleased due to poor playability[28]"
+      },
+      {
+        "Title": "Number Jumble",
+        "Genre": "Educational",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "ECS provides scratchpad work area but plays without it.  Developed with Mattel's Educational Product Department.  Released in 1998 Intellivision Lives! PC/Mac."
+      },
+      {
+        "Title": "Party Line: Blow Out",
+        "Genre": "Party games",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Part of the Party Line album cartridge.  Released in 2004 Intellivision Lives! for Nintendo DS"
+      },
+      {
+        "Title": "Party Line: Hard Hat",
+        "Genre": "Party games",
+        "Developer": "Nice Ideas",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Part of the Party Line album cartridge.  Released in 1998 Intellivision Lives! PC/Mac"
+      },
+      {
+        "Title": "Party Line: Space Cadet",
+        "Genre": "Party games",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Part of the Party Line album cartridge.  Released in 1998 Intellivision Lives! PC/Mac"
+      },
+      {
+        "Title": "PizzaTime[32][31]",
+        "Genre": "Maze",
+        "Developer": "Nice Ideas",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "",
+        "Notes": "BurgerTime sequel"
+      },
+      {
+        "Title": "Pole Position[28]",
+        "Genre": "Racing",
+        "Developer": "Atari",
+        "Publisher": "Atarisoft",
+        "Copyright": "1983",
+        "Notes": "no known prototype found; unreleased due to market crash"
+      },
+      {
+        "Title": "Robot Rubble",
+        "Genre": "Action",
+        "Developer": "Activision",
+        "Publisher": "Activision",
+        "Copyright": "1983",
+        "Notes": "Released in 2001 Intellivision Rocks"
+      },
+      {
+        "Title": "Rocky & Bullwinkle",
+        "Genre": "Puzzle",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Cancelled by new management."
+      },
+      {
+        "Title": "Scarfinger",
+        "Genre": "Action",
+        "Developer": "Nice Ideas",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "Rejected by Mattel marketing."
+      },
+      {
+        "Title": "Shootin' Gallery[35]",
+        "Genre": "Shooter",
+        "Developer": "Imagic",
+        "Publisher": "Imagic",
+        "Copyright": "",
+        "Notes": "Atari 2600 version sold poorly.[36]"
+      },
+      {
+        "Title": "Spartaner aus dem All †",
+        "Genre": "Action",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Space Spartans with German speech; requires the unreleased International Intellivoice"
+      },
+      {
+        "Title": "Spelling Challenge §",
+        "Genre": "Educational",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "NA: 1982",
+        "Notes": "Programmed by Peter Kaminski, who also worked on an unreleased Math Challenge.[37]"
+      },
+      {
+        "Title": "Spina the Bee",
+        "Genre": "Action",
+        "Developer": "Nice Ideas",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": "aka Zzzz! Spina the Bee.  Based on a European cartoon character, popular with little girls.  Rejected by Mattel marketing."
+      },
+      {
+        "Title": "Super NFL Football ‡",
+        "Genre": "Sports",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": ""
+      },
+      {
+        "Title": "Takeover ^",
+        "Genre": "Real-time strategy",
+        "Developer": "APh Technological Consulting",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1982",
+        "Notes": "Two-players required.  Rejected by Mattel marketing.  Released in 1998 Intellivision Lives! PC/Mac"
+      },
+      {
+        "Title": "Tetris",
+        "Genre": "Puzzle",
+        "Developer": "Realtime Associates",
+        "Publisher": "",
+        "Copyright": "",
+        "Notes": "Programmed by David Warhol to test new PC development system; not for release."
+      },
+      {
+        "Title": "Yogi's Frustration",
+        "Genre": "Platform",
+        "Developer": "Mattel Electronics",
+        "Publisher": "Mattel Electronics",
+        "Copyright": "1983",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "table7": [
+      {
+        "Title": "Busy Bodies",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Geo Graphics",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": "Geography Level 2"
+      },
+      {
+        "Title": "Jungle Math",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Map Mazes",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": "Social Studies Level 1"
+      },
+      {
+        "Title": "Nounsense",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Shapes In Space",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": "Math Level 1"
+      },
+      {
+        "Title": "Story Stopper",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Tale Teller",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Time Trip",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Time Trip (Canadian Edition)",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Tops In Terms",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Wordcalc",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Wordsmith",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Write It Right",
+        "Genre": "Educational",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      },
+      {
+        "Title": "Zoo Review",
+        "Genre": "Educational (young children)",
+        "Developer": "Realtime Associates",
+        "Publisher": "World Book",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "table8": [
+      {
+        "Title": "4-Tris",
+        "Genre": "Puzzle",
+        "Developer": "Joe Zbiciak",
+        "Publisher": "Joe Zbiciak",
+        "Released": "NA: 2001"
+      },
+      {
+        "Title": "Minehunter",
+        "Genre": "Puzzle",
+        "Developer": "Ryan Kinnen",
+        "Publisher": "Ryan Kinnen",
+        "Released": "NA: 2004"
+      },
+      {
+        "Title": "Same Game and Robots",
+        "Genre": "",
+        "Developer": "Michael Hayes, David Harley",
+        "Publisher": "Michael Hayes, David Harley",
+        "Released": "NA: 2004"
+      },
+      {
+        "Title": "Stonix",
+        "Genre": "",
+        "Developer": "Arnauld Chevallier, David Harley, Heather Harley",
+        "Publisher": "Arnauld Chevallier, David Harley, Heather Harley",
+        "Released": "NA: 2004"
+      },
+      {
+        "Title": "Space Patrol",
+        "Genre": "Shooter",
+        "Developer": "Joe Zbiciak",
+        "Publisher": "Joe Zbiciak",
+        "Released": "NA: 2007"
+      },
+      {
+        "Title": "Blix",
+        "Genre": "Puzzle",
+        "Developer": "Michael Hayes",
+        "Publisher": "Good Deal Games",
+        "Released": "NA: 2014"
+      },
+      {
+        "Title": "Piggy Bank",
+        "Genre": "Action",
+        "Developer": "Mark Ball",
+        "Publisher": "BBWW Games",
+        "Released": "NA: 2015"
+      },
+      {
+        "Title": "Christmas Carol vs. The Ghost Of Christmas Presents",
+        "Genre": "Action",
+        "Developer": "James Pujals",
+        "Publisher": "Left Turn Only",
+        "Released": "WW: 2012"
+      }
+    ]
+  }
+]

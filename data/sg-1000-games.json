@@ -1,0 +1,957 @@
+[
+  {
+    "table1": [
+      {
+        "Title[1]": "Borderline",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[2]": "March 1984",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "The Castle",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "1986",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Champion Baseball",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "October 1983",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "Champion Boxing",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "October 1984[a]",
+        "AUS": "Unreleased[b]",
+        "NZ": "January 1985[4]"
+      },
+      {
+        "Title[1]": "Champion Golf",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "March 1984[c]",
+        "AUS": "June 1984",
+        "NZ": "June 1984[5]"
+      },
+      {
+        "Title[1]": "Champion Pro Wrestling",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "March 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Champion Soccer",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "November 1984",
+        "AUS": "Unreleased[b]",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Champion Tennis",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "August 1983",
+        "AUS": "November 1983",
+        "NZ": "November 1983[6]"
+      },
+      {
+        "Title[1]": "Congo Bongo",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 15, 1983",
+        "AUS": "November 1983",
+        "NZ": "November 1983[6]"
+      },
+      {
+        "Title[1]": "Exerion",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "March 1984",
+        "AUS": "June 1984",
+        "NZ": "June 1984[5]"
+      },
+      {
+        "Title[1]": "Flicky",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "December 1984",
+        "AUS": "Unreleased",
+        "NZ": "February 1985[4]"
+      },
+      {
+        "Title[1]": "Girl's Garden",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "January 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "GP World",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "April 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Golgo 13",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "April 1984",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Home Mahjong",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "December 1984",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Hustle Chumy",
+        "Developer": "CompileSega",
+        "Publisher": "Sega",
+        "JP[2]": "November 1984",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Hyper Sports",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "April 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Lode Runner",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "September 1984",
+        "AUS": "Unreleased[b]",
+        "NZ": "January 1985[4]"
+      },
+      {
+        "Title[1]": "Loretta no Shōzō: Sherlock Holmes",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "February 18, 1987[1]",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Mahjong",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 15, 1983",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Monaco GP",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "December 1983[d]",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "N-Sub",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[2]": "July 15, 1983",
+        "AUS": "November 1983",
+        "NZ": "November 1983[6]"
+      },
+      {
+        "Title[1]": "Orguss",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "May 1984",
+        "AUS": "October 1984[3]",
+        "NZ": "February 1985[4]"
+      },
+      {
+        "Title[1]": "Othello",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Pacar",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "November 1983",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "Pachinko",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "December 1983",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Pachinko II",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "April 1984",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Pop Flamer",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "November 1983",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "Safari Hunting",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[2]": "August 1983",
+        "AUS": "November 1983",
+        "NZ": "November 1983[6]"
+      },
+      {
+        "Title[1]": "Safari Race",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 1984",
+        "AUS": "October 1984[3]",
+        "NZ": "January 1985[4]"
+      },
+      {
+        "Title[1]": "Sega FlipperVideo FlipperNZ",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "October 1983",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "Sega-Galaga",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "November 1983",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Serizawa Hachidan no Tsume Shōgi",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 15, 1983",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Shinnyū Shain Tōru-kun",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "April 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Sindbad Mystery",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "January 1984",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title[1]": "Space Invaders",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "June 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Space Slalom",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "December 1983",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Star Force",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "May 1985[e]",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Star Jacker",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 15, 1983",
+        "AUS": "November 1983",
+        "NZ": "November 1983[6]"
+      },
+      {
+        "Title[1]": "Uranai Angel Cutie",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "December 1984",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Yamato",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "July 15, 1983",
+        "AUS": "November 1983",
+        "NZ": "November 1983[6]"
+      },
+      {
+        "Title[1]": "Zaxxon",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "February 1985",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title[1]": "Zippy Race",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[2]": "March 1984[f]",
+        "AUS": "Unreleased",
+        "NZ": "Unreleased"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title[2]": "007 James Bond",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "December 1984"
+      },
+      {
+        "Title[2]": "Challenge Derby",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "June 1984"
+      },
+      {
+        "Title[2]": "Guzzler",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "October 1983"
+      },
+      {
+        "Title[2]": "Okamoto Ayako no Match Play Golf",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "July 1984"
+      },
+      {
+        "Title[2]": "Q*bert",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "October 1983"
+      },
+      {
+        "Title[2]": "Sannin Mahjong",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "May 1984"
+      },
+      {
+        "Title[2]": "Space Armor",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "December 1984"
+      },
+      {
+        "Title[2]": "Space Mountain",
+        "Developer": "Tsukuda Original",
+        "Publisher": "Tsukuda Original",
+        "JP[2]": "May 1984"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title[1]": "Bank Panic",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "September 1985"
+      },
+      {
+        "Title[1]": "The Black Onyx",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1987"
+      },
+      {
+        "Title[1]": "Bomb Jack",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "December 1985"
+      },
+      {
+        "Title[1]": "C-So!",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[7]": "February 1986"
+      },
+      {
+        "Title[1]": "Chack'n Pop",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "September 1985"
+      },
+      {
+        "Title[1]": "Champion Billiards",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[7]": "1986"
+      },
+      {
+        "Title[1]": "Champion Boxing",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1985"
+      },
+      {
+        "Title[1]": "Champion Golf",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1985"
+      },
+      {
+        "Title[1]": "Champion Ice Hockey",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "December 1985"
+      },
+      {
+        "Title[1]": "Champion Kendo",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "April 1986"
+      },
+      {
+        "Title[1]": "Championship Lode Runner",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[7]": "December 1985"
+      },
+      {
+        "Title[1]": "Choplifter",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[7]": "July 1985"
+      },
+      {
+        "Title[1]": "Doki Doki Penguin Land",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "July 1985"
+      },
+      {
+        "Title[1]": "Dragon Wang",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "July 1985"
+      },
+      {
+        "Title[1]": "Drol",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "October 1985"
+      },
+      {
+        "Title[1]": "Elevator Action",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "November 1985"
+      },
+      {
+        "Title[1]": "Gulkave",
+        "Developer": "Compile",
+        "Publisher": "Sega",
+        "JP[7]": "1986"
+      },
+      {
+        "Title[1]": "Hang-On II",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "December 1985"
+      },
+      {
+        "Title[1]": "H.E.R.O.",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "December 1985"
+      },
+      {
+        "Title[1]": "Monaco GP",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1985"
+      },
+      {
+        "Title[1]": "Ninja Princess",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "February 1986"
+      },
+      {
+        "Title[1]": "Pitfall II: Lost Caverns",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "July 1985"
+      },
+      {
+        "Title[1]": "Rock n' Bolt",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "November 1985"
+      },
+      {
+        "Title[1]": "Sokoban",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "December 1985"
+      },
+      {
+        "Title[1]": "Star Force",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1985"
+      },
+      {
+        "Title[1]": "Super Tank",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1986"
+      },
+      {
+        "Title[1]": "Wonder Boy",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1986"
+      },
+      {
+        "Title[1]": "Zippy Race",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "1985"
+      },
+      {
+        "Title[1]": "Zoom 909",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP[7]": "July 1985"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title[1]": "Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Kagaku (Gensokigou Master)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Music",
+        "Developer": "Mitec",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Nihonshi Nenpyou",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Sekaishi Nenpyou (Monbushou Shidouyouryou Junkyo)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Tanoshī Sansū (Shōgaku 4-Nensei-jō)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Tanoshī Sansū (Shōgaku 4-Nensei-ka)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1984"
+      },
+      {
+        "Title[1]": "Tanoshī Sansū (Shōgaku 5-Nensei-jō)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1984"
+      },
+      {
+        "Title[1]": "Tanoshī Sansū (Shōgaku 5-Nensei-ka)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1984"
+      },
+      {
+        "Title[1]": "Tanoshī Sansū (Shōgaku 6-Nensei-jō)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1984"
+      },
+      {
+        "Title[1]": "Tanoshī Sansū (Shōgaku 6-Nensei-ka)",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "Released": "1984"
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Title[1]": "BASIC Level II A",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "BASIC Level II B",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "BASIC Level III A",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "BASIC Level III B",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "BASIC SK-III",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1983"
+      },
+      {
+        "Title[1]": "Home BASIC",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1985"
+      },
+      {
+        "Title[1]": "Home BASIC Level II B",
+        "Developer": "Mitech",
+        "Publisher": "Sega",
+        "Released": "1985"
+      }
+    ]
+  },
+  {
+    "table6": [
+      {
+        "Title": "TV Oekaki",
+        "Developer": "Sega",
+        "Publisher": "Sega",
+        "JP": "1985"
+      }
+    ]
+  },
+  {
+    "table7": [
+      {
+        "Title": "Addition Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Alpha Alphabet",
+        "Developer": "Wayne G. Richmond",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Australian General Knowledge Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Australian Geography Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Blackjack",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "August 1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Demon Division",
+        "Developer": "Pyramid Software",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Dragonquest",
+        "Developer": "Hercules Gunter",
+        "Publisher": "John Sands Electronics",
+        "AUS": "July 1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Division Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Environoid",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Flashword 1",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Flashword 2",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Heroic Quest",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Ice Cream Stall",
+        "Developer": "Pyramid Software",
+        "Publisher": "John Sands Electronics",
+        "AUS": "August 1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Keyboard Learning Program",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Learning the Alphabet",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Learning to Count",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Marauding Multiplication",
+        "Developer": "Pyramid Software",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Metric Mentals",
+        "Developer": "Wayne G. Richmond",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Multiplication Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Reverso",
+        "Developer": "Gold Record Software",
+        "Publisher": "John Sands Electronics",
+        "AUS": "August 1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Roman Numbers-Up",
+        "Developer": "Wayne G. Richmond",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Satellite Subtraction",
+        "Developer": "Pyramid Software",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Solar Conquest",
+        "Developer": "Programming Concepts",
+        "Publisher": "John Sands Electronics",
+        "AUS": "July 1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Spelling Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Spellomatic 1",
+        "Developer": "Wayne G. Richmond",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Spellomatic 2",
+        "Developer": "Wayne G. Richmond",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Subtraction Tutor",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1983",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Tank Addition",
+        "Developer": "Pyramid Software",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Watch Me Draw",
+        "Developer": "John Sands Electronics",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "1984"
+      },
+      {
+        "Title": "Whiz Kid Mental Arithmetic",
+        "Developer": "Wayne G. Richmond",
+        "Publisher": "John Sands Electronics",
+        "AUS": "1984",
+        "NZ": "Unreleased"
+      },
+      {
+        "Title": "Word Block",
+        "Developer": "Creative Print Ideas",
+        "Publisher": "John Sands Electronics",
+        "AUS": "August 1984",
+        "NZ": "Unreleased"
+      }
+    ]
+  }
+]

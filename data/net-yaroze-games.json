@@ -1,0 +1,756 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Platform",
+        "Genre(s)": "Ira Rainey",
+        "Developer(s)": "1997",
+        "Year": "[14][15]"
+      },
+      {
+        "Title": "Cards",
+        "Genre(s)": "David Johnston, Rob Steward",
+        "Developer(s)": "1999",
+        "Year": "[16]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Robert Swan",
+        "Developer(s)": "1998",
+        "Year": "[17][18][19]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Kazunari Ishida",
+        "Developer(s)": "1997",
+        "Year": "[20]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "K. Okada, H. Endo, J. Suehiro, M. Taniguti",
+        "Developer(s)": "1998",
+        "Year": "[21]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "1998",
+        "Year": "[4]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Nick Ferguson",
+        "Developer(s)": "1998",
+        "Year": "[22]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "David Johnston",
+        "Developer(s)": "1999",
+        "Year": "[23]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Alex Mole",
+        "Developer(s)": "2002",
+        "Year": "[24]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Tom Madans",
+        "Developer(s)": "2004",
+        "Year": "[25]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "Hideki Kubo, Mineko Kubo",
+        "Developer(s)": "1998",
+        "Year": "[26]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Gareth Musgrove",
+        "Developer(s)": "1998",
+        "Year": "[27]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Lewis Evans",
+        "Developer(s)": "1997",
+        "Year": "[28][29][30]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Olly Read",
+        "Developer(s)": "1998",
+        "Year": "[31]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Takuya Iwano",
+        "Developer(s)": "1997",
+        "Year": "[32]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Chris Chadwick",
+        "Developer(s)": "1998",
+        "Year": "[17][30][33]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Daniel M. Johnson",
+        "Developer(s)": "1998",
+        "Year": "[19]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "David Johnston, Mike Goatly",
+        "Developer(s)": "1999",
+        "Year": "[34]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Peter Hardy",
+        "Developer(s)": "1998",
+        "Year": "[27]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "Peter Hardy",
+        "Developer(s)": "1998",
+        "Year": "[31]"
+      },
+      {
+        "Title": "Arcade",
+        "Genre(s)": "Scott Evans",
+        "Developer(s)": "1997",
+        "Year": "[30][35]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "Olly Read",
+        "Developer(s)": "1998",
+        "Year": "[27]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "1997",
+        "Year": "[4]"
+      },
+      {
+        "Title": "Arcade",
+        "Genre(s)": "Lewis Evans",
+        "Developer(s)": "1997",
+        "Year": "[36]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "John Wojcik",
+        "Developer(s)": "2001",
+        "Year": "[37]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "William Docherty",
+        "Developer(s)": "1997",
+        "Year": "[36]"
+      },
+      {
+        "Title": "Maze",
+        "Genre(s)": "Matthew Follett",
+        "Developer(s)": "1998",
+        "Year": "[31]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Stuart Ashley",
+        "Developer(s)": "1997",
+        "Year": "[38]"
+      },
+      {
+        "Title": "Arcade",
+        "Genre(s)": "Ryunosuke Taki",
+        "Developer(s)": "1997",
+        "Year": "[38]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Sidhe Interactive",
+        "Developer(s)": "1998",
+        "Year": "[39][40]"
+      },
+      {
+        "Title": "First-person shooter",
+        "Genre(s)": "Stuart Ashley",
+        "Developer(s)": "1997",
+        "Year": "[29][30][41]"
+      },
+      {
+        "Title": "Simulation",
+        "Genre(s)": "Nick Slaven",
+        "Developer(s)": "1998",
+        "Year": "[17]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "DragonShadow Industries",
+        "Developer(s)": "1999",
+        "Year": "[42]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "2001",
+        "Year": "[4]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "Andy Weissl, Dennis Brinkhuis",
+        "Developer(s)": "2002",
+        "Year": "[43]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "Derek Leigh-Gilchrist",
+        "Developer(s)": "1997",
+        "Year": "[36][38]"
+      },
+      {
+        "Title": "Adventure",
+        "Genre(s)": "Team Fatal",
+        "Developer(s)": "1997",
+        "Year": "[44]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "John Rocati",
+        "Developer(s)": "1997",
+        "Year": "[36]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "F. Javier Ventoso Reigosa",
+        "Developer(s)": "—",
+        "Year": "[45]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "Alex Amsel",
+        "Developer(s)": "1997",
+        "Year": "[36]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Jamie Lewis",
+        "Developer(s)": "1998",
+        "Year": "[27]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "David Johnston",
+        "Developer(s)": "1999",
+        "Year": "[46]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "—",
+        "Developer(s)": "1997",
+        "Year": "[38][47]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Kazunari Ishida",
+        "Developer(s)": "1997",
+        "Year": "[20][48]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "Koji Yoshikawa",
+        "Developer(s)": "1998",
+        "Year": "[38][47]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Gregg and Rob Gorczowski",
+        "Developer(s)": "1998",
+        "Year": "[4][49]"
+      },
+      {
+        "Title": "Maze",
+        "Genre(s)": "Casper Nielsen",
+        "Developer(s)": "1998",
+        "Year": "[31]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Edward Cawley",
+        "Developer(s)": "2004",
+        "Year": "[25]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "James Shaughnessy",
+        "Developer(s)": "1998",
+        "Year": "[30][50]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "—",
+        "Year": "[51]"
+      },
+      {
+        "Title": "Maze",
+        "Genre(s)": "Edward Federmeyer",
+        "Developer(s)": "1998",
+        "Year": "[30][52]"
+      },
+      {
+        "Title": "—",
+        "Genre(s)": "T. Tezuka",
+        "Developer(s)": "1997",
+        "Year": "[53]"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Kazunari Ishida",
+        "Developer(s)": "1997",
+        "Year": "[20][54]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Richard Smithies",
+        "Developer(s)": "1998",
+        "Year": "[30][55]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Shuichi Kitaguchi, Tomokazu Sato",
+        "Developer(s)": "1997",
+        "Year": "[26][47][56]"
+      },
+      {
+        "Title": "Third-person shooter",
+        "Genre(s)": "Cobra Developments",
+        "Developer(s)": "1997",
+        "Year": "[36][44][57]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Yukio Iijima",
+        "Developer(s)": "1997",
+        "Year": "[47]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Philippe-André Lorin",
+        "Developer(s)": "2002",
+        "Year": "[58][59]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "KBO",
+        "Developer(s)": "1996",
+        "Year": "[60]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "Alex Mole",
+        "Developer(s)": "2002",
+        "Year": "[61]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "Ben James, Elliot Lee",
+        "Developer(s)": "2004",
+        "Year": "[62]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "F. Javier Ventoso Reigosa",
+        "Developer(s)": "1999",
+        "Year": "[45]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Go Watanabe",
+        "Developer(s)": "1997",
+        "Year": "[63]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Hideki Hara",
+        "Developer(s)": "1996",
+        "Year": "[60]"
+      },
+      {
+        "Title": "—",
+        "Genre(s)": "Cocotte",
+        "Developer(s)": "1997",
+        "Year": "[64]"
+      },
+      {
+        "Title": "Arcade",
+        "Genre(s)": "Hironao Kawabata",
+        "Developer(s)": "1998",
+        "Year": "[26][65]"
+      },
+      {
+        "Title": "Roguelike",
+        "Genre(s)": "Kaiga",
+        "Developer(s)": "1998",
+        "Year": "[66]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "—",
+        "Year": "[4]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Gerhard Rittenhofer",
+        "Developer(s)": "1998",
+        "Year": "[30][67]"
+      },
+      {
+        "Title": "Maze",
+        "Genre(s)": "Tuna Technologies",
+        "Developer(s)": "1997",
+        "Year": "[36][38]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "F. Javier Ventoso Reigosa",
+        "Developer(s)": "—",
+        "Year": "[45]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "Kiyoshi Sakai",
+        "Developer(s)": "1997",
+        "Year": "[68]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "F. Javier Ventoso Reigosa",
+        "Developer(s)": "—",
+        "Year": "[45]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Nick Ferguson",
+        "Developer(s)": "1998",
+        "Year": "[69]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Yosuke Kuroda",
+        "Developer(s)": "1997",
+        "Year": "[38]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "James Pretorius",
+        "Developer(s)": "1998",
+        "Year": "[19][70]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Christoph Lurig, Torsten Ventzke",
+        "Developer(s)": "1999",
+        "Year": "[19][71]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Matthew Verran",
+        "Developer(s)": "2004",
+        "Year": "[62][72]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Ryonosuke Taki",
+        "Developer(s)": "1997",
+        "Year": "[73]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Gary Gould, Steve Knock",
+        "Developer(s)": "2001",
+        "Year": "[19]"
+      },
+      {
+        "Title": "Run and gun",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "1998",
+        "Year": "[30][74]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Richard Fred Williams",
+        "Developer(s)": "1998",
+        "Year": "[30][74][75]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Robert Swan",
+        "Developer(s)": "1998",
+        "Year": "[31]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Matthew Verran",
+        "Developer(s)": "2002",
+        "Year": "[25][76][77]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Gerhard Rittenhofer, Manfred Tucmandl",
+        "Developer(s)": "1998",
+        "Year": "[30][19][78]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Matthew Verran",
+        "Developer(s)": "2004",
+        "Year": "[25][79]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "James Hobden",
+        "Developer(s)": "2002",
+        "Year": "[80]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Philippe-André Lorin",
+        "Developer(s)": "2004",
+        "Year": "[25][59]"
+      },
+      {
+        "Title": "—",
+        "Genre(s)": "Omar Nabil Metwally",
+        "Developer(s)": "2001",
+        "Year": "[81]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "2002",
+        "Year": "[80]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Lewis Evans",
+        "Developer(s)": "1997",
+        "Year": "[36]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "James Rutherford",
+        "Developer(s)": "1998",
+        "Year": "[19]"
+      },
+      {
+        "Title": "Demo",
+        "Genre(s)": "Colin Adams",
+        "Developer(s)": "1997",
+        "Year": "[36]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Peter Dollachan",
+        "Developer(s)": "2002",
+        "Year": "[82]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Ben James",
+        "Developer(s)": "2004",
+        "Year": "[83]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Alex Mole",
+        "Developer(s)": "2001",
+        "Year": "[84]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "George Bain",
+        "Developer(s)": "1998",
+        "Year": "[85]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Kazunari Ishida",
+        "Developer(s)": "1997",
+        "Year": "[20]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Hideki Hara",
+        "Developer(s)": "1997",
+        "Year": "[60][86]"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "F. Javier Ventoso Reigosa",
+        "Developer(s)": "1998",
+        "Year": "[21][45]"
+      },
+      {
+        "Title": "Puzzle",
+        "Genre(s)": "Alex Herbert",
+        "Developer(s)": "1999",
+        "Year": "[19][87]"
+      },
+      {
+        "Title": "Survival horror",
+        "Genre(s)": "Tomokazu Sato",
+        "Developer(s)": "1997",
+        "Year": "[32][49]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "David Johnston, Mike Goatly",
+        "Developer(s)": "1999",
+        "Year": "[88]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Mark Theyer",
+        "Developer(s)": "2001",
+        "Year": "[19]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Team Spirit",
+        "Developer(s)": "1997",
+        "Year": "[38]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Team Spirit",
+        "Developer(s)": "1998",
+        "Year": "[63]"
+      },
+      {
+        "Title": "Shooter",
+        "Genre(s)": "Paul Wightmore",
+        "Developer(s)": "1998",
+        "Year": "[31]"
+      },
+      {
+        "Title": "Strategy",
+        "Genre(s)": "Stuart Macdonald",
+        "Developer(s)": "1999",
+        "Year": "[42]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Aaron Gandaa, Steven Sheehy",
+        "Developer(s)": "1999",
+        "Year": "[19]"
+      },
+      {
+        "Title": "Action-adventure",
+        "Genre(s)": "Team Fatal",
+        "Developer(s)": "1997",
+        "Year": "[73][89]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Syuntarou Yoshikawa",
+        "Developer(s)": "1996",
+        "Year": "[47][48]"
+      },
+      {
+        "Title": "Maze",
+        "Genre(s)": "Lars Barstad, Per Ivar Pedersen",
+        "Developer(s)": "1998",
+        "Year": "[30][90]"
+      },
+      {
+        "Title": "Platform",
+        "Genre(s)": "David Johnston, Mike Goatly",
+        "Developer(s)": "1998",
+        "Year": "[70][91]"
+      },
+      {
+        "Title": "Sports",
+        "Genre(s)": "Charles Chapman",
+        "Developer(s)": "1998",
+        "Year": "[30][92]"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Omar Nabil Metwally",
+        "Developer(s)": "2001",
+        "Year": "[81]"
+      },
+      {
+        "Title": "Fighting",
+        "Genre(s)": "Omar Nabil Metwally",
+        "Developer(s)": "2001",
+        "Year": "[81]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Casper Nielsen",
+        "Developer(s)": "1998",
+        "Year": "[27]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Omar Nabil Metwally",
+        "Developer(s)": "—",
+        "Year": "[81]"
+      },
+      {
+        "Title": "Cards",
+        "Genre(s)": "Scott Campbell",
+        "Developer(s)": "1999",
+        "Year": "[93]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "Antony Hilton",
+        "Developer(s)": "1998",
+        "Year": "[27]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Derrick Anthony Bailey",
+        "Developer(s)": "1999",
+        "Year": "[94]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "Wanisan",
+        "Developer(s)": "1997",
+        "Year": "[47]"
+      },
+      {
+        "Title": "Racing",
+        "Genre(s)": "Harvey Cotton",
+        "Developer(s)": "2001",
+        "Year": "[19]"
+      },
+      {
+        "Title": "Shoot 'em up",
+        "Genre(s)": "John Wojcik",
+        "Developer(s)": "2001",
+        "Year": "[76]"
+      },
+      {
+        "Title": "Action",
+        "Genre(s)": "James Pitts",
+        "Developer(s)": "1998",
+        "Year": "[95]"
+      }
+    ]
+  }
+]

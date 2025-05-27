@@ -1,0 +1,1444 @@
+[
+  {
+    "table1": [
+      {
+        "Title[9][10][11][12]": "Akira",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "International Computer Entertainment",
+        "Publisher(s)[9][11][12]": "International Computer Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Alfred Chicken",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Twilight",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Alien Breed 3D",
+        "Genre(s)": "First-person shooter",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio and extra levels"
+      },
+      {
+        "Title[9][10][11][12]": "Alien Breed: Tower Assault",
+        "Genre(s)": "Run and gun",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team 17",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV and extra levels"
+      },
+      {
+        "Title[9][10][11][12]": "Arabian Nights",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Krisalis Software",
+        "Publisher(s)[9][11][12]": "Buzz",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Arcade Pool",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1994",
+        "CD32 version": "CD audio"
+      },
+      {
+        "Title[9][10][11][12]": "ATR: All Terrain Racing",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1995",
+        "CD32 version": "Extra levels"
+      },
+      {
+        "Title[9][10][11][12]": "Banshee",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Base Jumpers",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Shadow Software",
+        "Publisher(s)[9][11][12]": "Rasputin Software",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Battle Chess",
+        "Genre(s)": "Chess",
+        "Developer(s)[11][12]": "Almathera Systems",
+        "Publisher(s)[9][11][12]": "Interplay Productions",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio; Same as the CDTV version"
+      },
+      {
+        "Title[9][10][11][12]": "Battletoads",
+        "Genre(s)": "Beat 'em up",
+        "Developer(s)[11][12]": "Mindscape",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Beavers",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Arc Developments",
+        "Publisher(s)[9][11][12]": "Grandslam Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Beneath a Steel Sky",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Revolution Software",
+        "Publisher(s)[9][11][12]": "Virgin Interactive Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and voice acting."
+      },
+      {
+        "Title[9][10][11][12]": "Benefactor",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Digital Illusions CE",
+        "Publisher(s)[9][11][12]": "Psygnosis",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Brian the Lion",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Reflections",
+        "Publisher(s)[9][11][12]": "Psygnosis",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and extra levels"
+      },
+      {
+        "Title[9][10][11][12]": "Brutal Sports Football",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Teque London",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Brutal: Paws of Fury",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "Software Sorcery",
+        "Publisher(s)[9][11][12]": "GameTek",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Bubba 'n' Stix",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Bubble and Squeak",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Fox Williams",
+        "Publisher(s)[9][11][12]": "Audiogenic Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Bump 'N' Burn",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "The Dome Software Developments",
+        "Publisher(s)[9][11][12]": "Grandslam Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Cannon Fodder",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Arch Rivals",
+        "Publisher(s)[9][11][12]": "Virgin Interactive Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV Module"
+      },
+      {
+        "Title[9][10][11][12]": "Castles II: Siege and Conquest",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Almathera Systems",
+        "Publisher(s)[9][11][12]": "Interplay Productions",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Chambers of Shaolin",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Thalion Software",
+        "Publisher(s)[9][11][12]": "Grandslam Interactive",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Chuck Rock",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Corkers",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Chuck Rock II: Son of Chuck",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Clockwiser",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "Team Hoi Games",
+        "Publisher(s)[9][11][12]": "Rasputin Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and FMV and extra levels"
+      },
+      {
+        "Title[9][10][11][12]": "D/Generation",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Abersoft",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Dangerous Streets",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "Micromania Software",
+        "Publisher(s)[9][11][12]": "Flair Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Dark Seed",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Cyberdreams",
+        "Publisher(s)[9][11][12]": "Cyberdreams",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and voice acting"
+      },
+      {
+        "Title[9][10][11][12]": "Death Mask",
+        "Genre(s)": "First-person shooter",
+        "Developer(s)[11][12]": "Apache Software",
+        "Publisher(s)[9][11][12]": "Alternative Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Deep Core",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Dynafield Systems",
+        "Publisher(s)[9][11][12]": "International Computer Entertainment",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Defender of the Crown II",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Sachs Enterprises",
+        "Publisher(s)[9][11][12]": "Commodore International",
+        "Release date(s)": "1993",
+        "CD32 version": "CD32 exclusive"
+      },
+      {
+        "Title[9][10][11][12]": "Dennis",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Citizen Software",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Diggers",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "Millennium Interactive",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1993",
+        "CD32 version": "Launch title. CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Disposable Hero",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)[11][12]": "Euphoria",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Donk!: Samurai Duck",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "The Hidden",
+        "Publisher(s)[9][11][12]": "Supervision Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Dragonstone",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Emerald Mines",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "Almathera Systems",
+        "Publisher(s)[9][11][12]": "Almathera Systems",
+        "Release date(s)": "1994",
+        "CD32 version": "Extra levels"
+      },
+      {
+        "Title[9][10][11][12]": "Exile",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)[11][12]": "Audiogenic Software",
+        "Publisher(s)[9][11][12]": "Audiogenic Software",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Fears",
+        "Genre(s)": "First-person shooter",
+        "Developer(s)[11][12]": "BOMB Software, Manyk",
+        "Publisher(s)[9][11][12]": "Attic Entertainment Software",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Fields of Glory",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Wayne J. Smithson Design",
+        "Publisher(s)[9][11][12]": "MicroProse",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Fire and Ice",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Graftgold",
+        "Publisher(s)[9][11][12]": "Renegade Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Fire Force",
+        "Genre(s)": "Run and gun",
+        "Developer(s)[11][12]": "International Computer Entertainment",
+        "Publisher(s)[9][11][12]": "International Computer Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Flink",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Psygnosis",
+        "Publisher(s)[9][11][12]": "Psygnosis",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Fly Harder",
+        "Genre(s)": "Shooter",
+        "Developer(s)[11][12]": "Starbyte Software",
+        "Publisher(s)[9][11][12]": "Krisalis Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Frontier: Elite II",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "David Braben",
+        "Publisher(s)[9][11][12]": "GameTek",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Fury of the Furries",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Kalisto Entertainment",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Global Effect",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Millennium Interactive",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Gloom",
+        "Genre(s)": "First-person shooter",
+        "Developer(s)[11][12]": "Black Magic Software",
+        "Publisher(s)[9][11][12]": "Guildhall Leisure Services",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Guardian",
+        "Genre(s)": "Shooter",
+        "Developer(s)[11][12]": "Acid Software",
+        "Publisher(s)[9][11][12]": "Acid Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Gulp!",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "International Computer Entertainment",
+        "Publisher(s)[9][11][12]": "International Computer Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Gunship 2000",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "MPS Labs",
+        "Publisher(s)[9][11][12]": "MicroProse",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Heimdall 2",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)[11][12]": "The 8th Day",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "HeroQuest II: Legacy of Sorasil",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)[11][12]": "Gremlin Graphics",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Humans 1 and 2",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "Imagitec Design",
+        "Publisher(s)[9][11][12]": "GameTek",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Humans 3: Evolution - Lost in Time",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "Imagitec Design",
+        "Publisher(s)[9][11][12]": "GameTek",
+        "Release date(s)": "1996",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Impossible Mission 2025: The Special Edition",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "MicroProse",
+        "Publisher(s)[9][11][12]": "MicroProse",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "International Karate +",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "System 3",
+        "Publisher(s)[9][11][12]": "System 3",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "International Open Golf Championship",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Really Interesting Software Company",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "James Pond 2: Codename RoboCod",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Vectordean",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "James Pond 3: Operation Starfish",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Vectordean",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Jetstrike",
+        "Genre(s)": "Shooter",
+        "Developer(s)[11][12]": "Shadow Software",
+        "Publisher(s)[9][11][12]": "Rasputin Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "John Barnes European Football",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Krisalis Software",
+        "Publisher(s)[9][11][12]": "Buzz",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Jungle Strike",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)[11][12]": "Hyperial Software Developments",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Kid Chaos",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Magnetic Fields",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and more colors"
+      },
+      {
+        "Title[9][10][11][12]": "Kingpin: Arcade Sports Bowling",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Lamborghini American Challenge",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Titus France",
+        "Publisher(s)[9][11][12]": "Paragon Publishing",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Last Ninja 3",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)[11][12]": "System 3",
+        "Publisher(s)[9][11][12]": "System 3",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Legends",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)[11][12]": "Krisalis Software",
+        "Publisher(s)[9][11][12]": "Guildhall Leisure Services",
+        "Release date(s)": "1996",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Lemmings",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "DMA Design",
+        "Publisher(s)[9][11][12]": "Psygnosis",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Liberation: Captive 2",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)[11][12]": "Byte Engineers",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio and voice acting."
+      },
+      {
+        "Title[9][10][11][12]": "Litil Divil",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Gremlin Ireland",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1994",
+        "CD32 version": "CD32 exclusive; CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "MAG!!!",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "Independent Arts Software GmbH",
+        "Publisher(s)[9][11][12]": "Greenwood Entertainment Software GmbH",
+        "Release date(s)": "1996",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Manchester United Premier League Champions",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Krisalis Software",
+        "Publisher(s)[9][11][12]": "Krisalis Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Marvin's Marvellous Adventure",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Infernal Byte Systems",
+        "Publisher(s)[9][11][12]": "21st Century Entertainment",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Mean Arenas",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Nite Time Games",
+        "Publisher(s)[9][11][12]": "International Computer Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Microcosm",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)[11][12]": "Psygnosis",
+        "Publisher(s)[9][11][12]": "Psygnosis",
+        "Release date(s)": "1994",
+        "CD32 version": "CD32 exclusive; CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Morph",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "MicroValue",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Myth: History in the Making",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "System 3",
+        "Publisher(s)[9][11][12]": "System 3",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Naughty Ones",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Melon Dezign",
+        "Publisher(s)[9][11][12]": "InterActive Vision A/S",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Nick Faldo's Championship Golf",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Arc Developments",
+        "Publisher(s)[9][11][12]": "Grandslam Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Nigel Mansell's World Championship",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Gremlin Graphics",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Oscar",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Flair Software",
+        "Publisher(s)[9][11][12]": "Flair Software",
+        "Release date(s)": "1993",
+        "CD32 version": "Launch title. CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "PGA European Tour",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "The Dome Software Developments",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Pierre le Chef is... Out to Lunch",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Mindscape",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Pinball Fantasies",
+        "Genre(s)": "Pinball",
+        "Developer(s)[11][12]": "Digital Illusions CE",
+        "Publisher(s)[9][11][12]": "21st Century Entertainment",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Pinball Illusions",
+        "Genre(s)": "Pinball",
+        "Developer(s)[11][12]": "Digital Illusions CE",
+        "Publisher(s)[9][11][12]": "21st Century Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Pinocchio",
+        "Genre(s)": "Edutainment",
+        "Developer(s)[11][12]": "Si-Lab",
+        "Publisher(s)[9][11][12]": "Giunti Multimedia",
+        "Release date(s)": "1993",
+        "CD32 version": "CD32 exclusive"
+      },
+      {
+        "Title[9][10][11][12]": "Pirates! Gold",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)[11][12]": "MPS Labs",
+        "Publisher(s)[9][11][12]": "MicroProse",
+        "Release date(s)": "1994",
+        "CD32 version": "CD32 exclusive; CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Power Drive",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Rage Software",
+        "Publisher(s)[9][11][12]": "U.S. Gold",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Premiere",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "The 8th Day",
+        "Publisher(s)[9][11][12]": "Corkers",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Prey: An Alien Encounter",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Almathera Systems",
+        "Publisher(s)[9][11][12]": "Kirk Moreno Multimedia",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio; Same as the CDTV version"
+      },
+      {
+        "Title[9][10][11][12]": "Quik the Thunder Rabbit",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Stywox",
+        "Publisher(s)[9][11][12]": "Paragon Publishing, Titus France",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Rise of the Robots",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "Instinct Design",
+        "Publisher(s)[9][11][12]": "Time Warner Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Roadkill",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Vision Software",
+        "Publisher(s)[9][11][12]": "Acid Software",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Ryder Cup: Johnnie Walker",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Really Interesting Software Company",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Sabre Team",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Krisalis Software",
+        "Publisher(s)[9][11][12]": "Krisalis Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Seek & Destroy",
+        "Genre(s)": "Shooter",
+        "Developer(s)[11][12]": "Vision Software",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Sensible Soccer: European Champions",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Apache Software",
+        "Publisher(s)[9][11][12]": "Renegade Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Sensible Soccer: International Edition",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Apache Software",
+        "Publisher(s)[9][11][12]": "Renegade Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Shadow Fighter",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "NAPS team",
+        "Publisher(s)[9][11][12]": "Gremlin Interactive",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Simon the Sorcerer",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Adventure Soft",
+        "Publisher(s)[9][11][12]": "Adventure Soft",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and voice acting."
+      },
+      {
+        "Title[9][10][11][12]": "Skeleton Krew",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Sleepwalker",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "CTA Developments",
+        "Publisher(s)[9][11][12]": "Ocean Software",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Soccer Kid",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Krisalis Software",
+        "Publisher(s)[9][11][12]": "Krisalis Software",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Soccer Superstars",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Creative Edge Software",
+        "Publisher(s)[9][11][12]": "Flair Software",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Speedball 2: Brutal Deluxe",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "The Bitmap Brothers",
+        "Publisher(s)[9][11][12]": "Renegade Software",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Sports: Football (Amiga CD Football)",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "PlattSoft",
+        "Publisher(s)[9][11][12]": "Commodore International",
+        "Release date(s)": "1994",
+        "CD32 version": "CD32 exclusive. CD Audio and FMV."
+      },
+      {
+        "Title[9][10][11][12]": "Star Crusader",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "Human Soft",
+        "Publisher(s)[9][11][12]": "GameTek",
+        "Release date(s)": "1996",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Striker",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Rage Software",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Strip Pot",
+        "Genre(s)": "Adult",
+        "Developer(s)[11][12]": "Pixel Blue",
+        "Publisher(s)[9][11][12]": "Fin Soft Interactive Software",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Subwar 2050",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "Particle Systems",
+        "Publisher(s)[9][11][12]": "MicroProse",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Summer Olympix",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Flair Software",
+        "Publisher(s)[9][11][12]": "Flair Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD32 exclusive"
+      },
+      {
+        "Title[9][10][11][12]": "Super League Manager",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Audiogenic Software",
+        "Publisher(s)[9][11][12]": "Audiogenic Software",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Super Methane Bros",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Apache Software",
+        "Publisher(s)[9][11][12]": "Apache Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Super Putty",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "System 3",
+        "Publisher(s)[9][11][12]": "System 3",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Super Skidmarks",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Acid Software",
+        "Publisher(s)[9][11][12]": "Acid Software",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Super Stardust",
+        "Genre(s)": "Shooter",
+        "Developer(s)[11][12]": "Bloodhouse",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Super Street Fighter II Turbo",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "Human Soft",
+        "Publisher(s)[9][11][12]": "GameTek",
+        "Release date(s)": "1996",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Superfrog",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Surf Ninjas",
+        "Genre(s)": "Beat 'em up",
+        "Developer(s)[11][12]": "Creative Edge Software",
+        "Publisher(s)[9][11][12]": "MicroValue",
+        "Release date(s)": "1994",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Syndicate",
+        "Genre(s)": "Real-time tactics",
+        "Developer(s)[11][12]": "Bullfrog Productions",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "The Chaos Engine",
+        "Genre(s)": "Run and gun",
+        "Developer(s)[11][12]": "The Bitmap Brothers",
+        "Publisher(s)[9][11][12]": "Renegade Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "The Clue!",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Neo Software",
+        "Publisher(s)[9][11][12]": "Max Design GmbH & Co",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and voice acting"
+      },
+      {
+        "Title[9][10][11][12]": "The Final Gate",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)[11][12]": "Alternative Software",
+        "Publisher(s)[9][11][12]": "Alternative Software",
+        "Release date(s)": "1996",
+        "CD32 version": "CD32 exclusive. FMV"
+      },
+      {
+        "Title[9][10][11][12]": "The Labyrinth of Time",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Terra Nova Development",
+        "Publisher(s)[9][11][12]": "Electronic Arts",
+        "Release date(s)": "1994",
+        "CD32 version": "CD32 exclusive"
+      },
+      {
+        "Title[9][10][11][12]": "The Lost Vikings",
+        "Genre(s)": "Puzzle",
+        "Developer(s)[11][12]": "Silicon & Synapse",
+        "Publisher(s)[9][11][12]": "Interplay Productions",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "The Seven Gates of Jambala",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Thalion Software",
+        "Publisher(s)[9][11][12]": "Unique",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "The Speris Legacy",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)[11][12]": "Binary Emotions",
+        "Publisher(s)[9][11][12]": "Ocean Software, Team17",
+        "Release date(s)": "1996",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Theme Park",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "Bullfrog Productions",
+        "Publisher(s)[9][11][12]": "Mindscape",
+        "Release date(s)": "1995",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Thomas the Tank Engine & Friends Pinball",
+        "Genre(s)": "Pinball",
+        "Developer(s)[11][12]": "Spidersoft",
+        "Publisher(s)[9][11][12]": "Alternative Software",
+        "Release date(s)": "1995",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Top Gear 2",
+        "Genre(s)": "Racing",
+        "Developer(s)[11][12]": "Gremlin Interactive",
+        "Publisher(s)[9][11][12]": "Gremlin Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Total Carnage",
+        "Genre(s)": "Shooter",
+        "Developer(s)[11][12]": "International Computer Entertainment",
+        "Publisher(s)[9][11][12]": "International Computer Entertainment",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Trivial Pursuit",
+        "Genre(s)": "Board game",
+        "Developer(s)[11][12]": "The Kremlin",
+        "Publisher(s)[9][11][12]": "Domark",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio; Same as the CDTV version"
+      },
+      {
+        "Title[9][10][11][12]": "Trolls",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Flair Software",
+        "Publisher(s)[9][11][12]": "Flair Software",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "UFO: Enemy Unknown",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Mythos Games",
+        "Publisher(s)[9][11][12]": "MicroProse",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Ultimate Body Blows",
+        "Genre(s)": "Fighting",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Universe",
+        "Genre(s)": "Adventure",
+        "Developer(s)[11][12]": "Core Design",
+        "Publisher(s)[9][11][12]": "Core Design",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio; Enhanced"
+      },
+      {
+        "Title[9][10][11][12]": "Vital Light",
+        "Genre(s)": "Action",
+        "Developer(s)[11][12]": "Efecto Caos",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1995",
+        "CD32 version": "FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Wembley International Soccer",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Audiogenic Software",
+        "Publisher(s)[9][11][12]": "Audiogenic Software",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Whale's Voyage",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)[11][12]": "Neo Software",
+        "Publisher(s)[9][11][12]": "Flair Software",
+        "Release date(s)": "1993",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Wild Cup Soccer",
+        "Genre(s)": "Sports",
+        "Developer(s)[11][12]": "Teque London",
+        "Publisher(s)[9][11][12]": "Millennium Interactive",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Will Bridge: Initiation Junior",
+        "Genre(s)": "Cards",
+        "Developer(s)[11][12]": "Will-Bridge",
+        "Publisher(s)[9][11][12]": "Loridim",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio; Same as the CDTV version"
+      },
+      {
+        "Title[9][10][11][12]": "Word Construction Set",
+        "Genre(s)": "Simulation",
+        "Developer(s)[11][12]": "Lascelles Productions",
+        "Publisher(s)[9][11][12]": "Lascelles Productions",
+        "Release date(s)": "1994",
+        "CD32 version": ""
+      },
+      {
+        "Title[9][10][11][12]": "Worms",
+        "Genre(s)": "Strategy",
+        "Developer(s)[11][12]": "Team17",
+        "Publisher(s)[9][11][12]": "Team17",
+        "Release date(s)": "1995",
+        "CD32 version": "CD Audio"
+      },
+      {
+        "Title[9][10][11][12]": "Zool",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "Gremlin Graphics",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1993",
+        "CD32 version": "CD Audio and FMV"
+      },
+      {
+        "Title[9][10][11][12]": "Zool 2",
+        "Genre(s)": "Platform",
+        "Developer(s)[11][12]": "The Warp Factory",
+        "Publisher(s)[9][11][12]": "Gremlin Graphics",
+        "Release date(s)": "1994",
+        "CD32 version": "CD Audio and FMV"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Release Date": "September 1993",
+        "Name": "CD32 original release",
+        "Games Included": "2 games; Diggers and the A1200 version of  Oscar without CD audio."
+      },
+      {
+        "Release Date": "November 1993",
+        "Name": "Dangerous Streets",
+        "Games Included": "4 games; Dangerous Streets, Diggers, Oscar and Wing Commander"
+      },
+      {
+        "Release Date": "March 1994",
+        "Name": "Spectacular Voyage",
+        "Games Included": "6 games; MicroCosm, Chaos Engine, Dangerous Streets, Oscar, Wing Commander and Diggers."
+      },
+      {
+        "Release Date": "October 1994",
+        "Name": "Critical Zone",
+        "Games Included": "7 games; Cannon Fodder, Diggers, Liberation, Microcosm, Oscar, Project X and Ultimate Body Blows"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title": "Acid Attack",
+        "Developer(s)": "Acid Software",
+        "Publisher(s)": "Acid Software",
+        "Release date(s)": "1995",
+        "Notes": ""
+      },
+      {
+        "Title": "Alien Breed Special Edition/Qwak",
+        "Developer(s)": "Team17",
+        "Publisher(s)": "Team17",
+        "Release date(s)": "1994",
+        "Notes": ""
+      },
+      {
+        "Title": "Dangerous Streets/Wing Commander",
+        "Developer(s)": "Micromania Software, Origin Systems",
+        "Publisher(s)": "Commodore International",
+        "Release date(s)": "1994",
+        "Notes": "CD32 version of Wing Commander is released only as part of this compilation"
+      },
+      {
+        "Title": "Diggers/Oscar",
+        "Developer(s)": "Flair Software, Millennium Interactive",
+        "Publisher(s)": "Commodore International",
+        "Release date(s)": "1993",
+        "Notes": "Bundled with the CD32 at launch on September 17, 1993. Oscar is the same as A1200 version without CD audio."
+      },
+      {
+        "Title": "Games & Goodies",
+        "Developer(s)": "Multi Media Machine",
+        "Publisher(s)": "Multi Media Machine",
+        "Release date(s)": "1993",
+        "Notes": ""
+      },
+      {
+        "Title": "Grandslam Gamer Gold Collection",
+        "Developer(s)": "Arc Developments, Shadow Software, Softeyes",
+        "Publisher(s)": "Grandslam Interactive",
+        "Release date(s)": "1995",
+        "Notes": ""
+      },
+      {
+        "Title": "Now That's What I Call Games",
+        "Developer(s)": "Multi Media Machine",
+        "Publisher(s)": "Multi Media Machine",
+        "Release date(s)": "1993",
+        "Notes": ""
+      },
+      {
+        "Title": "Now That's What I Call Games 2",
+        "Developer(s)": "Multi Media Machine",
+        "Publisher(s)": "Multi Media Machine",
+        "Release date(s)": "1993",
+        "Notes": ""
+      },
+      {
+        "Title": "Overkill & Lunar-C",
+        "Developer(s)": "Mindscape, Vision Software",
+        "Publisher(s)": "Mindscape",
+        "Release date(s)": "1993",
+        "Notes": "Lunar C is a CD32 exclusive."
+      },
+      {
+        "Title": "Power-Games",
+        "Developer(s)": "Media Team GbR",
+        "Publisher(s)": "Media Team GbR",
+        "Release date(s)": "1994",
+        "Notes": "PD games compilation."
+      },
+      {
+        "Title": "Project-X/F17 Challenge",
+        "Developer(s)": "Holodream Software, Team17",
+        "Publisher(s)": "Team17",
+        "Release date(s)": "1994",
+        "Notes": ""
+      },
+      {
+        "Title": "Project-X/Ultimate Body Blows",
+        "Developer(s)": "Team17",
+        "Publisher(s)": "Team17",
+        "Release date(s)": "1994",
+        "Notes": ""
+      },
+      {
+        "Title": "Sleepwalker/Pinball Fantasies",
+        "Developer(s)": "CTA Developments, Digital Illusions CE",
+        "Publisher(s)": "Commodore International",
+        "Release date(s)": "1993",
+        "Notes": ""
+      },
+      {
+        "Title": "The Big 6",
+        "Developer(s)": "Big Red Software, Codemasters, Reflective Designs, Visual Impact",
+        "Publisher(s)": "Codemasters",
+        "Release date(s)": "1994",
+        "Notes": "CD32 version of Fantastic Dizzy is released only as part of this compilation. Features CD Audio."
+      },
+      {
+        "Title": "The Classic Lotus Trilogy",
+        "Developer(s)": "Magnetic Fields",
+        "Publisher(s)": "Gremlin Graphics",
+        "Release date(s)": "1994",
+        "Notes": "CD Audio"
+      },
+      {
+        "Title": "Top 100 Games CD32",
+        "Developer(s)": "US Dreams Inc.",
+        "Publisher(s)": "US Dreams Inc.",
+        "Release date(s)": "1994",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title": "Black Viper",
+        "Genre(s)": "Vehicular combat",
+        "Developer(s)": "Light Shock Software",
+        "Publisher(s)": "Neo Software",
+        "Release date(s)": "1996"
+      },
+      {
+        "Title": "Fightin' Spirit",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Light Shock Software",
+        "Publisher(s)": "Neo Software",
+        "Release date(s)": "1996"
+      },
+      {
+        "Title": "Gamers' Delight",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "Harald Müller",
+        "Publisher(s)": "GTI, Schatztruhe",
+        "Release date(s)": "1994"
+      },
+      {
+        "Title": "Gamers' Delight II",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "Harald Müller",
+        "Publisher(s)": "GTI, Schatztruhe",
+        "Release date(s)": "1995"
+      },
+      {
+        "Title": "Inherit the Earth: Quest for the Orb",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "ReaLogic",
+        "Publisher(s)": "Softgold Computerspiele GmbH",
+        "Release date(s)": "1995"
+      },
+      {
+        "Title": "Kang Fu",
+        "Genre(s)": "Platform",
+        "Developer(s)": "GREat Effects Development",
+        "Publisher(s)": "GREat Effects Development",
+        "Release date(s)": "1996"
+      },
+      {
+        "Title": "Magic Island",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Arda Team",
+        "Publisher(s)": "Signum",
+        "Release date(s)": "1995"
+      },
+      {
+        "Title": "Pinball Prelude",
+        "Genre(s)": "Pinball",
+        "Developer(s)": "Effigy Software",
+        "Publisher(s)": "Effigy Software",
+        "Release date(s)": "1996"
+      },
+      {
+        "Title": "Sixth Sense Investigations",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "CineTech",
+        "Publisher(s)": "e.p.i.c. interactive entertainment gmbh",
+        "Release date(s)": "1998"
+      },
+      {
+        "Title": "Ultimate Super Skidmarks",
+        "Genre(s)": "Racing",
+        "Developer(s)": "Acid Software",
+        "Publisher(s)": "Acid Software",
+        "Release date(s)": "1995"
+      },
+      {
+        "Title": "Wendetta 2175",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Vortex Design",
+        "Publisher(s)": "Skills",
+        "Release date(s)": "1996"
+      },
+      {
+        "Title": "Whizz",
+        "Genre(s)": "Platform",
+        "Developer(s)": "MicroValue",
+        "Publisher(s)": "Flair Software",
+        "Release date(s)": "1994"
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Title": "Camel Racer",
+        "Developer(s)": "MMMgroup",
+        "Publisher(s)": "MMMgroup",
+        "Release date(s)": "1998"
+      },
+      {
+        "Title": "Gangster Pursuit",
+        "Developer(s)": "MMMgroup",
+        "Publisher(s)": "MMMgroup",
+        "Release date(s)": "1998"
+      },
+      {
+        "Title": "Insight: Dinosaurs",
+        "Developer(s)": "Optonica",
+        "Publisher(s)": "Optonica",
+        "Release date(s)": "1994"
+      },
+      {
+        "Title": "Insight: Technology",
+        "Developer(s)": "Optonica",
+        "Publisher(s)": "Optonica",
+        "Release date(s)": "1994"
+      },
+      {
+        "Title": "Mathematik Leicht Gemacht",
+        "Developer(s)": "Amigacenter Dusseldorf",
+        "Publisher(s)": "Amigacenter Dusseldorf",
+        "Release date(s)": "1993"
+      }
+    ]
+  }
+]

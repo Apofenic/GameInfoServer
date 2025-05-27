@@ -1,0 +1,596 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "Alchemist Marie & Elie - Futari no Atelier",
+        "Backwards compatible": "No",
+        "Publisher": "E3 Staff",
+        "Release date": "October 25, 2001"
+      },
+      {
+        "Title": "Another Heaven: Memory of Those Days",
+        "Backwards compatible": "Yes",
+        "Publisher": "Omega Micott",
+        "Release date": "December 21, 2000"
+      },
+      {
+        "Title": "Arc the Lad: Kishin Fukkatsu",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 4, 2002"
+      },
+      {
+        "Title": "Battle Spirits: Digimon Frontier",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "December 7, 2002"
+      },
+      {
+        "Title": "Blue Wing Blitz",
+        "Backwards compatible": "Yes",
+        "Publisher": "Square",
+        "Release date": "July 5, 2001"
+      },
+      {
+        "Title": "Dark Eyes: BattleGate",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "March 15, 2001"
+      },
+      {
+        "Title": "Dicing Knight Period",
+        "Backwards compatible": "No",
+        "Publisher": "Qute",
+        "Release date": "May 31, 2004"
+      },
+      {
+        "Title": "Digimon Adventure 02: D1 Tamers",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "December 9, 2000"
+      },
+      {
+        "Title": "Digimon Anode/Cathode Tamer: Veedramon Version",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "September 18, 2001"
+      },
+      {
+        "Title": "Digimon Card Game Ver. WSC",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "March 16, 2002"
+      },
+      {
+        "Title": "Digimon Tamers: Battle Spirit",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "October 5, 2001"
+      },
+      {
+        "Title": "Digimon Tamers: Battle Spirit Ver. 1.5",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "April 27, 2002"
+      },
+      {
+        "Title": "Digimon Tamers: Brave Tamer",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "December 29, 2001"
+      },
+      {
+        "Title": "Digimon Tamers: Digimon Medley",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 12, 2001"
+      },
+      {
+        "Title": "Digital Monsters: D-Project",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "August 3, 2002"
+      },
+      {
+        "Title": "Dokodemo Hamster 3",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bec",
+        "Release date": "December 14, 2000"
+      },
+      {
+        "Title": "Dragon Ball",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "November 20, 2003"
+      },
+      {
+        "Title": "Final Fantasy",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "December 9, 2000"
+      },
+      {
+        "Title": "Final Fantasy II",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "May 2, 2001"
+      },
+      {
+        "Title": "Final Fantasy IV",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "March 29, 2002"
+      },
+      {
+        "Title": "Final Lap Special",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "November 15, 2001"
+      },
+      {
+        "Title": "Flash Koibito-Kun",
+        "Backwards compatible": "Yes",
+        "Publisher": "Kobunsha",
+        "Release date": "December 28, 2000"
+      },
+      {
+        "Title": "Front Mission",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "July 12, 2002"
+      },
+      {
+        "Title": "Gekitou! Crush Gear Turbo: Gear Champion League",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "August 10, 2002"
+      },
+      {
+        "Title": "Gensoumaden Saiyuuki: Retribution",
+        "Backwards compatible": "No",
+        "Publisher": "Mubik",
+        "Release date": "June 7, 2001"
+      },
+      {
+        "Title": "Golden Axe",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "February 28, 2002"
+      },
+      {
+        "Title": "Gransta Chronicle",
+        "Backwards compatible": "No",
+        "Publisher": "Omega Micott",
+        "Release date": "June 13, 2002"
+      },
+      {
+        "Title": "Guilty Gear Petit",
+        "Backwards compatible": "No",
+        "Publisher": "Sammy Corporation",
+        "Release date": "January 25, 2001"
+      },
+      {
+        "Title": "Guilty Gear Petit 2",
+        "Backwards compatible": "No",
+        "Publisher": "Sammy Corporation",
+        "Release date": "September 27, 2001"
+      },
+      {
+        "Title": "Gunpey EX",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "December 9, 2000"
+      },
+      {
+        "Title": "Hanjuku Hero: Aa, Sekaiyo Hanjukunare...!",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "February 14, 2002"
+      },
+      {
+        "Title": "Hataraku Chocobo",
+        "Backwards compatible": "Yes",
+        "Publisher": "Square",
+        "Release date": "September 21, 2000"
+      },
+      {
+        "Title": "Hunter × Hunter: Greed Island",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "April 24, 2003"
+      },
+      {
+        "Title": "Hunter × Hunter: Michikareshi Mono",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "August 23, 2001"
+      },
+      {
+        "Title": "Hunter × Hunter: Sorezore no Ketsui",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "April 26, 2001"
+      },
+      {
+        "Title": "Inuyasha: Fuuun Emaki",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 27, 2002"
+      },
+      {
+        "Title": "Inuyasha: Kagome no Sengoku Yume Hiki",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "November 2, 2001"
+      },
+      {
+        "Title": "Inuyasha: Kagome no Yume Nikki",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "November 16, 2002"
+      },
+      {
+        "Title": "Judgement Silversword -Rebirth Edition-",
+        "Backwards compatible": "No",
+        "Publisher": "M-Kai",
+        "Release date": "February 2, 2004"
+      },
+      {
+        "Title": "Kidou Senshi Gundam Seed",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "March 15, 2003"
+      },
+      {
+        "Title": "Kidou Senshi Gundam Vol. 1 SIDE7",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "February 1, 2001"
+      },
+      {
+        "Title": "Kidou Senshi Gundam Vol. 2 Jaburo",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "August 16, 2001"
+      },
+      {
+        "Title": "Kidou Senshi Gundam Vol. 3",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "May 25, 2002"
+      },
+      {
+        "Title": "Kidou Senshi Gundam: Giren no Yabou",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "May 2, 2003"
+      },
+      {
+        "Title": "Kinnikuman Nisei: Choujin Seisenshi",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "January 30, 2003"
+      },
+      {
+        "Title": "Kinnikuman Nisei: Dream Tag Match",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "March 2, 2002"
+      },
+      {
+        "Title": "Kurupara",
+        "Backwards compatible": "No",
+        "Publisher": "Tom Create",
+        "Release date": "June 14, 2001"
+      },
+      {
+        "Title": "Last Alive",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 26, 2001"
+      },
+      {
+        "Title": "Makai Toushi SaGa",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "March 20, 2002"
+      },
+      {
+        "Title": "Meitantei Conan: Yuugure Oujo",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "April 15, 2001"
+      },
+      {
+        "Title": "Memories Off Festa",
+        "Backwards compatible": "No",
+        "Publisher": "KID",
+        "Release date": "March 8, 2001"
+      },
+      {
+        "Title": "Mikeneko Holmes: Ghost Panic",
+        "Backwards compatible": "No",
+        "Publisher": "Koubunsha",
+        "Release date": "April 26, 2001"
+      },
+      {
+        "Title": "Mr. Driller",
+        "Backwards compatible": "No",
+        "Publisher": "Namco",
+        "Release date": "April 15, 2001"
+      },
+      {
+        "Title": "Namco Super Wars",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "October 31, 2002"
+      },
+      {
+        "Title": "Naruto: Konoha Ninpouchou",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "March 27, 2003"
+      },
+      {
+        "Title": "One Piece: Chopper no Daibouken",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "October 16, 2003"
+      },
+      {
+        "Title": "One Piece: Niji no Shima Densetsu",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "September 13, 2001"
+      },
+      {
+        "Title": "One Piece: Swan Colosseum",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 12, 2002"
+      },
+      {
+        "Title": "One Piece: Treasure Wars",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "January 3, 2002"
+      },
+      {
+        "Title": "One Piece: Treasure Wars 2",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "December 20, 2002"
+      },
+      {
+        "Title": "Pocket no Chuu no Doraemon",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "May 24, 2001"
+      },
+      {
+        "Title": "Raku Jongg",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "May 31, 2001"
+      },
+      {
+        "Title": "Rhyme Rider Kerorican",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "December 9, 2000"
+      },
+      {
+        "Title": "Riviera: The Promised Land",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 12, 2002"
+      },
+      {
+        "Title": "Rockman EXE N1 Battle",
+        "Backwards compatible": "No",
+        "Publisher": "Capcom",
+        "Release date": "August 8, 2003"
+      },
+      {
+        "Title": "Rockman EXE WS",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "February 8, 2003"
+      },
+      {
+        "Title": "Romancing SaGa",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "December 20, 2001"
+      },
+      {
+        "Title": "Run=Dim: Return to Earth",
+        "Backwards compatible": "No",
+        "Publisher": "Digital Dream",
+        "Release date": "February 7, 2002"
+      },
+      {
+        "Title": "Saint Seiya: Ougon Densetsuhen Perfect Edition",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "July 31, 2003"
+      },
+      {
+        "Title": "SD Gundam Eiyuuden: Kishi Densetsu",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "March 15, 2001"
+      },
+      {
+        "Title": "SD Gundam Eiyuuden: Musha Densetsu",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "March 15, 2001"
+      },
+      {
+        "Title": "SD Gundam G Generation: Gather Beat 2",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "June 14, 2001"
+      },
+      {
+        "Title": "SD Gundam G Generation: Mono-Eye Gundams",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "September 26, 2002"
+      },
+      {
+        "Title": "SD Gundam: Operation U.C.",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "February 16, 2002"
+      },
+      {
+        "Title": "Senkai-den Nii: TV Animation Senkai-den hōshin engi yori",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "December 21, 2000"
+      },
+      {
+        "Title": "Shaman King: Asu he no Ishi",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "August 29, 2002"
+      },
+      {
+        "Title": "Soroban Gu",
+        "Backwards compatible": "Yes",
+        "Publisher": "Kaga Tech",
+        "Release date": "December 9, 2000"
+      },
+      {
+        "Title": "Star Hearts",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "September 27, 2001"
+      },
+      {
+        "Title": "Super Robot Taisen Compact 3",
+        "Backwards compatible": "No",
+        "Publisher": "Banpresto",
+        "Release date": "July 17, 2003"
+      },
+      {
+        "Title": "Super Robot Taisen Compact for WonderSwan Color",
+        "Backwards compatible": "No",
+        "Publisher": "Banpresto",
+        "Release date": "December 13, 2001"
+      },
+      {
+        "Title": "Tonpuso",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "June 28, 2001"
+      },
+      {
+        "Title": "Terrors 2",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "December 21, 2000"
+      },
+      {
+        "Title": "Tetris",
+        "Backwards compatible": "Yes",
+        "Publisher": "Vanguard",
+        "Release date": "April 18, 2002"
+      },
+      {
+        "Title": "Uchuu Senkan Yamato",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai Visual",
+        "Release date": "February 8, 2001"
+      },
+      {
+        "Title": "Ultraman - Hikari no Kuni no Shisha",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "June 21, 2001"
+      },
+      {
+        "Title": "Wild Card",
+        "Backwards compatible": "No",
+        "Publisher": "Square",
+        "Release date": "March 29, 2001"
+      },
+      {
+        "Title": "With You: Mitsumete Itai",
+        "Backwards compatible": "No",
+        "Publisher": "Cocktail Soft",
+        "Release date": "January 25, 2001"
+      },
+      {
+        "Title": "Wizardry Scenario 1: Proving Grounds of the Mad Overlord",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "March 1, 2001"
+      },
+      {
+        "Title": "Wonder Classic",
+        "Backwards compatible": "Yes",
+        "Publisher": "Bandai",
+        "Release date": "January 18, 2001"
+      },
+      {
+        "Title": "X: Card of Fate",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "June 27, 2002"
+      },
+      {
+        "Title": "XI (sai) Little",
+        "Backwards compatible": "No",
+        "Publisher": "Bandai",
+        "Release date": "December 20, 2001"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title": "Chocobo no Fushigi na Dungeon 2[1]",
+        "Publisher": "Square"
+      },
+      {
+        "Title": "Dice de Chocobo",
+        "Publisher": "Square"
+      },
+      {
+        "Title": "Digimon Tamers: Digimon Action",
+        "Publisher": "Bandai"
+      },
+      {
+        "Title": "Final Fantasy III[2]",
+        "Publisher": "Square"
+      },
+      {
+        "Title": "Higashikaze Shou",
+        "Publisher": "Bandai"
+      },
+      {
+        "Title": "Inuyasha 2",
+        "Publisher": "Bandai"
+      },
+      {
+        "Title": "Mobile Suit Gundam: MSPlatoon.com",
+        "Publisher": "Bandai"
+      },
+      {
+        "Title": "Ochisuzume",
+        "Publisher": "Bandai"
+      },
+      {
+        "Title": "Princess Maker: Yumemiru Yousei",
+        "Publisher": "Bandai Visual"
+      },
+      {
+        "Title": "Seiken Densetsu 2[1]",
+        "Publisher": "Square"
+      }
+    ]
+  }
+]

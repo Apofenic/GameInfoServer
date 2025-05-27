@@ -1,0 +1,1380 @@
+[
+  {
+    "table1": [
+      {
+        "Title": "3-K Trivia",
+        "Released": "1984",
+        "Genre": "Strategy",
+        "Publisher/developer": "IBM"
+      },
+      {
+        "Title": "Ace of Aces",
+        "Released": "1986",
+        "Genre": "Combat flight simulator",
+        "Publisher/developer": "Accolade / Artech"
+      },
+      {
+        "Title": "Agent USA",
+        "Released": "1984",
+        "Genre": "Adventure /  strategy",
+        "Publisher/developer": "Scholastic / Tom Snyder Productions"
+      },
+      {
+        "Title": "Alley Cat",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Publisher/developer": "IBM / Synapse Software"
+      },
+      {
+        "Title": "The Alpine Encounter",
+        "Released": "1985",
+        "Genre": "Adventure",
+        "Publisher/developer": "Random House"
+      },
+      {
+        "Title": "Amnesia",
+        "Released": "1986",
+        "Genre": "Adventure",
+        "Publisher/developer": "Electronic Arts"
+      },
+      {
+        "Title": "Apple Panic",
+        "Released": "1982",
+        "Genre": "Platform",
+        "Publisher/developer": "Broderbund"
+      },
+      {
+        "Title": "Archon: The Light and the Dark",
+        "Released": "1984",
+        "Genre": "Strategy",
+        "Publisher/developer": "Electronic Arts /  Free Fall Associates"
+      },
+      {
+        "Title": "Attack On Altair",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Bannercatch",
+        "Released": "1984",
+        "Genre": "Action",
+        "Publisher/developer": "Scholastic"
+      },
+      {
+        "Title": "Battlezone",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "B.C.'s Quest for Tires",
+        "Released": "1984",
+        "Genre": "Action",
+        "Publisher/developer": "Sierra On-line / Sydney Development"
+      },
+      {
+        "Title": "Below the Root",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Windham Classics / Dale Disharoon"
+      },
+      {
+        "Title": "Beneath Apple Manor",
+        "Released": "1983",
+        "Genre": "RPG",
+        "Publisher/developer": "Quality Software"
+      },
+      {
+        "Title": "Beyond Castle Wolfenstein",
+        "Released": "1984",
+        "Genre": "Stealth",
+        "Publisher/developer": "Muse Software"
+      },
+      {
+        "Title": "Big Top",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Publisher/developer": "Funtastic / Michael Abrash"
+      },
+      {
+        "Title": "The Black Cauldron",
+        "Released": "1986",
+        "Genre": "Adventure",
+        "Publisher/developer": "Sierra On-line"
+      },
+      {
+        "Title": "Borrowed Time",
+        "Released": "1985",
+        "Genre": "Adventure",
+        "Publisher/developer": "Activision / Interplay"
+      },
+      {
+        "Title": "Boulder Dash",
+        "Released": "1984",
+        "Genre": "Puzzle",
+        "Publisher/developer": "First Star Software"
+      },
+      {
+        "Title": "Boulder Dash II",
+        "Released": "1985",
+        "Genre": "Puzzle",
+        "Publisher/developer": "First Star Software"
+      },
+      {
+        "Title": "Bruce Lee",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Publisher/developer": "Datasoft"
+      },
+      {
+        "Title": "Buck Rogers: Planet of Zoom",
+        "Released": "1984",
+        "Genre": "Action",
+        "Publisher/developer": "Sega"
+      },
+      {
+        "Title": "Buggy Ranger",
+        "Released": "1988",
+        "Genre": "Arcade",
+        "Publisher/developer": "Dinamic Software / Iron Byte"
+      },
+      {
+        "Title": "BurgerTime",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Publisher/developer": "Mattel Electronics"
+      },
+      {
+        "Title": "Buzzard Bait",
+        "Released": "1983",
+        "Genre": "Fixed Shooter",
+        "Publisher/developer": "SIRIUS"
+      },
+      {
+        "Title": "Centipede",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Championship Lode Runner",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Publisher/developer": "Broderbund Software"
+      },
+      {
+        "Title": "Chess88",
+        "Released": "1984",
+        "Genre": "Board game",
+        "Publisher/developer": "Unknown"
+      },
+      {
+        "Title": "Climber 5",
+        "Released": "1987",
+        "Genre": "Platform",
+        "Publisher/developer": "COMPUTE! Publications"
+      },
+      {
+        "Title": "Commando",
+        "Released": "1987",
+        "Genre": "Run and gun",
+        "Publisher/developer": "Quicksilver / Data East"
+      },
+      {
+        "Title": "Conflict in Vietnam",
+        "Released": "1986",
+        "Genre": "Simulation",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "Congo Bongo",
+        "Released": "1984",
+        "Genre": "Isometric platformer",
+        "Publisher/developer": "Sega"
+      },
+      {
+        "Title": "Conquest",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Cosmic Crusader",
+        "Released": "1982",
+        "Genre": "Fixed shooter",
+        "Publisher/developer": "Funtastic / Michael Abrash"
+      },
+      {
+        "Title": "Crossfire",
+        "Released": "1982",
+        "Genre": "Action",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "Crusade in Europe",
+        "Released": "1985",
+        "Genre": "Simulation",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "Crypto Cube",
+        "Released": "1983",
+        "Genre": "Puzzle",
+        "Publisher/developer": "DesignWare"
+      },
+      {
+        "Title": "Cutthroats",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Cyborg",
+        "Released": "1982",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Sentient / Softsmith"
+      },
+      {
+        "Title": "Czorian Siege",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Computer Applications Unlimited / Howard W. Sams"
+      },
+      {
+        "Title": "Deadline",
+        "Released": "1982",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Decision in the Desert",
+        "Released": "1985",
+        "Genre": "Simulation",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "Defender",
+        "Released": "1983",
+        "Genre": "Scrolling shooter",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Defender of the Crown",
+        "Released": "1987",
+        "Genre": "Strategy game",
+        "Publisher/developer": "Master Designer Software / Mirrorsoft"
+      },
+      {
+        "Title": "Demon Attack",
+        "Released": "1982",
+        "Genre": "Fixed shooter",
+        "Publisher/developer": "Imagic"
+      },
+      {
+        "Title": "Demon's Forge",
+        "Released": "1987",
+        "Genre": "Adventure",
+        "Publisher/developer": "Saber Software"
+      },
+      {
+        "Title": "Destroyer",
+        "Released": "1986",
+        "Genre": "Simulation",
+        "Publisher/developer": "Epyx"
+      },
+      {
+        "Title": "Dig Dug",
+        "Released": "1982",
+        "Genre": "Maze",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Digger",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Donald Duck's Playground",
+        "Released": "1986",
+        "Genre": "Educational",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "Donkey Kong",
+        "Released": "1982",
+        "Genre": "Platform",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Dr. J and Larry Bird Go One on One",
+        "Released": "1983",
+        "Genre": "Sports",
+        "Publisher/developer": "Electronic Arts"
+      },
+      {
+        "Title": "Dunjonquest: Morloc's Tower",
+        "Released": "1983",
+        "Genre": "Dungeon crawl",
+        "Publisher/developer": "Epyx / Automated Simulations"
+      },
+      {
+        "Title": "Earthly Delights",
+        "Released": "1983",
+        "Genre": "Adventure",
+        "Publisher/developer": "Datamost"
+      },
+      {
+        "Title": "Eden Blues",
+        "Released": "1987",
+        "Genre": "Adventure",
+        "Publisher/developer": "ERE Informatique"
+      },
+      {
+        "Title": "Enchanter",
+        "Released": "1986",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Evolution",
+        "Released": "1982",
+        "Genre": "Action",
+        "Publisher/developer": "Sydney Development Corp."
+      },
+      {
+        "Title": "Executive Suite",
+        "Released": "1982",
+        "Genre": "Life simulation",
+        "Publisher/developer": "Armonk Corporation"
+      },
+      {
+        "Title": "The Exterminator",
+        "Released": "1982",
+        "Genre": "Action",
+        "Publisher/developer": "Nufekop / Bubble Bus"
+      },
+      {
+        "Title": "F-15 Strike Eagle",
+        "Released": "1984",
+        "Genre": "Combat flight simulator",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "FaceMaker",
+        "Released": "1982",
+        "Genre": "Educational",
+        "Publisher/developer": "DesignWare / Spinnaker"
+      },
+      {
+        "Title": "Five-a-Side Indoor Soccer",
+        "Released": "1986",
+        "Genre": "Sports",
+        "Publisher/developer": "Mastertronic Group"
+      },
+      {
+        "Title": "Fleet Sweep",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Mirror Images"
+      },
+      {
+        "Title": "Floppy Frenzy",
+        "Released": "1982",
+        "Genre": "Action",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Forbidden Castle",
+        "Released": "1985",
+        "Genre": "Adventure",
+        "Publisher/developer": "Angelsoft / Mindscape"
+      },
+      {
+        "Title": "Forbidden Quest",
+        "Released": "1983",
+        "Genre": "Adventure",
+        "Publisher/developer": "Pryority Software"
+      },
+      {
+        "Title": "The Fourth Protocol",
+        "Released": "1985",
+        "Genre": "Adventure",
+        "Publisher/developer": "Electronic Pencil Company / Hutchinson Computer Publishing"
+      },
+      {
+        "Title": "Freddy Fish",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Mirror Images"
+      },
+      {
+        "Title": "Freddy Hardest",
+        "Released": "1988",
+        "Genre": "Platform",
+        "Publisher/developer": "Dinamic Software"
+      },
+      {
+        "Title": "Freddy Hardest in South Manhattan",
+        "Released": "1989",
+        "Genre": "Platform",
+        "Publisher/developer": "Dinamic Software/ Iron Byte"
+      },
+      {
+        "Title": "FriendlyWare P.C. Action",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "FriendlySoft"
+      },
+      {
+        "Title": "FriendlyWare PC Introductory Set",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "FriendlySoft"
+      },
+      {
+        "Title": "Frogger",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "Frogger II: ThreeeDeep!",
+        "Released": "1984",
+        "Genre": "Action",
+        "Publisher/developer": "Sega"
+      },
+      {
+        "Title": "Full Count Baseball",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Publisher/developer": "Lance Haffner Games"
+      },
+      {
+        "Title": "Galactic Gladiators",
+        "Released": "1983",
+        "Genre": "Tactical combat",
+        "Publisher/developer": "Strategic Simulations"
+      },
+      {
+        "Title": "Galaxian",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Game Over",
+        "Released": "1987",
+        "Genre": "Run and gun",
+        "Publisher/developer": "Dinamic Software / Imagine Software"
+      },
+      {
+        "Title": "Game Over II",
+        "Released": "1987",
+        "Genre": "Shoot em' up",
+        "Publisher/developer": "Dinamic Software"
+      },
+      {
+        "Title": "Gamma Force in Pit of a Thousand Screams",
+        "Released": "1988",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Tom Snyder Productions / Infocom"
+      },
+      {
+        "Title": "Ghostbusters",
+        "Released": "1986",
+        "Genre": "Miscellaneous",
+        "Publisher/developer": "Activision"
+      },
+      {
+        "Title": "Gremlins",
+        "Released": "1984",
+        "Genre": "Fixed shooter",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Guerrilla War",
+        "Released": "1987",
+        "Genre": "Run and gun",
+        "Publisher/developer": "Quicksilver / Data East"
+      },
+      {
+        "Title": "Hacker II: The Doomsday Papers",
+        "Released": "1986",
+        "Genre": "Puzzle / strategy",
+        "Publisher/developer": "Activision"
+      },
+      {
+        "Title": "Hard Hat Mack",
+        "Released": "1984",
+        "Genre": "Platform game",
+        "Publisher/developer": "Electronic Arts"
+      },
+      {
+        "Title": "Harrier Combat Simulator",
+        "Released": "1987",
+        "Genre": "Simulation",
+        "Publisher/developer": "Mindscape"
+      },
+      {
+        "Title": "HellCat Ace",
+        "Released": "1984",
+        "Genre": "First person shooter",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "High Stakes",
+        "Released": "1986",
+        "Genre": "Card game",
+        "Publisher/developer": "Angelsoft / Mindscape"
+      },
+      {
+        "Title": "The Hitchhiker's Guide to the Galaxy",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "The Hobbit",
+        "Released": "1983",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Beam Software / Melbourne House"
+      },
+      {
+        "Title": "The Holy Grail",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Hayden Software"
+      },
+      {
+        "Title": "I, Damiano: The Wizard of Partestrada",
+        "Released": "1985",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Imagic / Bantam Software"
+      },
+      {
+        "Title": "Ikari Warriors",
+        "Released": "1987",
+        "Genre": "Run and gun",
+        "Publisher/developer": "Quicksilver / Data East"
+      },
+      {
+        "Title": "Ikari Warriors II: Victory Road",
+        "Released": "1988",
+        "Genre": "Run and gun",
+        "Publisher/developer": "Quicksilver / Data East"
+      },
+      {
+        "Title": "Indianapolis 500: The Simulation",
+        "Released": "1989",
+        "Genre": "Racing",
+        "Publisher/developer": "Electronic Arts"
+      },
+      {
+        "Title": "Infidel",
+        "Released": "1983",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "International Hockey",
+        "Released": "1987",
+        "Genre": "Sports",
+        "Publisher/developer": "Artworx / Superior Quality Software"
+      },
+      {
+        "Title": "J-Bird",
+        "Released": "1983",
+        "Genre": "Puzzle",
+        "Publisher/developer": "Orion Software"
+      },
+      {
+        "Title": "James Bond 007: Goldfinger",
+        "Released": "1986",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Angelsoft / Mindscape"
+      },
+      {
+        "Title": "Jet",
+        "Released": "1985",
+        "Genre": "Simulation",
+        "Publisher/developer": "Sublogic"
+      },
+      {
+        "Title": "John Elway's Quarterback",
+        "Released": "1988",
+        "Genre": "Sports",
+        "Publisher/developer": "Leland / Melbourne House"
+      },
+      {
+        "Title": "Joust",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Jumpman",
+        "Released": "1984",
+        "Genre": "Platform / puzzle",
+        "Publisher/developer": "Epyx, IBM"
+      },
+      {
+        "Title": "Jungle Hunt",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Karnov",
+        "Released": "1989",
+        "Genre": "Platform",
+        "Publisher/developer": "Quicksilver / Data East"
+      },
+      {
+        "Title": "Kindercomp",
+        "Released": "1983",
+        "Genre": "Educational",
+        "Publisher/developer": "Spinnaker"
+      },
+      {
+        "Title": "King's Quest: Quest for the Crown",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "King's Quest II: Romancing the Throne",
+        "Released": "1985",
+        "Genre": "Adventure",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "Kobyashi Naru",
+        "Released": "1987",
+        "Genre": "Adventure",
+        "Publisher/developer": "Mastertronic"
+      },
+      {
+        "Title": "Lane Mastodon vs. the Blubbermen",
+        "Released": "1988",
+        "Genre": "Adventure",
+        "Publisher/developer": "Tom Snyder Productions / Infocom"
+      },
+      {
+        "Title": "Livingstone supongo",
+        "Released": "1987",
+        "Genre": "Action",
+        "Publisher/developer": "Opera Soft"
+      },
+      {
+        "Title": "Livingstone supongo II",
+        "Released": "1989",
+        "Genre": "Action",
+        "Publisher/developer": "Opera Soft"
+      },
+      {
+        "Title": "Lock-On",
+        "Released": "1987",
+        "Genre": "First person shooter",
+        "Publisher/developer": "Tatsumi Electronics, Data East"
+      },
+      {
+        "Title": "Lode Runner",
+        "Released": "1983",
+        "Genre": "Platform / puzzle",
+        "Publisher/developer": "Broderbund / Ariolasoft"
+      },
+      {
+        "Title": "M.U.L.E.",
+        "Released": "1983",
+        "Genre": "Strategy",
+        "Publisher/developer": "Electronic Arts, K-Byte"
+      },
+      {
+        "Title": "Marble Madness",
+        "Released": "1986",
+        "Genre": "Platform / racing",
+        "Publisher/developer": "Broderbund, Ariolasoft"
+      },
+      {
+        "Title": "Master Miner",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Funtastic"
+      },
+      {
+        "Title": "Math Maze",
+        "Released": "1983",
+        "Genre": "Racing",
+        "Publisher/developer": "DesignWare"
+      },
+      {
+        "Title": "Metropolis",
+        "Released": "1987",
+        "Genre": "Simulation",
+        "Publisher/developer": "Arcadia Systems, Melbourne House"
+      },
+      {
+        "Title": "MicroLeague Baseball",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Publisher/developer": "MicroLeague"
+      },
+      {
+        "Title": "Microsoft Adventure",
+        "Released": "1981",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Microsoft, IBM"
+      },
+      {
+        "Title": "Microsoft Decathlon",
+        "Released": "1982",
+        "Genre": "Sports",
+        "Publisher/developer": "Microsoft, IBM"
+      },
+      {
+        "Title": "Microsoft Flight Simulator 1.0",
+        "Released": "1982",
+        "Genre": "Simulation",
+        "Publisher/developer": "Sublogic / Microsoft"
+      },
+      {
+        "Title": "Microsoft Flight Simulator 2.0",
+        "Released": "1984",
+        "Genre": "Simulation",
+        "Publisher/developer": "Sublogic / Microsoft"
+      },
+      {
+        "Title": "Mindshadow",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Interplay / Activision"
+      },
+      {
+        "Title": "Mine Shaft",
+        "Released": "1983",
+        "Genre": "Puzzle",
+        "Publisher/developer": "Sierra On-Line, IBM"
+      },
+      {
+        "Title": "Miner 2049er",
+        "Released": "1983",
+        "Genre": "Platform",
+        "Publisher/developer": "Big Five Software / Micro Fun"
+      },
+      {
+        "Title": "Montezuma's Revenge",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Publisher/developer": "BCI Software"
+      },
+      {
+        "Title": "Moon Bugs",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Moon Patrol",
+        "Released": "1983",
+        "Genre": "Scrolling shooter",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Morloc's Tower",
+        "Released": "1983",
+        "Genre": "Adventure",
+        "Publisher/developer": "Automated Simulations"
+      },
+      {
+        "Title": "Mouser",
+        "Released": "1983",
+        "Genre": "Platform / puzzle",
+        "Publisher/developer": "Gebelli Software, IBM"
+      },
+      {
+        "Title": "Ms. Pac-Man",
+        "Released": "1983",
+        "Genre": "Maze",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Mundial de Fútbol",
+        "Released": "1990",
+        "Genre": "Sports",
+        "Publisher/developer": "Opera Sports, Opera Soft"
+      },
+      {
+        "Title": "Murder on the Zinderneuf",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Free Fall Associates, Electronic Arts"
+      },
+      {
+        "Title": "Narco Police",
+        "Released": "1989",
+        "Genre": "Action / shooter",
+        "Publisher/developer": "Iron Byte, Dinamic Software"
+      },
+      {
+        "Title": "Night Mission Pinball",
+        "Released": "1982",
+        "Genre": "Pinball",
+        "Publisher/developer": "Sublogic"
+      },
+      {
+        "Title": "Night Stalker",
+        "Released": "1983",
+        "Genre": "Maze",
+        "Publisher/developer": "Mattel Electronics"
+      },
+      {
+        "Title": "Oil's Well",
+        "Released": "1984",
+        "Genre": "Maze",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "Pac-Man",
+        "Released": "1983",
+        "Genre": "Maze",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Paratrooper",
+        "Released": "1982",
+        "Genre": "Shooter",
+        "Publisher/developer": "Greg Kuperberg, Orion Software"
+      },
+      {
+        "Title": "PC Arcade",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Friendlysoft"
+      },
+      {
+        "Title": "PC Pool",
+        "Released": "1983",
+        "Genre": "Sports",
+        "Publisher/developer": "Hesware, IBM"
+      },
+      {
+        "Title": "PC Pool Challenges",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Publisher/developer": "Hesware, IBM"
+      },
+      {
+        "Title": "PC-Man",
+        "Released": "1982",
+        "Genre": "Maze",
+        "Publisher/developer": "Orion Software"
+      },
+      {
+        "Title": "Pinball Construction Set",
+        "Released": "1985",
+        "Genre": "Pinball",
+        "Publisher/developer": "Electronic Arts"
+      },
+      {
+        "Title": "Pitfall II: Lost Caverns",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Publisher/developer": "Activision"
+      },
+      {
+        "Title": "Pitstop II",
+        "Released": "1984",
+        "Genre": "Racing",
+        "Publisher/developer": "Synergistic Software, Epyx"
+      },
+      {
+        "Title": "Planetfall",
+        "Released": "1983",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Portal",
+        "Released": "1986",
+        "Genre": "RPG",
+        "Publisher/developer": "Nexa Corporation, Activision"
+      },
+      {
+        "Title": "Prowler",
+        "Released": "1987",
+        "Genre": "Simulation",
+        "Publisher/developer": "Icon Design Ltd., Mastertronic"
+      },
+      {
+        "Title": "Psi-5 Trading Company",
+        "Released": "1986",
+        "Genre": "Strategy",
+        "Publisher/developer": "Accolade"
+      },
+      {
+        "Title": "Rasterscan",
+        "Released": "1987",
+        "Genre": "Puzzle",
+        "Publisher/developer": "Binary Design, Mastertronic"
+      },
+      {
+        "Title": "Rescue at Rigel",
+        "Released": "1983",
+        "Genre": "RPG",
+        "Publisher/developer": "Epyx"
+      },
+      {
+        "Title": "Rescate en el Golfo",
+        "Released": "1991",
+        "Genre": "Shooter",
+        "Publisher/developer": "Opera Soft"
+      },
+      {
+        "Title": "River Raid",
+        "Released": "1984",
+        "Genre": "Scrolling shooter",
+        "Publisher/developer": "Activision"
+      },
+      {
+        "Title": "Robotron: 2084",
+        "Released": "1983",
+        "Genre": "Fixed shooter",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Rockford",
+        "Released": "1988",
+        "Genre": "Arcade",
+        "Publisher/developer": "Arcadia Systems"
+      },
+      {
+        "Title": "Rollo and the Brush Bros.",
+        "Released": "1983",
+        "Genre": "Puzzle",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Satan",
+        "Released": "1990",
+        "Genre": "Platform",
+        "Publisher/developer": "Dinamic Software"
+      },
+      {
+        "Title": "ScubaVenture",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Gebelli Software, IBM"
+      },
+      {
+        "Title": "Seastalker",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Serpentine",
+        "Released": "1982",
+        "Genre": "Action",
+        "Publisher/developer": "Broderbund"
+      },
+      {
+        "Title": "Sol Negro",
+        "Released": "1988",
+        "Genre": "Arcade",
+        "Publisher/developer": "Opera Soft"
+      },
+      {
+        "Title": "The Seven Cities of Gold",
+        "Released": "1987",
+        "Genre": "Adventure",
+        "Publisher/developer": "Ozark Softscape, Electronic Arts"
+      },
+      {
+        "Title": "Shamus",
+        "Released": "1984",
+        "Genre": "Action",
+        "Publisher/developer": "William Mataga, Synapse Software"
+      },
+      {
+        "Title": "Sherlock Holmes: Another Bow",
+        "Released": "1985",
+        "Genre": "Adventure",
+        "Publisher/developer": "Imagic, Bantam Software"
+      },
+      {
+        "Title": "Sid Meier's Pirates!",
+        "Released": "1987",
+        "Genre": "Action / adventure",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "Sidewinder",
+        "Released": "1988",
+        "Genre": "Shoot em' up",
+        "Publisher/developer": "Synergistic Software, Arcadia Systems"
+      },
+      {
+        "Title": "Sierra Championship Boxing",
+        "Released": "1985",
+        "Genre": "Sports",
+        "Publisher/developer": "Evryware, Sierra On-Line"
+      },
+      {
+        "Title": "Silent Service",
+        "Released": "1986",
+        "Genre": "Submarine simulator",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "The Slugger",
+        "Released": "1988",
+        "Genre": "Sports",
+        "Publisher/developer": "Ocean Software, Mastertronic"
+      },
+      {
+        "Title": "Snack Attack II",
+        "Released": "1982",
+        "Genre": "Maze",
+        "Publisher/developer": "Funtastic"
+      },
+      {
+        "Title": "Solo Flight",
+        "Released": "1983",
+        "Genre": "Simulation",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "Solomon's Key",
+        "Released": "1988",
+        "Genre": "Puzzle",
+        "Publisher/developer": "U.S. Gold"
+      },
+      {
+        "Title": "Sorcerer",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Space Strike",
+        "Released": "1982",
+        "Genre": "Action",
+        "Publisher/developer": "Michael Abrash, Datamost"
+      },
+      {
+        "Title": "Spellicopter",
+        "Released": "1983",
+        "Genre": "Edutainment",
+        "Publisher/developer": "DesignWare"
+      },
+      {
+        "Title": "Spiderbot",
+        "Released": "1988",
+        "Genre": "Platform",
+        "Publisher/developer": "Addictive Games, Epyx"
+      },
+      {
+        "Title": "Spitfire Ace",
+        "Released": "1984",
+        "Genre": "Flying shooter",
+        "Publisher/developer": "MicroProse"
+      },
+      {
+        "Title": "Spy Hunter",
+        "Released": "1984",
+        "Genre": "Vehicular combat",
+        "Publisher/developer": "Sega"
+      },
+      {
+        "Title": "Starcross",
+        "Released": "1982",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Stargate",
+        "Released": "1983",
+        "Genre": "Scrolling shooter",
+        "Publisher/developer": "Atarisoft"
+      },
+      {
+        "Title": "Storm",
+        "Released": "1987",
+        "Genre": "Puzzle",
+        "Publisher/developer": "Mastertronic"
+      },
+      {
+        "Title": "Strategy Games",
+        "Released": "1983",
+        "Genre": "Strategy",
+        "Publisher/developer": "IBM"
+      },
+      {
+        "Title": "Styx",
+        "Released": "1983",
+        "Genre": "Puzzle",
+        "Publisher/developer": "Windmill Software"
+      },
+      {
+        "Title": "Sub Mission",
+        "Released": "1987",
+        "Genre": "Shooter",
+        "Publisher/developer": "Tom Snyder Productions, Mindscape"
+      },
+      {
+        "Title": "Summer Games II",
+        "Released": "1986",
+        "Genre": "Sports",
+        "Publisher/developer": "Epyx"
+      },
+      {
+        "Title": "Super Boulder Dash",
+        "Released": "1986",
+        "Genre": "Action",
+        "Publisher/developer": "First Star Software, Electronic Arts"
+      },
+      {
+        "Title": "Super Football Sunday",
+        "Released": "1985",
+        "Genre": "Sports",
+        "Publisher/developer": "Quest / Avalon Hill"
+      },
+      {
+        "Title": "Super Zaxxon",
+        "Released": "1984",
+        "Genre": "Shoot em' up",
+        "Publisher/developer": "Sega"
+      },
+      {
+        "Title": "Suspect",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Suspended",
+        "Released": "1983",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Tag Team Wrestling",
+        "Released": "1985",
+        "Genre": "Sports",
+        "Publisher/developer": "Quicksilver / Data East"
+      },
+      {
+        "Title": "Tapper",
+        "Released": "1983",
+        "Genre": "Action",
+        "Publisher/developer": "Bally Midway"
+      },
+      {
+        "Title": "Tass Times in Tonetown",
+        "Released": "1986",
+        "Genre": "Adventure",
+        "Publisher/developer": "Brainwave Creations / Interplay, Activision"
+      },
+      {
+        "Title": "The Last Mission",
+        "Released": "1987",
+        "Genre": "Action",
+        "Publisher/developer": "Opera Soft"
+      },
+      {
+        "Title": "Timothy Leary's Mind Mirror",
+        "Released": "1986",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Futique, Electronic Arts"
+      },
+      {
+        "Title": "Touchdown Football",
+        "Released": "1984",
+        "Genre": "Sports",
+        "Publisher/developer": "Imagic, IBM"
+      },
+      {
+        "Title": "The Tracer Sanction",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Interplay / Activision"
+      },
+      {
+        "Title": "Trilogy",
+        "Released": "1987",
+        "Genre": "Adventure",
+        "Publisher/developer": "Mastertronic"
+      },
+      {
+        "Title": "Trivia 101",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Publisher/developer": "Digital Learning Systems, IBM"
+      },
+      {
+        "Title": "Troll's Tale",
+        "Released": "1984",
+        "Genre": "Adventure",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "TV and Cinema 101: Trivia from Talkies to Trekkies",
+        "Released": "1984",
+        "Genre": "Game show",
+        "Publisher/developer": "Digital Learning Systems, IBM"
+      },
+      {
+        "Title": "Ulysses and the Golden Fleece",
+        "Released": "1982",
+        "Genre": "Hi-res adventure",
+        "Publisher/developer": "Sierra On-Line"
+      },
+      {
+        "Title": "Up'n Down",
+        "Released": "1984",
+        "Genre": "Platform",
+        "Publisher/developer": "Sega Enterprise, Ltd."
+      },
+      {
+        "Title": "Voodoo Island",
+        "Released": "1985",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Angelsoft / Mindscape"
+      },
+      {
+        "Title": "Warrior of Ras: Volume I - Dunzhin",
+        "Released": "1982",
+        "Genre": "RPG",
+        "Publisher/developer": "Intelligent Statements Inc., Computer Applications Unlimited"
+      },
+      {
+        "Title": "Will Harvey's Music Construction Set",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Publisher/developer": "Electronic Arts"
+      },
+      {
+        "Title": "Winter Games",
+        "Released": "1986",
+        "Genre": "Sports",
+        "Publisher/developer": "Epyx"
+      },
+      {
+        "Title": "The Witness",
+        "Released": "1983",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Wizard and the Princess",
+        "Released": "1982",
+        "Genre": "Adventure",
+        "Publisher/developer": "On-Line Systems"
+      },
+      {
+        "Title": "Wizardry: Proving Grounds of the Mad Overlord",
+        "Released": "1984",
+        "Genre": "RPG",
+        "Publisher/developer": "Sir-Tech"
+      },
+      {
+        "Title": "Wizardry II: The Knight of Diamonds",
+        "Released": "1985",
+        "Genre": "RPG",
+        "Publisher/developer": "Sir-Tech"
+      },
+      {
+        "Title": "Wizardry III: Legacy of Llylgamyn",
+        "Released": "1986",
+        "Genre": "RPG",
+        "Publisher/developer": "Sir-Tech"
+      },
+      {
+        "Title": "Wizardry IV: The Return of Werdna",
+        "Released": "1987",
+        "Genre": "RPG",
+        "Publisher/developer": "Sir-Tech"
+      },
+      {
+        "Title": "Wizardry V: Heart of the Maelstrom",
+        "Released": "1988",
+        "Genre": "RPG",
+        "Publisher/developer": "Sir-Tech"
+      },
+      {
+        "Title": "Wizball",
+        "Released": "1987",
+        "Genre": "Shoot 'em up",
+        "Publisher/developer": "Sensible Software,\tOcean Software"
+      },
+      {
+        "Title": "Word Spinner",
+        "Released": "1984",
+        "Genre": "Educational",
+        "Publisher/developer": "The Learning Company"
+      },
+      {
+        "Title": "World Games",
+        "Released": "1986",
+        "Genre": "Sports",
+        "Publisher/developer": "K-Byte / Epyx"
+      },
+      {
+        "Title": "World Karate Championship",
+        "Released": "1986",
+        "Genre": "Fighting",
+        "Publisher/developer": "Epyx / System 3"
+      },
+      {
+        "Title": "The World's Greatest Baseball Game",
+        "Released": "1985",
+        "Genre": "Sports",
+        "Publisher/developer": "Quest Inc., Epyx"
+      },
+      {
+        "Title": "Zaxxon",
+        "Released": "1984",
+        "Genre": "Action",
+        "Publisher/developer": "Sega"
+      },
+      {
+        "Title": "Zork: The Great Underground Empire",
+        "Released": "1982",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Zork II: The Wizard of Frobozz",
+        "Released": "1983",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "Zork III: The Dungeon Master",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "Infocom"
+      },
+      {
+        "Title": "ZorkQuest: Assault on Egreth Castle",
+        "Released": "1988",
+        "Genre": "Adventure",
+        "Publisher/developer": "Tom Snyder Productions / Infocom"
+      },
+      {
+        "Title": "ZorkQuest: The Crystal of Doom",
+        "Released": "1989",
+        "Genre": "Adventure",
+        "Publisher/developer": "Tom Snyder Productions / Infocom"
+      },
+      {
+        "Title": "Zyll",
+        "Released": "1984",
+        "Genre": "Interactive fiction",
+        "Publisher/developer": "IBM"
+      }
+    ]
+  }
+]

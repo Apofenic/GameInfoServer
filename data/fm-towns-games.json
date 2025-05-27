@@ -1,0 +1,4479 @@
+[
+  {
+    "table1": [
+      {
+        "Title[9][10]": "2069 AD",
+        "Genre(s)": "Role-playing game, Visual Novel",
+        "Developer(s)": "Home Data",
+        "Publisher(s)": "Home Data",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "3x3 Eyes: Sanjiyan Henjō",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Nihon Create",
+        "Publisher(s)": "Nihon Create",
+        "Release date(s)[9][10]": "1993-10-06"
+      },
+      {
+        "Title[9][10]": "4D Boxing",
+        "Genre(s)": "Fighting, Sports",
+        "Developer(s)": "Distinctive Software",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "4D Driving",
+        "Genre(s)": "Racing",
+        "Developer(s)": "Distinctive Software",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "4D Tennis",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Distinctive Software",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1993-07-23"
+      },
+      {
+        "Title[9][10]": "38 man Kiro no Kokū",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "System Sacom",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "a 1-2-3",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "HARD",
+        "Publisher(s)": "HARD",
+        "Release date(s)[9][10]": "1993-07-16"
+      },
+      {
+        "Title[9][10]": "A-Ressha de Ikō III",
+        "Genre(s)": "Business simulation game",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1991-04"
+      },
+      {
+        "Title[9][10]": "A-Ressha de Ikō IV",
+        "Genre(s)": "Business simulation game",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "A-Ressha de Ikō IV Map Construction + Power Up Kit",
+        "Genre(s)": "Data disk, Non-game",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1994-04"
+      },
+      {
+        "Title[9][10]": "Abel: Shin Mokushiroku Taisen",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Family Soft",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1995-12-22"
+      },
+      {
+        "Title[9][10]": "Abunai Tengu Densetsu",
+        "Genre(s)": "Adventure, Visual Novel",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1990-04-15"
+      },
+      {
+        "Title[9][10]": "Advantage Tennis",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Infogrames Europe SA",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Æternam",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Infogrames Europe SA",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "After Burner",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1989-02"
+      },
+      {
+        "Title[9][10]": "After Burner III",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1992-06"
+      },
+      {
+        "Title[9][10]": "Ai Shimai: Futari no Kajitsu",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1994-09-30"
+      },
+      {
+        "Title[9][10]": "Air Combat II Special",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "SystemSoft",
+        "Publisher(s)": "Victor Musical Industries",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Air Management: Ōzora ni Kakeru",
+        "Genre(s)": "Business simulation game",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Akiko Gold: The Queen of Adult",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Red-Zone",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1995-01"
+      },
+      {
+        "Title[9][10]": "Akiko Premium Version",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Red-Zone",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1993"
+      },
+      {
+        "Title[9][10]": "Alice no Yakata 3",
+        "Genre(s)": "Adventure, Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-06"
+      },
+      {
+        "Title[9][10]": "Alice no Yakata CD",
+        "Genre(s)": "Adventure, Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1991-07"
+      },
+      {
+        "Title[9][10]": "Alice no Yakata CDII",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Alltynex",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Satoshi Yoshida",
+        "Publisher(s)": "Satoshi Yoshida",
+        "Release date(s)[9][10]": "1996-10"
+      },
+      {
+        "Title[9][10]": "Alone in the Dark",
+        "Genre(s)": "Survival horror",
+        "Developer(s)": "Infogrames Europe SA",
+        "Publisher(s)": "Arrow Micro-Techs Corp.",
+        "Release date(s)[9][10]": "1993-12-10"
+      },
+      {
+        "Title[9][10]": "Alone in the Dark 2",
+        "Genre(s)": "Survival horror",
+        "Developer(s)": "Infogrames Europe SA",
+        "Publisher(s)": "Arrow Micro-Techs Corp.",
+        "Release date(s)[9][10]": "1994-12-03"
+      },
+      {
+        "Title[9][10]": "Alshark",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Right Stuff",
+        "Publisher(s)": "Right Stuff",
+        "Release date(s)[9][10]": "1993-05-28"
+      },
+      {
+        "Title[9][10]": "Amaranth III",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Fuga System Corp.",
+        "Publisher(s)": "Fuga System Corp.",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "AmbivalenZ: Niritsu Haihan",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alie Soft",
+        "Release date(s)[9][10]": "1994-04"
+      },
+      {
+        "Title[9][10]": "America Ōdan Ultra Quiz",
+        "Genre(s)": "Quiz game",
+        "Developer(s)": "Fujitsu",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Amy to Yobanaide",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "C's Ware",
+        "Publisher(s)": "C's Ware",
+        "Release date(s)[9][10]": "1995-08"
+      },
+      {
+        "Title[9][10]": "Angel",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1993-10"
+      },
+      {
+        "Title[9][10]": "Angel Halo",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1996-10-17"
+      },
+      {
+        "Title[9][10]": "Aoki Ōkami to Shiroki Mejika: Genchou Hishi",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Arabesque: Shōjo-tachi no Orinasu Ai no Monogatari",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1994-04-28"
+      },
+      {
+        "Title[9][10]": "Arquelphos",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "D.O.",
+        "Publisher(s)": "D.O.",
+        "Release date(s)[9][10]": "1993-07-30"
+      },
+      {
+        "Title[9][10]": "Asuka 120% Burning Fest",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Fill-in-Cafe",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1994-03-11"
+      },
+      {
+        "Title[9][10]": "Asuka 120% Burning Fest Excellent",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Fill-in-Cafe",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1994-12-22"
+      },
+      {
+        "Title[9][10]": "The Atlas",
+        "Genre(s)": "Simulation, Strategy",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1991-10"
+      },
+      {
+        "Title[9][10]": "The Atlas II",
+        "Genre(s)": "Simulation, Strategy",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1993-05"
+      },
+      {
+        "Title[9][10]": "Awesome",
+        "Genre(s)": "Action",
+        "Developer(s)": "Reflections Interactive",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-03"
+      },
+      {
+        "Title[9][10]": "Ayayo's Live Affection",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "HARD",
+        "Publisher(s)": "HARD",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Ayumi-chan Monogatari",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1993-10-15"
+      },
+      {
+        "Title[9][10]": "Ayumi-chan Monogatari: Jisshaban",
+        "Genre(s)": "Dating Simulation, Eroge",
+        "Developer(s)": "Alice Soft, Core Magazine",
+        "Publisher(s)": "Core Magazine",
+        "Release date(s)[9][10]": "1995-01"
+      },
+      {
+        "Title[9][10]": "Azure",
+        "Genre(s)": "Shooter",
+        "Developer(s)": "Family Soft",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1993-02-20"
+      },
+      {
+        "Title[9][10]": "Bacta 1 & 2 + Voice",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Himeya Soft, Inc.",
+        "Publisher(s)": "Himeya Soft, Inc.",
+        "Release date(s)[9][10]": "1996-01-12"
+      },
+      {
+        "Title[9][10]": "Ballade for Maria",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1995-06"
+      },
+      {
+        "Title[9][10]": "Band-kun",
+        "Genre(s)": "Simulation, Music",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1991"
+      },
+      {
+        "Title[9][10]": "Battle",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "G.A.M. Corporation",
+        "Publisher(s)": "G.A.M. Corporation",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Battle Chess",
+        "Genre(s)": "Chess",
+        "Developer(s)": "Interplay Productions",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1991-09"
+      },
+      {
+        "Title[9][10]": "Beast III",
+        "Genre(s)": "Visual Novel",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "Bell's Avenue Vol. 1",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Signa Works",
+        "Publisher(s)": "Wendy Magazine",
+        "Release date(s)[9][10]": "1993-08"
+      },
+      {
+        "Title[9][10]": "Bell's Avenue Vol. 2",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Wendy Magazine",
+        "Publisher(s)": "Wendy Magazine",
+        "Release date(s)[9][10]": "1994-01"
+      },
+      {
+        "Title[9][10]": "Bell's Avenue Vol. 3",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Wendy Magazine",
+        "Publisher(s)": "Wendy Magazine",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "The Best Play Baseball",
+        "Genre(s)": "Sports",
+        "Developer(s)": "ASCII Entertainment",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Bible Master",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Glodia",
+        "Publisher(s)": "Glodia",
+        "Release date(s)[9][10]": "1993-12-18"
+      },
+      {
+        "Title[9][10]": "Bible Master 2: The Chaos of Aglia",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Glodia",
+        "Publisher(s)": "Glodia",
+        "Release date(s)[9][10]": "1995-01"
+      },
+      {
+        "Title[9][10]": "Big Honour",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Blandia Plus",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-09-30"
+      },
+      {
+        "Title[9][10]": "Blue: Will to Power",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Kinpukurin",
+        "Publisher(s)": "Kinpukurin",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Bomberman: Panic Bomber",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1995-04-05"
+      },
+      {
+        "Title[9][10]": "Brandish",
+        "Genre(s)": "Action role-playing game",
+        "Developer(s)": "Nihon Falcom",
+        "Publisher(s)": "Nihon Falcom",
+        "Release date(s)[9][10]": "1991-12"
+      },
+      {
+        "Title[9][10]": "Branmarker",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Branmarker 2",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1995-10"
+      },
+      {
+        "Title[9][10]": "Bubble Bobble",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1990-10-31"
+      },
+      {
+        "Title[9][10]": "Bunretsu Shugoshin Twinkle☆Star",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Studio Twinkle",
+        "Publisher(s)": "Studio Twinkle",
+        "Release date(s)[9][10]": "1993-07-29"
+      },
+      {
+        "Title[9][10]": "Burai: Gekan Kanketsu-hen",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "Release date(s)[9][10]": "1991-05"
+      },
+      {
+        "Title[9][10]": "Burai: Jōkan",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "Release date(s)[9][10]": "1990-04"
+      },
+      {
+        "Title[9][10]": "Cal III",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1993-07"
+      },
+      {
+        "Title[9][10]": "Cal Gaiden: Tiny Steps",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1993-09"
+      },
+      {
+        "Title[9][10]": "Cal Towns",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "California x Party: Joshidaisei Himitsu Club",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "HOP",
+        "Publisher(s)": "HOP",
+        "Release date(s)[9][10]": "1994-09"
+      },
+      {
+        "Title[9][10]": "Cameltry",
+        "Genre(s)": "Puzzle, Racing",
+        "Developer(s)": "Dempa",
+        "Publisher(s)": "Dempa",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Can Can Bunny Extra",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1993-09"
+      },
+      {
+        "Title[9][10]": "Can Can Bunny Premiere",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Ides",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "The Case of the Cautious Condor",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Tiger Media, Inc.",
+        "Publisher(s)": "Toshiba EMI",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "Castles",
+        "Genre(s)": "Simulation, Strategy",
+        "Developer(s)": "Quicksilver Software",
+        "Publisher(s)": "Victor Musical Industries",
+        "Release date(s)[9][10]": "1992-10-23"
+      },
+      {
+        "Title[9][10]": "Castles II: Siege and Conquest",
+        "Genre(s)": "Real-time strategy",
+        "Developer(s)": "Quicksilver Software",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1993-10"
+      },
+      {
+        "Title[9][10]": "Cat's Part-1",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Cat's Pro",
+        "Publisher(s)": "Cat's Pro",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "CD-ROM Bishoujo Collection: Yuu Disk Special",
+        "Genre(s)": "Role-playing game, Visual Novel",
+        "Developer(s)": "D.O.",
+        "Publisher(s)": "Mediax",
+        "Release date(s)[9][10]": "1996-04"
+      },
+      {
+        "Title[9][10]": "Centurion: Defender of Rome",
+        "Genre(s)": "Action, Strategy",
+        "Developer(s)": "Bits of Magic",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Chase H.Q.",
+        "Genre(s)": "Racing, Vehicular combat",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1991-08-09"
+      },
+      {
+        "Title[9][10]": "Chiemi & Naomi",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Red-Zone",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1993-12-22"
+      },
+      {
+        "Title[9][10]": "Chinmoku no Kantai",
+        "Genre(s)": "Simulation, Strategy",
+        "Developer(s)": "G.A.M. Corporation",
+        "Publisher(s)": "G.A.M. Corporation",
+        "Release date(s)[9][10]": "1992"
+      },
+      {
+        "Title[9][10]": "Classic Road",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Victor Entertainment",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1994-02"
+      },
+      {
+        "Title[9][10]": "Collector D",
+        "Genre(s)": "Role-playing game, Strategy",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-08"
+      },
+      {
+        "Title[9][10]": "Collector D Bangaihen",
+        "Genre(s)": "Role-playing game, Strategy",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-09-10"
+      },
+      {
+        "Title[9][10]": "Columns",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Telenet Japan",
+        "Publisher(s)": "Telenet Japan",
+        "Release date(s)[9][10]": "1990-12"
+      },
+      {
+        "Title[9][10]": "Crescent",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "CRI Gokan Pack",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1994-11-25"
+      },
+      {
+        "Title[9][10]": "Crystal Rinal",
+        "Genre(s)": "Dungeon crawl, Eroge, Role-playing game",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Curse",
+        "Genre(s)": "Adventure, Visual Novel",
+        "Developer(s)": "Queen Soft",
+        "Publisher(s)": "Queen Soft",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Custom Mate & Denwa no Bell ga...",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1994-12-16"
+      },
+      {
+        "Title[9][10]": "Custom Mate 2 & Itsuka Dokoka de.",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1995-08-25"
+      },
+      {
+        "Title[9][10]": "CyberCity",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)": "Telenet Japan",
+        "Publisher(s)": "Telenet Japan",
+        "Release date(s)[9][10]": "1989-03"
+      },
+      {
+        "Title[9][10]": "Cyberia",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)": "Xatrix Entertainment",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-05"
+      },
+      {
+        "Title[9][10]": "D-Again: The 4th Unit Five",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1990-04"
+      },
+      {
+        "Title[9][10]": "D-Return",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Nihon Computer Club Renmei Kikaku",
+        "Publisher(s)": "Nihon Computer Club Renmei Kikaku",
+        "Release date(s)[9][10]": "1990-11"
+      },
+      {
+        "Title[9][10]": "D.P.S: Dream Program System",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1990-04-15"
+      },
+      {
+        "Title[9][10]": "D.P.S: Dream Program System SG",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1990-09-15"
+      },
+      {
+        "Title[9][10]": "D.P.S: Dream Program System SG Set 2",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1991-04-15"
+      },
+      {
+        "Title[9][10]": "D.P.S: Dream Program System SG Set 3",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1991-12-15"
+      },
+      {
+        "Title[9][10]": "D.P.S. Zenbu",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-11"
+      },
+      {
+        "Title[9][10]": "Daikōkai Jidai",
+        "Genre(s)": "Role-playing game, Simulation",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1990-11"
+      },
+      {
+        "Title[9][10]": "Daikōkai Jidai II",
+        "Genre(s)": "Role-playing game, Simulation",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Daisenryaku III '90",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Arsys Software",
+        "Publisher(s)": "SystemSoft",
+        "Release date(s)[9][10]": "1991-12"
+      },
+      {
+        "Title[9][10]": "Daisenryaku III '90 Map Collection Vol. 1",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Arsys Software",
+        "Publisher(s)": "SystemSoft",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Daisenryaku III '90 Map Collection Vol. 2",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Arsys Software",
+        "Publisher(s)": "SystemSoft",
+        "Release date(s)[9][10]": "1992-07"
+      },
+      {
+        "Title[9][10]": "Dalk",
+        "Genre(s)": "Role-playing game, Turn-based strategy, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Dangel",
+        "Genre(s)": "Role-playing game, Eroge",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1996-06"
+      },
+      {
+        "Title[9][10]": "Darwin's Dilemma",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Inline Design",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1991-08"
+      },
+      {
+        "Title[9][10]": "De-Ja II",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1992-08"
+      },
+      {
+        "Title[9][10]": "De.FaNa",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Himeya Soft, Inc.",
+        "Publisher(s)": "Himeya Soft, Inc.",
+        "Release date(s)[9][10]": "1995-11"
+      },
+      {
+        "Title[9][10]": "Dead Force",
+        "Genre(s)": "Tactical role-playing game",
+        "Developer(s)": "Fuga System Corp.",
+        "Publisher(s)": "Fuga System Corp.",
+        "Release date(s)[9][10]": "1995-06-09"
+      },
+      {
+        "Title[9][10]": "Dead of the Brain",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Death Brade",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "KID",
+        "Publisher(s)": "KID",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Deep",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1995-03-15"
+      },
+      {
+        "Title[9][10]": "Demon City",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1994-03-18"
+      },
+      {
+        "Title[9][10]": "Dengeki Nurse",
+        "Genre(s)": "Role-playing game, Eroge, Visual novel",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1992"
+      },
+      {
+        "Title[9][10]": "Dengeki Nurse 2: More Sexy",
+        "Genre(s)": "Role-playing game, Eroge, Visual novel",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1994-12-22"
+      },
+      {
+        "Title[9][10]": "Derby Stallion",
+        "Genre(s)": "Sports",
+        "Developer(s)": "ASCII Entertainment",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1994-02-18"
+      },
+      {
+        "Title[9][10]": "Desire: Haitoku no Rasen",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "C's Ware",
+        "Publisher(s)": "C's Ware",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Diamond Players",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Die Gekirin",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Nihon Application Co., Ltd.",
+        "Publisher(s)": "Nihon Application Co., Ltd.",
+        "Release date(s)[9][10]": "1995-11"
+      },
+      {
+        "Title[9][10]": "Dinosaur",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Nihon Falcom",
+        "Publisher(s)": "Nihon Falcom",
+        "Release date(s)[9][10]": "1991-10"
+      },
+      {
+        "Title[9][10]": "Doki Doki Vacation: Kirameku Kisetsu no Naka de",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Dōkyūsei",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1993-03-25"
+      },
+      {
+        "Title[9][10]": "Dōkyūsei 2",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "DOR",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-05-29"
+      },
+      {
+        "Title[9][10]": "DOR Best Selection Gekan",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-05-21"
+      },
+      {
+        "Title[9][10]": "DOR Best Selection Joukan",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-04-27"
+      },
+      {
+        "Title[9][10]": "DOR Part 2",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-06-26"
+      },
+      {
+        "Title[9][10]": "DOR Part 3",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-11-27"
+      },
+      {
+        "Title[9][10]": "DOR Special Edition '93",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-12-23"
+      },
+      {
+        "Title[9][10]": "DOR Special Edition Sakigake",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-16"
+      },
+      {
+        "Title[9][10]": "Dr. Stop!",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1992"
+      },
+      {
+        "Title[9][10]": "Dracula Hakushaku",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "Ides",
+        "Release date(s)[9][10]": "1993-03-19"
+      },
+      {
+        "Title[9][10]": "Dragon Half",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Micro Cabin",
+        "Publisher(s)": "Micro Cabin",
+        "Release date(s)[9][10]": "1994-04-22"
+      },
+      {
+        "Title[9][10]": "Dragon Knight 4",
+        "Genre(s)": "Eroge, Role-playing game, Turn-based strategy",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1994-04-28"
+      },
+      {
+        "Title[9][10]": "Dragon Knight III",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1992-02"
+      },
+      {
+        "Title[9][10]": "Dragon Shock",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "LOG Corporation",
+        "Publisher(s)": "LOG Corporation",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "Dragon Slayer: The Legend of Heroes",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Nihon Falcom",
+        "Publisher(s)": "Nihon Falcom",
+        "Release date(s)[9][10]": "1990-06-08"
+      },
+      {
+        "Title[9][10]": "Dragon Slayer: The Legend of Heroes II",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Nihon Falcom",
+        "Publisher(s)": "Nihon Falcom",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Dragons of Flame",
+        "Genre(s)": "Action role-playing game",
+        "Developer(s)": "Opera House",
+        "Publisher(s)": "Pony Canyon",
+        "Release date(s)[9][10]": "1992-01"
+      },
+      {
+        "Title[9][10]": "Drakkhen",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Infogrames Entertainment SA",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-11"
+      },
+      {
+        "Title[9][10]": "Dreamy: Yume Utsutsu",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Megami",
+        "Publisher(s)": "Megami",
+        "Release date(s)[9][10]": "1994-08-25"
+      },
+      {
+        "Title[9][10]": "Dual Targets: The 4th Unit Act.3",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "Dungeon Master",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "FTL Games",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "Dungeon Master II: Skullkeep",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "FTL Games",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1994-01"
+      },
+      {
+        "Title[9][10]": "Dungeon Master: Chaos Strikes Back",
+        "Genre(s)": "Data disk, Role-playing game",
+        "Developer(s)": "FTL Games",
+        "Publisher(s)": "Victor Musical Industries",
+        "Release date(s)[9][10]": "1990-12"
+      },
+      {
+        "Title[9][10]": "Ed Bogas' Music Machine",
+        "Genre(s)": "Non-game, Music",
+        "Developer(s)": "Software Resources International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-11-26"
+      },
+      {
+        "Title[9][10]": "Eight Lakes G.C.",
+        "Genre(s)": "Sports",
+        "Developer(s)": "T&E Soft",
+        "Publisher(s)": "T&E Soft",
+        "Release date(s)[9][10]": "1990-08"
+      },
+      {
+        "Title[9][10]": "Eikan wa Kimi ni 2: Kōkō Yakyū Zenkoku Taikai",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1991-08"
+      },
+      {
+        "Title[9][10]": "Eikan wa Kimi ni 3: Kōkō Yakyū Zenkoku Taikai",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1993-08"
+      },
+      {
+        "Title[9][10]": "Elfish",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "AnimaTek International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Elfish Lite",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "AnimaTek International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-11-26"
+      },
+      {
+        "Title[9][10]": "Electric Device Marian",
+        "Genre(s)": "Adventure, Visual novel, Eroge",
+        "Developer(s)": "Studio Jikkenshitsu",
+        "Publisher(s)": "Janis",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Elm Knight",
+        "Genre(s)": "First-person shooter",
+        "Developer(s)": "Micro Cabin",
+        "Publisher(s)": "Micro Cabin",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Emerald Dragon",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Glodia",
+        "Publisher(s)": "Glodia",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Emit Vol. 1: Toki no Maigo",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1994-03-25"
+      },
+      {
+        "Title[9][10]": "Emit Vol. 2: Inochigake no Tabi",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1994-07-01"
+      },
+      {
+        "Title[9][10]": "Emit Vol. 3: Watashi ni Sayonara o",
+        "Genre(s)": "AVisual novel",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1994-09-18"
+      },
+      {
+        "Title[9][10]": "Engage Errands: Miwaku no Shitotachi",
+        "Genre(s)": "Eroge, Tactical role-playing game",
+        "Developer(s)": "Ponytail Soft",
+        "Publisher(s)": "Ponytail Soft",
+        "Release date(s)[9][10]": "1995-04-21"
+      },
+      {
+        "Title[9][10]": "Engage Errands II: Hikari o Ninau Mono",
+        "Genre(s)": "Eroge, Tactical role-playing game",
+        "Developer(s)": "Ponytail Soft",
+        "Publisher(s)": "Ponytail Soft",
+        "Release date(s)[9][10]": "1995-05"
+      },
+      {
+        "Title[9][10]": "Etsuraku no Gakuen",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "C's Ware",
+        "Publisher(s)": "C's Ware",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Europa Sensen",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-07-11"
+      },
+      {
+        "Title[9][10]": "Evolution",
+        "Genre(s)": "Action",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "System Sacom",
+        "Release date(s)[9][10]": "1989-03"
+      },
+      {
+        "Title[9][10]": "Excellent 10",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Amorphous",
+        "Publisher(s)": "Amorphous",
+        "Release date(s)[9][10]": "1990-10"
+      },
+      {
+        "Title[9][10]": "Eye of the Beholder II: The Legend of Darkmoon",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Cybelle",
+        "Publisher(s)": "Arrow Micro-Techs Corp.",
+        "Release date(s)[9][10]": "1993-11-19"
+      },
+      {
+        "Title[9][10]": "F29 Retaliator",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "Digital Image Design",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Final Blow",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "Flashback",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Delphine Software International",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1994-04-22"
+      },
+      {
+        "Title[9][10]": "Flying Shark",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1993-09-23"
+      },
+      {
+        "Title[9][10]": "FM Towns Super Technology Demo 1993",
+        "Genre(s)": "Demo",
+        "Developer(s)": "Fujitsu",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Fractal Engine Demo",
+        "Genre(s)": "Demo",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-02"
+      },
+      {
+        "Title[9][10]": "Fujitsu Air Warrior",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "Kesmai",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-03"
+      },
+      {
+        "Title[9][10]": "Fujitsu Air Warrior V2",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "Kesmai",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Free Will: Knight of Argent",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Kinpukurin",
+        "Publisher(s)": "Kinpukurin",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Fujitsu Habitat",
+        "Genre(s)": "Massively multiplayer online role-playing game",
+        "Developer(s)": "Fujitsu",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990"
+      },
+      {
+        "Title[9][10]": "Fukkatsusai: Asticaya no Majo",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Grocer",
+        "Publisher(s)": "Grocer",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Fushigi no Umi no Nadia",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Gainax",
+        "Publisher(s)": "Gainax",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Gadget: Invention, Travel, & Adventure",
+        "Genre(s)": "Adventure, Interactive movie",
+        "Developer(s)": "Synergy, Inc.",
+        "Publisher(s)": "Toshiba EMI",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Gakuen Bakuretsu Tenkousei!",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1996-03-08"
+      },
+      {
+        "Title[9][10]": "Gakuen Bomber",
+        "Genre(s)": "Adventure, Eroge Visual novel",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1994-06-24"
+      },
+      {
+        "Title[9][10]": "Gakuen King: Hidehiko Gakkō o Tsukuru",
+        "Genre(s)": "Adventure, Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1996-06-07"
+      },
+      {
+        "Title[9][10]": "Galaxy Force II",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1991-03"
+      },
+      {
+        "Title[9][10]": "Game Jang+",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "G.A.M. Corporation",
+        "Publisher(s)": "G.A.M. Corporation",
+        "Release date(s)[9][10]": "1993"
+      },
+      {
+        "Title[9][10]": "Game Technopolis Super Collection 1",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Technopolis Soft",
+        "Publisher(s)": "Tokuma Shoten",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Game Technopolis Super Collection 2",
+        "Genre(s)": "Dating simulation, Eroge",
+        "Developer(s)": "Technopolis Soft",
+        "Publisher(s)": "Tokuma Shoten",
+        "Release date(s)[9][10]": "1993-08"
+      },
+      {
+        "Title[9][10]": "Gambler Queen's Cup",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Queen Soft",
+        "Publisher(s)": "Queen Soft",
+        "Release date(s)[9][10]": "1994-09-23"
+      },
+      {
+        "Title[9][10]": "Garō Densetsu Special",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Japan Home Video",
+        "Publisher(s)": "Japan Home Video",
+        "Release date(s)[9][10]": "1996-09-13"
+      },
+      {
+        "Title[9][10]": "Gekirin: Ushinawareshi Hōken",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Nihon Application Co., Ltd.",
+        "Publisher(s)": "Nihon Application Co., Ltd.",
+        "Release date(s)[9][10]": "1994-12-22"
+      },
+      {
+        "Title[9][10]": "Gendai Daisenryaku EX Special",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-09-14"
+      },
+      {
+        "Title[9][10]": "Genocide2: Genocide Square",
+        "Genre(s)": "Action",
+        "Developer(s)": "ZOOM Inc.",
+        "Publisher(s)": "ZOOM Inc.",
+        "Release date(s)[9][10]": "1993-04-28"
+      },
+      {
+        "Title[9][10]": "Giga Mortion",
+        "Genre(s)": "Role-playing game, Eroge",
+        "Developer(s)": "Inter Heart",
+        "Publisher(s)": "Inter Heart",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Ginga Eiyū Densetsu II DX+",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Bothtec",
+        "Publisher(s)": "Bothtec",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Ginga Eiyū Densetsu III SP",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Bothtec",
+        "Publisher(s)": "Bothtec",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "Ginga Yuukyou Densetsu RC Tobacker",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Pony Tail",
+        "Publisher(s)": "Pony Tail",
+        "Release date(s)[9][10]": "1995-11"
+      },
+      {
+        "Title[9][10]": "Goh II",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Gokanshi",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Tensui Software",
+        "Publisher(s)": "Tensui Software",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "Gokko Vol. 01: Doctor",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1994-11-15"
+      },
+      {
+        "Title[9][10]": "Gokko Vol. 02: School Gal's",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1994-11-30"
+      },
+      {
+        "Title[9][10]": "Gokko Vol. 03: Etcetera",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1994-12-15"
+      },
+      {
+        "Title[9][10]": "Gokuraku Mandala",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "Ides",
+        "Release date(s)[9][10]": "1994-02-18"
+      },
+      {
+        "Title[9][10]": "Golf Links 386 Pro",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Access Software",
+        "Publisher(s)": "Cybelle",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Gorby no Pipeline Daisakusen",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Compile",
+        "Publisher(s)": "Tokuma Shoten",
+        "Release date(s)[9][10]": "1991-04"
+      },
+      {
+        "Title[9][10]": "Gulf War Sōkōden",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "GunBlaze",
+        "Genre(s)": "Role-playing game, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1994-12-16"
+      },
+      {
+        "Title[9][10]": "Gunship",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "MicroProse",
+        "Publisher(s)": "MicroProse",
+        "Release date(s)[9][10]": "1990-08"
+      },
+      {
+        "Title[9][10]": "Hacchake Ayayo-san 4: Ayayo's Live Affection",
+        "Genre(s)": "Visual Novel",
+        "Developer(s)": "Hard",
+        "Publisher(s)": "Hard",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Half Moon ni Kawaru made: Ramiya Ryo no Nijiiro Tamatebako",
+        "Genre(s)": "Role-playing game, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1995-04-14"
+      },
+      {
+        "Title[9][10]": "Hana no Kioku",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1995-12-22"
+      },
+      {
+        "Title[9][10]": "Hana no Kioku Dai 2 Shou",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1997-02-14"
+      },
+      {
+        "Title[9][10]": "Hana Yori Dango",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Active",
+        "Publisher(s)": "Active",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Hana Yori Dango 2",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Active",
+        "Publisher(s)": "Active",
+        "Release date(s)[9][10]": "1993-04-17"
+      },
+      {
+        "Title[9][10]": "Hanafuda de Pon!",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Active",
+        "Publisher(s)": "Active",
+        "Release date(s)[9][10]": "1996-07-12"
+      },
+      {
+        "Title[9][10]": "Harukanaru Augusta",
+        "Genre(s)": "Sports",
+        "Developer(s)": "T&E Soft",
+        "Publisher(s)": "T&E Soft",
+        "Release date(s)[9][10]": "1990-01-26"
+      },
+      {
+        "Title[9][10]": "Hashiri Onna II: Running Girls",
+        "Genre(s)": "Dating Simulation, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-12"
+      },
+      {
+        "Title[9][10]": "Heroes of the Lance",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)": "U.S. Gold",
+        "Publisher(s)": "Pony Canyon",
+        "Release date(s)[9][10]": "1990-06-21"
+      },
+      {
+        "Title[9][10]": "High School War",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "I.S.C. Co., Ltd.",
+        "Publisher(s)": "I.S.C. Co., Ltd.",
+        "Release date(s)[9][10]": "1994-09"
+      },
+      {
+        "Title[9][10]": "Hiōden II",
+        "Genre(s)": "Tactical role-playing game",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-1-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-06-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-2-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-07-09"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-3-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-08-06"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-4-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-09-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-5-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-10-09"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-6-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-11-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-7-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1993-12-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-8-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1994-01-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-9-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1994-02-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-10-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1994-03-10"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-11-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1994-04-11"
+      },
+      {
+        "Title[9][10]": "Hōma Hunter Lime Dai-12-Wa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Silence",
+        "Publisher(s)": "Brother Kōgyō",
+        "Release date(s)[9][10]": "1994-05-20"
+      },
+      {
+        "Title[9][10]": "Hometown, U.S.A.",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Manley & Associates",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "The Horde",
+        "Genre(s)": "Action, Strategy",
+        "Developer(s)": "Crystal Dynamics",
+        "Publisher(s)": "Arrow Micro-Techs Corp.",
+        "Release date(s)[9][10]": "1995-04-28"
+      },
+      {
+        "Title[9][10]": "Hoshi no Suna Monogatari",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Hoshi no Suna Monogatari 2",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Hoshi no Suna Monogatari 3",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1995"
+      },
+      {
+        "Title[9][10]": "Idol Project",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "KSS",
+        "Publisher(s)": "KSS",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "If",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1993-06-19"
+      },
+      {
+        "Title[9][10]": "If 1・2・3 CD Collection",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1996-04-19"
+      },
+      {
+        "Title[9][10]": "If 2",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1993-11-19"
+      },
+      {
+        "Title[9][10]": "If 3",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1995-04-15"
+      },
+      {
+        "Title[9][10]": "Igo II",
+        "Genre(s)": "Board game",
+        "Developer(s)": "ASCII Entertainment",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1989-09"
+      },
+      {
+        "Title[9][10]": "Ikazuchi no Senshi Raidi",
+        "Genre(s)": "Dungeon crawl, Eroge, Role-playing game",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1994-10-07"
+      },
+      {
+        "Title[9][10]": "Ikazuchi no Senshi Raidi 2",
+        "Genre(s)": "Dungeon crawl, Eroge, Role-playing game",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1996-03-22"
+      },
+      {
+        "Title[9][10]": "Illusion City (Genei Toshi)",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Micro Cabin",
+        "Publisher(s)": "Takeru Software",
+        "Release date(s)[9][10]": "1993-05"
+      },
+      {
+        "Title[9][10]": "image",
+        "Genre(s)": "Adventure, Visual Novel",
+        "Developer(s)": "Software House Parsley",
+        "Publisher(s)": "Software House Parsley",
+        "Release date(s)[9][10]": "1994-05-13"
+      },
+      {
+        "Title[9][10]": "image 2",
+        "Genre(s)": "Adventure, Visual Novel",
+        "Developer(s)": "Software House Parsley",
+        "Publisher(s)": "Software House Parsley",
+        "Release date(s)[9][10]": "1994-06-24"
+      },
+      {
+        "Title[9][10]": "Image Fight",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1990-11"
+      },
+      {
+        "Title[9][10]": "The Incredible Machine",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Jeff Tunnell Productions",
+        "Publisher(s)": "Cybelle",
+        "Release date(s)[9][10]": "1994-04-08"
+      },
+      {
+        "Title[9][10]": "Indiana Jones and the Fate of Atlantis",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "LucasArts",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1993-08-27"
+      },
+      {
+        "Title[9][10]": "Indiana Jones and the Last Crusade: The Graphic Adventure",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Lucasfilm Games",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-07"
+      },
+      {
+        "Title[9][10]": "Infestation",
+        "Genre(s)": "First-person shooter",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Cross Media Soft",
+        "Release date(s)[9][10]": "1992-03"
+      },
+      {
+        "Title[9][10]": "Inindo: Datou Nobunaga",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-02"
+      },
+      {
+        "Title[9][10]": "Injū Gakuen: La★Blue Girl",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Dez Climax",
+        "Publisher(s)": "Dez Climax",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Iris Tei Serenade",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Agumix",
+        "Publisher(s)": "Agumix",
+        "Release date(s)[9][10]": "1992-12-16"
+      },
+      {
+        "Title[9][10]": "Irium",
+        "Genre(s)": "Dungeon crawl, Eroge, Role-playing game",
+        "Developer(s)": "Orange House",
+        "Publisher(s)": "Orange House",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Ishidō: The Way of Stones",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Publishing International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-06"
+      },
+      {
+        "Title[9][10]": "Ishin no Arashi",
+        "Genre(s)": "Simulation, Turn-based strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "Jan Jaka Jan",
+        "Genre(s)": "Adventure, Board game, Eroge",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1993-01"
+      },
+      {
+        "Title[9][10]": "Jangō 4",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Victor Entertainment",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Jankirō",
+        "Genre(s)": "Adventure, Board game, Eroge",
+        "Developer(s)": "Red-Zone",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1994-06"
+      },
+      {
+        "Title[9][10]": "Japan Professional Football League 1994",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Victor Entertainment",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1994-09"
+      },
+      {
+        "Title[9][10]": "Jealousy",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Inter Heart",
+        "Publisher(s)": "Inter Heart",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "Jinmon Yūgi",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Red-Zone",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1995-08"
+      },
+      {
+        "Title[9][10]": "Joker Towns",
+        "Genre(s)": "Adventure, Visual Novel, Eroge",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1992-07"
+      },
+      {
+        "Title[9][10]": "Joshi Kousei Shoujo Hatsunetsu",
+        "Genre(s)": "Dating simulation",
+        "Developer(s)": "Byakuya-Shobo",
+        "Publisher(s)": "Byakuya-Shobo",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "Joshikō Seifuku Monogatari",
+        "Genre(s)": "Dating simulation, Eroge",
+        "Developer(s)": "KSS",
+        "Publisher(s)": "KSS",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Joshua",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Panther Software",
+        "Publisher(s)": "Panther Software",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "JYB",
+        "Genre(s)": "Adventure, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Kamigami no Daichi: Kojiki Gaiden",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993"
+      },
+      {
+        "Title[9][10]": "Kawarazaki ke no Ichizoku",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "Kero Kero Keroppi to Origami no Tabibito",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Mizuki",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "Kid Pix",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-08"
+      },
+      {
+        "Title[9][10]": "Kid Pix Companion",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Kid Pix Jr.",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Kigen: Kagayaki no Hasha",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "Release date(s)[9][10]": "1992-05-29"
+      },
+      {
+        "Title[9][10]": "Kikō Shidan",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1990-12"
+      },
+      {
+        "Title[9][10]": "Kikō Shidan II",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1993"
+      },
+      {
+        "Title[9][10]": "Kindan no Ketsuzoku",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "C's Ware",
+        "Publisher(s)": "C's Ware",
+        "Release date(s)[9][10]": "1994-06-17"
+      },
+      {
+        "Title[9][10]": "King's Bounty",
+        "Genre(s)": "Role-playing game, Turn-based strategy",
+        "Developer(s)": "New World Computing",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "King's Quest V: Absence Makes the Heart Go Yonder!",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Sierra On-Line",
+        "Publisher(s)": "Sierra On-Line",
+        "Release date(s)[9][10]": "1991-08"
+      },
+      {
+        "Title[9][10]": "Kiwame",
+        "Genre(s)": "Board game",
+        "Developer(s)": "LOG Corporation",
+        "Publisher(s)": "LOG Corporation",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Kiwame II",
+        "Genre(s)": "Board game",
+        "Developer(s)": "LOG Corporation",
+        "Publisher(s)": "LOG Corporation",
+        "Release date(s)[9][10]": "1994-06"
+      },
+      {
+        "Title[9][10]": "Koko wa Rakuenso",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1996-03-01"
+      },
+      {
+        "Title[9][10]": "Koko wa Rakuenso 2",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1996-04"
+      },
+      {
+        "Title[9][10]": "Kounai Shasei Vol.1: Yonimo H na Monogatari",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Fairytale",
+        "Publisher(s)": "Kirara",
+        "Release date(s)[9][10]": "1991-07-26"
+      },
+      {
+        "Title[9][10]": "Kōsoku Chōjin",
+        "Genre(s)": "Action, Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1996-08-13"
+      },
+      {
+        "Title[9][10]": "Kōryūki",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993"
+      },
+      {
+        "Title[9][10]": "Ku2++",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Panther Software",
+        "Publisher(s)": "Panther Software",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Kusuriyubi no Kyōkasho",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1996-04-05"
+      },
+      {
+        "Title[9][10]": "Kyan Kyan Collection",
+        "Genre(s)": "Cards, Eroge",
+        "Developer(s)": "I-cell",
+        "Publisher(s)": "I-cell",
+        "Release date(s)[9][10]": "1989-12"
+      },
+      {
+        "Title[9][10]": "Kyouko no Ijiwaru!!",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Pony Tail",
+        "Publisher(s)": "Pony Tail",
+        "Release date(s)[9][10]": "1994-11-25"
+      },
+      {
+        "Title[9][10]": "Kyrandia II: The Hand of Fate",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "StarCraft, Inc.",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1995-10"
+      },
+      {
+        "Title[9][10]": "Kyūkyoku Tiger",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-02-10"
+      },
+      {
+        "Title[9][10]": "L Elle",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "L'Empereur",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1991-01"
+      },
+      {
+        "Title[9][10]": "Lam-Mal",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Fairytale",
+        "Publisher(s)": "IDES",
+        "Release date(s)[9][10]": "1992-04-24"
+      },
+      {
+        "Title[9][10]": "Lands of Lore: The Throne of Chaos",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "StarCraft, Inc.",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1995-01"
+      },
+      {
+        "Title[9][10]": "Last Armageddon",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Apros",
+        "Publisher(s)": "Brain Grey",
+        "Release date(s)[9][10]": "1989-07"
+      },
+      {
+        "Title[9][10]": "Last Armageddon: CD Special",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Apros",
+        "Publisher(s)": "Brain Grey",
+        "Release date(s)[9][10]": "1989-07"
+      },
+      {
+        "Title[9][10]": "Last Survivor",
+        "Genre(s)": "Third-person shooters",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1990-11-16"
+      },
+      {
+        "Title[9][10]": "Leading Company",
+        "Genre(s)": "Construction and management simulation, Strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "The Legend of Kyrandia: Fables and Fiends",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "StarCraft, Inc.",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1993-10"
+      },
+      {
+        "Title[9][10]": "Legends of Valour",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-03-10"
+      },
+      {
+        "Title[9][10]": "Lemmings",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "4000Do Inc.",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Lemmings 2: The Tribes",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "DMA Design",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-06-10"
+      },
+      {
+        "Title[9][10]": "Lemon Cocktail Collection",
+        "Genre(s)": "Visual Novel",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1993-03-26"
+      },
+      {
+        "Title[9][10]": "Lesser Mern",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Panther Software",
+        "Publisher(s)": "Panther Software",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Libble Rabble",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Dempa",
+        "Publisher(s)": "Dempa",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "Libido 7",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "Libido",
+        "Publisher(s)": "Libido",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Life & Death",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1992-01"
+      },
+      {
+        "Title[9][10]": "Life & Death II: The Brain",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1992-11-27"
+      },
+      {
+        "Title[9][10]": "Linkage: The 4th Unit 1・2 Towns",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1989-07"
+      },
+      {
+        "Title[9][10]": "Lipstick Adventure 3",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "Ides",
+        "Release date(s)[9][10]": "1993-05"
+      },
+      {
+        "Title[9][10]": "Little Big Adventure",
+        "Genre(s)": "Action, Adventure",
+        "Developer(s)": "Adeline Software International",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-12"
+      },
+      {
+        "Title[9][10]": "Loom",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Lucasfilm Games",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1991-04"
+      },
+      {
+        "Title[9][10]": "Loop Eraser",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Nihon Computer Club Renmei Kikaku",
+        "Publisher(s)": "Nihon Computer Club Renmei Kikaku",
+        "Release date(s)[9][10]": "1994-09"
+      },
+      {
+        "Title[9][10]": "Loop: Iginahi no Kaikiten",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Grocer",
+        "Publisher(s)": "Grocer",
+        "Release date(s)[9][10]": "1995-10-20"
+      },
+      {
+        "Title[9][10]": "Lord Monarch",
+        "Genre(s)": "Real-time strategy, Wargame",
+        "Developer(s)": "Nihon Falcom",
+        "Publisher(s)": "Nihon Falcom",
+        "Release date(s)[9][10]": "1991-11-29"
+      },
+      {
+        "Title[9][10]": "The Lord of the Rings Vol. I",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Interplay Productions",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1992-03"
+      },
+      {
+        "Title[9][10]": "The Lord of the Rings Vol. II: The Two Towers",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Interplay Productions",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Lua",
+        "Genre(s)": "Visual Novel, Eroge",
+        "Developer(s)": "InterHeart",
+        "Publisher(s)": "InterHeart",
+        "Release date(s)[9][10]": "1993-11-26"
+      },
+      {
+        "Title[9][10]": "Lunatic Dawn II",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Lupin Sansei: Hong Kong no Mashu - Fukushū wa Meikyū no Hate ni",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "High Tech Laboratory Japan",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1990-06"
+      },
+      {
+        "Title[9][10]": "Ma Saiko Jan",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Cosmos Computer",
+        "Publisher(s)": "Cosmos Computer",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Mad Stalker: Full Metal Force",
+        "Genre(s)": "Beat 'em up",
+        "Developer(s)": "Fill-in-Cafe",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1994-07-01"
+      },
+      {
+        "Title[9][10]": "Mad●Paradox",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Queen Soft",
+        "Publisher(s)": "Queen Soft",
+        "Release date(s)[9][10]": "1994-02"
+      },
+      {
+        "Title[9][10]": "Madō Gakuin R",
+        "Genre(s)": "Eroge, Tactical role-playing game",
+        "Developer(s)": "Foresight",
+        "Publisher(s)": "Foresight",
+        "Release date(s)[9][10]": "1994-11-10"
+      },
+      {
+        "Title[9][10]": "Mahjong Bishōjo Den: Ripple",
+        "Genre(s)": "Board game, Role-playing game",
+        "Developer(s)": "Foresight",
+        "Publisher(s)": "Foresight",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Mahjong Clinic Zoukangou",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Home Data",
+        "Publisher(s)": "Home Data",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "Mahjong de Pon!",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1994-04"
+      },
+      {
+        "Title[9][10]": "Mahjong Elegance",
+        "Genre(s)": "Board game",
+        "Developer(s)": "C.Class",
+        "Publisher(s)": "C.Class",
+        "Release date(s)[9][10]": "1994-11-25"
+      },
+      {
+        "Title[9][10]": "Mahjong Gensōkyoku",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1992-07"
+      },
+      {
+        "Title[9][10]": "Mahjong Gensōkyoku II",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1993-09-25"
+      },
+      {
+        "Title[9][10]": "Mahjong Gensōkyoku the 3rd Stage",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1993-11-03"
+      },
+      {
+        "Title[9][10]": "Mahjong Gokū",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Chat Noir",
+        "Publisher(s)": "ASCII Corporation",
+        "Release date(s)[9][10]": "1989-04"
+      },
+      {
+        "Title[9][10]": "Mahjong Hōtei Raoyui",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Queen Soft",
+        "Publisher(s)": "Queen Soft",
+        "Release date(s)[9][10]": "1995"
+      },
+      {
+        "Title[9][10]": "Mahjong Saikyō Musashi",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Cosmos Computer",
+        "Publisher(s)": "Cosmos Computer",
+        "Release date(s)[9][10]": "1989"
+      },
+      {
+        "Title[9][10]": "Mahō Daisakusen",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Raizing",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-02-10"
+      },
+      {
+        "Title[9][10]": "Manami no Doko made Iku no?",
+        "Genre(s)": "Adventure, Visual novel, Eroge",
+        "Developer(s)": "Wendy Magazine",
+        "Publisher(s)": "Wendy Magazine",
+        "Release date(s)[9][10]": "1995-05"
+      },
+      {
+        "Title[9][10]": "Manami no Doko made Iku no? 2: Return of the Kuro Pack",
+        "Genre(s)": "Adventure, Visual novel, Eroge",
+        "Developer(s)": "Wendy Magazine",
+        "Publisher(s)": "Wendy Magazine",
+        "Release date(s)[9][10]": "1995-05"
+      },
+      {
+        "Title[9][10]": "Manami: Ai to Koukan no Hibi",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Fairy Tale",
+        "Publisher(s)": "Fairy Tale",
+        "Release date(s)[9][10]": "1995"
+      },
+      {
+        "Title[9][10]": "Mandala Keichizoku",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Foresight",
+        "Publisher(s)": "Foresight",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "The Manhole",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Cyan, Inc.",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-08-24"
+      },
+      {
+        "Title[9][10]": "Marble Madness",
+        "Genre(s)": "Platform, Racing",
+        "Developer(s)": "Home Data",
+        "Publisher(s)": "Home Data",
+        "Release date(s)[9][10]": "1991-06"
+      },
+      {
+        "Title[9][10]": "Marine Philt",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1993-03-12"
+      },
+      {
+        "Title[9][10]": "Marionette Mind",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Studio Milk",
+        "Publisher(s)": "Studio Milk",
+        "Release date(s)[9][10]": "1994-03-11"
+      },
+      {
+        "Title[9][10]": "Mega-Lo-Mania",
+        "Genre(s)": "Real-time strategy",
+        "Developer(s)": "Sensible Software",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "MegaMorph",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-12"
+      },
+      {
+        "Title[9][10]": "Meisō Toshi",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Tiare",
+        "Publisher(s)": "Tiare",
+        "Release date(s)[9][10]": "1996-02-01"
+      },
+      {
+        "Title[9][10]": "Megaspectre",
+        "Genre(s)": "Combat simulation, First-person shooter",
+        "Developer(s)": "Velocity Development Corporation",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Menzoberranzan",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "DreamForge Intertainment",
+        "Publisher(s)": "KSS",
+        "Release date(s)[9][10]": "1996-01"
+      },
+      {
+        "Title[9][10]": "Merrygoround: The 4th Unit Series",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1990-12-14"
+      },
+      {
+        "Title[9][10]": "Metal Eye",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1993-07"
+      },
+      {
+        "Title[9][10]": "Metal Eye 2",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1994-09"
+      },
+      {
+        "Title[9][10]": "Microcosm",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Might and Magic: Clouds of Xeen",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "StarCraft, Inc.",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1993-09"
+      },
+      {
+        "Title[9][10]": "Might and Magic: Darkside of Xeen",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "StarCraft, Inc.",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1994-05"
+      },
+      {
+        "Title[9][10]": "Might and Magic III: Isles of Terra",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "New World Computing",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Mirage",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Discovery Software",
+        "Publisher(s)": "Discovery Software",
+        "Release date(s)[9][10]": "1992-01"
+      },
+      {
+        "Title[9][10]": "Mirage 2",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Discovery Software",
+        "Publisher(s)": "Discovery Software",
+        "Release date(s)[9][10]": "1994-12-02"
+      },
+      {
+        "Title[9][10]": "Mirrors",
+        "Genre(s)": "Visual novel, Horror",
+        "Developer(s)": "Soft Studio Wing",
+        "Publisher(s)": "Apros",
+        "Release date(s)[9][10]": "1992-06"
+      },
+      {
+        "Title[9][10]": "Misato-chan no Yume Nikki",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Active",
+        "Publisher(s)": "Active",
+        "Release date(s)[9][10]": "1997-04-11"
+      },
+      {
+        "Title[9][10]": "Misty",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1989-06"
+      },
+      {
+        "Title[9][10]": "Mixed-Up Mother Goose",
+        "Genre(s)": "Adventure, Edutainment",
+        "Developer(s)": "Sierra On-Line",
+        "Publisher(s)": "Sierra On-Line",
+        "Release date(s)[9][10]": "1991-02"
+      },
+      {
+        "Title[9][10]": "Mobile Suit Gundam: Hyper Classic Operation",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Family Soft",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1992-08"
+      },
+      {
+        "Title[9][10]": "Mobile Suit Gundam: Hyper Desert Operation",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Family Soft",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Moeru Asoko no Paipai Yuugi",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Illusion",
+        "Publisher(s)": "Illusion",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "Monkey Island 2: LeChuck's Revenge",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "LucasArts",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1994-02-25"
+      },
+      {
+        "Title[9][10]": "Moon Light Energy",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Inter Heart",
+        "Publisher(s)": "Inter Heart",
+        "Release date(s)[9][10]": "1993-06-18"
+      },
+      {
+        "Title[9][10]": "Moonlight-Chan Rin-Shan",
+        "Genre(s)": "Quiz game",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Morita Shōgi II",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Random House",
+        "Publisher(s)": "Enix",
+        "Release date(s)[9][10]": "1989-03"
+      },
+      {
+        "Title[9][10]": "Mr. Ed Bogas' Music Machine LITE",
+        "Genre(s)": "Non-game, Music",
+        "Developer(s)": "Software Resources International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Ms. Detective File #1: Iwami Ginzan Satsujin Jiken",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Ms. Detective File #2: Sugata-naki Irainin",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1993-10"
+      },
+      {
+        "Title[9][10]": "Mūgen Hōyō",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-07-07"
+      },
+      {
+        "Title[9][10]": "Mujintō Monogatari",
+        "Genre(s)": "Simulation, Survival",
+        "Developer(s)": "Mediamuse",
+        "Publisher(s)": "KSS",
+        "Release date(s)[9][10]": "1995-09"
+      },
+      {
+        "Title[9][10]": "Murder Club DX",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "Release date(s)[9][10]": "1992-05-22"
+      },
+      {
+        "Title[9][10]": "Muscle Bomber: The Body Explosion",
+        "Genre(s)": "Fighting, Sports",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "Capcom",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "My Eyes!",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Naru Mahjong",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Libido",
+        "Publisher(s)": "Libido",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Necronomicon",
+        "Genre(s)": "Adventure, Horror",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Network Q RAC Rally",
+        "Genre(s)": "Racing",
+        "Developer(s)": "PixelKraft",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1995-01-27"
+      },
+      {
+        "Title[9][10]": "Never Land",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Tips",
+        "Publisher(s)": "Tips",
+        "Release date(s)[9][10]": "1996-03"
+      },
+      {
+        "Title[9][10]": "The New Zealand Story",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Taito",
+        "Publisher(s)": "Ving",
+        "Release date(s)[9][10]": "1989-08"
+      },
+      {
+        "Title[9][10]": "Nijiiro Denshoku Musume",
+        "Genre(s)": "Casino",
+        "Developer(s)": "I.S.C. Co., Ltd.",
+        "Publisher(s)": "I.S.C. Co., Ltd.",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Niko2",
+        "Genre(s)": "Action",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "Ningyō Tsukai",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Forest",
+        "Publisher(s)": "Forest",
+        "Release date(s)[9][10]": "1993-10"
+      },
+      {
+        "Title[9][10]": "Nobunaga no Yabō: Bushō Fūunroku",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1991-07"
+      },
+      {
+        "Title[9][10]": "Nobunaga no Yabō: Haōden",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Nobunaga no Yabō: Sengoku Gun'yūden",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1989-12"
+      },
+      {
+        "Title[9][10]": "Nobunaga no Yabō: Tenshōki",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Nonomura Byōin no Hitobito",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Nōshuku Angel 120%",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Nostalgia 1907",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Takeru",
+        "Publisher(s)": "Sur de Wave",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Nova",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Cat's Pro",
+        "Publisher(s)": "Cat's Pro",
+        "Release date(s)[9][10]": "1993-07-30"
+      },
+      {
+        "Title[9][10]": "Ōgon no Rashinban: Shōyōmaru San Francisco Kōro Satsujin Jiken",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "Release date(s)[9][10]": "1991-06-14"
+      },
+      {
+        "Title[9][10]": "Oh! Pai",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1993-09-22"
+      },
+      {
+        "Title[9][10]": "Okuman Chōja II",
+        "Genre(s)": "Business simulation game",
+        "Developer(s)": "Cosmos Computer",
+        "Publisher(s)": "Cosmos Computer",
+        "Release date(s)[9][10]": "1991-07"
+      },
+      {
+        "Title[9][10]": "Only You: Seikimatsu no Juliet-tachi",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1996-01"
+      },
+      {
+        "Title[9][10]": "Operation Wolf",
+        "Genre(s)": "Shooting gallery",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1990-04"
+      },
+      {
+        "Title[9][10]": "Palamedes",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1991-10"
+      },
+      {
+        "Title[9][10]": "Para PARA Paradise",
+        "Genre(s)": "Role-Playing game, Adventure",
+        "Developer(s)": "Family Soft",
+        "Publisher(s)": "Family Soft",
+        "Release date(s)[9][10]": "1997-03-14"
+      },
+      {
+        "Title[9][10]": "Pasocomic Purple Cat Vol. 1: Bunny Girl Tokushū",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Palmtree Soft",
+        "Publisher(s)": "Babylon",
+        "Release date(s)[9][10]": "1993-03-01"
+      },
+      {
+        "Title[9][10]": "PasoComic Purple Cat Vol. 2: Hospital Tokushū",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Palmtree Soft",
+        "Publisher(s)": "Babylon",
+        "Release date(s)[9][10]": "1993-06-01"
+      },
+      {
+        "Title[9][10]": "PasoComic Purple Cat Vol. 3: The Jokyōshi Tokushū",
+        "Genre(s)": "Non-game",
+        "Developer(s)": "Palmtree Soft",
+        "Publisher(s)": "Babylon",
+        "Release date(s)[9][10]": "1993-10-01"
+      },
+      {
+        "Title[9][10]": "Phobos",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Brain-C2 inc.",
+        "Publisher(s)": "Himeya Soft, Inc.",
+        "Release date(s)[9][10]": "1995-08-25"
+      },
+      {
+        "Title[9][10]": "Planet's Edge",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1993-09"
+      },
+      {
+        "Title[9][10]": "The Playroom",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-12-09"
+      },
+      {
+        "Title[9][10]": "Pocky 1-2 & Ponyon",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Pony Tail",
+        "Publisher(s)": "Pony Tail",
+        "Release date(s)[9][10]": "1994-06-15"
+      },
+      {
+        "Title[9][10]": "Ponkan",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Ponytail Soft",
+        "Publisher(s)": "Ponytail Soft",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Ponyon",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Pony Tail",
+        "Publisher(s)": "Pony Tail",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Populous II: Trials of the Olympian Gods",
+        "Genre(s)": "God game, Real-time strategy",
+        "Developer(s)": "Infinity Co., Ltd.",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "Populous: The Promised Lands",
+        "Genre(s)": "God game",
+        "Developer(s)": "Infinity Co., Ltd.",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1990-07-27"
+      },
+      {
+        "Title[9][10]": "Power DoLLS",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Kogado Studio",
+        "Publisher(s)": "Kogado Studio",
+        "Release date(s)[9][10]": "1994-07-22"
+      },
+      {
+        "Title[9][10]": "Power DoLLS 2",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Kogado Studio",
+        "Publisher(s)": "Kogado Studio",
+        "Release date(s)[9][10]": "1995-11"
+      },
+      {
+        "Title[9][10]": "Power Monger",
+        "Genre(s)": "Real-time strategy",
+        "Developer(s)": "Infinity Co., Ltd.",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Premium",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Premium 2",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1993-01"
+      },
+      {
+        "Title[9][10]": "Presence",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Takeru",
+        "Publisher(s)": "Sur de Wave",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Present 2",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Orange House",
+        "Publisher(s)": "Orange House",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Prince of Persia",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Riverhillsoft",
+        "Publisher(s)": "Riverhillsoft",
+        "Release date(s)[9][10]": "1992-06-12"
+      },
+      {
+        "Title[9][10]": "Prince of Persia 2: The Shadow and the Flame",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Interprog",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Princess Danger",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Studio Jikkenshitsu",
+        "Publisher(s)": "Janis",
+        "Release date(s)[9][10]": "1996-04-19"
+      },
+      {
+        "Title[9][10]": "Princess Maker 2",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "Gainax",
+        "Publisher(s)": "Gainax",
+        "Release date(s)[9][10]": "1994-09-30"
+      },
+      {
+        "Title[9][10]": "Private Slave",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Raccoon",
+        "Publisher(s)": "Raccoon",
+        "Release date(s)[9][10]": "1993-08"
+      },
+      {
+        "Title[9][10]": "Pro Student G",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1993-07"
+      },
+      {
+        "Title[9][10]": "Pro Yakyū Family Stadium '90",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Game Arts",
+        "Publisher(s)": "Game Arts",
+        "Release date(s)[9][10]": "1990-09-28"
+      },
+      {
+        "Title[9][10]": "Provvidenza: Legenda la Spada di Alfa",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Kinpukurin",
+        "Publisher(s)": "Kinpukurin",
+        "Release date(s)[9][10]": "1991-09"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Final: Solitude Part 1",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1992-11-27"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Final: Solitude Part 2",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1993-03-19"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Vol.1: Invitation - Kage kara no Shōtaijō",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1989-03"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Vol.2: Memories",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1989-10"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Vol.3: Aýa",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1990-06-02"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Vol.4: Orgel",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1991-04-05"
+      },
+      {
+        "Title[9][10]": "Psychic Detective Series Vol.5: Nightmare",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1991-11-27"
+      },
+      {
+        "Title[9][10]": "Pu·Li·Ru·La",
+        "Genre(s)": "Beat 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Puppy Love 2",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "Tom Snyder Productions, Inc.",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Puyo Puyo",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "Puzznic",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Section 3",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1990-07"
+      },
+      {
+        "Title[9][10]": "The Queen of Duellist",
+        "Genre(s)": "Eroge, Fighting",
+        "Developer(s)": "Agumix",
+        "Publisher(s)": "Agumix",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "The Queen of Duellist Gaiden Alpha",
+        "Genre(s)": "Eroge, Fighting",
+        "Developer(s)": "Agumix",
+        "Publisher(s)": "Agumix",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "The Queen of Duellist Gaiden Alpha Light",
+        "Genre(s)": "Eroge, Fighting",
+        "Developer(s)": "Agumix",
+        "Publisher(s)": "Agumix",
+        "Release date(s)[9][10]": "1994-04"
+      },
+      {
+        "Title[9][10]": "Quiz Banchou",
+        "Genre(s)": "Quiz game",
+        "Developer(s)": "Active",
+        "Publisher(s)": "Active",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Quiz De Let's Go!!",
+        "Genre(s)": "Quiz game",
+        "Developer(s)": "Great Co., Ltd.",
+        "Publisher(s)": "Great Co., Ltd.",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Raiden Densetsu",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Success",
+        "Publisher(s)": "KID",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "Rainbow Islands Extra",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1992-04-24"
+      },
+      {
+        "Title[9][10]": "Rance 4.1: O-Kusuri Kōjō o Sukue!",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-12-01"
+      },
+      {
+        "Title[9][10]": "Rance 4.2: Angel-gumi",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-12-08"
+      },
+      {
+        "Title[9][10]": "Rance II: Hangyaku no Shōjotachi",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1990-06"
+      },
+      {
+        "Title[9][10]": "Rance III: Leazas Kanraku",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1992-05-13"
+      },
+      {
+        "Title[9][10]": "Rance IV: Kyōdan no Isan",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "Rance: Hikari o Motomete",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "Ravenloft: Aku no Keshin",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Rayxanber",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1990-04"
+      },
+      {
+        "Title[9][10]": "Record of Lodoss War II: Goshiki no Maryū",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "HummingBirdSoft",
+        "Publisher(s)": "HummingBirdSoft",
+        "Release date(s)[9][10]": "1994-06"
+      },
+      {
+        "Title[9][10]": "Record of Lodoss War: Haīro No Majio",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "HummingBirdSoft",
+        "Publisher(s)": "HummingBirdSoft",
+        "Release date(s)[9][10]": "1994-04-15"
+      },
+      {
+        "Title[9][10]": "Regional Power II",
+        "Genre(s)": "Construction and management simulation, Strategy",
+        "Developer(s)": "Cosmos Computer",
+        "Publisher(s)": "Cosmos Computer",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Reijō Monogatari",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Inter Heart",
+        "Publisher(s)": "Inter Heart",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Reira: Slave Doll",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Rejection: Den-No Senshi",
+        "Genre(s)": "First-person shooter, Role-playing game",
+        "Developer(s)": "Takeru",
+        "Publisher(s)": "Sur de Wave",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Return to Zork",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1994-10-29"
+      },
+      {
+        "Title[9][10]": "Ring Out!!",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1995-06-09"
+      },
+      {
+        "Title[9][10]": "Rinkan Gakkō",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1996-02"
+      },
+      {
+        "Title[9][10]": "Rocket Ranger",
+        "Genre(s)": "Action-adventure",
+        "Developer(s)": "Cinemaware",
+        "Publisher(s)": "Pony Canyon",
+        "Release date(s)[9][10]": "1990-05"
+      },
+      {
+        "Title[9][10]": "Royal Blood",
+        "Genre(s)": "Turn-based strategy, Turn-based tactics",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Ryūtōden",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Publishing International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-06-24"
+      },
+      {
+        "Title[9][10]": "S.A.2",
+        "Genre(s)": "Visual Novel",
+        "Developer(s)": "Tanaka Brothers",
+        "Publisher(s)": "A-Inn",
+        "Release date(s)[9][10]": "1994"
+      },
+      {
+        "Title[9][10]": "Sakura no Mori",
+        "Genre(s)": "Visual Novel",
+        "Developer(s)": "Active",
+        "Publisher(s)": "Active",
+        "Release date(s)[9][10]": "1995-10-27"
+      },
+      {
+        "Title[9][10]": "Samurai Spirits",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Japan Home Video",
+        "Publisher(s)": "Japan Home Video",
+        "Release date(s)[9][10]": "1995-09"
+      },
+      {
+        "Title[9][10]": "Sangokushi II",
+        "Genre(s)": "Role-playing game, Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1990-06-29"
+      },
+      {
+        "Title[9][10]": "Sangokushi III",
+        "Genre(s)": "Role-playing game, Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-06"
+      },
+      {
+        "Title[9][10]": "Sangokushi IV",
+        "Genre(s)": "Role-playing game, Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1994-06-02"
+      },
+      {
+        "Title[9][10]": "Sargon V: World Class Chess",
+        "Genre(s)": "Chess",
+        "Developer(s)": "Activison",
+        "Publisher(s)": "G.A.M. Corporation",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Sayaka & Miho",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Red-Zone",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1994-09-14"
+      },
+      {
+        "Title[9][10]": "Sayonara no Mukō-gawa",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1997-08-08"
+      },
+      {
+        "Title[9][10]": "Scavenger 4",
+        "Genre(s)": "Rail shooter",
+        "Developer(s)": "Psygnosis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-11-27"
+      },
+      {
+        "Title[9][10]": "Schwarzschild IV: The Cradle End",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Kogado Studio",
+        "Publisher(s)": "Kogado Studio",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "Schwarzschild: Kyōran no Ginga",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Kogado Studio",
+        "Publisher(s)": "Kogado Studio",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "The Secret of Monkey Island",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Lucasfilm Games",
+        "Publisher(s)": "Victor Musical Industries",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Sekigahara",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Setsujū: Yuganda Kioku",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Shadow of the Beast",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Reflections Interactive",
+        "Publisher(s)": "Victor Musical Industries",
+        "Release date(s)[9][10]": "1991-09"
+      },
+      {
+        "Title[9][10]": "Shadow of the Beast II: Jūshin no Jubaku",
+        "Genre(s)": "Platform",
+        "Developer(s)": "Reflections Interactive",
+        "Publisher(s)": "Victor Entertainment",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Shamhat: The Holy Circlet",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Shanghai",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1990-12"
+      },
+      {
+        "Title[9][10]": "Shanghai: Banri no Chōjō",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Activison, Success",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-09"
+      },
+      {
+        "Title[9][10]": "Shangrlia",
+        "Genre(s)": "Eroge, Turn-based strategy",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1992-01-17"
+      },
+      {
+        "Title[9][10]": "Shangrlia 2",
+        "Genre(s)": "Eroge, Turn-based strategy",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1994-10"
+      },
+      {
+        "Title[9][10]": "Sherlock Holmes: Consulting Detective",
+        "Genre(s)": "Adventure, Interactive movie",
+        "Developer(s)": "ICOM Simulations",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1991-06"
+      },
+      {
+        "Title[9][10]": "Shinc",
+        "Genre(s)": "Dungeon crawl, Role-playing game",
+        "Developer(s)": "Libido",
+        "Publisher(s)": "Libido",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Shinjuku Labyrinth",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Technopolis Soft",
+        "Publisher(s)": "Tokuma Shoten",
+        "Release date(s)[9][10]": "1994-12-08"
+      },
+      {
+        "Title[9][10]": "Shisetsu Sangokushi",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Tensui Software",
+        "Publisher(s)": "Tensui Software",
+        "Release date(s)[9][10]": "1993-09"
+      },
+      {
+        "Title[9][10]": "Shisetsu Sengoku Jidai",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Tensui Software",
+        "Publisher(s)": "Tensui Software",
+        "Release date(s)[9][10]": "1994-06-03"
+      },
+      {
+        "Title[9][10]": "Shogi Seiten",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Home Data",
+        "Publisher(s)": "Home Data",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Shooting Towns",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Amorphous",
+        "Publisher(s)": "Amorphous",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "Sid Meier's Railroad Tycoon",
+        "Genre(s)": "Business simulation game",
+        "Developer(s)": "MPS Labs",
+        "Publisher(s)": "MicroProse",
+        "Release date(s)[9][10]": "1993-12"
+      },
+      {
+        "Title[9][10]": "Silent Möbius: Case - Titanic",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Gainax",
+        "Publisher(s)": "Gainax",
+        "Release date(s)[9][10]": "1991-09"
+      },
+      {
+        "Title[9][10]": "SimAnt",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "Imagineer",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1993-02"
+      },
+      {
+        "Title[9][10]": "SimCity",
+        "Genre(s)": "City-building game",
+        "Developer(s)": "Maxis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "SimCity 2000",
+        "Genre(s)": "City-building game",
+        "Developer(s)": "Maxis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-12"
+      },
+      {
+        "Title[9][10]": "SimCity: Terrain Editor",
+        "Genre(s)": "Non-game, Data disk",
+        "Developer(s)": "Maxis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-06"
+      },
+      {
+        "Title[9][10]": "SimEarth: The Living Planet",
+        "Genre(s)": "Life simulation",
+        "Developer(s)": "Imagineer",
+        "Publisher(s)": "Imagineer",
+        "Release date(s)[9][10]": "1991-09"
+      },
+      {
+        "Title[9][10]": "SimFarm",
+        "Genre(s)": "Construction and management simulation",
+        "Developer(s)": "Maxis",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-09-09"
+      },
+      {
+        "Title[9][10]": "Soft de Hard na Monogatari",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "System Sacom",
+        "Release date(s)[9][10]": "1989-04"
+      },
+      {
+        "Title[9][10]": "Soft de Hard na Monogatari 2",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "System Sacom",
+        "Release date(s)[9][10]": "1989-07"
+      },
+      {
+        "Title[9][10]": "Sokoban Perfect",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Thinking Rabbit",
+        "Publisher(s)": "Thinking Rabbit",
+        "Release date(s)[9][10]": "1990-07"
+      },
+      {
+        "Title[9][10]": "Solitaire Royale/Puppy Love",
+        "Genre(s)": "Card game, Life simulation",
+        "Developer(s)": "Publishing International, Tom Snyder Productions, Inc.",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1989-07"
+      },
+      {
+        "Title[9][10]": "Soreyuke Nanpa-kun",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Virgin House",
+        "Publisher(s)": "Virgin House",
+        "Release date(s)[9][10]": "1991-08"
+      },
+      {
+        "Title[9][10]": "Sotsugyō: Graduation '93",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Headroom",
+        "Publisher(s)": "Japan Home Video",
+        "Release date(s)[9][10]": "1993-10"
+      },
+      {
+        "Title[9][10]": "Space Rogue",
+        "Genre(s)": "Space combat simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Wave Train",
+        "Release date(s)[9][10]": "1990-07"
+      },
+      {
+        "Title[9][10]": "Splatterhouse",
+        "Genre(s)": "Beat 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1992-06-25"
+      },
+      {
+        "Title[9][10]": "Star Cruiser II: The Odysseus Project",
+        "Genre(s)": "First-person shooter, Role-playing game",
+        "Developer(s)": "Arsys Software",
+        "Publisher(s)": "Japan Home Video",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "Steepia",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Software Resources International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Steepia Lite",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Software Resources International",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Strike Commander",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Strike Commander Plus",
+        "Genre(s)": "Combat flight simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Stronghold: Kōtei no Yōsai",
+        "Genre(s)": "City-building game, Real-time strategy",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-06"
+      },
+      {
+        "Title[9][10]": "Suikoden: Tenmei no Chikai",
+        "Genre(s)": "Turn-based strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1990-02"
+      },
+      {
+        "Title[9][10]": "Super D.P.S",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1992-09"
+      },
+      {
+        "Title[9][10]": "Super Daisenryaku",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "SystemSoft",
+        "Publisher(s)": "SystemSoft",
+        "Release date(s)[9][10]": "1990-03"
+      },
+      {
+        "Title[9][10]": "Super Odyssey",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Wave Train",
+        "Publisher(s)": "Wave Train",
+        "Release date(s)[9][10]": "1989-12"
+      },
+      {
+        "Title[9][10]": "Super Real Mahjong PII & PIII",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Super Real Mahjong PII & PIII+",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1993-03"
+      },
+      {
+        "Title[9][10]": "Super Real Mahjong PIV",
+        "Genre(s)": "Board game, Eroge",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-05"
+      },
+      {
+        "Title[9][10]": "Super Shanghai: Dragon's Eye",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "Hot-B",
+        "Release date(s)[9][10]": "1991-11"
+      },
+      {
+        "Title[9][10]": "Super Shooting Towns",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Amorphous",
+        "Publisher(s)": "Amorphous",
+        "Release date(s)[9][10]": "1991-12-20"
+      },
+      {
+        "Title[9][10]": "Super Street Fighter II: The New Challengers",
+        "Genre(s)": "Fighting",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "Capcom",
+        "Release date(s)[9][10]": "1994-10-28"
+      },
+      {
+        "Title[9][10]": "Super Ultra Mucchin Puripuri Cyborg: Marilyn DX",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1994-04"
+      },
+      {
+        "Title[9][10]": "Suzaku",
+        "Genre(s)": "Dungeon crawl, Role-playing game",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1992-10"
+      },
+      {
+        "Title[9][10]": "Sweet Angel",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Active Software",
+        "Publisher(s)": "Active Software",
+        "Release date(s)[9][10]": "1992-11"
+      },
+      {
+        "Title[9][10]": "Syndicate",
+        "Genre(s)": "Real-time tactics",
+        "Developer(s)": "Bullfrog Productions",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1994-07"
+      },
+      {
+        "Title[9][10]": "T.D.F.: Terrestrial Defense Force",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1990-09-07"
+      },
+      {
+        "Title[9][10]": "Tactical Tank Corps DX",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "G.A.M. Corporation",
+        "Publisher(s)": "G.A.M. Corporation",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Taikō Risshiden",
+        "Genre(s)": "Role-playing game, Strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "Takamizawa Kyōsuke Nekketsu!! Kyōiku Kenshū",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1995-01-21"
+      },
+      {
+        "Title[9][10]": "Tamashii no Mon - Dante Shinkyoku yori",
+        "Genre(s)": "Action, Adventure",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Tania",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Tips",
+        "Publisher(s)": "Tips",
+        "Release date(s)[9][10]": "1996-11-01"
+      },
+      {
+        "Title[9][10]": "Tanjō: Debut",
+        "Genre(s)": "Business simulation game",
+        "Developer(s)": "Headroom",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1994-04-08"
+      },
+      {
+        "Title[9][10]": "Tatsujin Ō",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Teito Taisen",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Chou Onsoku",
+        "Publisher(s)": "Chou Onsoku",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "Teitoku no Ketsudan",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1990-04"
+      },
+      {
+        "Title[9][10]": "Teitoku no Ketsudan II",
+        "Genre(s)": "Turn-based strategy, Wargame",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1994-06"
+      },
+      {
+        "Title[9][10]": "Tenka Gomen",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1994-06"
+      },
+      {
+        "Title[9][10]": "Tensen Nyan Nyan",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Pony Tail",
+        "Publisher(s)": "Pony Tail",
+        "Release date(s)[9][10]": "1994-09-22"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo Collection",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1995-03-01"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo Collection 2",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1995-11-30"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo III: Bangai-Hen Hansei-Ban",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1993-03-02"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo Special: Gomen ne Angel - Yokohama Monogatari",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1992-01"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo V: Nerawareta Tenshi",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo VI: My Fair Teacher",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1993-08-31"
+      },
+      {
+        "Title[9][10]": "Tenshi-Tachi no Gogo: Tenkōsei",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1995-07-18"
+      },
+      {
+        "Title[9][10]": "Tenshin Ranma",
+        "Genre(s)": "Dungeon crawl, Eroge, Role-playing game",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1992-05"
+      },
+      {
+        "Title[9][10]": "TEO: The Other Earth",
+        "Genre(s)": "Simulation, Strategy",
+        "Developer(s)": "Fujitsu",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-09"
+      },
+      {
+        "Title[9][10]": "Thanatos",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Birdy Soft",
+        "Publisher(s)": "Birdy Soft",
+        "Release date(s)[9][10]": "1992-03-10"
+      },
+      {
+        "Title[9][10]": "Theme Park",
+        "Genre(s)": "Construction and management simulation",
+        "Developer(s)": "Bullfrog Productions",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-09-22"
+      },
+      {
+        "Title[9][10]": "Time Stripper",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Foster",
+        "Publisher(s)": "Foster",
+        "Release date(s)[9][10]": "1996-07-19"
+      },
+      {
+        "Title[9][10]": "Titan",
+        "Genre(s)": "Action, Puzzle",
+        "Developer(s)": "Titus France SA",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1989-11"
+      },
+      {
+        "Title[9][10]": "Tokyo-to Dai 24 Ku",
+        "Genre(s)": "City-building game",
+        "Developer(s)": "Artdink",
+        "Publisher(s)": "Artdink",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Tōshin Toshi",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1990-12-15"
+      },
+      {
+        "Title[9][10]": "Tōshin Toshi II",
+        "Genre(s)": "Eroge, Role-playing game",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-04-28"
+      },
+      {
+        "Title[9][10]": "Tōshin Toshi II: Soshite, Sorekara...",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1995-12-08"
+      },
+      {
+        "Title[9][10]": "Totsugeki! Bakkon Street",
+        "Genre(s)": "Board game",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1994-01"
+      },
+      {
+        "Title[9][10]": "Totsugeki! Bakkon Street II: Hunting Roulette",
+        "Genre(s)": "Board game",
+        "Developer(s)": "JAST",
+        "Publisher(s)": "JAST",
+        "Release date(s)[9][10]": "1994-09-25"
+      },
+      {
+        "Title[9][10]": "Touch My Heart",
+        "Genre(s)": "Visual Novel",
+        "Developer(s)": "D.O.",
+        "Publisher(s)": "D.O.",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Traffic Confusion",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Masterpiece",
+        "Publisher(s)": "Masterpiece",
+        "Release date(s)[9][10]": "1992-06"
+      },
+      {
+        "Title[9][10]": "Treeclub",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-03-28"
+      },
+      {
+        "Title[9][10]": "Trigger",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1994-09-20"
+      },
+      {
+        "Title[9][10]": "Trigger 2",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "ZyX",
+        "Publisher(s)": "ZyX",
+        "Release date(s)[9][10]": "1995-09-29"
+      },
+      {
+        "Title[9][10]": "True Heart",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "Cocktail Soft",
+        "Publisher(s)": "Cocktail Soft",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Tunnels & Trolls: Crusaders of Khazan",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "StarCraft, Inc.",
+        "Publisher(s)": "StarCraft, Inc.",
+        "Release date(s)[9][10]": "1990-11"
+      },
+      {
+        "Title[9][10]": "Turbo Outrun",
+        "Genre(s)": "Racing",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1989"
+      },
+      {
+        "Title[9][10]": "Two Shot Diary",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1995-01-16"
+      },
+      {
+        "Title[9][10]": "Uchū Kaitō Funny Bee",
+        "Genre(s)": "Adventure, Eroge",
+        "Developer(s)": "Alice Soft",
+        "Publisher(s)": "Alice Soft",
+        "Release date(s)[9][10]": "1994-09-09"
+      },
+      {
+        "Title[9][10]": "Ultima IV: Quest of the Avatar",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Ultima Trilogy: I ♦ II ♦ III",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1990-10"
+      },
+      {
+        "Title[9][10]": "Ultima Underworld: The Stygian Abyss",
+        "Genre(s)": "Action role-playing game, Dungeon crawl",
+        "Developer(s)": "Blue Sky Productions",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1993-12-17"
+      },
+      {
+        "Title[9][10]": "Ultima Underworld II: Labyrinth of Worlds",
+        "Genre(s)": "Action role-playing game, Dungeon crawl",
+        "Developer(s)": "Looking Glass Studios",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Ultima V: Warriors of Destiny",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-08"
+      },
+      {
+        "Title[9][10]": "Ultima VI: The False Prophet",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1991-12"
+      },
+      {
+        "Title[9][10]": "URM: M15 Wakusei ni Umarete",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Beluga Computer",
+        "Publisher(s)": "Japan Home Video",
+        "Release date(s)[9][10]": "1994-12"
+      },
+      {
+        "Title[9][10]": "Ushinawareta Rakuen",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Silky's",
+        "Publisher(s)": "Silky's",
+        "Release date(s)[9][10]": "1995-04"
+      },
+      {
+        "Title[9][10]": "Vain Dream",
+        "Genre(s)": "Action role-playing game",
+        "Developer(s)": "Glodia",
+        "Publisher(s)": "Glodia",
+        "Release date(s)[9][10]": "1993-04-23"
+      },
+      {
+        "Title[9][10]": "Vain Dream II",
+        "Genre(s)": "Action role-playing game",
+        "Developer(s)": "Glodia",
+        "Publisher(s)": "Glodia",
+        "Release date(s)[9][10]": "1993-09-24"
+      },
+      {
+        "Title[9][10]": "Vampire High School",
+        "Genre(s)": "Adventure, Visual Novel",
+        "Developer(s)": "InterHeart",
+        "Publisher(s)": "InterHeart",
+        "Release date(s)[9][10]": "1994-07-08"
+      },
+      {
+        "Title[9][10]": "Vanishing Point: Tenshi no Kieta Machi",
+        "Genre(s)": "Visual novel",
+        "Developer(s)": "Tiare",
+        "Publisher(s)": "Tiare",
+        "Release date(s)[9][10]": "1995-10-25"
+      },
+      {
+        "Title[9][10]": "Vastness: Kūkyo no Ikenie-tachi",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Mediax Co., Ltd.",
+        "Publisher(s)": "CD Bros.",
+        "Release date(s)[9][10]": "1993-09"
+      },
+      {
+        "Title[9][10]": "Veil of Darkness: Norowareta Yogen",
+        "Genre(s)": "Action, Adventure, Role-playing game",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1994-08"
+      },
+      {
+        "Title[9][10]": "Viewpoint",
+        "Genre(s)": "Shoot 'em up",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Viper GTS",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Sogna",
+        "Publisher(s)": "Sogna",
+        "Release date(s)[9][10]": "1995-11-24"
+      },
+      {
+        "Title[9][10]": "Viper-V6: Turbo RS",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Sogna",
+        "Publisher(s)": "Sogna",
+        "Release date(s)[9][10]": "1995-04-14"
+      },
+      {
+        "Title[9][10]": "Viper-V8: Turbo RS",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Sogna",
+        "Publisher(s)": "Sogna",
+        "Release date(s)[9][10]": "1995-06"
+      },
+      {
+        "Title[9][10]": "Viper-V10: Turbo RS",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Sogna",
+        "Publisher(s)": "Sogna",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "Viper-V12",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Sogna",
+        "Publisher(s)": "Sogna",
+        "Release date(s)[9][10]": "1995-12"
+      },
+      {
+        "Title[9][10]": "Virgin Angel",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Crystal Soft",
+        "Publisher(s)": "Crystal Soft",
+        "Release date(s)[9][10]": "1995"
+      },
+      {
+        "Title[9][10]": "Virtuacall",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1995"
+      },
+      {
+        "Title[9][10]": "Virtuacall 2",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "FairyTale",
+        "Publisher(s)": "FairyTale",
+        "Release date(s)[9][10]": "1995-12-22"
+      },
+      {
+        "Title[9][10]": "The Visitor",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Fujitsu",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1989-09"
+      },
+      {
+        "Title[9][10]": "Volfied",
+        "Genre(s)": "Action",
+        "Developer(s)": "Ving Co., Ltd.",
+        "Publisher(s)": "Ving Co., Ltd.",
+        "Release date(s)[9][10]": "1991-12"
+      },
+      {
+        "Title[9][10]": "Wakoku Seiha Den",
+        "Genre(s)": "Quiz game",
+        "Developer(s)": "MIC",
+        "Publisher(s)": "MIC",
+        "Release date(s)[9][10]": "1994-04"
+      },
+      {
+        "Title[9][10]": "Wedding Errantry: Gyakutama Ō",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Grocer",
+        "Publisher(s)": "Grocer",
+        "Release date(s)[9][10]": "1995"
+      },
+      {
+        "Title[9][10]": "Where in the World Is Carmen Sandiego? Deluxe Edition",
+        "Genre(s)": "Edutainment, Strategy",
+        "Developer(s)": "Brøderbund",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1993-04"
+      },
+      {
+        "Title[9][10]": "Wing Commander",
+        "Genre(s)": "Space combat simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1992-12"
+      },
+      {
+        "Title[9][10]": "Wing Commander II: Vengeance of the Kilrathi",
+        "Genre(s)": "Space combat simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "Wing Commander: Armada",
+        "Genre(s)": "Space combat simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Release date(s)[9][10]": "1995-07"
+      },
+      {
+        "Title[9][10]": "Wing Commander: The Secret Missions & The Secret Missions 2",
+        "Genre(s)": "Space combat simulation",
+        "Developer(s)": "Origin Systems",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1994-11"
+      },
+      {
+        "Title[9][10]": "Winning Post",
+        "Genre(s)": "Sports",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Koei",
+        "Release date(s)[9][10]": "1993-06"
+      },
+      {
+        "Title[9][10]": "Wizardry V: Heart of the Maelstrom",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Sir-Tech",
+        "Publisher(s)": "Sir-Tech",
+        "Release date(s)[9][10]": "1990-12"
+      },
+      {
+        "Title[9][10]": "Wizardry VI: Bane of the Cosmic Forge",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Sir-Tech",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1991-12"
+      },
+      {
+        "Title[9][10]": "Wizardry VII: Crusaders of the Dark Savant",
+        "Genre(s)": "Role-playing game",
+        "Developer(s)": "Sir-Tech",
+        "Publisher(s)": "ASCII Entertainment",
+        "Release date(s)[9][10]": "1994-09"
+      },
+      {
+        "Title[9][10]": "Wonpara Wars",
+        "Genre(s)": "Board game, Eroge, Strategy",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1995-02-10"
+      },
+      {
+        "Title[9][10]": "Wonpara Wars II",
+        "Genre(s)": "Board game, Eroge, Strategy",
+        "Developer(s)": "Mink Co. Ltd.",
+        "Publisher(s)": "Mink Co. Ltd.",
+        "Release date(s)[9][10]": "1995-05-19"
+      },
+      {
+        "Title[9][10]": "Words Worth",
+        "Genre(s)": "Dungeon crawl, Eroge, Role-playing game",
+        "Developer(s)": "ELF Corporation",
+        "Publisher(s)": "ELF Corporation",
+        "Release date(s)[9][10]": "1993-09-30"
+      },
+      {
+        "Title[9][10]": "Wrestle Angels",
+        "Genre(s)": "Cards, Strategy",
+        "Developer(s)": "Great Co., Ltd.",
+        "Publisher(s)": "Communication Group Plum",
+        "Release date(s)[9][10]": "1992"
+      },
+      {
+        "Title[9][10]": "Wrestle Angels 2: Top Eventer",
+        "Genre(s)": "Cards, Strategy",
+        "Developer(s)": "Great Co., Ltd.",
+        "Publisher(s)": "Communication Group Plum",
+        "Release date(s)[9][10]": "1992"
+      },
+      {
+        "Title[9][10]": "Wrestle Angels 3",
+        "Genre(s)": "Cards, Strategy",
+        "Developer(s)": "Great Co., Ltd.",
+        "Publisher(s)": "Communication Group Plum",
+        "Release date(s)[9][10]": "1994-08-12"
+      },
+      {
+        "Title[9][10]": "Wrestle Angels Special: Mō Hitori no Top Eventer",
+        "Genre(s)": "Cards, Strategy",
+        "Developer(s)": "Great Co., Ltd.",
+        "Publisher(s)": "Communication Group Plum",
+        "Release date(s)[9][10]": "1994-12-02"
+      },
+      {
+        "Title[9][10]": "Wyatt: The 4th Unit Series",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1992-04-03"
+      },
+      {
+        "Title[9][10]": "Xak II: Rising of the Redmoon",
+        "Genre(s)": "Action role-playing game",
+        "Developer(s)": "Micro Cabin",
+        "Publisher(s)": "Micro Cabin",
+        "Release date(s)[9][10]": "1991-07"
+      },
+      {
+        "Title[9][10]": "Xak III: The Eternal Recurrence",
+        "Genre(s)": "Action role-playing game",
+        "Developer(s)": "Micro Cabin",
+        "Publisher(s)": "Micro Cabin",
+        "Release date(s)[9][10]": "1993-09-10"
+      },
+      {
+        "Title[9][10]": "Xenon: Mugen no Shitai",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "C's Ware",
+        "Publisher(s)": "C's Ware",
+        "Release date(s)[9][10]": "1995-03-31"
+      },
+      {
+        "Title[9][10]": "Yami no Ketsuzoku Special",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "System Sacom",
+        "Publisher(s)": "System Sacom",
+        "Release date(s)[9][10]": "1991-06"
+      },
+      {
+        "Title[9][10]": "YES! HG: Erotic Voice Version",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Himeya Soft, Inc.",
+        "Publisher(s)": "Himeya Soft, Inc.",
+        "Release date(s)[9][10]": "1995-12"
+      },
+      {
+        "Title[9][10]": "Yōjū Club Custom",
+        "Genre(s)": "Eroge, Puzzle",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1992-03-22"
+      },
+      {
+        "Title[9][10]": "Yōjū Senki: A.D. 2048",
+        "Genre(s)": "Role-playing game, Turn-based strategy, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Yōjū Senki 2: Reimei no Senshi-tachi",
+        "Genre(s)": "Role-playing game, Turn-based strategy, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1993-11"
+      },
+      {
+        "Title[9][10]": "Yumimi Mix",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "CSK Research Institute Corp.",
+        "Publisher(s)": "CSK Research Institute Corp.",
+        "Release date(s)[9][10]": "1993-12-10"
+      },
+      {
+        "Title[9][10]": "Yūwaku",
+        "Genre(s)": "Adventure, Eroge, Visual novel",
+        "Developer(s)": "T2",
+        "Publisher(s)": "T2",
+        "Release date(s)[9][10]": "1996-05"
+      },
+      {
+        "Title[9][10]": "Zak McKracken and the Alien Mindbenders",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Lucasfilm Games",
+        "Publisher(s)": "Fujitsu",
+        "Release date(s)[9][10]": "1991-02"
+      },
+      {
+        "Title[9][10]": "Zan II: Towns Special",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1992-04"
+      },
+      {
+        "Title[9][10]": "Zan III: Towns Special",
+        "Genre(s)": "Simulation, Turn-based strategy, Wargame",
+        "Developer(s)": "Wolf Team",
+        "Publisher(s)": "Wolf Team",
+        "Release date(s)[9][10]": "1994-03"
+      },
+      {
+        "Title[9][10]": "Zatsuon Ryōiki",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Zen Nihon Bishōjo Mahjong Senshūken Taikai: Heart de Ron!!",
+        "Genre(s)": "Board game",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1995-03"
+      },
+      {
+        "Title[9][10]": "Zenith",
+        "Genre(s)": "Visual novel, Eroge",
+        "Developer(s)": "Himeya Soft, Inc.",
+        "Publisher(s)": "Himeya Soft, Inc.",
+        "Release date(s)[9][10]": "1995-02"
+      },
+      {
+        "Title[9][10]": "Zerø: The 4th Unit Act.4",
+        "Genre(s)": "Adventure, Visual novel",
+        "Developer(s)": "Data West",
+        "Publisher(s)": "Data West",
+        "Release date(s)[9][10]": "1989-12"
+      },
+      {
+        "Title[9][10]": "Zoku Yōjū Senki: Sajin no Mokushiroku",
+        "Genre(s)": "Eroge, Role-playing game, Turn-based strategy",
+        "Developer(s)": "D.O. Corp.",
+        "Publisher(s)": "D.O. Corp.",
+        "Release date(s)[9][10]": "1994-02-25"
+      }
+    ]
+  }
+]

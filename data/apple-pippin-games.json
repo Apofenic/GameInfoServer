@@ -1,0 +1,1010 @@
+[
+  {
+    "table1": [
+      {
+        "System": "PA-82001",
+        "Bandai Pippin ATMARK": "PW-10001",
+        "Bandai Pippin @WORLD": "KMP 2000"
+      },
+      {
+        "System": "March 1996",
+        "Bandai Pippin ATMARK": "October 1996",
+        "Bandai Pippin @WORLD": "March 17, 1997"
+      },
+      {
+        "System": "Summer 1997"
+      },
+      {
+        "System": "66 MHz PowerPC 603 RISC microprocessor[52]"
+      },
+      {
+        "System": "6 MB combined system and video memory[53]",
+        "Bandai Pippin ATMARK": "8 MB combined system and video memory"
+      },
+      {
+        "System": "RAM is upgradable in 2, 4, 8 and 16 MB increments"
+      },
+      {
+        "System": "128 KB NVRAM accessible storage space."
+      },
+      {
+        "System": "VGA, S-video, RCA composite video (NTSC/PAL switchable),[53] with 640x480 resolution, 8-bit and 16-bit color."
+      },
+      {
+        "System": "RCA composite left/right stereo, 16-bit 44 kHz sampled, and headphone output jack"
+      },
+      {
+        "System": "PCI expansion slot",
+        "Bandai Pippin ATMARK": "PCI, and optionally external 50-pin Centronics SCSI interface"
+      },
+      {
+        "System": "Two \"AppleJack\" ruggedized ADB inputs (P-ADB); Two high-speed serial ports; modem port is GeoPort ready"
+      },
+      {
+        "System": "Internal universal switching power supply, 100 v 25 w 50/60 Hz 0.5 A",
+        "Bandai Pippin ATMARK": "Internal universal switching power supply, 100–240 v 25 w 50/60 Hz 0.5 A"
+      },
+      {
+        "System": "1996 - White; 1997 - Black",
+        "Bandai Pippin ATMARK": "All units were black",
+        "Bandai Pippin @WORLD": "Available with or without external SCSI"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Version": "AP2660-02",
+        "KINKA Developer": "AP2735-01",
+        "KINKA Pre-release": "AP2777-01",
+        "KINKA 1.0": "820-0867-01",
+        "KINKA 1.2": "AP2777-01"
+      },
+      {
+        "Version": "16 flash ROM chips",
+        "KINKA Developer": "341S0241 thru 245, 247, 248, 250",
+        "KINKA Pre-release": "341S0251 thru 254",
+        "KINKA 1.0": "341S0297 thru 300",
+        "KINKA 1.2": "341S0328 thru 331"
+      },
+      {
+        "Version": "Yes",
+        "KINKA Developer": "Yes",
+        "KINKA Pre-release": "Yes",
+        "KINKA 1.0": "Yes",
+        "KINKA 1.2": "Yes"
+      },
+      {
+        "Version": "Yes",
+        "KINKA Developer": "No",
+        "KINKA Pre-release": "No",
+        "KINKA 1.0": "Yes",
+        "KINKA 1.2": "Yes"
+      },
+      {
+        "Version": "Yes",
+        "KINKA Developer": "Yes",
+        "KINKA Pre-release": "No",
+        "KINKA 1.0": "Yes",
+        "KINKA 1.2": "Yes"
+      },
+      {
+        "Version": "Yes",
+        "KINKA Developer": "No",
+        "KINKA Pre-release": "No",
+        "KINKA 1.0": "Yes",
+        "KINKA 1.2": "Yes"
+      },
+      {
+        "Version": "No",
+        "KINKA Developer": "No",
+        "KINKA Pre-release": "No",
+        "KINKA 1.0": "No",
+        "KINKA 1.2": "Yes"
+      },
+      {
+        "Version": "Programmable; unstable",
+        "KINKA Developer": "Only 500 parts were shipped",
+        "KINKA Pre-release": "Common ROM-BIOS (JP)",
+        "KINKA 1.0": "Common ROM-BIOS (US)",
+        "KINKA 1.2": "Authentication disabled"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Regions released": "North America and other NTSC territories.",
+        "Region description": "?"
+      },
+      {
+        "Regions released": "PAL/SECAM territories: much of Europe and Australia.",
+        "Region description": "?"
+      },
+      {
+        "Regions released": "Japan and other NTSC-J territories.",
+        "Region description": "?"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title": "@Card SD Gundam Gaiden",
+        "Genre(s)": "Card game",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "AI Shogi",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Something Good",
+        "Publisher(s)": "Something Good",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Anpanman no AIUEO-N!",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Anpanman to Asobou! 1",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Anpanman to Asobou! 2",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Better Homes and Gardens Cool Crafts",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "CD Vision",
+        "Publisher(s)": "Multicom Publishing",
+        "Date first released": "1996",
+        "Regions released": "NA"
+      },
+      {
+        "Title": "Book of Lulu, The",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Ariadne",
+        "Publisher(s)": "Organa",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Circus!",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Matra Hachette Multimedia",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Chibikko Club",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Gakugei",
+        "Publisher(s)": "Gakugei",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "CombiPark Tonde Mat",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Combi Corporation",
+        "Publisher(s)": "Combi Corporation",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Dazzeloids",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Center for Advanced Whimsy",
+        "Publisher(s)": "Voyager Company",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Densha Daishuugou: Driving Train",
+        "Genre(s)": "Simulator",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Fair, then Partly Piggy",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Studio Flagship",
+        "Publisher(s)": "Studio Flagship",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Franklin the Turtle Learns Math",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Sanctuary Woods",
+        "Publisher(s)": "Sanctuary Woods",
+        "Date first released": "199?",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Funky Funny Aliens",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Amuse",
+        "Publisher(s)": "Amuse",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Gadget: Invention, Travel, & Adventure",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Synergy Interactive",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Gakkō no Kowai Uwasa: Hanako-san ga Kita!!",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Amuse",
+        "Publisher(s)": "Amuse",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Gundam 0079: The War for Earth",
+        "Genre(s)": "Action",
+        "Developer(s)": "Presto Studios",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "199?",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Gundam Tactics: Mobility Fleet 0079",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "DigiCube",
+        "Publisher(s)": "JVC Advanced Media",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Gus Goes to Cyberopolis",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Modern Media Ventures",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Gus Goes to the Kooky Carnival in search of Rant",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Modern Media Ventures",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Jungle Park",
+        "Genre(s)": "Role-Playing Game",
+        "Developer(s)": "Digitalogue",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Kids Box",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Aloalo International",
+        "Publisher(s)": "ASK Kodansha",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "L-Zone",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Synergy, Infocity",
+        "Publisher(s)": "Synergy",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Mobile Suit Gundam: White Base – The 13th Independent Force",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "JVC Advanced Media",
+        "Publisher(s)": "",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Mr. Potato Head Saves Veggie Valley",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Duck Soup Productions Inc., Turning Point Software",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1996",
+        "Regions released": "NA"
+      },
+      {
+        "Title": "Music ISLAND vol.1: Peter and the Wolf",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Oracion",
+        "Publisher(s)": "Oracion",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Music ISLAND vol.2: The Nutcracker",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Oracion",
+        "Publisher(s)": "Oracion",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Music ISLAND vol.3: The Four Seasons",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Oracion",
+        "Publisher(s)": "Oracion",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Music ISLAND vol.4: Carnival of the Animals",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Oracion",
+        "Publisher(s)": "Oracion",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Narabete! Tsukkute! Ugoku Block",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Bandai Digital Entertainment",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Nemurenu Yoru no Chiisana Ohanashi",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Amuse",
+        "Publisher(s)": "Amuse",
+        "Date first released": "199",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Nobunaga's Ambition Returns",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Koei",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "PEASE",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "Maki Enterprise",
+        "Publisher(s)": "Emotion Digital Software",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Pippin Atmark Demonstration Disk",
+        "Genre(s)": "Compilation",
+        "Developer(s)": "Apple Inc.",
+        "Publisher(s)": "",
+        "Date first released": "199?",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Playskool Puzzles",
+        "Genre(s)": "Puzzle",
+        "Developer(s)": "ImageBuilder Software",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "NA"
+      },
+      {
+        "Title": "Power Nazoler",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Infortech",
+        "Publisher(s)": "Infortech",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Power Rangers Zeo Versus The Machine Empire",
+        "Genre(s)": "Action",
+        "Developer(s)": "CyberFlix",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "NA"
+      },
+      {
+        "Title": "Racing Days",
+        "Genre(s)": "Racing",
+        "Developer(s)": "Kitt Peak",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "NA, JP"
+      },
+      {
+        "Title": "Randoseru Shougakkou 1-Nensei",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Gakugei",
+        "Publisher(s)": "Gakugei",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "SD Gundam Wars",
+        "Genre(s)": "Strategy",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "SD Ultraman's Challenge! Maze Island",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "SeesawC 1: My favorite things 120",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Ai Ga Areba Daijobu",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "SeesawC 2: My favorite places 400",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Ai Ga Areba Daijobu",
+        "Publisher(s)": "Bandai",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Shockwave Assault",
+        "Genre(s)": "Action",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "Electronic Arts Victor",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Super Marathon",
+        "Genre(s)": "Action",
+        "Developer(s)": "Bungie",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "T-Break",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Infocity",
+        "Publisher(s)": "Infocity",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Tamagotchi CD-ROM",
+        "Genre(s)": "Simulation",
+        "Developer(s)": "7th Level",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Tarot Mystery",
+        "Genre(s)": "Card game",
+        "Developer(s)": "Visit",
+        "Publisher(s)": "Visit",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Tetsuman Gaiden: Ambition of Great Game",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Teichiku",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "The Journeyman Project: Pegasus Prime",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Presto Studios",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1997",
+        "Regions released": "NA, JP"
+      },
+      {
+        "Title": "Thomas the Tank Engine & Friends",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Tropic Island",
+        "Genre(s)": "Arcade",
+        "Developer(s)": "Momodera's Brand",
+        "Publisher(s)": "Momodera's Brand",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Tunin'Glue",
+        "Genre(s)": "Simulation",
+        "Developer(s)": "NanaOn-Sha",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Ultraman: The Digital Board Game",
+        "Genre(s)": "Board game",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Ultraman Quiz King",
+        "Genre(s)": "Game show",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Victorian Park",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "F2, JVC Advanced Media",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1996",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Yellow Brick Road I",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Synergy",
+        "Publisher(s)": "Synergy",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Yellow Brick Road II: Glinda to Nishi no Majo",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Synergy",
+        "Publisher(s)": "Synergy",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      },
+      {
+        "Title": "Zukkoke Threesome: Drama Murder Case",
+        "Genre(s)": "Adventure",
+        "Developer(s)": "Poplar Publishing",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Date first released": "1997",
+        "Regions released": "JP"
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Title": "@WORLD Basics",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "@WORLD Browser",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Spyglass, Inc.",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "@WORLD Registration",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Bandai Digital Entertainment",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "1995.1.17: The Great Hanshin Earthquake",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Keikakudo",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Action Designer: Ultraman Tiga",
+        "Genre(s)": "Non-game, Art Editor",
+        "Developer(s)": "Magic Mouse",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "ad.hoc Medical Practice Quick Training Course",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "ad.hoc Co., Ltd.",
+        "Publisher(s)": "",
+        "Year": "1998",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Anime Designer: Dragon Ball Z",
+        "Genre(s)": "Non-game, Art Editor",
+        "Developer(s)": "Magic Mouse",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Apple PIPPIN Macworld Presentation & Demo",
+        "Genre(s)": "Non-game, Utility Software",
+        "Developer(s)": "Merlin Media",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Atmark Town",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Bandai Digital Entertainment",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "B no Kaidan",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "Bandai",
+        "Publisher(s)": "Bandai",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Chisato Moritaka CD-ROM Watarase Bashi",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "Oracion",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "CineNoir",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Compton's Interactive Encyclopedia: @World Edition",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "SoftKey Multimedia",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Dinosaur Museum",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Apollon Create",
+        "Publisher(s)": "Bandai",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "EGWORD Pure",
+        "Genre(s)": "Non-game, Utility Software",
+        "Developer(s)": "",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Epson Colorio Club Print Sample Kit",
+        "Genre(s)": "Non-game, Utility Software",
+        "Developer(s)": "O2 Interactive",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Exotic Sushi",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Electric Dreams",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Fortullia",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Franky Online",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Future Pirates",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Gokigen Mama no Omakase Diary",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "NanaOn-Sha",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Gundam Virtual Modeler Light",
+        "Genre(s)": "Non-game, Art Tool",
+        "Developer(s)": "Expression Tools",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Histoires d'Urologie",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "MELOdY",
+        "Publisher(s)": "",
+        "Year": "1999",
+        "Notes": "PAL"
+      },
+      {
+        "Title": "Home Improvement 1-2-3",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "Multicom Publishing",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA"
+      },
+      {
+        "Title": "Internet Kit",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Netscape Communications",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Introducing \"Forester\" CD-ROM",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "",
+        "Publisher(s)": "Fuji Heavy Industries",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Katz Pippin Demo CD",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "3ème Vague",
+        "Publisher(s)": "Katz Media",
+        "Year": "1997",
+        "Notes": "PAL"
+      },
+      {
+        "Title": "Mac Bin 38",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Mac Bin 40A & 40B",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Mobile Suit Gundam: Zion Dukedom Military-File",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "JVC Advanced Media",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Movioke",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "DigiToy Entertainment",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "NA"
+      },
+      {
+        "Title": "NetCruiser",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Netcom",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "New Legacy Laboratory",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "",
+        "Publisher(s)": "Fuji Heavy Industries",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Ocean Life: Hawaii edition",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Universal Magic",
+        "Publisher(s)": "Sumeria",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Odotte AIUEO",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "Tom Create",
+        "Publisher(s)": "Emotion Digital Software",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Picture Book of Mission School Uniform",
+        "Genre(s)": "Edutainment",
+        "Developer(s)": "Shikanen",
+        "Publisher(s)": "Emotion Digital Software",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Pippin Atmark ISDN Setup CD",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Active Open Communications",
+        "Publisher(s)": "",
+        "Year": "199?",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Pippin Hardware Demo",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "199?",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Pippin Navigator CD",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Pippin Network CD",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Active Open Communication",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "PiPPiN Title",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "Bandai Digital Entertainment",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Post de Card",
+        "Genre(s)": "Non-game, Art Tool",
+        "Developer(s)": "SystemSoft",
+        "Publisher(s)": "Bandai Digital Entertainment",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Shichisokusen",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Radio Tanba",
+        "Publisher(s)": "Media Five",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "SurfEZ! masterCD",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "Katz Media",
+        "Year": "1997",
+        "Notes": "PAL"
+      },
+      {
+        "Title": "Teleport Jr. CD-ROM Magazine",
+        "Genre(s)": "Non-game, Utility Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "The Virgin Of a Legend",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "TV Works",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "Sonoran Blue",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "NA, JP"
+      },
+      {
+        "Title": "WebViewer with MS Internet Explorer",
+        "Genre(s)": "Non-game, Web Tool",
+        "Developer(s)": "Microsoft",
+        "Publisher(s)": "",
+        "Year": "1997",
+        "Notes": "JP"
+      },
+      {
+        "Title": "With Open Eyes: Images from the Art Institute of Chicago",
+        "Genre(s)": "Non-game, Edutainment",
+        "Developer(s)": "Voyager",
+        "Publisher(s)": "Voyager",
+        "Year": "1996",
+        "Notes": "JP"
+      },
+      {
+        "Title": "Yellows",
+        "Genre(s)": "Non-game, Multimedia Tool",
+        "Developer(s)": "Digitalogue",
+        "Publisher(s)": "",
+        "Year": "1996",
+        "Notes": "JP"
+      }
+    ]
+  }
+]

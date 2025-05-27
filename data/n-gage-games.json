@@ -1,0 +1,653 @@
+[
+  {
+    "table1": [
+      {
+        "Regions released": "North America and other NTSC territories.",
+        "Region description": "58"
+      },
+      {
+        "Regions released": "PAL/SECAM territories: much of Europe, China, Brazil and Australia.",
+        "Region description": "64"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {},
+      {
+        "Title[5][6][7][8]": "First-person shooter",
+        "Genre(s)[8][9][10]": "Torus Games",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "25 May 2004",
+        "Release date(s)[6]": "17 June 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Gameloft",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "15 November 2004",
+        "Release date(s)[6]": "15 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Gameloft",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "6 December 2005",
+        "Release date(s)[6]": "6 December 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Compilation",
+        "Genre(s)[8][9][10]": "Digital Eclipse",
+        "Developer(s)": "Atari Interactive",
+        "Publisher(s)": "13 October 2005",
+        "Release date(s)[6]": "13 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Compilation",
+        "Genre(s)[8][9][10]": "Digital Eclipse",
+        "Developer(s)": "Atari Interactive",
+        "Publisher(s)": "30 March 2006",
+        "Release date(s)[6]": "30 March 2006"
+      },
+      {
+        "Title[5][6][7][8]": "Hack and slash",
+        "Genre(s)[8][9][10]": "StormBASIC Games",
+        "Developer(s)": "Nokia, Technobubble Entertainment",
+        "Publisher(s)": "Unreleased",
+        "Release date(s)[6]": "2004"
+      },
+      {
+        "Title[5][6][7][8]": "Arcade, Maze, Strategy",
+        "Genre(s)[8][9][10]": "Hudson Soft",
+        "Developer(s)": "Hudson Soft",
+        "Publisher(s)": "4 August 2004",
+        "Release date(s)[6]": "4 July 2004"
+      },
+      {
+        "Title[5][6][7][8]": "First-person shooter",
+        "Genre(s)[8][9][10]": "OmegaSoft",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "23 November 2004",
+        "Release date(s)[6]": "10 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Board game, Strategy",
+        "Genre(s)[8][9][10]": "thinkArts",
+        "Developer(s)": "Capcom",
+        "Publisher(s)": "10 October 2005",
+        "Release date(s)[6]": "10 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Turn-based strategy",
+        "Genre(s)[8][9][10]": "Gryphondale Studios",
+        "Developer(s)": "Atari Interactive",
+        "Publisher(s)": "2 March 2006",
+        "Release date(s)[6]": "24 February 2006"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Ideaworks3D",
+        "Developer(s)": "Codemasters",
+        "Publisher(s)": "5 November 2004",
+        "Release date(s)[6]": "29 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Vicarious Visions",
+        "Developer(s)": "Vivendi Universal Games",
+        "Publisher(s)": "30 June 2004",
+        "Release date(s)[6]": "28 July 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Electronic Arts Canada, Exient Entertainment",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "14 January 2004",
+        "Release date(s)[6]": "24 December 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Electronic Arts Canada, Exient Entertainment",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "10 November 2004",
+        "Release date(s)[6]": "27 October 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Housemarque",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "Unreleased",
+        "Release date(s)[6]": "7 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Bugbear Entertainment",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "16 August 2005",
+        "Release date(s)[6]": "7 July 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Turn-based tactics",
+        "Genre(s)[8][9][10]": "RedLynx",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "28 October 2005",
+        "Release date(s)[6]": "13 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "G Artist",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "28 April 2004",
+        "Release date(s)[6]": "10 May 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Pinball",
+        "Genre(s)[8][9][10]": "Bonus.com, Ideaworks3D",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "14 November 2005",
+        "Release date(s)[6]": "1 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Hexacto Games",
+        "Developer(s)": "Jack of All Games, THQ Wireless",
+        "Publisher(s)": "31 October 2003",
+        "Release date(s)[6]": "10 December 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "THQ Wireless",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "14 November 2003",
+        "Release date(s)[6]": "18 November 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Exient Entertainment",
+        "Developer(s)": "Jack Of All Games, Electronic Arts",
+        "Publisher(s)": "10 December 2003",
+        "Release date(s)[6]": "16 December 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Extreme sports",
+        "Genre(s)[8][9][10]": "StormBASIC Games",
+        "Developer(s)": "Nokia, Technobubble Entertainment",
+        "Publisher(s)": "Unreleased",
+        "Release date(s)[6]": "2005"
+      },
+      {
+        "Title[5][6][7][8]": "Fighting",
+        "Genre(s)[8][9][10]": "Digital Legends Entertainment",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "13 October 2005",
+        "Release date(s)[6]": "14 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action-adventure",
+        "Genre(s)[8][9][10]": "Torus Games",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "29 September 2004",
+        "Release date(s)[6]": "30 September 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Platform",
+        "Genre(s)[8][9][10]": "Ideaworks3D",
+        "Developer(s)": "Eidos Interactive",
+        "Publisher(s)": "6 October 2003",
+        "Release date(s)[6]": "7 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Turn-based tactics",
+        "Genre(s)[8][9][10]": "RedLynx",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "24 November 2004",
+        "Release date(s)[6]": "26 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Turn-based tactics",
+        "Genre(s)[8][9][10]": "RedLynx",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "8 November 2005",
+        "Release date(s)[6]": "8 November 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action, Vehicular combat",
+        "Genre(s)[8][9][10]": "Tantalus Interactive",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "14 November 2005",
+        "Release date(s)[6]": "16 May 2006"
+      },
+      {
+        "Title[5][6][7][8]": "MMORPG",
+        "Genre(s)[8][9][10]": "Sega",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "24 November 2004",
+        "Release date(s)[6]": "29 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "StormBASIC Games",
+        "Developer(s)": "Nokia, Technobubble Entertainment",
+        "Publisher(s)": "Unreleased",
+        "Release date(s)[6]": "2005"
+      },
+      {
+        "Title[5][6][7][8]": "Puzzle",
+        "Genre(s)[8][9][10]": "Lavastorm Engineering",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "6 October 2003",
+        "Release date(s)[6]": "7 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Puzzle",
+        "Genre(s)[8][9][10]": "Taito",
+        "Developer(s)": "Jack Of All Games, Nokia",
+        "Publisher(s)": "10 October 2003",
+        "Release date(s)[6]": "10 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Platform",
+        "Genre(s)[8][9][10]": "Gameloft",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "11 December 2003",
+        "Release date(s)[6]": "26 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "First-person shooter",
+        "Genre(s)[8][9][10]": "Monkeystone Games",
+        "Developer(s)": "THQ Wireless",
+        "Publisher(s)": "10 December 2003",
+        "Release date(s)[6]": "12 December 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Role-playing game",
+        "Genre(s)[8][9][10]": "Digital-Red Mobile Software",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "22 November 2004",
+        "Release date(s)[6]": "22 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Tactical role-playing game",
+        "Genre(s)[8][9][10]": "Backbone Entertainment",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "31 October 2005",
+        "Release date(s)[6]": "1 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Fighting",
+        "Genre(s)[8][9][10]": "Digital-Red Mobile Software",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "Unreleased",
+        "Release date(s)[6]": "Unreleased"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Hitmaker",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "1 January 2004",
+        "Release date(s)[6]": "1 January 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Arcade, Maze",
+        "Genre(s)[8][9][10]": "IOMO",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "25 January 2005",
+        "Release date(s)[6]": "25 January 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Platform",
+        "Genre(s)[8][9][10]": "Dimps",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "7 October 2003",
+        "Release date(s)[6]": "7 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Shoot 'em up",
+        "Genre(s)[8][9][10]": "Kuju Entertainment",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "1 October 2003",
+        "Release date(s)[6]": "1 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Action-adventure",
+        "Genre(s)[8][9][10]": "Activision, Digital Eclipse",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "2 July 2004",
+        "Release date(s)[6]": "6 July 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Snowboarding",
+        "Genre(s)[8][9][10]": "Exient Entertainment",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "24 January 2005",
+        "Release date(s)[6]": "19 January 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Platform",
+        "Genre(s)[8][9][10]": "Sega, Realism",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "6 October 2003",
+        "Release date(s)[6]": "7 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Racing",
+        "Genre(s)[8][9][10]": "Ideaworks3D",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "20 September 2005",
+        "Release date(s)[6]": "22 September 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action",
+        "Genre(s)[8][9][10]": "StormBASIC Games",
+        "Developer(s)": "Nokia, Technobubble Entertainment",
+        "Publisher(s)": "Unreleased",
+        "Release date(s)[6]": "2005"
+      },
+      {
+        "Title[5][6][7][8]": "Role-playing game",
+        "Genre(s)[8][9][10]": "TKO Software, Vir2L Studios",
+        "Developer(s)": "Bethesda Softworks, Vir2L Studios",
+        "Publisher(s)": "11 November 2004",
+        "Release date(s)[6]": "24 November 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Fighting",
+        "Genre(s)[8][9][10]": "Hudson Soft",
+        "Developer(s)": "SNK Playmore",
+        "Publisher(s)": "31 January 2005",
+        "Release date(s)[6]": "12 January 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action, Role-playing game",
+        "Genre(s)[8][9][10]": "P.S. ASSA - Tannhasuer Gate Sp. z o.o.",
+        "Developer(s)": "Cenega Publishing, Nokia",
+        "Publisher(s)": "15 August 2005",
+        "Release date(s)[6]": "31 August 2005"
+      },
+      {
+        "Title[5][6][7][8]": "God game, Life simulation",
+        "Genre(s)[8][9][10]": "Ideaworks3D",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "10 May 2004",
+        "Release date(s)[6]": "12 May 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Digital Eclipse",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "24 June 2004",
+        "Release date(s)[6]": "24 June 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Tactical shooter",
+        "Genre(s)[8][9][10]": "Gameloft",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "11 August 2004",
+        "Release date(s)[6]": "10 August 2004"
+      },
+      {
+        "Title[5][6][7][8]": "Stealth",
+        "Genre(s)[8][9][10]": "Gameloft",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "23 March 2005",
+        "Release date(s)[6]": "29 March 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Stealth",
+        "Genre(s)[8][9][10]": "Gameloft",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "5 December 2003",
+        "Release date(s)[6]": "10 December 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Action-adventure, Puzzle-platform",
+        "Genre(s)[8][9][10]": "Ideaworks3D",
+        "Developer(s)": "Eidos Interactive",
+        "Publisher(s)": "6 October 2003",
+        "Release date(s)[6]": "7 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Extreme sports",
+        "Genre(s)[8][9][10]": "Ideaworks3D",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "10 October 2003",
+        "Release date(s)[6]": "13 October 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Sports",
+        "Genre(s)[8][9][10]": "Hitmaker",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "14 December 2003",
+        "Release date(s)[6]": "14 December 2003"
+      },
+      {
+        "Title[5][6][7][8]": "Turn-based strategy",
+        "Genre(s)[8][9][10]": "Razorback Developments",
+        "Developer(s)": "THQ Wireless",
+        "Publisher(s)": "6 April 2006",
+        "Release date(s)[6]": "6 April 2006"
+      },
+      {
+        "Title[5][6][7][8]": "Artillery, Strategy",
+        "Genre(s)[8][9][10]": "Paragon 5, Team17",
+        "Developer(s)": "THQ Wireless",
+        "Publisher(s)": "19 April 2005",
+        "Release date(s)[6]": "15 April 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Fighting, Sports",
+        "Genre(s)[8][9][10]": "Exient Entertainment",
+        "Developer(s)": "THQ Wireless",
+        "Publisher(s)": "15 August 2005",
+        "Release date(s)[6]": "11 July 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action role-playing game",
+        "Genre(s)[8][9][10]": "Barking Lizards Technologies",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "7 February 2005",
+        "Release date(s)[6]": "1 January 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action role-playing game",
+        "Genre(s)[8][9][10]": "Barking Lizards Technologies",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "31 October 2005",
+        "Release date(s)[6]": "27 October 2005"
+      },
+      {
+        "Title[5][6][7][8]": "Action role-playing game",
+        "Genre(s)[8][9][10]": "Nihon Falcom, ScriptArts",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "20 June 2005",
+        "Release date(s)[6]": "20 June 2005"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title[11][12]": "Turn-based tactics",
+        "Genre": "Argonaut Games",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "2003",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Artwork exists and screenshots exists. Several prototypes leaked in 2023.[13]"
+      },
+      {
+        "Title[11][12]": "Action",
+        "Genre": "Sega",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "9 February 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Beta prototype exists."
+      },
+      {
+        "Title[11][12]": "Action",
+        "Genre": "Byte Defenders",
+        "Developer(s)": "Living Mobile",
+        "Publisher(s)": "—",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[14]"
+      },
+      {
+        "Title[11][12]": "Adventure",
+        "Genre": "Rovio Entertainment",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "—",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced."
+      },
+      {
+        "Title[11][12]": "Shooter",
+        "Genre": "",
+        "Developer(s)": "Gameloft",
+        "Publisher(s)": "30 November 2006",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Pictures of Gameplay exist.[15]"
+      },
+      {
+        "Title[11][12]": "Shooter",
+        "Genre": "Nokia",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "11 May 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "The game has been released as Ashen.[16][17]"
+      },
+      {
+        "Title[11][12]": "Racing, Shooter",
+        "Genre": "Reflections Interactive, V3D Production",
+        "Developer(s)": "Atari SA",
+        "Publisher(s)": "2005",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[18]"
+      },
+      {
+        "Title[11][12]": "Sportsimulation",
+        "Genre": "Bigben Interactive",
+        "Developer(s)": "Bigben Interactive",
+        "Publisher(s)": "—",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[19]"
+      },
+      {
+        "Title[11][12]": "Beat 'em up",
+        "Genre": "NAPS team",
+        "Developer(s)": "DSI Games",
+        "Publisher(s)": "26 September 2003",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Screenshots exists.[20][21] No prototype has surfaced."
+      },
+      {
+        "Title[11][12]": "Life simulation",
+        "Genre": "Sulake Corporation",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "2009",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "A prototype ROM image was leaked online in 2014.[22][23]"
+      },
+      {
+        "Title[11][12]": "MMORPG",
+        "Genre": "Activate Interactive",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "Q1 2006",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Also planned for PC.[24] Received a closed beta test.[25] Prototype surfaced in 2022.[26] Screenshots and trailer exists.[27][28][29]"
+      },
+      {
+        "Title[11][12]": "Action",
+        "Genre": "Humansoft",
+        "Developer(s)": "—",
+        "Publisher(s)": "10 February 2010",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Also planned for PSP and only promotional images exists.[30][31]"
+      },
+      {
+        "Title[11][12]": "Racing",
+        "Genre": "—",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "Q1 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[32]"
+      },
+      {
+        "Title[11][12]": "Adventure",
+        "Genre": "TKO Software",
+        "Developer(s)": "Nokia, Vivendi Universal Games",
+        "Publisher(s)": "Q1 2005",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Concept art and design document are in hands of Jody Hicks, one of the game's developers.[33] Also alive Alpha prototype was spotted at ObscureGamers forum in February 2021.[34] Other screenshots were released later.[35]"
+      },
+      {
+        "Title[11][12]": "Action",
+        "Genre": "YDreams/Blueshark Studio",
+        "Developer(s)": "YDreams",
+        "Publisher(s)": "3 March 2006",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Artwork exists.[36]"
+      },
+      {
+        "Title[11][12]": "Combat-Kart Racer",
+        "Genre": "Tantalus",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "Fall 2005",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced[37]"
+      },
+      {
+        "Title[11][12]": "Role-playing game",
+        "Genre": "Cenega Publishing",
+        "Developer(s)": "Cenega Publishing, Nokia",
+        "Publisher(s)": "9 June 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[38][39]"
+      },
+      {
+        "Title[11][12]": "MMORPG",
+        "Genre": "Backbone Entertainment",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "2009",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[40]"
+      },
+      {
+        "Title[11][12]": "Racing",
+        "Genre": "Fathammer",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "—",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "French homebrew team QueenMeka acquired a 'finalised' beta prototype in 2020. A download is available on their blog post as well as a physical MMC copy bundled with two other games.[41]"
+      },
+      {
+        "Title[11][12]": "Board game, Collectible card game, MMORPG",
+        "Genre": "Jadestone",
+        "Developer(s)": "Jadestone",
+        "Publisher(s)": "2009",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.,[42] Demo was playable at E3 2005.[43] Trailer, screenshots & Conceptart exist.[44]"
+      },
+      {
+        "Title[11][12]": "Compilation",
+        "Genre": "Nokia",
+        "Developer(s)": "Taito",
+        "Publisher(s)": "31 December 2015",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Artwork, screenshots and prototype exists.[45][46]"
+      },
+      {
+        "Title[11][12]": "Sports",
+        "Genre": "Electronic Arts",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "1 October 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Screenshots exists.[47] No prototype has surfaced."
+      },
+      {
+        "Title[11][12]": "God game, Life simulation",
+        "Genre": "Griptonite Games",
+        "Developer(s)": "Electronic Arts",
+        "Publisher(s)": "—",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced."
+      },
+      {
+        "Title[11][12]": "Rail shooter",
+        "Genre": "Sega",
+        "Developer(s)": "Sega",
+        "Publisher(s)": "26 July 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "Beta prototype exists.[48]"
+      },
+      {
+        "Title[11][12]": "Sports",
+        "Genre": "Fathammer",
+        "Developer(s)": "Nokia",
+        "Publisher(s)": "—",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "No prototype has surfaced.[49]"
+      },
+      {
+        "Title[11][12]": "Shoot 'em up",
+        "Genre": "Overloaded Pocket Media",
+        "Developer(s)": "Playlogic",
+        "Publisher(s)": "21 May 2004",
+        "Planned Release Date/Last Year Developed or Mentioned[11][12]": "A demo version 1.2 exists. Originally entering any item would only shows highscores. Only arcade mode is available for playing after applying a fan patch.[50]"
+      }
+    ]
+  }
+]

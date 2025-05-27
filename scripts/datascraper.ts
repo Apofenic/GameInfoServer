@@ -2,20 +2,24 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import * as path from 'path';
+import { consoleGameListSources, computerGameListSources } from './ScrapingSources';
 
 async function scrapeWikipediaGamesList(url: string, outputFilename: string) {
   try {
     console.log(`Fetching data from ${url}...`);
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
-
     const gameTables = $('table.wikitable')
       .map((tableIndex, tableElement) => {
         console.log(`Processing table #${tableIndex + 1}`);
         const $table = $(tableElement);
         const tableHeaders: string[] = $table
           .find('tr:first-child th')
-          .map((i, element) => $(element).text().trim())
+          .map((_i, element) => {
+            const rawText = $(element).text().trim();
+            const noCitations = rawText.replace(/(\s*\[\d+\])+$/, ''); // Remove trailing citations
+            return noCitations.replace(/\s+/g, '_'); // Replace spaces with underscores
+          })
           .get();
 
         if (tableHeaders.length === 0) {
@@ -55,31 +59,14 @@ async function scrapeWikipediaGamesList(url: string, outputFilename: string) {
   }
 }
 
-// Example usage
 async function main() {
-  // Example Wikipedia URLs with game lists
-  const sources = [
-    // {
-    //   url: 'https://en.wikipedia.org/wiki/List_of_PlayStation_5_games',
-    //   filename: 'ps5-games.json',
-    // },
-
-    {
-      url: 'https://en.wikipedia.org/wiki/List_of_Game_%26_Watch_games',
-      filename: 'game-and-watch-games.json',
-    },
-    {
-      url: 'https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games',
-      filename: 'switch-games.json',
-    },
-  ];
+  const sources = [...consoleGameListSources, ...computerGameListSources];
   function delay(ms: number) {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
   for (const source of sources) {
     await scrapeWikipediaGamesList(source.url, source.filename);
-    await delay(3000); // Wait 3 seconds between requests
+    await delay(3000);
   }
 }
-
 main().catch(console.error);

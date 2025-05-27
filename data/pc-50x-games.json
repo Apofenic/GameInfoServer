@@ -1,0 +1,437 @@
+[
+  {
+    "table1": [
+      {
+        "Name": "SD 050S",
+        "Company": "ITMC",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "France",
+        "Note": ""
+      },
+      {
+        "Name": "SD 90",
+        "Company": "ITMC",
+        "Display": "Black and white or color",
+        "Year": "",
+        "Country": "France",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "SD 050S",
+        "Company": "Soundic",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Europe",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Programmable system",
+        "Company": "Soundic",
+        "Display": "Black and white",
+        "Year": "",
+        "Country": "Europe",
+        "Note": ""
+      },
+      {
+        "Name": "TV Jack 5000",
+        "Company": "Bandai",
+        "Display": "Colors",
+        "Year": "1978",
+        "Country": "Japan",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Palladium Tele-Cassetten Game",
+        "Company": "Neckermann",
+        "Display": "Colors",
+        "Year": "1978",
+        "Country": "Germany",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Video Cassette Lock",
+        "Company": "Takatoku",
+        "Display": "Colors",
+        "Year": "1977",
+        "Country": "Japan",
+        "Note": "(CTV-8600 or TG 95 OI model).",
+        "Photo": ""
+      },
+      {
+        "Name": "SD 050",
+        "Company": "Hanimex",
+        "Display": "Black and white",
+        "Year": "",
+        "Country": "Europe",
+        "Note": ""
+      },
+      {
+        "Name": "SD 070 couleur",
+        "Company": "Hanimex",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Europe",
+        "Note": ""
+      },
+      {
+        "Name": "TVG 070C",
+        "Company": "Hanimex",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Europe",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Secam Systeme vidéo cassettes",
+        "Company": "Secam",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "France",
+        "Note": "On the PCB is written SD-050S",
+        "Photo": ""
+      },
+      {
+        "Name": "Jeu Video SD 050S",
+        "Company": "Secam",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "France",
+        "Note": ""
+      },
+      {
+        "Name": "SD-50 Program 2000[2]",
+        "Company": "Creatronic",
+        "Display": "Colors [2]",
+        "Year": "1978[2]",
+        "Country": "France[2]",
+        "Note": ""
+      },
+      {
+        "Name": "Programmable 2003",
+        "Company": "Elbex",
+        "Display": "Colors",
+        "Year": "1977",
+        "Country": "Europe",
+        "Note": "Produced in China but sold in Europe"
+      },
+      {
+        "Name": "4/303 'Video Secam System'",
+        "Company": "Rollet",
+        "Display": "Colors",
+        "Year": "1983?",
+        "Country": "France",
+        "Note": "Sold also with the name 'Secam Video Systeme' SD-050S"
+      },
+      {
+        "Name": "Programmable TV-Game",
+        "Company": "Universum",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Germany",
+        "Note": ""
+      },
+      {
+        "Name": "SD-050",
+        "Company": "Grandstand",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "United Kingdom",
+        "Note": ""
+      },
+      {
+        "Name": "Programmable game",
+        "Company": "Grandstand",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "United Kingdom",
+        "Note": "Also known as Mercury Commander Paul's Mark III – Programmable TV Game",
+        "Photo": ""
+      },
+      {
+        "Name": "Colour Programmable SD070 Video Sports Centre SD070",
+        "Company": "Grandstand",
+        "Display": "Colors",
+        "Year": "1978",
+        "Country": "United Kingdom",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Tournament-colour-programmable-2000",
+        "Company": "Prinztronic",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Programmable TV Game SD-050C",
+        "Company": "Tempest",
+        "Display": "",
+        "Year": "1977",
+        "Country": "Austria",
+        "Note": ""
+      },
+      {
+        "Name": "Superstar 01-4354 Programmable[2]",
+        "Company": "Binatone",
+        "Display": "Colors[2]",
+        "Year": "1978[2]",
+        "Country": "United Kingdom[2]",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Cablestar 01-4354[2]",
+        "Company": "Binatone",
+        "Display": "Black and white [2]",
+        "Year": "1978 [2]",
+        "Country": "United Kingdom[2]",
+        "Note": ""
+      },
+      {
+        "Name": "tele-sports III[2]",
+        "Company": "Radofin",
+        "Display": "Colors[2]",
+        "Year": "1978[2]",
+        "Country": "Europe",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "tele-sports IV[2]",
+        "Company": "Radofin e Acetronic",
+        "Display": "Colors[2]",
+        "Year": "1978[2]",
+        "Country": "Europe",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "tele-sports programmable[2]",
+        "Company": "Radofin",
+        "Display": "Colors [2]",
+        "Year": "1978 [2]",
+        "Country": "Europe",
+        "Note": ""
+      },
+      {
+        "Name": "Colour TV Game[2]",
+        "Company": "Acetronic",
+        "Display": "Colors [2]",
+        "Year": "1978 [2]",
+        "Country": "United Kingdom[2]",
+        "Note": ""
+      },
+      {
+        "Name": "Video SD-050[2]",
+        "Company": "Akur",
+        "Display": "Colors [2]",
+        "Year": "1978 [2]",
+        "Country": "Germany[2]",
+        "Note": ""
+      },
+      {
+        "Name": "Color TVG-872[2]",
+        "Company": "Cam e Clipper",
+        "Display": "Colors [2]",
+        "Year": "1978(Cam) 1977(clipper)[2]",
+        "Country": "Italy[2]",
+        "Note": ""
+      },
+      {
+        "Name": "TVG-888",
+        "Company": "Irradio",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Italy",
+        "Note": ""
+      },
+      {
+        "Name": "PG-7 programmable",
+        "Company": "Polycon",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "United Kingdom",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "9015",
+        "Company": "Poppy",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Germany",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "TVG 10",
+        "Company": "Poppy",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Germany",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "9015",
+        "Company": "Sanwa",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Germany",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "9015",
+        "Company": "Mustang",
+        "Display": "Colors",
+        "Year": "",
+        "Country": "Germany",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "4A-8",
+        "Company": "Conic",
+        "Display": "Colors",
+        "Year": "1978",
+        "Country": "Hong Kong",
+        "Note": "Cartridge format in common with 9015",
+        "Photo": ""
+      },
+      {
+        "Name": "Jeu Video Cassette Interchangeables Tele-sports III",
+        "Company": "Univox",
+        "Display": "colors",
+        "Year": "1977",
+        "Country": "France",
+        "Note": "",
+        "Photo": ","
+      },
+      {
+        "Name": "Color (model TVG 57253)",
+        "Company": "@Mark",
+        "Display": "",
+        "Year": "1978",
+        "Country": "Europe",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "TV Game-programmable SD-070",
+        "Company": "Tristar",
+        "Display": "",
+        "Year": "1978",
+        "Country": "Sweden",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Colour Cartridge VMV12[3]",
+        "Company": "Videomaster",
+        "Display": "Colors",
+        "Year": "1979",
+        "Country": "UK",
+        "Note": "Cartridge format in common with Palson",
+        "Photo": ""
+      },
+      {
+        "Name": "Game Cassette System CX-336[3]",
+        "Company": "Palson",
+        "Display": "Color",
+        "Year": "1978/79",
+        "Country": "Spain",
+        "Note": "Cartridge format in common with Videomaster",
+        "Photo": ""
+      },
+      {
+        "Name": "Aureac Video Play",
+        "Company": "Aureac VP Electronics",
+        "Display": "",
+        "Year": "1978",
+        "Country": "Spain",
+        "Note": "The 10 game select keys were on one of the two controllers",
+        "Photo": ""
+      },
+      {
+        "Name": "Black Point FS 1003",
+        "Company": "S.H.G. GmbH",
+        "Display": "Colors",
+        "Year": "1978",
+        "Country": "West Germany",
+        "Note": "",
+        "Photo": ""
+      },
+      {
+        "Name": "Black Point FS 2000",
+        "Company": "S.H.G. GmbH",
+        "Display": "Colors",
+        "Year": "1978",
+        "Country": "West Germany",
+        "Note": "",
+        "Photo": ""
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Code": "PC-5019015-A",
+        "French name": "Supersportif",
+        "English name": "Sports / Supersportic / Superten / Superstar",
+        "Chip": "AY-3-8610 (8 pong games + 2 rifle games)"
+      },
+      {
+        "Code": "PC-5029015-B",
+        "French name": "Motocyclette",
+        "English name": "Motor cycle",
+        "Chip": "AY-3-8760 (4 race games)"
+      },
+      {
+        "Code": "PC-5039015-C",
+        "French name": "Bataille de chars",
+        "English name": "Tank Battle",
+        "Chip": "AY-3-8710 (2 tank games)"
+      },
+      {
+        "Code": "PC-5049015-D",
+        "French name": "Course de voitures GP",
+        "English name": "Racing cars / Grand Prix / Race Car GP",
+        "Chip": "AY-3-8603 (2 racing games)"
+      },
+      {
+        "Code": "PC-5059015-G",
+        "French name": "Bataille navale",
+        "English name": "Submarine",
+        "Chip": "AY-3-8605 (2 games)"
+      },
+      {
+        "Code": "PC-5069015-E",
+        "French name": "Jeu de destruction",
+        "English name": "Super Wipeout",
+        "Chip": "AY-3-8606 (10 games)"
+      },
+      {
+        "Code": "PC-5079015-H",
+        "French name": "Jeux de tir",
+        "English name": "Shooting Gallery",
+        "Chip": "AY-3-8607 (3 rifle games)"
+      },
+      {
+        "Code": "PC-5089015-F?",
+        "French name": "6 jeux de base",
+        "English name": "Fundamental",
+        "Chip": "AY-3-8500 [4] (pong games)"
+      }
+    ]
+  }
+]

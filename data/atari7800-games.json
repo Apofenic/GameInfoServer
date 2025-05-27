@@ -1,0 +1,930 @@
+[
+  {
+    "table1": [
+      {
+        "Regions_released": "North America and other NTSC territories.",
+        "Region_description": "66"
+      },
+      {
+        "Regions_released": "PAL/SECAM territories: much of Europe and Australia.",
+        "Region_description": "60"
+      }
+    ]
+  },
+  {
+    "table2": [
+      {
+        "Title": "Atari Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "PAL"
+      },
+      {
+        "Title": "Nova Game Design",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "BlueSky Software[8]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1986",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation[9][10]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "James Zalewski",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "BlueSky Software[8]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation[9]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1986",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Ibid, Inc.",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Sculptured Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert Neve[10]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Sculptured Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "International Technology Development Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "International Technology Development Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Absolute Entertainment",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Sculptured Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1986",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Ibid, Inc.",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Man Development Corp.",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Softgold",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Ibid, Inc.",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Absolute Entertainment",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "International Technology Development Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Bluesky Software[8]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Bluesky Software[8]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Atari Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Radioactive Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Bluesky Software[8]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "BlueSky Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Man Development Corp.",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Absolute Entertainment",
+        "Developer(s)": "Absolute Entertainment",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Datafast Computer Services",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Activision",
+        "Developer(s)": "Activision",
+        "Publisher(s)": "1989",
+        "Year": "NA"
+      },
+      {
+        "Title": "Atari Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1986",
+        "Year": "NA"
+      },
+      {
+        "Title": "BlueSky Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1990",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1991",
+        "Year": "PAL"
+      },
+      {
+        "Title": "Epyx",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA"
+      },
+      {
+        "Title": "Atari Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Absolute Entertainment",
+        "Developer(s)": "Absolute Entertainment",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Froggo",
+        "Developer(s)": "Froggo",
+        "Publisher(s)": "1988",
+        "Year": "NA"
+      },
+      {
+        "Title": "Absolute Entertainment",
+        "Developer(s)": "Absolute Entertainment",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Absolute Entertainment",
+        "Developer(s)": "Absolute Entertainment",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Imagineering[10][11]",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA"
+      },
+      {
+        "Title": "Hewson Consultants",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1988",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Froggo",
+        "Developer(s)": "Froggo",
+        "Publisher(s)": "1988",
+        "Year": "NA"
+      },
+      {
+        "Title": "Epyx",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA"
+      },
+      {
+        "Title": "BlueSky Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1989",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1987",
+        "Year": "NA, PAL"
+      }
+    ]
+  },
+  {
+    "table3": [
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2024",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2024",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2024",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2024",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2025",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2024",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2024",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2025",
+        "Year": "NA, PAL"
+      },
+      {
+        "Title": "Plaion",
+        "Developer(s)": "Atari Interactive Inc.",
+        "Publisher(s)": "2025",
+        "Year": "NA, PAL"
+      }
+    ]
+  },
+  {
+    "table4": [
+      {
+        "Title": "Vladimir Zuniga",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2022",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Brek Brixius",
+        "Developer(s)": "Good Deal Games",
+        "Publisher(s)": "2015",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2013",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2007",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2014",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2015",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Ken Siders",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2007",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2019",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Ken Siders",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2006",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Ken Siders",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2007",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2013",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Harry Dodgson",
+        "Developer(s)": "Video61",
+        "Publisher(s)": "2005",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2011",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2013",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Muddyfunster",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2022",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Revontuli",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2021",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Revontuli",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2021",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Mike Saarna, Steve Engelhardt",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2015",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2010",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2013",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Chris Read",
+        "Developer(s)": "Atari 2600 Land",
+        "Publisher(s)": "2020",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Nittoh",
+        "Developer(s)": "Robert DeCrescenzo",
+        "Publisher(s)": "2005",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Clark Otto, Jr.",
+        "Developer(s)": "Self",
+        "Publisher(s)": "2016",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2009",
+        "Release_date(s)": "NA, PAL"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2014",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "BlueSky Software",
+        "Developer(s)": "ResQsoft Productions",
+        "Publisher(s)": "2002",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Vladimir Zuniga",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2021",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Vladimir Zuniga",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2022",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Clark Otto Jr., Isabella Acuna",
+        "Developer(s)": "Self",
+        "Publisher(s)": "2018",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "MK Smith",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2021",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Two-Bit Score",
+        "Developer(s)": "Robert DeCrescenzo",
+        "Publisher(s)": "2005",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Robert DeCrescenzo",
+        "Publisher(s)": "2005",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2006",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Robert DeCrescenzo",
+        "Publisher(s)": "2005",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "Gambler172",
+        "Publisher(s)": "2006",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Lance Ringquist",
+        "Developer(s)": "Video61",
+        "Publisher(s)": "2020",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "PenguiNet",
+        "Developer(s)": "PenguiNet",
+        "Publisher(s)": "2019",
+        "Release_date(s)": "NA, PAL"
+      },
+      {
+        "Title": "Thomas Mathys",
+        "Developer(s)": "Self",
+        "Publisher(s)": "2005",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2012",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Matthias Luedtke",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2006",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2012",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "RevEng",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2016",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2007",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2008",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2010",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2008",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Robert DeCrescenzo",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2021",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Mark Ball",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2009",
+        "Release_date(s)": "NA"
+      },
+      {
+        "Title": "Mark Ball",
+        "Developer(s)": "AtariAge",
+        "Publisher(s)": "2010",
+        "Release_date(s)": "NA"
+      }
+    ]
+  },
+  {
+    "table5": [
+      {
+        "Title": "Atari Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "January 12, 2008",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1983 arcade original. Preliminary packaging exists.[14]"
+      },
+      {
+        "Title": "ICC",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "June 26, 2007",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Conversion of the Atari Lynx original.[15] Artwork exists under ownership of former MicroProse UK employee Steve Goss.[16]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1983 arcade original."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "—",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the Atari 2600 original."
+      },
+      {
+        "Title": "Ibid Inc. Software",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "January 1988",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the MS-DOS original. Development started but not completed beyond a demo.[17]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1985 arcade original."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Based upon Warner Bros. and Amblin Entertainment's 1984 eponymous film."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1986",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Only a single screenshot exists.[18]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1982 arcade original. Unknown if development work was started beyond announcement."
+      },
+      {
+        "Title": "Sculptured Software",
+        "Developer(s)": "TNT Games",
+        "Publisher(s)": "1989",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Based upon The Cannon Group's 1984 eponymous film. 85% complete.[19]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1982 arcade original."
+      },
+      {
+        "Title": "Froggo",
+        "Developer(s)": "Froggo",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      },
+      {
+        "Title": "Tiertex Design Studios",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "September 22 & 24, 2014",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1985 arcade original. It was finished and working, looked great and was sent to Atari and never seen again.[20][21]"
+      },
+      {
+        "Title": "Imagitec Design",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1992",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1990 arcade original. A ROM image was reportedly found from a development kit of a former Atari employee.[22]"
+      },
+      {
+        "Title": "Tynesoft",
+        "Developer(s)": "—",
+        "Publisher(s)": "1990",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the Amiga and Atari ST original. A ROM image was found from a development kit.[23]"
+      },
+      {
+        "Title": "Froggo",
+        "Developer(s)": "Froggo",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      },
+      {
+        "Title": "VSS, Inc.",
+        "Developer(s)": "Telegames",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the Atari 2600 and ColecoVision original."
+      },
+      {
+        "Title": "Imagitec Design",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1991",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1990 arcade original. An early playable build was found.[24]"
+      },
+      {
+        "Title": "General Computer Corporation",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1984",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the Atari 8-bit and Atari 5200 original. A ROM image was found in 2004 under ownership of GCC programmers.[25]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1991 arcade original."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1985 arcade original."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "—",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      },
+      {
+        "Title": "Froggo",
+        "Developer(s)": "Froggo",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      },
+      {
+        "Title": "Tynesoft",
+        "Developer(s)": "—",
+        "Publisher(s)": "1990",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the Amiga original Sirius 7. A ROM image was found from a development kit.[26]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the Apple II original. Only a single screenshot and preliminary packaging exists.[27]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1981 arcade original."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1991 arcade original."
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1981 arcade original. Engineering Notes list development of the 7800 conversion being 15–20% completed but no code has been found to date.[citation needed]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      },
+      {
+        "Title": "Imagitec Design",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "1993",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1989 arcade original. A nearly-complete playable ROM image was discovered on a development kit.[28]"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "Port of the 1983 arcade original."
+      },
+      {
+        "Title": "Froggo",
+        "Developer(s)": "Froggo",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      },
+      {
+        "Title": "—",
+        "Developer(s)": "Atari Corporation",
+        "Publisher(s)": "—",
+        "Planned_Release_Date/Last_Year_Developed_or_Mentioned": "—"
+      }
+    ]
+  }
+]

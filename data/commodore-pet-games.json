@@ -1,0 +1,2316 @@
+[
+  {
+    "table1": [
+      {
+        "Title[1]": "51 (German)",
+        "Released[2]": "1983 [1]",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "17 und 4 (German)",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "23 Matches",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "3-D Tic-Tac-Toe",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "3D Star Trek",
+        "Released[2]": "",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "PET Tetris",
+        "Released[2]": "2010",
+        "Developer(s)": "Tim Howe",
+        "Publisher(s)": "",
+        "Model": "40 column, 3000 ROMs\nMini (8k) 16k(normal) 32k (with DAC sounds)"
+      },
+      {
+        "Title[1]": "A.F. Asteroids",
+        "Released[2]": "1979/80",
+        "Developer(s)": "Andrew Farmer",
+        "Publisher(s)": "Algray Software",
+        "Model": "Patched for all models"
+      },
+      {
+        "Title[1]": "A Scrambled Word Game",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Acey Deucy",
+        "Released[2]": "1980",
+        "Developer(s)": "Vince Mills",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Acrobat II",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Japan Limited",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Adventure 1: Cavern of Riches",
+        "Released[2]": "1980",
+        "Developer(s)": "John O'Hare",
+        "Publisher(s)": "John O'Hare",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Adventure 2: The Great Pyramid",
+        "Released[2]": "1980",
+        "Developer(s)": "John O'Hare",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Adventure 3: Haunted Mansion",
+        "Released[2]": "1980",
+        "Developer(s)": "John O'Hare",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Adventure Castle",
+        "Released[2]": "1983 [2]",
+        "Developer(s)": "Andreas Pidde",
+        "Publisher(s)": "",
+        "Model": "3032, 17k"
+      },
+      {
+        "Title[1]": "Adventureland",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "AFO (Japanese)",
+        "Released[2]": "",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Agicol",
+        "Released[2]": "",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Air Attack",
+        "Released[2]": "1979",
+        "Developer(s)": "Supersoft",
+        "Publisher(s)": "Supersoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Aircraft Landing",
+        "Released[2]": "",
+        "Developer(s)": "K. Bywater & B. Rai",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Alien Attack",
+        "Released[2]": "",
+        "Developer(s)": "Peter Wright",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Aliens!",
+        "Released[2]": "1980",
+        "Developer(s)": "Mike Hamilton",
+        "Publisher(s)": "The Code Works",
+        "Model": "2001"
+      },
+      {
+        "Title[1]": "Alligator Swamp (German)",
+        "Released[2]": "",
+        "Developer(s)": "Jos Leppens",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ambush!",
+        "Released[2]": "1980",
+        "Developer(s)": "Phil Bayman",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Android Nim",
+        "Released[2]": "1979",
+        "Developer(s)": "Don Dennis",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Andromeda Conquest",
+        "Released[2]": "1982[4]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Arrow",
+        "Released[2]": "1980",
+        "Developer(s)": "Jim Butterfield",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Artillery",
+        "Released[2]": "1979",
+        "Developer(s)": "Jeff Jessee",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Astro-Rescue",
+        "Released[2]": "1982",
+        "Developer(s)": "Jim Summers",
+        "Publisher(s)": "",
+        "Model": "3032/4032"
+      },
+      {
+        "Title[1]": "Atlantic Patrol",
+        "Released[2]": "1978",
+        "Developer(s)": "R.D. Watts",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Attack of the PETSCII Robots",
+        "Released[2]": "2021",
+        "Developer(s)": "David Murray",
+        "Publisher(s)": "The 8-Bit Guy",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Auto Rally",
+        "Released[2]": "1979",
+        "Developer(s)": "Wolfgang Fiebig",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Awari",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "B-1 Nuclear Bomber",
+        "Released[2]": "1980[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bagels",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Baseball",
+        "Released[2]": "1977",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bat!",
+        "Released[2]": "1979",
+        "Developer(s)": "C.T. Nadovich",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Battleship",
+        "Released[2]": "1978",
+        "Developer(s)": "M. Richter",
+        "Publisher(s)": "Commodore Educational Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bets",
+        "Released[2]": "1980",
+        "Developer(s)": "Randall Lockwood",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bjack",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Blackjack",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "ARESCO",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Blasto!",
+        "Released[2]": "1981",
+        "Developer(s)": "Robert Notebloom",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Blockade Special!",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bomber",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bomber Attack",
+        "Released[2]": "1982[6]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bonzo!",
+        "Released[2]": "1980",
+        "Developer(s)": "Randall Lockwood",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bop",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Boswain",
+        "Released[2]": "1980",
+        "Developer(s)": "C.T. Nadovich",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Box",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Break",
+        "Released[2]": "1982",
+        "Developer(s)": "Georg Feil",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Breakthru",
+        "Released[2]": "",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": "All models"
+      },
+      {
+        "Title[1]": "Breakout",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Brick",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bridge Bidding Trainer",
+        "Released[2]": "1979",
+        "Developer(s)": "James C. Downer",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bship",
+        "Released[2]": "1978",
+        "Developer(s)": "Howard Arrington",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bugg",
+        "Released[2]": "1981",
+        "Developer(s)": "Kevin Pickell",
+        "Publisher(s)": "",
+        "Model": "30xx/40xx"
+      },
+      {
+        "Title[1]": "Buggy",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Bulls and Bears",
+        "Released[2]": "1978",
+        "Developer(s)": "Speakeasy Software",
+        "Publisher(s)": "Speakeasy Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Butterfield Social & Recreational Club",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Candy Conquer",
+        "Released[2]": "2021",
+        "Developer(s)": "Milasoft",
+        "Publisher(s)": "Milasoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Canyon",
+        "Released[2]": "1979",
+        "Developer(s)": "Larry Stevens",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Canyon",
+        "Released[2]": "1981",
+        "Developer(s)": "Kevin Pickell",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Capture!",
+        "Released[2]": "1980",
+        "Developer(s)": "Malcom Michael",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Car Race II",
+        "Released[2]": "1980",
+        "Developer(s)": "Satoru Iwata",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Casino Blackjack",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "CMS Software Systems",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Castle Adventure",
+        "Released[2]": "",
+        "Developer(s)": "David Malmberg",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Catch!",
+        "Released[2]": "1980",
+        "Developer(s)": "George Leotti",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Caves of Ice",
+        "Released[2]": "1983",
+        "Developer(s)": "Robert Tsuk",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Checkers!",
+        "Released[2]": "1980",
+        "Developer(s)": "Tom Skibo",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Chess Game",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Chomp",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Civil War",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Clone",
+        "Released[2]": "1982",
+        "Developer(s)": "Nick Jackiw",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Computer Acquire",
+        "Released[2]": "1980[5]",
+        "Developer(s)": "4D Interactive Systems, Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Computer Race",
+        "Released[2]": "1981[7]",
+        "Developer(s)": "Mike Singleton",
+        "Publisher(s)": "Petsoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Computer Spacegames",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Usborne Publishing",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Computer Stocks & Bonds",
+        "Released[2]": "1982[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Conflict 2500",
+        "Released[2]": "1981[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Contact",
+        "Released[2]": "1982",
+        "Developer(s)": "George Leotti",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Cops",
+        "Released[2]": "1979",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Cosmic Cosmiads",
+        "Released[2]": "1981",
+        "Developer(s)": "Derek J. Hipkin",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Cosmic Fighter",
+        "Released[2]": "1982",
+        "Developer(s)": "MS Software",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Cosmic Jailbreak",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "The Count",
+        "Released[2]": "1979",
+        "Developer(s)": "Adventure International",
+        "Publisher(s)": "Adventure International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Course",
+        "Released[2]": "1979",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Crazy Balloon",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Crossword Puzzle",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "The Datestones of Ryn",
+        "Released[2]": "1979",
+        "Developer(s)": "Epyx",
+        "Publisher(s)": "Epyx",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Deepspace",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Defend!",
+        "Released[2]": "1981",
+        "Developer(s)": "Randall Lockwood",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Defender",
+        "Released[2]": "2020",
+        "Developer(s)": "Jim Orlando",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Deflection",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "ARESCO",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Deflex",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "Llamasoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Demon!",
+        "Released[2]": "1979",
+        "Developer(s)": "Ken Morley",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Derelict",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Aardvark-80",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Diamond Hunt II",
+        "Released[2]": "1990",
+        "Developer(s)": "Joe Commodore",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dive",
+        "Released[2]": "1982",
+        "Developer(s)": "Pat Persch",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dnieper River Line",
+        "Released[2]": "1982",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dog Star Adventure",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dominos",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Donuts",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dot Racer",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dots",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Down!",
+        "Released[2]": "2013",
+        "Developer(s)": "Revival Studios",
+        "Publisher(s)": "Revival Studios",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Drag",
+        "Released[2]": "1980",
+        "Developer(s)": "Earl Furman",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dragon Island",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dragon's Eye",
+        "Released[2]": "1981[8]",
+        "Developer(s)": "Southern Software",
+        "Publisher(s)": "Automated Simulations",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Draw Poker",
+        "Released[2]": "1982[6]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Draw Poker 1",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Business Machines",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Duel",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dungeon",
+        "Released[2]": "1979",
+        "Developer(s)": "Brian Sawyer",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dungeon of Death",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Instant Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dunjonquest: Hellfire Warrior",
+        "Released[2]": "1980",
+        "Developer(s)": "Automated Simulations",
+        "Publisher(s)": "Petsoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dunjonquest: Morloc's Tower",
+        "Released[2]": "1979",
+        "Developer(s)": "Automated Simulations",
+        "Publisher(s)": "Petsoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Dunjonquest: Temple of Apshai",
+        "Released[2]": "1979",
+        "Developer(s)": "Automated Simulations",
+        "Publisher(s)": "Petsoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "ELIZA",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Emaze",
+        "Released[2]": "1981",
+        "Developer(s)": "Teece Jurgensen",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Enigma",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Epidemic",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Escape from Petscii Castle",
+        "Released[2]": "2024",
+        "Developer(s)": "Jim Orlande",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Est",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Everest",
+        "Released[2]": "1979",
+        "Developer(s)": "Brian Sawyer",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Fball",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Face",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Fball",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ferry",
+        "Released[2]": "1979",
+        "Developer(s)": "John Matarella",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Fifteen",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Fire!",
+        "Released[2]": "1980",
+        "Developer(s)": "Brian Sawyer",
+        "Publisher(s)": "The Code Works",
+        "Model": "All models"
+      },
+      {
+        "Title[1]": "Flash Attack",
+        "Released[2]": "1980",
+        "Developer(s)": "Mach 1 Software",
+        "Publisher(s)": "Mach 1 Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Flight Simulator",
+        "Released[2]": "1983",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Educational Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Flip-Flop",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Football",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Programma International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Forest",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Frog Race",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Frog!",
+        "Released[2]": "1980",
+        "Developer(s)": "Bob Carr",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Function Machine",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Educational Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "G-Word",
+        "Released[2]": "1981",
+        "Developer(s)": "Jim Wildermuth",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Galaxy",
+        "Released[2]": "1981[9]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Gammon",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ganzen Schieten",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Godzilla!",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Golf",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Gomoku",
+        "Released[2]": "1979",
+        "Developer(s)": "David Malmberg",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Gremlin",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Gribbet",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Gridrunner",
+        "Released[2]": "2022",
+        "Developer(s)": "Milasoft",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Guess",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Guess It",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Gunner",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Guns of Fort Defiance",
+        "Released[2]": "1981[10]",
+        "Developer(s)": "4D Interactive Systems, Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hamurabi",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hang Man",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hanoi",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hartenjagen",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Heart Racer",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hexapawn",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hey Taxi",
+        "Released[2]": "2023",
+        "Developer(s)": "Milasoft",
+        "Publisher(s)": "Milasoft",
+        "Model": "3032/4032"
+      },
+      {
+        "Title[1]": "Hi-Q",
+        "Released[2]": "1979[3]",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hman",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Horserace!",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Hurkle",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ian's Speed Race",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Invasion Orion",
+        "Released[2]": "1979",
+        "Developer(s)": "Epyx",
+        "Publisher(s)": "Epyx",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Island Rescue",
+        "Released[2]": "2023",
+        "Developer(s)": "Milasoft",
+        "Publisher(s)": "",
+        "Model": "3032/4032"
+      },
+      {
+        "Title[1]": "Joust",
+        "Released[2]": "1980",
+        "Developer(s)": "Brian Sawyer",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Kalah",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Keno",
+        "Released[2]": "1979",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "King Tut's Tomb Adventure",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Kingdom",
+        "Released[2]": "1977",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Business Machines",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Krypto",
+        "Released[2]": "1982",
+        "Developer(s)": "Gray Marsa",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Labyrinth",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "ladder Mult.",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Educational Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ladybug",
+        "Released[2]": "2013",
+        "Developer(s)": "Mr. NOP",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Lander",
+        "Released[2]": "1977",
+        "Developer(s)": "Commodore Business Machines",
+        "Publisher(s)": "Commodore Business Machines",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Land-Slide",
+        "Released[2]": "1981",
+        "Developer(s)": "Kevin Pickell",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Lander X",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Laser Tanks",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Lawn!",
+        "Released[2]": "1981",
+        "Developer(s)": "Kathy Higby",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Leap",
+        "Released[2]": "1979",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Leap Frog",
+        "Released[2]": "",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Legionnaire",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "LEM",
+        "Released[2]": "1979",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Life",
+        "Released[2]": "1980",
+        "Developer(s)": "Cortex Computer Systems",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Life II",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Lode Runner",
+        "Released[2]": "1983[11]",
+        "Developer(s)": "James Bratsanos",
+        "Publisher(s)": "Broderbund",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Lords of Karma",
+        "Released[2]": "1980[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "M-Maze",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mad",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "The Mad Bomber",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mars",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Aardvark-80",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Master Mind",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Match",
+        "Released[2]": "1979",
+        "Developer(s)": "George Macrae",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Matches",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Maxit",
+        "Released[2]": "1981",
+        "Developer(s)": "Harry Saal",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Maze",
+        "Released[2]": "1979",
+        "Developer(s)": "Howard Arrington",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Meteor",
+        "Released[2]": "1983",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Microchess",
+        "Released[2]": "1978[12]",
+        "Developer(s)": "Micro-Ware",
+        "Publisher(s)": "Personal Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Midway Campaign",
+        "Released[2]": "1980[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Millipede",
+        "Released[2]": "1982",
+        "Developer(s)": "On Line Software",
+        "Publisher(s)": "On Line Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mind",
+        "Released[2]": "1979",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Miner!",
+        "Released[2]": "1980",
+        "Developer(s)": "Ron Longfellow",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "The Miser's House",
+        "Released[2]": "1981",
+        "Developer(s)": "M.J. Lansing",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mission 2001",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mount St. Helens",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mousemaze",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Mystery Fun House",
+        "Released[2]": "1979",
+        "Developer(s)": "Adventure International",
+        "Publisher(s)": "Adventure International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Nab!",
+        "Released[2]": "1980",
+        "Developer(s)": "Malcolm Michael",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Nazo no Enban AFO",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Night Drive",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Nim",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "North Atlantic Convoy Raider",
+        "Released[2]": "1980[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "NukeWar",
+        "Released[2]": "1980[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Oils Well",
+        "Released[2]": "2013",
+        "Developer(s)": "Mr. NOP",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Othello",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ouranos!",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Outpost",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Paladin (Defender)",
+        "Released[2]": "1982",
+        "Developer(s)": "Kevin Pickell",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pegboard",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Penetrator",
+        "Released[2]": "1983",
+        "Developer(s)": "Brian French",
+        "Publisher(s)": "Micronoid",
+        "Model": ""
+      },
+      {
+        "Title[1]": "PETaxian",
+        "Released[2]": "2023",
+        "Developer(s)": "Milasoft & Borgar Olsen",
+        "Publisher(s)": "",
+        "Model": "3032/4032"
+      },
+      {
+        "Title[1]": "PET Checkers",
+        "Released[2]": "1980",
+        "Developer(s)": "CMS Software Systems",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "PetChess Universe",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "Philidor Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "PETLifter",
+        "Released[2]": "2022[13]",
+        "Developer(s)": "Jim Orlando",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "PET Nuclear Power Plant",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Educational Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "PET Panic",
+        "Released[2]": "1981",
+        "Developer(s)": "Jim Orlando",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pick-Up",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Picture Kingdom",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "The Guild Adventure Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Piegram",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pinball",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ping Pong",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pirate Adventure",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Adventure International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pizza",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "CUE, Inc.",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Planet Miners",
+        "Released[2]": "1981[5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Planet Probe",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Poker",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Police!",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pong",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "The Postperson's Route",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ppong",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Pyramid of Doom",
+        "Released[2]": "1979",
+        "Developer(s)": "Adventure International",
+        "Publisher(s)": "Adventure International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Qixie",
+        "Released[2]": "2025",
+        "Developer(s)": "Milasoft",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Qubic",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Quix",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Race",
+        "Released[2]": "1978",
+        "Developer(s)": "ken Kasmar",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Racer!",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ratrun",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Rescue!",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Rescue at Rigel",
+        "Released[2]": "1980",
+        "Developer(s)": "Epyx",
+        "Publisher(s)": "Epyx",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Revers!",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Reverse",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Roadracer Bowler",
+        "Released[2]": "1982[6]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Rotate",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Rotor Rampage",
+        "Released[2]": "2024",
+        "Developer(s)": "David Duke & Ken McIlveen",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Royal Flush",
+        "Released[2]": "1981[5]",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ruler",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "S-Racer",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Safe!",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Santa Paravia en Fiumaccio",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Keypunch Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Scramble",
+        "Released[2]": "1982",
+        "Developer(s)": "Heiner Eichmann",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Sea Battle",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Search",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Shark",
+        "Released[2]": "1978",
+        "Developer(s)": "Glen Fisher",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Sheep",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Shoot",
+        "Released[2]": "1978",
+        "Developer(s)": "Gary Bainbridge",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Shootout at the OK Galaxy",
+        "Released[2]": "1982",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Ski",
+        "Released[2]": "",
+        "Developer(s)": "Mike Singleton",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Siege",
+        "Released[2]": "1983",
+        "Developer(s)": "Mike Singleton",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Simulation of Millikan Oil Drop Experiment",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Sinners",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Computers/Calculators Magazine",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Slime",
+        "Released[2]": "1982",
+        "Developer(s)": "Jim Summers",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Slimed",
+        "Released[2]": "2024",
+        "Developer(s)": "Milasoft",
+        "Publisher(s)": "",
+        "Model": "2001"
+      },
+      {
+        "Title[1]": "Slot",
+        "Released[2]": "1979",
+        "Developer(s)": "Mark Heaney",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Slot Machine",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Sorcerer's Castle Adventure",
+        "Released[2]": "1979",
+        "Developer(s)": "Mad Hatter Software",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space Ace",
+        "Released[2]": "1981[14]",
+        "Developer(s)": "Mike Singleton",
+        "Publisher(s)": "Petsoft",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space Chase",
+        "Released[2]": "2016",
+        "Developer(s)": "Christian Krenner",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space Debris",
+        "Released[2]": "1981",
+        "Developer(s)": "Kevin Moughtin",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space Invaders",
+        "Released[2]": "1980",
+        "Developer(s)": "Professor Satoshi Matsuoka",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space Invaders (color PET)",
+        "Released[2]": "2024",
+        "Developer(s)": "Professor Satoshi Matsuoka",
+        "Publisher(s)": "MilaSoft",
+        "Model": "30xx/40xx"
+      },
+      {
+        "Title[1]": "Space Invaders 2",
+        "Released[2]": "2022",
+        "Developer(s)": "Jim Orlando",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space Shooter",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Space!",
+        "Released[2]": "1979",
+        "Developer(s)": "Greg Erker",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Spacewar",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Spot",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Spyders",
+        "Released[2]": "2017",
+        "Developer(s)": "Mr. NOP",
+        "Publisher(s)": "",
+        "Model": "8032"
+      },
+      {
+        "Title[1]": "Starfighter",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Starfleet Orion",
+        "Released[2]": "1978",
+        "Developer(s)": "Epyx",
+        "Publisher(s)": "Epyx",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Star Force",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Astar International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Star Spores",
+        "Released[2]": "1982",
+        "Developer(s)": "Jim Summers",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Star Trek",
+        "Released[2]": "1978",
+        "Developer(s)": "Ronald V. Abruzzo",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Star Trek 64",
+        "Released[2]": "1983",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "StarQuest: Rescue at Rigel",
+        "Released[2]": "1980",
+        "Developer(s)": "Automated Simulations",
+        "Publisher(s)": "Automated Simulations",
+        "Model": ""
+      },
+      {
+        "Title[1]": "States",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Strange Odyssey",
+        "Released[2]": "1979",
+        "Developer(s)": "Adventure International",
+        "Publisher(s)": "Adventure International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Sumer",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "Crystal Computer",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Super Trek",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Tank Arkade",
+        "Released[2]": "1982",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Tank!",
+        "Released[2]": "1981",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Tanktics",
+        "Released[2]": "1978[12][5]",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Telengard",
+        "Released[2]": "1982",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Thunt!",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Tic Tac Toe",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Time Traveler",
+        "Released[2]": "1980[8]",
+        "Developer(s)": "Krell Software",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Time Trek",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "Programma International",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Titrator",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Toker",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Torpedeo",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Trainyard",
+        "Released[2]": "2023",
+        "Developer(s)": "Jim Orlando",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Trek Adventure",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "Aardvark-80",
+        "Model": ""
+      },
+      {
+        "Title[1]": "TRON: Journey to the MCP",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "TRON: Light Cycle Game",
+        "Released[2]": "1982",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Tunnel Vision and Kat and Mouse",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Twonky",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Valley of the Minotaur",
+        "Released[2]": "1983",
+        "Developer(s)": "Nicolas van Dyk, Chris M. Evans",
+        "Publisher(s)": "Zeuss Scientific",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Vector Chase",
+        "Released[2]": "1983",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Volcano",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Voyage to Atlantis",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Voyager I: Sabotage of the Robot Ship",
+        "Released[2]": "1982",
+        "Developer(s)": "Microcomputer Games",
+        "Publisher(s)": "Avalon Hill",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Wander",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "War",
+        "Released[2]": "1981",
+        "Developer(s)": "Kevin Moughtin",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Watchperson",
+        "Released[2]": "1980",
+        "Developer(s)": "Mac Oglesby",
+        "Publisher(s)": "PET Games and Recreations",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Will 'o the Wisp",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "Discovery Games",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Winged Samurai",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Wipeout",
+        "Released[2]": "1979",
+        "Developer(s)": "",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "The Wizard's Castle",
+        "Released[2]": "1980",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Wumpus II",
+        "Released[2]": "1979",
+        "Developer(s)": "Gregory Yob",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Wurfball (German)",
+        "Released[2]": "1978",
+        "Developer(s)": "",
+        "Publisher(s)": "Commodore Business Machines",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Yahtzee",
+        "Released[2]": "1979",
+        "Developer(s)": "The Code Works",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Zap",
+        "Released[2]": "1978",
+        "Developer(s)": "Tom Marazita",
+        "Publisher(s)": "The Code Works",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Zeeslag",
+        "Released[2]": "",
+        "Developer(s)": "",
+        "Publisher(s)": "",
+        "Model": ""
+      },
+      {
+        "Title[1]": "Zone X",
+        "Released[2]": "1978",
+        "Developer(s)": "Creative Computing Software",
+        "Publisher(s)": "Creative Computing Software",
+        "Model": ""
+      }
+    ]
+  }
+]
