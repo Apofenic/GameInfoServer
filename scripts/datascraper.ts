@@ -9,62 +9,46 @@ async function scrapeWikipediaGamesList(url: string, outputFilename: string) {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
-    console.log($);
+    const gameTables = $('table.wikitable')
+      .map((tableIndex, tableElement) => {
+        console.log(`Processing table #${tableIndex + 1}`);
+        const $table = $(tableElement);
+        const tableHeaders: string[] = $table
+          .find('tr:first-child th')
+          .map((i, element) => $(element).text().trim())
+          .get();
 
-    const games: any[] = [];
-
-    // Most Wikipedia game lists use tables with class 'wikitable'
-    $('table.wikitable tr').each((i: any, element: any) => {
-      // Skip header row
-      if (i === 0) return;
-
-      const $row = $(element);
-      const cells = $row.find('td');
-
-      // Adjust these indices based on the specific table structure
-      // This example assumes columns: Title, Platform, Release Date, Notes/Score
-      if (cells.length >= 3) {
-        const title = $(cells[0]).text().trim();
-        const platform = $(cells[1]).text().trim();
-
-        // Parse release date - format varies on Wikipedia
-        let releaseDate = $(cells[2]).text().trim();
-        try {
-          // Attempt to create a valid date
-          releaseDate = new Date(releaseDate).toISOString();
-        } catch (e) {
-          // If parsing fails, keep as string
+        if (tableHeaders.length === 0) {
+          console.log(`Table #${tableIndex + 1} has no headers, skipping`);
+          return;
         }
-
-        // Optional: extract metascore if available
-        let metascore = 0;
-        if (cells.length >= 4) {
-          const scoreText = $(cells[3]).text().trim();
-          const scoreMatch = scoreText.match(/(\d+)/);
-          if (scoreMatch) {
-            metascore = parseInt(scoreMatch[0], 10);
-          }
-        }
-
-        if (title && platform) {
-          games.push({
-            title,
-            platform,
-            releaseDate,
-            metascore: metascore || 75, // Default score if none found
-            summary: `Game from Wikipedia list: ${url}`,
-          });
-        }
-      }
-    });
-
-    // Write to JSON file
+        const tableCells = $table
+          .find('tr:not(:first-child)')
+          .map((_i, element) => {
+            return [
+              $(element)
+                .find('td')
+                .map((i, cell) => $(cell).text().trim())
+                .get(),
+            ];
+          })
+          .get();
+        return [
+          {
+            [`table${tableIndex + 1}`]: tableCells.map((cellsArray) => {
+              return cellsArray.reduce((obj: any, value: string, i: number) => {
+                return { ...obj, [tableHeaders[i]]: value };
+              }, {});
+            }, []),
+          },
+        ];
+      })
+      .get();
     const outputPath = path.join(__dirname, '..', 'data', outputFilename);
     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-    fs.writeFileSync(outputPath, JSON.stringify(games, null, 2));
-
-    console.log(`Successfully scraped ${games.length} games to ${outputPath}`);
-    return games;
+    fs.writeFileSync(outputPath, JSON.stringify(gameTables, null, 2));
+    console.log(`Successfully scraped ${gameTables.length} games to ${outputPath}`);
+    return gameTables;
   } catch (error) {
     console.error('Error scraping Wikipedia:', error);
     return [];
@@ -75,9 +59,14 @@ async function scrapeWikipediaGamesList(url: string, outputFilename: string) {
 async function main() {
   // Example Wikipedia URLs with game lists
   const sources = [
+    // {
+    //   url: 'https://en.wikipedia.org/wiki/List_of_PlayStation_5_games',
+    //   filename: 'ps5-games.json',
+    // },
+
     {
-      url: 'https://en.wikipedia.org/wiki/List_of_PlayStation_5_games',
-      filename: 'ps5-games.json',
+      url: 'https://en.wikipedia.org/wiki/List_of_Game_%26_Watch_games',
+      filename: 'game-and-watch-games.json',
     },
     {
       url: 'https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games',

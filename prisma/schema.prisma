@@ -1,8 +1,5 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+// Game Info Server Prisma Schema
+// Schema documentation: https://pris.ly/d/prisma-schema
 
 generator client {
   provider = "prisma-client-js"
@@ -14,16 +11,22 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+// Game model represents video game entries in the database
 model Game {
-  id          Int      @id @default(autoincrement())
-  title       String
-  releaseDate DateTime
-  platform    String
-  metascore   Int
-  summary     String?
-  userscore   Int?
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  id             Int      @id @default(autoincrement())
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  title          String
+  platform       String
+  releaseDate    DateTime
+  developer      String?
+  genre          String?
+  metascore      Int?
+  userscore      Int?
+  coverArtUrls   String?
+  screenShotUrls String?
+  summary        String?
 
+  // Constraints
   @@unique([title, platform], name: "title_platform")
 }

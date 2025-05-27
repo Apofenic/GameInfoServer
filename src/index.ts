@@ -3,16 +3,7 @@ import express, { Request, Response } from 'express';
 import { PrismaClient } from './generated/prisma';
 import fs from 'fs';
 import multer from 'multer';
-
-// Import types for our game data
-interface GameInput {
-  title: string;
-  releaseDate: string | Date;
-  platform: string;
-  metascore: number;
-  summary?: string;
-  userscore?: number;
-}
+import { GameInput } from './types';
 
 // Initialize the Prisma client
 const prisma = new PrismaClient();
