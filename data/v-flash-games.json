@@ -2,59 +2,59 @@
   {
     "table1": [
       {
-        "US/UK title": "Bratz Fashion Pixiez: The Secret Necklace",
-        "Overseas title(s)": "Bratz Fashion Pixiez: El Misterio del Collar  Bratz Fashion Pixiez: Le Collier Magique Bratz Fashion Pixiez: El Secreto del Magico  Bratz Fashion Pixiez: De Magische Ketting",
-        "Age range": "6-8 6-9 6-9 6-9"
+        "US/UK_title": "Bratz Fashion Pixiez: The Secret Necklace",
+        "Overseas_title(s)": "Bratz Fashion Pixiez: El Misterio del Collar  Bratz Fashion Pixiez: Le Collier Magique Bratz Fashion Pixiez: El Secreto del Magico  Bratz Fashion Pixiez: De Magische Ketting",
+        "Age_range": "6-8 6-9 6-9 6-9"
       },
       {
-        "US/UK title": "Cars: In the Fast Lane",
-        "Overseas title(s)": "Cars: El Carril Rápido  Cars: À Fond La Caisse!  Cars: Auf Der Überholspur  Cars: El Corredores Rapido  Cars: in de Snelle Baan",
-        "Age range": "6-8 5-7 6-9 6-9 6-8 6-9"
+        "US/UK_title": "Cars: In the Fast Lane",
+        "Overseas_title(s)": "Cars: El Carril Rápido  Cars: À Fond La Caisse!  Cars: Auf Der Überholspur  Cars: El Corredores Rapido  Cars: in de Snelle Baan",
+        "Age_range": "6-8 5-7 6-9 6-9 6-8 6-9"
       },
       {
-        "US/UK title": "Disney Princess: The Crystal Ball Adventure",
-        "Overseas title(s)": "Disney Princess: El Castillo de las Princesas  Disney Princess: L'aventure enchantée  Disney Prinzessinnen: Das zauberhafte Märchen-Abenteuer Disney Princesas: La aventura encantado",
-        "Age range": "6-8 5-7 6-9 6-9 6-10 6-10"
+        "US/UK_title": "Disney Princess: The Crystal Ball Adventure",
+        "Overseas_title(s)": "Disney Princess: El Castillo de las Princesas  Disney Princess: L'aventure enchantée  Disney Prinzessinnen: Das zauberhafte Märchen-Abenteuer Disney Princesas: La aventura encantado",
+        "Age_range": "6-8 5-7 6-9 6-9 6-10 6-10"
       },
       {
-        "US/UK title": "N/A[a]",
-        "Overseas title(s)": "Multisports Défis Sports",
-        "Age range": "6-8 6-9"
+        "US/UK_title": "N/A[a]",
+        "Overseas_title(s)": "Multisports Défis Sports",
+        "Age_range": "6-8 6-9"
       },
       {
-        "US/UK title": "Scooby-Doo: Ancient Adventure",
-        "Overseas title(s)": "Scooby-Doo: Viaje Al Pasado  Scooby-Doo!: Les Civilisations Perdues  Scooby-Doo!: Las Viajan de Pasado",
-        "Age range": "6-8 6-9 6-9"
+        "US/UK_title": "Scooby-Doo: Ancient Adventure",
+        "Overseas_title(s)": "Scooby-Doo: Viaje Al Pasado  Scooby-Doo!: Les Civilisations Perdues  Scooby-Doo!: Las Viajan de Pasado",
+        "Age_range": "6-8 6-9 6-9"
       },
       {
-        "US/UK title": "Shrek the Third: The Search for Arthur",
-        "Overseas title(s)": "Shrek Tercero: ¿Donde Está Arturo?  Shrek Le Troisieme: En quête d'Arthur  Shrek Der Dritte: Die Suche nach Arthus",
-        "Age range": "6-8 7-9 6-9 6-9 6-8"
+        "US/UK_title": "Shrek the Third: The Search for Arthur",
+        "Overseas_title(s)": "Shrek Tercero: ¿Donde Está Arturo?  Shrek Le Troisieme: En quête d'Arthur  Shrek Der Dritte: Die Suche nach Arthus",
+        "Age_range": "6-8 7-9 6-9 6-9 6-8"
       },
       {
-        "US/UK title": "SpongeBob SquarePants: Idea Sponge",
-        "Overseas title(s)": "Bob Esponja: Misión Esponja  Bob L'Éponge: Une Idée Spongieuse  Spongebob Schwammkopf: Ein Schwamm voller Ideen",
-        "Age range": "8-10 7-9 6-9 8-11 8-10"
+        "US/UK_title": "SpongeBob SquarePants: Idea Sponge",
+        "Overseas_title(s)": "Bob Esponja: Misión Esponja  Bob L'Éponge: Une Idée Spongieuse  Spongebob Schwammkopf: Ein Schwamm voller Ideen",
+        "Age_range": "8-10 7-9 6-9 8-11 8-10"
       },
       {
-        "US/UK title": "The Amazing Spider-Man: Countdown to Doom",
-        "Overseas title(s)": "El Asombroso Spider-Man: Persecicíon en la Ciudad  Spider-Man: Course-poursuite à Manhattan  Spider-Man: Angriff der Super-Schurken",
-        "Age range": "8-10 7-9 8-11 8-11 8-10"
+        "US/UK_title": "The Amazing Spider-Man: Countdown to Doom",
+        "Overseas_title(s)": "El Asombroso Spider-Man: Persecicíon en la Ciudad  Spider-Man: Course-poursuite à Manhattan  Spider-Man: Angriff der Super-Schurken",
+        "Age_range": "8-10 7-9 8-11 8-11 8-10"
       },
       {
-        "US/UK title": "The Incredibles: Mission Incredible",
-        "Overseas title(s)": "Los Increíbles: Misión Increíble  Les Indestructibes: Les Indestructibes À La Rescousse  Die Unglaublichen: In unglaublicher Mission",
-        "Age range": "8-10 7-9 8-11 8-11 8-10"
+        "US/UK_title": "The Incredibles: Mission Incredible",
+        "Overseas_title(s)": "Los Increíbles: Misión Increíble  Les Indestructibes: Les Indestructibes À La Rescousse  Die Unglaublichen: In unglaublicher Mission",
+        "Age_range": "8-10 7-9 8-11 8-11 8-10"
       },
       {
-        "US/UK title": "Wacky Race on Jumpin' Bean Island",
-        "Overseas title(s)": "Carrera Loca En La Isla De Las Vainas Fritas  Dingo'Rallye: Fou! Fou! Fou!  Das Verrückte Rennen Der Hüpf-Bohnen Insel",
-        "Age range": "5-7 5-7 6-9 6-10 6-8"
+        "US/UK_title": "Wacky Race on Jumpin' Bean Island",
+        "Overseas_title(s)": "Carrera Loca En La Isla De Las Vainas Fritas  Dingo'Rallye: Fou! Fou! Fou!  Das Verrückte Rennen Der Hüpf-Bohnen Insel",
+        "Age_range": "5-7 5-7 6-9 6-10 6-8"
       },
       {
-        "US/UK title": "National Geographic Kids[7]",
-        "Overseas title(s)": "Unreleased, showcased in a 2007 V.Tech catalog",
-        "Age range": "?-?"
+        "US/UK_title": "National Geographic Kids[7]",
+        "Overseas_title(s)": "Unreleased, showcased in a 2007 V.Tech catalog",
+        "Age_range": "?-?"
       }
     ]
   }

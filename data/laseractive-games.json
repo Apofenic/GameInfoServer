@@ -4,134 +4,134 @@
       {},
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANU1012",
+        "Mega_LD": "PEANU1012",
         "undefined": "PEASU1012"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASU5022"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1995",
+        "Mega_LD": "1995",
         "undefined": "PEASU1018"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1995",
+        "Mega_LD": "1995",
         "undefined": "PEASU1010"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASU5002"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASU1002"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASU5019"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASU1001"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1995",
+        "Mega_LD": "1995",
         "undefined": "PEASU5036"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANU5004",
+        "Mega_LD": "PEANU5004",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASU1011"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "Unreleased"
+        "Mega_LD": "Unreleased"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASU5001"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANU5001",
+        "Mega_LD": "PEANU5001",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1995",
+        "Mega_LD": "1995",
         "undefined": "PEASU1033"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASU5013"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASU1003"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASU5014"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANU1001",
+        "Mega_LD": "PEANU1001",
         "undefined": "Unavailable as Mega LD"
       }
     ]
@@ -141,219 +141,219 @@
       {},
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ1012",
+        "Mega_LD": "PEANJ1012",
         "undefined": "PEASJ1012"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "11 March 1996 (1996-03-11)",
-        "Mega LD": "PEASJ5042",
+        "Mega_LD": "PEASJ5042",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANJ5003",
+        "Mega_LD": "PEANJ5003",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANJ5002",
+        "Mega_LD": "PEANJ5002",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ5021"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ5025",
+        "Mega_LD": "PEANJ5025",
         "undefined": "PEASJ5025"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ5028",
+        "Mega_LD": "PEANJ5028",
         "undefined": "PEASJ5028"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ5022"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ5005",
+        "Mega_LD": "PEANJ5005",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ5030"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ1018"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1995",
-        "Mega LD": "PEANJ1032",
+        "Mega_LD": "PEANJ1032",
         "undefined": "PEASJ1010"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASJ5002"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASJ1002"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ5019"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASJ1001"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ5017",
+        "Mega_LD": "PEANJ5017",
         "undefined": "PEASJ5036"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANJ5004",
+        "Mega_LD": "PEANJ5004",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ1031",
+        "Mega_LD": "PEANJ1031",
         "undefined": "PEASJ1011"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASJ5001"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANJ5001",
+        "Mega_LD": "PEANJ5001",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1995",
+        "Mega_LD": "1995",
         "undefined": "PEASU1033"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "?"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASJ1003"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1995",
+        "Mega_LD": "1995",
         "undefined": "PEASJ5039"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ5014"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1993",
-        "Mega LD": "PEANJ1001",
+        "Mega_LD": "PEANJ1001",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "No",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ1016",
+        "Mega_LD": "PEANJ1016",
         "undefined": "Unavailable as Mega LD"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1993",
+        "Mega_LD": "1993",
         "undefined": "PEASJ5015"
       },
       {
         "Title": "Yes",
-        "Language options": "No",
+        "Language_options": "No",
         "LD-ROM²": "Unavailable as LD-ROM²",
-        "Mega LD": "1994",
+        "Mega_LD": "1994",
         "undefined": "PEASJ5020"
       },
       {
         "Title": "Yes",
-        "Language options": "Yes",
+        "Language_options": "Yes",
         "LD-ROM²": "1994",
-        "Mega LD": "PEANJ5023",
+        "Mega_LD": "PEANJ5023",
         "undefined": "PEASJ5024"
       }
     ]

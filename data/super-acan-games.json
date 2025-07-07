@@ -25,111 +25,111 @@
     "table2": [
       {
         "#": "1",
-        "Serial number": "F008",
+        "Serial_number": "F008",
         "Title": "African Adventures",
-        "AKA title(s)": "1) Fēizhōu Tànxiǎn  2) Monopoly: Adventure in Africa",
+        "AKA_title(s)": "1) Fēizhōu Tànxiǎn  2) Monopoly: Adventure in Africa",
         "Developer(s)": "Panda Entertainment",
         "Genre": "Puzzle",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "2",
-        "Serial number": "F006",
+        "Serial_number": "F006",
         "Title": "C.U.G.",
-        "AKA title(s)": "1) Xī Yóujì2) Journey to the Laugh",
+        "AKA_title(s)": "1) Xī Yóujì2) Journey to the Laugh",
         "Developer(s)": "Funtech",
         "Genre": "Platform",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "3",
-        "Serial number": "F001",
+        "Serial_number": "F001",
         "Title": "Formosa Duel",
-        "AKA title(s)": "Fú Ěr Mó Shā Dà Duìjué",
+        "AKA_title(s)": "Fú Ěr Mó Shā Dà Duìjué",
         "Developer(s)": "AV Artisan",
         "Genre": "Puzzle",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "4",
-        "Serial number": "F002",
+        "Serial_number": "F002",
         "Title": "Sango Fighter",
-        "AKA title(s)": "Sānguózhì Wǔjiàng Zhēngbà",
+        "AKA_title(s)": "Sānguózhì Wǔjiàng Zhēngbà",
         "Developer(s)": "Panda Entertainment",
         "Genre": "Fighting",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "5",
-        "Serial number": "F003",
+        "Serial_number": "F003",
         "Title": "The Son of Evil",
-        "AKA title(s)": "Xié'è Zhīzǐ",
+        "AKA_title(s)": "Xié'è Zhīzǐ",
         "Developer(s)": "Funtech",
         "Genre": "RPG",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "6",
-        "Serial number": "F004",
+        "Serial_number": "F004",
         "Title": "Speedy Dragon",
-        "AKA title(s)": "1) Yīnsù Fēilóng2) Sonic Dragon",
+        "AKA_title(s)": "1) Yīnsù Fēilóng2) Sonic Dragon",
         "Developer(s)": "AV Artisan",
         "Genre": "Platform",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "7",
-        "Serial number": "F005",
+        "Serial_number": "F005",
         "Title": "Super Taiwanese Baseball League",
-        "AKA title(s)": "Chāojí Zhōnghuá Zhí Bàng Liánméng",
+        "AKA_title(s)": "Chāojí Zhōnghuá Zhí Bàng Liánméng",
         "Developer(s)": "Quan Wei Technology/C&E",
         "Genre": "Sports",
-        "Release year": "1995"
+        "Release_year": "1995"
       },
       {
         "#": "8",
-        "Serial number": "F011",
+        "Serial_number": "F011",
         "Title": "Boom Zoo",
-        "AKA title(s)": "1) Bào Bào Dòngwùyuán2) Explosive Burst Zoo",
+        "AKA_title(s)": "1) Bào Bào Dòngwùyuán2) Explosive Burst Zoo",
         "Developer(s)": "Funtech",
         "Genre": "Action",
-        "Release year": "1996"
+        "Release_year": "1996"
       },
       {
         "#": "9",
-        "Serial number": "F009",
+        "Serial_number": "F009",
         "Title": "Gambling Lord",
-        "AKA title(s)": "Dǔ Bà",
+        "AKA_title(s)": "Dǔ Bà",
         "Developer(s)": "Panda Entertainment/Funtech",
         "Genre": "Mahjong",
-        "Release year": "1996"
+        "Release_year": "1996"
       },
       {
         "#": "10",
-        "Serial number": "F012",
+        "Serial_number": "F012",
         "Title": "REBEL",
-        "AKA title(s)": "1) Pàn Xīng2) Rebel Star",
+        "AKA_title(s)": "1) Pàn Xīng2) Rebel Star",
         "Developer(s)": "Horng Shen Information Co., Ltd",
         "Genre": "RPG",
-        "Release year": "1996"
+        "Release_year": "1996"
       },
       {
         "#": "11",
-        "Serial number": "F007",
+        "Serial_number": "F007",
         "Title": "Super Dragon Force",
-        "AKA title(s)": "1) Chāojí Guāngmíng Zhàn Shǐ2) Super Light Saga: Dragon Force",
+        "AKA_title(s)": "1) Chāojí Guāngmíng Zhàn Shǐ2) Super Light Saga: Dragon Force",
         "Developer(s)": "Kingformation Co., Ltd.",
         "Genre": "RPG",
-        "Release year": "1996"
+        "Release_year": "1996"
       },
       {
         "#": "12",
-        "Serial number": "F010",
+        "Serial_number": "F010",
         "Title": "Magical Pool",
-        "AKA title(s)": "Mó Bàng Zhuàngqiú",
+        "AKA_title(s)": "Mó Bàng Zhuàngqiú",
         "Developer(s)": "Funtech",
         "Genre": "Sports",
-        "Release year": "1996"
+        "Release_year": "1996"
       }
     ]
   },
@@ -138,7 +138,7 @@
       {
         "#": "1",
         "Title": "Journey to the Center of the Earth",
-        "AKA title(s)": "地心歷險",
+        "AKA_title(s)": "地心歷險",
         "Developer(s)": "Tai Ruan Technology",
         "Genre": "Action RPG",
         "Notes": "----"
@@ -146,7 +146,7 @@
       {
         "#": "2",
         "Title": "Cat Ball Defense Team",
-        "AKA title(s)": "貓球防衛隊",
+        "AKA_title(s)": "貓球防衛隊",
         "Developer(s)": "AV Artisan",
         "Genre": "Shoot 'em up",
         "Notes": "----"
@@ -154,7 +154,7 @@
       {
         "#": "3",
         "Title": "Birdcage Yard",
-        "AKA title(s)": "鳥籠院",
+        "AKA_title(s)": "鳥籠院",
         "Developer(s)": "Funtech",
         "Genre": "Action",
         "Notes": "----"
@@ -162,7 +162,7 @@
       {
         "#": "4",
         "Title": "Lightning Mobile Unit",
-        "AKA title(s)": "雷霆機動隊",
+        "AKA_title(s)": "雷霆機動隊",
         "Developer(s)": "Fun Yours Entertainment",
         "Genre": "Shoot 'em up",
         "Notes": "----"
@@ -170,7 +170,7 @@
       {
         "#": "5",
         "Title": "Dinosaur War",
-        "AKA title(s)": "恐龍戰記",
+        "AKA_title(s)": "恐龍戰記",
         "Developer(s)": "Funtech",
         "Genre": "Simulation",
         "Notes": "----"
@@ -178,7 +178,7 @@
       {
         "#": "6",
         "Title": "A Q Lian Huan Pao",
-        "AKA title(s)": "阿Q連環炮",
+        "AKA_title(s)": "阿Q連環炮",
         "Developer(s)": "C&E",
         "Genre": "ETC - Trivia/Game Show?",
         "Notes": "Later released on Sega Genesis"
@@ -186,7 +186,7 @@
       {
         "#": "7",
         "Title": "Romance of Bōsōzoku",
-        "AKA title(s)": "暴走族之戀",
+        "AKA_title(s)": "暴走族之戀",
         "Developer(s)": "Funtech",
         "Genre": "Single-player game",
         "Notes": "----"
@@ -194,7 +194,7 @@
       {
         "#": "8",
         "Title": "Woman Guerrillero",
-        "AKA title(s)": "王八妹",
+        "AKA_title(s)": "王八妹",
         "Developer(s)": "AV Artisan",
         "Genre": "Shoot 'em up",
         "Notes": "----"
@@ -202,7 +202,7 @@
       {
         "#": "9",
         "Title": "Hero Saga",
-        "AKA title(s)": "英 雄戰記",
+        "AKA_title(s)": "英 雄戰記",
         "Developer(s)": "Dynasty International Information Co.",
         "Genre": "RPG",
         "Notes": "----"
@@ -210,7 +210,7 @@
       {
         "#": "10",
         "Title": "Happy Zoo",
-        "AKA title(s)": "快樂動物園",
+        "AKA_title(s)": "快樂動物園",
         "Developer(s)": "Stone General Computer",
         "Genre": "ETC",
         "Notes": "----"
@@ -218,7 +218,7 @@
       {
         "#": "11",
         "Title": "Demon Island",
-        "AKA title(s)": "惡魔島",
+        "AKA_title(s)": "惡魔島",
         "Developer(s)": "Jackbean Information Co.",
         "Genre": "Action",
         "Notes": "----"

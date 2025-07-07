@@ -3,70 +3,70 @@
     "table1": [
       {
         "Name": "Mini Expander",
-        "Product Type": "System expander",
+        "Product_Type": "System expander",
         "Year": "1983",
         "Creator": "Mattel/Radofin",
         "Notes": "Included two Hand Controllers, with slots for RAM and ROM cartridges. Difficult to find outside of North America"
       },
       {
         "Name": "Data recorder",
-        "Product Type": "Serial storage device",
+        "Product_Type": "Serial storage device",
         "Year": "1983",
         "Creator": "Mattel/Radofin",
         "Notes": "Included data cable and sample software cassette"
       },
       {
         "Name": "Thermal printer",
-        "Product Type": "Serial printer",
+        "Product_Type": "Serial printer",
         "Year": "1983",
         "Creator": "Mattel/Radofin",
         "Notes": "Included printer cable and roll of thermal paper"
       },
       {
         "Name": "Color printer",
-        "Product Type": "Serial plotter",
+        "Product_Type": "Serial plotter",
         "Year": "1984",
         "Creator": "Mattel/Radofin",
         "Notes": "Included printer cable, roll of paper, and spare pens. Unit was a rebrand of a similar Tandy/RS printer"
       },
       {
         "Name": "Modem",
-        "Product Type": "Cartridge-based 300 baud modem",
+        "Product_Type": "Cartridge-based 300 baud modem",
         "Year": "1984",
         "Creator": "Mattel/Radofin",
         "Notes": "Included phone cables and software on cassette"
       },
       {
         "Name": "4kB RAM",
-        "Product Type": "RAM cartridge",
+        "Product_Type": "RAM cartridge",
         "Year": "1983",
         "Creator": "Mattel/Radofin",
         "Notes": "Expanded available RAM to about 6k"
       },
       {
         "Name": "Quick Disk",
-        "Product Type": "Disk-based storage",
+        "Product_Type": "Disk-based storage",
         "Year": "1984?",
         "Creator": "Mattel/Radofin?",
         "Notes": "Released only as a prototype unit[11]"
       },
       {
         "Name": "32kB RAM",
-        "Product Type": "RAM cartridge",
+        "Product_Type": "RAM cartridge",
         "Year": "2015",
         "Creator": "Jay Snellen, III",
         "Notes": "Expanded available RAM to about 34kB"
       },
       {
         "Name": "Micro Expander",
-        "Product Type": "System expander",
+        "Product_Type": "System expander",
         "Year": "2016",
         "Creator": "Bruce Abbot",
         "Notes": "Included 32kB RAM, custom ROM with USB BASIC, USB interface, AY-3-8910 PSG, and a 3.5mm audio jack"
       },
       {
         "Name": "Aquarius MX",
-        "Product Type": "System expander",
+        "Product_Type": "System expander",
         "Year": "2022",
         "Creator": "Harrington, Mack, Kaylor, et al.",
         "Notes": "Included 32kB RAM, custom ROM with MX BASIC 2.0, USB interface, AY-3-8910 PSG, and DB9 hand controller ports[12]"
@@ -77,511 +77,511 @@
     "table2": [
       {
         "Pin": "1",
-        "Function Aquarius": "MIC",
-        "Function TRS-80": "REMote"
+        "Function_Aquarius": "MIC",
+        "Function_TRS-80": "REMote"
       },
       {
         "Pin": "2",
-        "Function Aquarius": "Common ground",
-        "Function TRS-80": "Common ground"
+        "Function_Aquarius": "Common ground",
+        "Function_TRS-80": "Common ground"
       },
       {
         "Pin": "3",
-        "Function Aquarius": "EAR",
-        "Function TRS-80": "REMote"
+        "Function_Aquarius": "EAR",
+        "Function_TRS-80": "REMote"
       },
       {
         "Pin": "4",
-        "Function Aquarius": "Not used",
-        "Function TRS-80": "EAR"
+        "Function_Aquarius": "Not used",
+        "Function_TRS-80": "EAR"
       },
       {
         "Pin": "5",
-        "Function Aquarius": "Not used",
-        "Function TRS-80": "MIC"
+        "Function_Aquarius": "Not used",
+        "Function_TRS-80": "MIC"
       }
     ]
   },
   {
     "table5": [
       {
-        "Commercial software": "Advanced Dungeons & Dragons: Treasure of Tarmin †",
+        "Commercial_software": "Advanced Dungeons & Dragons: Treasure of Tarmin †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Aliens",
+        "Commercial_software": "Aliens",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Aquapack 1 (Snake, Breakout, Moon Shuttle)",
+        "Commercial_software": "Aquapack 1 (Snake, Breakout, Moon Shuttle)",
         "Publisher": "Apocalypse Software",
-        "Release date": "????"
+        "Release_date": "????"
       },
       {
-        "Commercial software": "Astrosmash †",
+        "Commercial_software": "Astrosmash †",
         "Publisher": "Mattel Electronics, Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Battle Zone",
+        "Commercial_software": "Battle Zone",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Biorhythms †",
+        "Commercial_software": "Biorhythms †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Bounder",
+        "Commercial_software": "Bounder",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Breakout",
+        "Commercial_software": "Breakout",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Burger Time †",
+        "Commercial_software": "Burger Time †",
         "Publisher": "Mattel Electronics, Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Chess (Dick Smith Electronics)",
+        "Commercial_software": "Chess (Dick Smith Electronics)",
         "Publisher": "Dick Smith Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Chess (Mattel)†",
+        "Commercial_software": "Chess (Mattel)†",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Chuckman",
+        "Commercial_software": "Chuckman",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "D-Fenders",
+        "Commercial_software": "D-Fenders",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Deathrace",
+        "Commercial_software": "Deathrace",
         "Publisher": "Apocalypse Software",
-        "Release date": "????"
+        "Release_date": "????"
       },
       {
-        "Commercial software": "Demo Cassette (Stalactites, Macho-Man, Torment, Cute Cubes, Alien Quest, Mad Mould)",
+        "Commercial_software": "Demo Cassette (Stalactites, Macho-Man, Torment, Cute Cubes, Alien Quest, Mad Mould)",
         "Publisher": "Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Diamond Mine",
+        "Commercial_software": "Diamond Mine",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Disco Fever",
+        "Commercial_software": "Disco Fever",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Ed-On",
+        "Commercial_software": "Ed-On",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Extended Microsoft Basic (Mattel)†",
+        "Commercial_software": "Extended Microsoft Basic (Mattel)†",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "FileForm †",
+        "Commercial_software": "FileForm †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "FinForm †",
+        "Commercial_software": "FinForm †",
         "Publisher": "Mattel Electronics. Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "First Adventure",
+        "Commercial_software": "First Adventure",
         "Publisher": "Digital Output",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Games Pack 1 (Stalactites, Macho-Man, Othello, Mutants)",
+        "Commercial_software": "Games Pack 1 (Stalactites, Macho-Man, Othello, Mutants)",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Games Pack 2 (Bounder, Local Bomber, Breakout, Night Driver)",
+        "Commercial_software": "Games Pack 2 (Bounder, Local Bomber, Breakout, Night Driver)",
         "Publisher": "Custom Cables International",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Games Pack 3 (Metior, Sheepdog, Mastermind, Depthcharge)",
+        "Commercial_software": "Games Pack 3 (Metior, Sheepdog, Mastermind, Depthcharge)",
         "Publisher": "Custom Cables International",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Games Pack 4 (Painter, Pontoon, Grand Prix, Alien Storm)",
+        "Commercial_software": "Games Pack 4 (Painter, Pontoon, Grand Prix, Alien Storm)",
         "Publisher": "Custom Cables International",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "GamesTape (Dodge It, Trojan Dragon, Death Trap, Tablets of Hippocrates)",
+        "Commercial_software": "GamesTape (Dodge It, Trojan Dragon, Death Trap, Tablets of Hippocrates)",
         "Publisher": "Fawkes Computing",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Gamespack 1 (Snake, Masterguess, Symon, Bomber, Hi-Lo)",
+        "Commercial_software": "Gamespack 1 (Snake, Masterguess, Symon, Bomber, Hi-Lo)",
         "Publisher": "Processor Software",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Gamespack 2 (Collector, Blocked!, Rocket Run, Minefield, Air-Defence)",
+        "Commercial_software": "Gamespack 2 (Collector, Blocked!, Rocket Run, Minefield, Air-Defence)",
         "Publisher": "Processor Software",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Ghost Hunter",
+        "Commercial_software": "Ghost Hunter",
         "Publisher": "Dick Smith Electronics",
-        "Release date": "????"
+        "Release_date": "????"
       },
       {
-        "Commercial software": "Grid Bug",
+        "Commercial_software": "Grid Bug",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Hopper",
+        "Commercial_software": "Hopper",
         "Publisher": "Microdeal",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Invaders",
+        "Commercial_software": "Invaders",
         "Publisher": "Dick Smith Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Kronos Europea Cassette (Gamble, Gunfight, Mad Mould, Outline)",
+        "Commercial_software": "Kronos Europea Cassette (Gamble, Gunfight, Mad Mould, Outline)",
         "Publisher": "Radofin Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Logo †",
+        "Commercial_software": "Logo †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Maths Armada",
+        "Commercial_software": "Maths Armada",
         "Publisher": "Dick Smith Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Mazantics",
+        "Commercial_software": "Mazantics",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Melody Chase †",
+        "Commercial_software": "Melody Chase †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Millypede",
+        "Commercial_software": "Millypede",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Mower Man",
+        "Commercial_software": "Mower Man",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "N-Vaders",
+        "Commercial_software": "N-Vaders",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Night Stalker †",
+        "Commercial_software": "Night Stalker †",
         "Publisher": "Mattel Electronics, Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Outpack 1 (Snake, Masterguess, Symon, Bomber, Hi-Lo)",
+        "Commercial_software": "Outpack 1 (Snake, Masterguess, Symon, Bomber, Hi-Lo)",
         "Publisher": "Digital Output",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Outpack 2 (Collector, Blocked, Rocket Run, Minefield, Air-Defence)",
+        "Commercial_software": "Outpack 2 (Collector, Blocked, Rocket Run, Minefield, Air-Defence)",
         "Publisher": "Digital Output",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Outpack 3 (Gunfight, Gambler, Moonlander, Tracker, Nim)",
+        "Commercial_software": "Outpack 3 (Gunfight, Gambler, Moonlander, Tracker, Nim)",
         "Publisher": "Digital Output",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Outpack 4 (Super Slot, Golf, Invasion, Killer Sub, Survival)",
+        "Commercial_software": "Outpack 4 (Super Slot, Golf, Invasion, Killer Sub, Survival)",
         "Publisher": "Digital Output",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Outpack 5 (Timetrap, Gro-Worm, Wampus Gold, Bumpers, Space Shoot)",
+        "Commercial_software": "Outpack 5 (Timetrap, Gro-Worm, Wampus Gold, Bumpers, Space Shoot)",
         "Publisher": "Digital Output",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Pac Mr",
+        "Commercial_software": "Pac Mr",
         "Publisher": "Add On Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Pack 1 (Bombardier, Fruit Machine, Hang Man, Alien Descent, Escape)",
+        "Commercial_software": "Pack 1 (Bombardier, Fruit Machine, Hang Man, Alien Descent, Escape)",
         "Publisher": "Mercury House",
-        "Release date": "????"
+        "Release_date": "????"
       },
       {
-        "Commercial software": "Pack 2 (Dungeon Adventure, U-Boat, Golf, Star Catcher, Moonraker)",
+        "Commercial_software": "Pack 2 (Dungeon Adventure, U-Boat, Golf, Star Catcher, Moonraker)",
         "Publisher": "Mercury House",
-        "Release date": "????"
+        "Release_date": "????"
       },
       {
-        "Commercial software": "Phrogger",
+        "Commercial_software": "Phrogger",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Postman Pot",
+        "Commercial_software": "Postman Pot",
         "Publisher": "Add On Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Rally Driver",
+        "Commercial_software": "Rally Driver",
         "Publisher": "Micro Mart Software",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Read It",
+        "Commercial_software": "Read It",
         "Publisher": "Dick Smith Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Scramble",
+        "Commercial_software": "Scramble",
         "Publisher": "Micro Mart Software",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Snafu †",
+        "Commercial_software": "Snafu †",
         "Publisher": "Mattel Electronics, Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Space Ram",
+        "Commercial_software": "Space Ram",
         "Publisher": "Dick Smith Electronics",
-        "Release date": "1984"
+        "Release_date": "1984"
       },
       {
-        "Commercial software": "Space Speller †",
+        "Commercial_software": "Space Speller †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Tracker",
+        "Commercial_software": "Tracker",
         "Publisher": "Digital Output",
-        "Release date": "????"
+        "Release_date": "????"
       },
       {
-        "Commercial software": "Tron: Deadly Discs †",
+        "Commercial_software": "Tron: Deadly Discs †",
         "Publisher": "Mattel Electronics, Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Utopia †",
+        "Commercial_software": "Utopia †",
         "Publisher": "Mattel Electronics, Radofin Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Zero In †",
+        "Commercial_software": "Zero In †",
         "Publisher": "Mattel Electronics",
-        "Release date": "1983"
+        "Release_date": "1983"
       },
       {
-        "Commercial software": "Zorgon's Kingdom",
+        "Commercial_software": "Zorgon's Kingdom",
         "Publisher": "Romik Software",
-        "Release date": "1984"
+        "Release_date": "1984"
       }
     ]
   },
   {
     "table6": [
       {
-        "Homebrew games": "AlphaMix",
+        "Homebrew_games": "AlphaMix",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Aquariworm",
+        "Homebrew_games": "Aquariworm",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2020[21]"
+        "Release_date": "2020[21]"
       },
       {
-        "Homebrew games": "Bomb Catcher II",
+        "Homebrew_games": "Bomb Catcher II",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2021[22]"
+        "Release_date": "2021[22]"
       },
       {
-        "Homebrew games": "Astro Covoy",
+        "Homebrew_games": "Astro Covoy",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2024"
+        "Release_date": "2024"
       },
       {
-        "Homebrew games": "Crossword Computer",
+        "Homebrew_games": "Crossword Computer",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Doomsday Defender",
+        "Homebrew_games": "Doomsday Defender",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2022[23]"
+        "Release_date": "2022[23]"
       },
       {
-        "Homebrew games": "Electric Organ",
+        "Homebrew_games": "Electric Organ",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Fall of the Eastern Blocks",
+        "Homebrew_games": "Fall of the Eastern Blocks",
         "Publisher/Developer": "Leinen, Jason J.",
-        "Release date": "1999"
+        "Release_date": "1999"
       },
       {
-        "Homebrew games": "Flying",
+        "Homebrew_games": "Flying",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Football",
+        "Homebrew_games": "Football",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Fruit Machine",
+        "Homebrew_games": "Fruit Machine",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Gunnery",
+        "Homebrew_games": "Gunnery",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Mastercode",
+        "Homebrew_games": "Mastercode",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Pontoon",
+        "Homebrew_games": "Pontoon",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Rollerball",
+        "Homebrew_games": "Rollerball",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Sketch",
+        "Homebrew_games": "Sketch",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Ski",
+        "Homebrew_games": "Ski",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Solitaire",
+        "Homebrew_games": "Solitaire",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Space Collision",
+        "Homebrew_games": "Space Collision",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Spacepits",
+        "Homebrew_games": "Spacepits",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Strikeforce",
+        "Homebrew_games": "Strikeforce",
         "Publisher/Developer": "D.A. Spencer",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Symmetry",
+        "Homebrew_games": "Symmetry",
         "Publisher/Developer": "Oasis",
-        "Release date": ""
+        "Release_date": ""
       },
       {
-        "Homebrew games": "Turmoil 2022",
+        "Homebrew_games": "Turmoil 2022",
         "Publisher/Developer": "8-Bit Milli Games",
-        "Release date": "2022[20]"
+        "Release_date": "2022[20]"
       },
       {
-        "Homebrew games": "Warp Factor",
+        "Homebrew_games": "Warp Factor",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2023"
+        "Release_date": "2023"
       },
       {
-        "Homebrew games": "Grid Trap",
+        "Homebrew_games": "Grid Trap",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2024"
+        "Release_date": "2024"
       },
       {
-        "Homebrew games": "Paqu Deluxe",
+        "Homebrew_games": "Paqu Deluxe",
         "Publisher/Developer": "Cronosoft / Roy Templeman",
-        "Release date": "2024"
+        "Release_date": "2024"
       },
       {
-        "Homebrew games": "10 Liner - Invader",
+        "Homebrew_games": "10 Liner - Invader",
         "Publisher/Developer": "Roy Templeman",
-        "Release date": "2019"
+        "Release_date": "2019"
       },
       {
-        "Homebrew games": "10 Liner - Cave Navigator",
+        "Homebrew_games": "10 Liner - Cave Navigator",
         "Publisher/Developer": "Roy Templeman",
-        "Release date": "2021"
+        "Release_date": "2021"
       },
       {
-        "Homebrew games": "10 Liner - Attack of the ROM Robots",
+        "Homebrew_games": "10 Liner - Attack of the ROM Robots",
         "Publisher/Developer": "Roy Templeman",
-        "Release date": "2022"
+        "Release_date": "2022"
       },
       {
-        "Homebrew games": "10 Liner - AstroRun",
+        "Homebrew_games": "10 Liner - AstroRun",
         "Publisher/Developer": "Roy Templeman",
-        "Release date": "2023"
+        "Release_date": "2023"
       },
       {
-        "Homebrew games": "10 Liner - Paqu",
+        "Homebrew_games": "10 Liner - Paqu",
         "Publisher/Developer": "Roy Templeman",
-        "Release date": "2024"
+        "Release_date": "2024"
       },
       {
-        "Homebrew games": "10 Liner - BOMBER!",
+        "Homebrew_games": "10 Liner - BOMBER!",
         "Publisher/Developer": "Roy Templeman",
-        "Release date": "2025"
+        "Release_date": "2025"
       }
     ]
   }

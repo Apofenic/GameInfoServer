@@ -2,13 +2,13 @@
 
 /**
  * JSON key mapper script
- * 
+ *
  * This script takes a JSON file and maps specified keys to new keys,
  * then outputs the transformed JSON to a new file or stdout.
- * 
+ *
  * Usage:
  *   node convert.js --input=input.json --output=output.json --map='{"oldKey":"newKey","anotherKey":"anotherNewKey"}'
- * 
+ *
  * Options:
  *   --input, -i    Input JSON file path
  *   --output, -o   Output JSON file path (optional, defaults to stdout)
@@ -30,12 +30,20 @@ for (const arg of args) {
   } else if (arg.startsWith('-')) {
     const key = arg.slice(1, 2);
     const value = arg.slice(2) || args[args.indexOf(arg) + 1];
-    
+
     switch (key) {
-      case 'i': options.input = value; break;
-      case 'o': options.output = value; break;
-      case 'm': options.map = value; break;
-      case 'h': options.help = true; break;
+      case 'i':
+        options.input = value;
+        break;
+      case 'o':
+        options.output = value;
+        break;
+      case 'm':
+        options.map = value;
+        break;
+      case 'h':
+        options.help = true;
+        break;
     }
   }
 }
@@ -77,16 +85,10 @@ try {
   process.exit(1);
 }
 
-/**
- * Recursively transform keys in an object based on the mapping
- * @param {Object|Array} obj - The object or array to transform
- * @param {Object} mapping - The key mapping
- * @returns {Object|Array} - Transformed object or array
- */
 function transformKeys(obj, mapping) {
   if (Array.isArray(obj)) {
     // If it's an array, transform each element
-    return obj.map(item => transformKeys(item, mapping));
+    return obj.map((item) => transformKeys(item, mapping));
   } else if (obj !== null && typeof obj === 'object') {
     // If it's an object, transform its keys
     return Object.keys(obj).reduce((result, key) => {

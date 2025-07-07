@@ -3,514 +3,514 @@
     "table1": [
       {
         "Number": "1",
-        "EU Title": "Race / Spin-Out / Cryptogram †",
-        "US Title": "Speedway! / Spin-out! / Cryptologic!",
-        "Canada Title": "La Course Folle!/Tête-À-Queue!/Crypto-Logic!",
-        "Brazil Title": "Fórmula 1!/Interlagos!/Crypto-Logic!"
+        "EU_Title": "Race / Spin-Out / Cryptogram †",
+        "US_Title": "Speedway! / Spin-out! / Cryptologic!",
+        "Canada_Title": "La Course Folle!/Tête-À-Queue!/Crypto-Logic!",
+        "Brazil_Title": "Fórmula 1!/Interlagos!/Crypto-Logic!"
       },
       {
         "Number": "2",
-        "EU Title": "Pairs / Space Rendezvous / Logic",
-        "US Title": "Matchmaker! / Buzzword! / Logix!",
-        "Canada Title": "Associations!/Logix!/Devinettes!",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Pairs / Space Rendezvous / Logic",
+        "US_Title": "Matchmaker! / Buzzword! / Logix!",
+        "Canada_Title": "Associations!/Logix!/Devinettes!",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "3",
-        "EU Title": "American Football",
-        "US Title": "Football!",
-        "Canada Title": "Football!",
-        "Brazil Title": "Futebol Americano!"
+        "EU_Title": "American Football",
+        "US_Title": "Football!",
+        "Canada_Title": "Football!",
+        "Brazil_Title": "Futebol Americano!"
       },
       {
         "Number": "4",
-        "EU Title": "Air-Sea War / Battle",
-        "US Title": "Armored Encounter! / Subchase!",
-        "Canada Title": "Bataille de Blindés!/Chasse Aux Sous-Marins!",
-        "Brazil Title": "Os Panzers Atacam!/Batalha Aeronaval!"
+        "EU_Title": "Air-Sea War / Battle",
+        "US_Title": "Armored Encounter! / Subchase!",
+        "Canada_Title": "Bataille de Blindés!/Chasse Aux Sous-Marins!",
+        "Brazil_Title": "Os Panzers Atacam!/Batalha Aeronaval!"
       },
       {
         "Number": "5",
-        "EU Title": "Blackjack",
-        "US Title": "Las Vegas Blackjack!",
-        "Canada Title": "Blackjack Style Las Vegas!",
-        "Brazil Title": "Bacará!"
+        "EU_Title": "Blackjack",
+        "US_Title": "Las Vegas Blackjack!",
+        "Canada_Title": "Blackjack Style Las Vegas!",
+        "Brazil_Title": "Bacará!"
       },
       {
         "Number": "6",
-        "EU Title": "Tenpin Bowling / Basketball",
-        "US Title": "Bowling! / Basketball!",
-        "Canada Title": "Quilles! / Basket-Ball!",
-        "Brazil Title": "Boliche!/Basquetebol!"
+        "EU_Title": "Tenpin Bowling / Basketball",
+        "US_Title": "Bowling! / Basketball!",
+        "Canada_Title": "Quilles! / Basket-Ball!",
+        "Brazil_Title": "Boliche!/Basquetebol!"
       },
       {
         "Number": "7",
-        "EU Title": "Mathematician / Echo",
-        "US Title": "Math-A-Magic! / Echo!",
-        "Canada Title": "Math-A-Magic! / Echo!",
-        "Brazil Title": "Matemágica!/Jogo da Memória!"
+        "EU_Title": "Mathematician / Echo",
+        "US_Title": "Math-A-Magic! / Echo!",
+        "Canada_Title": "Math-A-Magic! / Echo!",
+        "Brazil_Title": "Matemágica!/Jogo da Memória!"
       },
       {
         "Number": "8",
-        "EU Title": "Baseball",
-        "US Title": "Baseball!",
-        "Canada Title": "Baseball!",
-        "Brazil Title": "Basebol!"
+        "EU_Title": "Baseball",
+        "US_Title": "Baseball!",
+        "Canada_Title": "Baseball!",
+        "Brazil_Title": "Basebol!"
       },
       {
         "Number": "9",
-        "EU Title": "Computer Programmer",
-        "US Title": "Computer Intro!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Computer Programmer",
+        "US_Title": "Computer Intro!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "10",
-        "EU Title": "Golf",
-        "US Title": "Computer Golf!",
-        "Canada Title": "Golf Électronique!",
-        "Brazil Title": "Golfe!"
+        "EU_Title": "Golf",
+        "US_Title": "Computer Golf!",
+        "Canada_Title": "Golf Électronique!",
+        "Brazil_Title": "Golfe!"
       },
       {
         "Number": "11",
-        "EU Title": "Cosmic Conflict †",
-        "US Title": "Cosmic Conflict!",
-        "Canada Title": "Conflit Cosmique!",
-        "Brazil Title": "Conflito Cósmico!"
+        "EU_Title": "Cosmic Conflict †",
+        "US_Title": "Cosmic Conflict!",
+        "Canada_Title": "Conflit Cosmique!",
+        "Brazil_Title": "Conflito Cósmico!"
       },
       {
         "Number": "12",
-        "EU Title": "Take the Money and Run",
-        "US Title": "Take the Money and Run!",
-        "Canada Title": "Prenez L'Argent et Filez!",
-        "Brazil Title": "Pegue o Dinheiro e Corra!"
+        "EU_Title": "Take the Money and Run",
+        "US_Title": "Take the Money and Run!",
+        "Canada_Title": "Prenez L'Argent et Filez!",
+        "Brazil_Title": "Pegue o Dinheiro e Corra!"
       },
       {
         "Number": "13",
-        "EU Title": "Playschool Maths",
-        "US Title": "I've Got Your Number!",
-        "Canada Title": "J'ai le Bon Numero!",
-        "Brazil Title": "Acerte Seu Número!"
+        "EU_Title": "Playschool Maths",
+        "US_Title": "I've Got Your Number!",
+        "Canada_Title": "J'ai le Bon Numero!",
+        "Brazil_Title": "Acerte Seu Número!"
       },
       {
         "Number": "14",
-        "EU Title": "Gunfighter",
-        "US Title": "Showdown in 2100 A.D.",
-        "Canada Title": "Confrontation en 2100 Aprés J.-C.!",
-        "Brazil Title": "Duelo no Velho Oeste!"
+        "EU_Title": "Gunfighter",
+        "US_Title": "Showdown in 2100 A.D.",
+        "Canada_Title": "Confrontation en 2100 Aprés J.-C.!",
+        "Brazil_Title": "Duelo no Velho Oeste!"
       },
       {
         "Number": "15",
-        "EU Title": "Samurai",
-        "US Title": "Dynasty!",
-        "Canada Title": "Dynastie!",
-        "Brazil Title": "Lógica Chinesa!"
+        "EU_Title": "Samurai",
+        "US_Title": "Dynasty!",
+        "Canada_Title": "Dynastie!",
+        "Brazil_Title": "Lógica Chinesa!"
       },
       {
         "Number": "16",
-        "EU Title": "Depth Charge / Marksman",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Bombardeio Submarino!/Tiro ao Alvo!"
+        "EU_Title": "Depth Charge / Marksman",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Bombardeio Submarino!/Tiro ao Alvo!"
       },
       {
         "Number": "17",
-        "EU Title": "Chinese Logic",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Desafio Chinês!"
+        "EU_Title": "Chinese Logic",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Desafio Chinês!"
       },
       {
         "Number": "18",
-        "EU Title": "Laser War",
-        "US Title": "Invaders from Hyperspace!",
-        "Canada Title": "Invasion Intersidérale!",
-        "Brazil Title": "Invasores do Cosmos!"
+        "EU_Title": "Laser War",
+        "US_Title": "Invaders from Hyperspace!",
+        "Canada_Title": "Invasion Intersidérale!",
+        "Brazil_Title": "Invasores do Cosmos!"
       },
       {
         "Number": "19",
-        "EU Title": "Catch The Ball / Noughts and Crosses",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "O Malabarista!/Jogo da Velha!"
+        "EU_Title": "Catch The Ball / Noughts and Crosses",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "O Malabarista!/Jogo da Velha!"
       },
       {
         "Number": "20",
-        "EU Title": "Stone Sling †",
-        "US Title": "Smithereens!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Batalha Medieval!"
+        "EU_Title": "Stone Sling †",
+        "US_Title": "Smithereens!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Batalha Medieval!"
       },
       {
         "Number": "21",
-        "EU Title": "Secret of the Pharaohs",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "O Segredo do Faraó!"
+        "EU_Title": "Secret of the Pharaohs",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "O Segredo do Faraó!"
       },
       {
         "Number": "22",
-        "EU Title": "Space Monster †",
-        "US Title": "Alien Invaders - Plus!",
-        "Canada Title": "Envahisseurs Extra-Terrestres!",
-        "Brazil Title": "Alien!"
+        "EU_Title": "Space Monster †",
+        "US_Title": "Alien Invaders - Plus!",
+        "Canada_Title": "Envahisseurs Extra-Terrestres!",
+        "Brazil_Title": "Alien!"
       },
       {
         "Number": "23",
-        "EU Title": "Las Vegas Gambling",
-        "US Title": "Casino Slot Machine!",
-        "Canada Title": "Machine À Sous!",
-        "Brazil Title": "Caça Níqueis!"
+        "EU_Title": "Las Vegas Gambling",
+        "US_Title": "Casino Slot Machine!",
+        "Canada_Title": "Machine À Sous!",
+        "Brazil_Title": "Caça Níqueis!"
       },
       {
         "Number": "24",
-        "EU Title": "Flipper Game",
-        "US Title": "Thunderball!",
-        "Canada Title": "Machine À Boules!",
-        "Brazil Title": "Fliperama!"
+        "EU_Title": "Flipper Game",
+        "US_Title": "Thunderball!",
+        "Canada_Title": "Machine À Boules!",
+        "Brazil_Title": "Fliperama!"
       },
       {
         "Number": "25",
-        "EU Title": "Skiing",
-        "US Title": "Alpine Skiing!",
-        "Canada Title": "Ski Alpin!",
-        "Brazil Title": "Esqui nos Alpes!"
+        "EU_Title": "Skiing",
+        "US_Title": "Alpine Skiing!",
+        "Canada_Title": "Ski Alpin!",
+        "Brazil_Title": "Esqui nos Alpes!"
       },
       {
         "Number": "26",
-        "EU Title": "Basket Game",
-        "US Title": "Pachinko!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Pachinko!"
+        "EU_Title": "Basket Game",
+        "US_Title": "Pachinko!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Pachinko!"
       },
       {
         "Number": "27",
-        "EU Title": "Electronic Table Football",
-        "US Title": "Electronic Table Soccer!",
-        "Canada Title": "Soccer de Table Électronique!",
-        "Brazil Title": "Futebol Eletrônico!"
+        "EU_Title": "Electronic Table Football",
+        "US_Title": "Electronic Table Soccer!",
+        "Canada_Title": "Soccer de Table Électronique!",
+        "Brazil_Title": "Futebol Eletrônico!"
       },
       {
         "Number": "28",
-        "EU Title": "Electronic Volleyball",
-        "US Title": "Volleyball!",
-        "Canada Title": "Volley-Ball!",
-        "Brazil Title": "Voleibol!"
+        "EU_Title": "Electronic Volleyball",
+        "US_Title": "Volleyball!",
+        "Canada_Title": "Volley-Ball!",
+        "Brazil_Title": "Voleibol!"
       },
       {
         "Number": "29",
-        "EU Title": "Dam Buster",
-        "US Title": "Blockout! / Breakdown!",
-        "Canada Title": "Démolition!/Destruction!",
-        "Brazil Title": "Barricada!/Demolição!"
+        "EU_Title": "Dam Buster",
+        "US_Title": "Blockout! / Breakdown!",
+        "Canada_Title": "Démolition!/Destruction!",
+        "Brazil_Title": "Barricada!/Demolição!"
       },
       {
         "Number": "30",
-        "EU Title": "Battlefield",
-        "US Title": "War of Nerves!",
-        "Canada Title": "La Guerre des Nerfs!",
-        "Brazil Title": "Guerra de Nervos!"
+        "EU_Title": "Battlefield",
+        "US_Title": "War of Nerves!",
+        "Canada_Title": "La Guerre des Nerfs!",
+        "Brazil_Title": "Guerra de Nervos!"
       },
       {
         "Number": "31",
-        "EU Title": "Musician (with musical keyboard)",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Musician (with musical keyboard)",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "32",
-        "EU Title": "A Labyrinth Game / Supermind",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "A Labyrinth Game / Supermind",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "33",
-        "EU Title": "Jumping Acrobats",
-        "US Title": "P.T. Barnum's Acrobats!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Acrobatas!"
+        "EU_Title": "Jumping Acrobats",
+        "US_Title": "P.T. Barnum's Acrobats!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Acrobatas!"
       },
       {
         "Number": "34",
-        "EU Title": "Satellite Attack †",
-        "US Title": "UFO!",
-        "Canada Title": "Guerre aux OVNIS!",
-        "Brazil Title": "OVNI!"
+        "EU_Title": "Satellite Attack †",
+        "US_Title": "UFO!",
+        "Canada_Title": "Guerre aux OVNIS!",
+        "Brazil_Title": "OVNI!"
       },
       {
         "Number": "35",
-        "EU Title": "Electronic Billiards",
-        "US Title": "Pocket Billiards!",
-        "Canada Title": "Billiard À Blouses!",
-        "Brazil Title": "Bilhar!"
+        "EU_Title": "Electronic Billiards",
+        "US_Title": "Pocket Billiards!",
+        "Canada_Title": "Billiard À Blouses!",
+        "Brazil_Title": "Bilhar!"
       },
       {
         "Number": "36",
-        "EU Title": "Electronic Soccer / Electronic Ice Hockey",
-        "US Title": "Hockey! / Soccer!",
-        "Canada Title": "Hockey! / Soccer!",
-        "Brazil Title": "Futebol de Salão!/Hockey!"
+        "EU_Title": "Electronic Soccer / Electronic Ice Hockey",
+        "US_Title": "Hockey! / Soccer!",
+        "Canada_Title": "Hockey! / Soccer!",
+        "Brazil_Title": "Futebol de Salão!/Hockey!"
       },
       {
         "Number": "37",
-        "EU Title": "Monkeyshines",
-        "US Title": "Monkeyshines!",
-        "Canada Title": "Singeries!",
-        "Brazil Title": "Macacos Me Mordam!"
+        "EU_Title": "Monkeyshines",
+        "US_Title": "Monkeyshines!",
+        "Canada_Title": "Singeries!",
+        "Brazil_Title": "Macacos Me Mordam!"
       },
       {
         "Number": "38",
-        "EU Title": "Munchkin",
-        "US Title": "K.C. Munchkin!",
-        "Canada Title": "K.C. Broyefer!",
-        "Brazil Title": "Come-Come II"
+        "EU_Title": "Munchkin",
+        "US_Title": "K.C. Munchkin!",
+        "Canada_Title": "K.C. Broyefer!",
+        "Brazil_Title": "Come-Come II"
       },
       {
         "Number": "39",
-        "EU Title": "Freedom Fighters",
-        "US Title": "Freedom Fighters!",
-        "Canada Title": "Les Défenseurs de la Liberté!",
-        "Brazil Title": "Defensores da Liberdade!"
+        "EU_Title": "Freedom Fighters",
+        "US_Title": "Freedom Fighters!",
+        "Canada_Title": "Les Défenseurs de la Liberté!",
+        "Brazil_Title": "Defensores da Liberdade!"
       },
       {
         "Number": "40",
-        "EU Title": "4 in 1 Row",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "4 in 1 Row",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "41",
-        "EU Title": "Conquest of the World",
-        "US Title": "Conquest of the World",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "A Conquista de Mundo"
+        "EU_Title": "Conquest of the World",
+        "US_Title": "Conquest of the World",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "A Conquista de Mundo"
       },
       {
         "Number": "42",
-        "EU Title": "The Quest of the Rings",
-        "US Title": "Quest for the Rings",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Em Busca dos Anéis Perdidos"
+        "EU_Title": "The Quest of the Rings",
+        "US_Title": "Quest for the Rings",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Em Busca dos Anéis Perdidos"
       },
       {
         "Number": "43",
-        "EU Title": "Pickaxe Pete †",
-        "US Title": "Pick Axe Pete!",
-        "Canada Title": "Pierre et la Pioche!",
-        "Brazil Title": "Didi na Mina Encantada!"
+        "EU_Title": "Pickaxe Pete †",
+        "US_Title": "Pick Axe Pete!",
+        "Canada_Title": "Pierre et la Pioche!",
+        "Brazil_Title": "Didi na Mina Encantada!"
       },
       {
         "Number": "44",
-        "EU Title": "Crazy Chase",
-        "US Title": "K.C.'s Krazy Chase!",
-        "Canada Title": "La Grande Chasse de Broyefer!",
-        "Brazil Title": "Come-Come!"
+        "EU_Title": "Crazy Chase",
+        "US_Title": "K.C.'s Krazy Chase!",
+        "Canada_Title": "La Grande Chasse de Broyefer!",
+        "Brazil_Title": "Come-Come!"
       },
       {
         "Number": "45",
-        "EU Title": "Morse",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Telegrafista!"
+        "EU_Title": "Morse",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Telegrafista!"
       },
       {
         "Number": "46",
-        "EU Title": "The Great Wall Street Fortune Hunt",
-        "US Title": "The Great Wall Street Fortune Hunt",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Wall Street"
+        "EU_Title": "The Great Wall Street Fortune Hunt",
+        "US_Title": "The Great Wall Street Fortune Hunt",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Wall Street"
       },
       {
         "Number": "47",
-        "EU Title": "The Mousing Cat",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "O Gato e o Rato!"
+        "EU_Title": "The Mousing Cat",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "O Gato e o Rato!"
       },
       {
         "Number": "48",
-        "EU Title": "Backgammon",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Backgammon",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "49",
-        "EU Title": "Turtles",
-        "US Title": "Turtles!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Tartarugas!"
+        "EU_Title": "Turtles",
+        "US_Title": "Turtles!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Tartarugas!"
       },
       {
         "Number": "50",
-        "EU Title": "Super Bee",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Super Bee!"
+        "EU_Title": "Super Bee",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Super Bee!"
       },
       {
         "Number": "51",
-        "EU Title": "Terrahawks †",
-        "US Title": "Attack of the Timelord!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Senhor das Trevas!"
+        "EU_Title": "Terrahawks †",
+        "US_Title": "Attack of the Timelord!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Senhor das Trevas!"
       },
       {
         "Number": "52",
-        "EU Title": "Killer Bees †",
-        "US Title": "Killer Bees!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Abelhas Assassinas!"
+        "EU_Title": "Killer Bees †",
+        "US_Title": "Killer Bees!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Abelhas Assassinas!"
       },
       {
         "Number": "53",
-        "EU Title": "Nightmare †",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Nightmare †",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "54",
-        "EU Title": "Loony Balloon †",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Balão Travesso!"
+        "EU_Title": "Loony Balloon †",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Balão Travesso!"
       },
       {
         "Number": "55",
-        "EU Title": "Neutron Star †",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Buraco Negro!"
+        "EU_Title": "Neutron Star †",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Buraco Negro!"
       },
       {
         "Number": "56",
-        "EU Title": "Norseman ‡",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Norseman ‡",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "57",
-        "EU Title": "Blobbers",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Blobbers",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "58",
-        "EU Title": "Air Battle †",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Barão Vermelho!"
+        "EU_Title": "Air Battle †",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Barão Vermelho!"
       },
       {
         "Number": "59",
-        "EU Title": "Helicopter Rescue ‡",
-        "US Title": "Out of this World! / Helicopter Rescue!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Acoplagem!/Resgate!"
+        "EU_Title": "Helicopter Rescue ‡",
+        "US_Title": "Out of this World! / Helicopter Rescue!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Acoplagem!/Resgate!"
       },
       {
         "Number": "60",
-        "EU Title": "Trans American Rally ‡",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Trans American Rally ‡",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "—",
-        "EU Title": "Unreleased",
-        "US Title": "Power Lords",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Serpente do Poder!"
+        "EU_Title": "Unreleased",
+        "US_Title": "Power Lords",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Serpente do Poder!"
       },
       {
         "Number": "—",
-        "EU Title": "Unreleased",
-        "US Title": "Nimble Numbers Ned!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Nimble Numbers Ned"
+        "EU_Title": "Unreleased",
+        "US_Title": "Nimble Numbers Ned!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Nimble Numbers Ned"
       },
       {
         "Number": "—",
-        "EU Title": "Unreleased",
-        "US Title": "Sid the Spellbinder",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Sid the Spellbinder"
+        "EU_Title": "Unreleased",
+        "US_Title": "Sid the Spellbinder",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Sid the Spellbinder"
       },
       {
         "Number": "—",
-        "EU Title": "Newscaster",
-        "US Title": "Keyboard Creations!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Criatividade!"
+        "EU_Title": "Newscaster",
+        "US_Title": "Keyboard Creations!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Criatividade!"
       },
       {
         "Number": "—",
-        "EU Title": "Unreleased",
-        "US Title": "Type & Tell!",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Unreleased"
+        "EU_Title": "Unreleased",
+        "US_Title": "Type & Tell!",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Unreleased"
       },
       {
         "Number": "—",
-        "EU Title": "Atlantis",
-        "US Title": "Atlantis",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Atlantis"
+        "EU_Title": "Atlantis",
+        "US_Title": "Atlantis",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Atlantis"
       },
       {
         "Number": "—",
-        "EU Title": "Demon Attack",
-        "US Title": "Demon Attack",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Demon Attack"
+        "EU_Title": "Demon Attack",
+        "US_Title": "Demon Attack",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Demon Attack"
       },
       {
         "Number": "—",
-        "EU Title": "Frogger",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Frogger"
+        "EU_Title": "Frogger",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Frogger"
       },
       {
         "Number": "—",
-        "EU Title": "Popeye",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Popeye"
+        "EU_Title": "Popeye",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Popeye"
       },
       {
         "Number": "—",
-        "EU Title": "Q*bert",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Q*bert"
+        "EU_Title": "Q*bert",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Q*bert"
       },
       {
         "Number": "—",
-        "EU Title": "Super Cobra",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Super Cobra"
+        "EU_Title": "Super Cobra",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Super Cobra"
       },
       {
         "Number": "—",
-        "EU Title": "Unreleased",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Clay Pigeon!"
+        "EU_Title": "Unreleased",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Clay Pigeon!"
       },
       {
         "Number": "—",
-        "EU Title": "Unreleased",
-        "US Title": "Unreleased",
-        "Canada Title": "Unreleased",
-        "Brazil Title": "Comando Noturno!"
+        "EU_Title": "Unreleased",
+        "US_Title": "Unreleased",
+        "Canada_Title": "Unreleased",
+        "Brazil_Title": "Comando Noturno!"
       }
     ]
   }

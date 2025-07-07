@@ -1,540 +1,358 @@
-[
-  {
-    "table1": [
-      {
-        "Name": "1292 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Radofin / Radofin",
-        "Country": "Germany",
-        "Compatibility family": "1292 Advanced Programmable Video System",
-        "Notes": "Released in 1979. Known also as \"Radofin Programmierbares Video System\". Has an external power supply.",
-        "Image": ""
-      },
-      {
-        "Name": "1392 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Europe",
-        "Country": "Released in 1979. Has an internal power supply.",
-        "Compatibility family": ""
-      },
-      {
-        "Name": "HMG-1292 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Hanimex / Radofin",
-        "Country": "Australia and New Zealand",
-        "Compatibility family": "",
-        "Notes": ""
-      },
-      {
-        "Name": "HMG-1392 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Australia and New Zealand",
-        "Country": "",
-        "Compatibility family": ""
-      },
-      {
-        "Name": "Force 2",
-        "Brand / Manufacturer": "Fountain  / Radofin",
-        "Country": "Australia and New Zealand",
-        "Compatibility family": "Released in 1979.",
-        "Notes": ""
-      },
-      {
-        "Name": "1292 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Australia and New Zealand",
-        "Country": "Released in 1979.",
-        "Compatibility family": ""
-      },
-      {
-        "Name": "1392 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Australia and New Zealand",
-        "Country": "Released in 1979.\nHas an internal power supply",
-        "Compatibility family": ""
-      },
-      {
-        "Name": "Advanced Programmable Video System",
-        "Brand / Manufacturer": "Grandstand  / Radofin",
-        "Country": "",
-        "Compatibility family": "",
-        "Notes": ""
-      },
-      {
-        "Name": "Lansay 1392",
-        "Brand / Manufacturer": "Lansay  / Radofin",
-        "Country": "Europe",
-        "Compatibility family": "Released in 1979.\nInternal power supply.",
-        "Notes": ""
-      },
-      {
-        "Name": "PP-1292 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Audiosonic  / Radofin",
-        "Country": "Europe",
-        "Compatibility family": "Released in 1978.",
-        "Notes": ""
-      },
-      {
-        "Name": "PP-1392 Advanced Programmable Video System",
-        "Brand / Manufacturer": "Europe",
-        "Country": "Released in 1978.\nHas an internal power supply.",
-        "Compatibility family": ""
-      },
-      {
-        "Name": "VC-6000",
-        "Brand / Manufacturer": "Prinztronic  / Radofin",
-        "Country": "United Kingdom",
-        "Compatibility family": "Released in 1979.",
-        "Notes": ""
-      },
-      {
-        "Name": "MPU-1000",
-        "Brand / Manufacturer": "Acetronic  / Radofin",
-        "Country": "United Kingdom",
-        "Compatibility family": "Released in 1979.",
-        "Notes": ""
-      },
-      {
-        "Name": "MPU-2000",
-        "Brand / Manufacturer": "United Kingdom",
-        "Country": "Released in 1979.",
-        "Compatibility family": ""
-      },
-      {
-        "Name": "Database",
-        "Brand / Manufacturer": "Videomaster\\Voltmace",
-        "Country": "United Kingdom",
-        "Compatibility family": "Database System",
-        "Notes": "",
-        "Image": ""
-      },
-      {
-        "Name": "Television Computer System",
-        "Brand / Manufacturer": "Rowtron",
-        "Country": "United Kingdom",
-        "Compatibility family": "Television Computer System",
-        "Notes": "Released in 1979.",
-        "Image": ""
-      },
-      {
-        "Name": "Television Computer System",
-        "Brand / Manufacturer": "Teleng",
-        "Country": "United Kingdom",
-        "Compatibility family": "Released in 1979.",
-        "Notes": ""
-      },
-      {
-        "Name": "Jeu Video TV",
-        "Brand / Manufacturer": "Karvan",
-        "Country": "France",
-        "Compatibility family": "Video TV Game",
-        "Notes": "",
-        "Image": ""
-      },
-      {
-        "Name": "OC-2000",
-        "Brand / Manufacturer": "Societe Occitane Electronique",
-        "Country": "France",
-        "Compatibility family": "Released in 1979.",
-        "Notes": ""
-      },
-      {
-        "Name": "Vidéo Ordinateur MPT-05",
-        "Brand / Manufacturer": "ITMC",
-        "Country": "France",
-        "Compatibility family": "MPT-05",
-        "Notes": "Released in 1983.",
-        "Image": ""
-      },
-      {
-        "Name": "Super Play Computer 4000",
-        "Brand / Manufacturer": "Grundig",
-        "Country": "Germany",
-        "Compatibility family": "Interton VC-4000",
-        "Notes": "",
-        "Image": ""
-      },
-      {
-        "Name": "VC 4000",
-        "Brand / Manufacturer": "Interton",
-        "Country": "Europe",
-        "Compatibility family": "Released in 1978.",
-        "Notes": ""
-      },
-      {
-        "Name": "CX-3000 Data Bass Sistem",
-        "Brand / Manufacturer": "Palson",
-        "Country": "Spain",
-        "Compatibility family": "",
-        "Notes": ""
-      },
-      {
-        "Name": "Tele Computer",
-        "Brand / Manufacturer": "Aureac",
-        "Country": "Spain",
-        "Compatibility family": "Palson CX-3000 clone.",
-        "Notes": ""
-      },
-      {
-        "Name": "Video Computer H-21",
-        "Brand / Manufacturer": "TRQ",
-        "Country": "Spain",
-        "Compatibility family": "Interton VC-4000 (partial)",
-        "Notes": "TRQ carts fit and work on Interton consoles. Interton carts don't fit in TRQ consoles.",
-        "Image": ""
-      }
-    ]
-  },
-  {
-    "table2": [
-      {
-        "Name": "Air/Sea Attack / Air/Sea Battle",
-        "Size": "2K",
-        "Platform": "Fountain #5 + Palson #9 + Interton #7",
-        "Year": ""
-      },
-      {
-        "Name": "Arcade (Voltmace)/Pinball (Interton)",
-        "Size": "2K",
-        "Platform": "Interton #23 + Voltmace #20",
-        "Year": ""
-      },
-      {
-        "Name": "Backgammon",
-        "Size": "4K",
-        "Platform": "Interton #36",
-        "Year": ""
-      },
-      {
-        "Name": "Basic Maths (Fountain)/Mathematics 1 (Interton)",
-        "Size": "2K",
-        "Platform": "Fountain #7 + Interton #5",
-        "Year": ""
-      },
-      {
-        "Name": "Bat & Ball (Voltmace)/Olympics (Fountain)/Paddle Games (Interton/Palson)/Sportsworld (Rowtron)",
-        "Size": "2K",
-        "Platform": "Fountain #1 + Interton #3 + Palson #1 + Rowtron #1 + Voltmace #3",
-        "Year": ""
-      },
-      {
-        "Name": "Blackjack",
-        "Size": "2K",
-        "Platform": "Fountain #3 + Interton #2",
-        "Year": ""
-      },
-      {
-        "Name": "Bowling/Ninepins",
-        "Size": "2K",
-        "Platform": "Interton #25",
-        "Year": ""
-      },
-      {
-        "Name": "Boxing (Voltmace)/Boxing Match (Interton)/Prizefight (Fountain)",
-        "Size": "4K",
-        "Platform": "Fountain #14 + Interton #18 + Voltmace #13",
-        "Year": ""
-      },
-      {
-        "Name": "Brain Drain (Voltmace)/Codebreaker (Fountain)/Mastermind (Interton)",
-        "Size": "2K",
-        "Platform": "Fountain #10 + Interton #16 + Voltmace #9",
-        "Year": ""
-      },
-      {
-        "Name": "Capture (Fountain)/Reversi (Interton)",
-        "Size": "2K",
-        "Platform": "Fountain #24 + Interton #21",
-        "Year": ""
-      },
-      {
-        "Name": "Car Races",
-        "Size": "2K",
-        "Platform": "Interton #1",
-        "Year": ""
-      },
-      {
-        "Name": "Casino",
-        "Size": "2K",
-        "Platform": "Interton #31",
-        "Year": ""
-      },
-      {
-        "Name": "Challenge! (Acetronic)/Four in a Row (Interton)",
-        "Size": "2K",
-        "Platform": "Acetronic #9 + Interton #15 + Voltmace #14",
-        "Year": ""
-      },
-      {
-        "Name": "Chess",
-        "Size": "4K",
-        "Platform": "Interton #13",
-        "Year": ""
-      },
-      {
-        "Name": "Chess 2",
-        "Size": "6K",
-        "Platform": "Interton #22",
-        "Year": ""
-      },
-      {
-        "Name": "Circus",
-        "Size": "2K",
-        "Platform": "Fountain #13 + Interton #17 + Voltmace #12",
-        "Year": ""
-      },
-      {
-        "Name": "Cockpit",
-        "Size": "4K",
-        "Platform": "Interton #28",
-        "Year": ""
-      },
-      {
-        "Name": "Come Come",
-        "Size": "4K",
-        "Platform": "Palson #16",
-        "Year": ""
-      },
-      {
-        "Name": "Come-Frutas",
-        "Size": "4K",
-        "Platform": "TRQ",
-        "Year": ""
-      },
-      {
-        "Name": "Come-Frutas (alternate version)",
-        "Size": "4K",
-        "Platform": "TRQ?",
-        "Year": ""
-      },
-      {
-        "Name": "Cowboy",
-        "Size": "2K",
-        "Platform": "Rowtron",
-        "Year": "1981"
-      },
-      {
-        "Name": "Crazy Crab",
-        "Size": "4K",
-        "Platform": "Voltmace #29",
-        "Year": ""
-      },
-      {
-        "Name": "Draughts",
-        "Size": "4K",
-        "Platform": "Interton #26 + Voltmace #22",
-        "Year": ""
-      },
-      {
-        "Name": "Electronic Pinball",
-        "Size": "2K",
-        "Platform": "Fountain #25",
-        "Year": ""
-      },
-      {
-        "Name": "Golf",
-        "Size": "4K",
-        "Platform": "Fountain #19 + Interton #27",
-        "Year": ""
-      },
-      {
-        "Name": "Grand Prix (Fountain)/Road Race (Voltmace)",
-        "Size": "2K",
-        "Platform": "Fountain #2/Voltmace #4",
-        "Year": ""
-      },
-      {
-        "Name": "Head On",
-        "Size": "2K",
-        "Platform": "Fountain #20",
-        "Year": "1981"
-      },
-      {
-        "Name": "Hippodrome",
-        "Size": "2K",
-        "Platform": "Interton #11",
-        "Year": ""
-      },
-      {
-        "Name": "Hobby Module",
-        "Size": "2K",
-        "Platform": "Radofin #16",
-        "Year": "1980"
-      },
-      {
-        "Name": "Horse Racing",
-        "Size": "2K",
-        "Platform": "Fountain #12 + Voltmace #11",
-        "Year": ""
-      },
-      {
-        "Name": "Hunting",
-        "Size": "2K",
-        "Platform": "Interton #12",
-        "Year": ""
-      },
-      {
-        "Name": "Hyperspace",
-        "Size": "2K",
-        "Platform": "Interton #38",
-        "Year": ""
-      },
-      {
-        "Name": "Invaders",
-        "Size": "2K",
-        "Platform": "Fountain #27",
-        "Year": ""
-      },
-      {
-        "Name": "Invaders",
-        "Size": "2K",
-        "Platform": "Interton #32",
-        "Year": ""
-      },
-      {
-        "Name": "Labyrinth",
-        "Size": "2K",
-        "Platform": "Interton #9",
-        "Year": ""
-      },
-      {
-        "Name": "Laser Attack",
-        "Size": "2K",
-        "Platform": "Fountain #31",
-        "Year": "1981"
-      },
-      {
-        "Name": "Leapfrog",
-        "Size": "4K",
-        "Platform": "Voltmace",
-        "Year": "1982"
-      },
-      {
-        "Name": "Math 2 (Fountain)/Mathematics 2 (Interton/Voltmace)",
-        "Size": "2K",
-        "Platform": "Fountain #8 + Interton #6 + Voltmace #7",
-        "Year": ""
-      },
-      {
-        "Name": "Melody/Simon (Interton)/Musical Games (Fountain)/Musical Memory (Voltmace)",
-        "Size": "2K",
-        "Platform": "Fountain #17 + Interton #20 + Voltmace #21",
-        "Year": ""
-      },
-      {
-        "Name": "Metropolis/Hangman",
-        "Size": "4K",
-        "Platform": "Interton #29",
-        "Year": ""
-      },
-      {
-        "Name": "Monster Munchers",
-        "Size": "2K",
-        "Platform": "Rowtron",
-        "Year": ""
-      },
-      {
-        "Name": "Motocross",
-        "Size": "4K",
-        "Platform": "Interton #14",
-        "Year": ""
-      },
-      {
-        "Name": "Munch & Crunch",
-        "Size": "4K",
-        "Platform": "Voltmace #24",
-        "Year": "1982"
-      },
-      {
-        "Name": "Planet Defender",
-        "Size": "2K",
-        "Platform": "Fountain #33",
-        "Year": "1982"
-      },
-      {
-        "Name": "Shoot Out",
-        "Size": "2K",
-        "Platform": "Fountain #29",
-        "Year": "1981"
-      },
-      {
-        "Name": "Shooting Gallery",
-        "Size": "2K",
-        "Platform": "Fountain #6 + Voltmace #8",
-        "Year": ""
-      },
-      {
-        "Name": "Soccer",
-        "Size": "2K",
-        "Platform": "Fountain #15",
-        "Year": ""
-      },
-      {
-        "Name": "Soccer",
-        "Size": "2K",
-        "Platform": "Interton #24",
-        "Year": ""
-      },
-      {
-        "Name": "Solitaire",
-        "Size": "2K",
-        "Platform": "Interton #30",
-        "Year": ""
-      },
-      {
-        "Name": "Space War (Fountain)/Outer Space Combat (Interton)/Galactic Space Battles (Rowtron)",
-        "Size": "2K",
-        "Platform": "Fountain #30 + Interton #19 + Rowtron",
-        "Year": ""
-      },
-      {
-        "Name": "Spider's Web (Fountain)/Monster-Man (Interton)",
-        "Size": "4K",
-        "Platform": "Fountain #22 + Interton #37",
-        "Year": ""
-      },
-      {
-        "Name": "Super Invaders",
-        "Size": "2K",
-        "Platform": "Interton #33",
-        "Year": ""
-      },
-      {
-        "Name": "Super Knockout",
-        "Size": "2K",
-        "Platform": "Fountain #26",
-        "Year": "1980"
-      },
-      {
-        "Name": "Super Maze (Fountain)/Maze (Palson/Voltmace)",
-        "Size": "2K",
-        "Platform": "Fountain #11 + Palson #7 + Voltmace #10",
-        "Year": ""
-      },
-      {
-        "Name": "Super-Space",
-        "Size": "4K",
-        "Platform": "Interton #40",
-        "Year": ""
-      },
-      {
-        "Name": "Tank Battle/Air Battle",
-        "Size": "2K",
-        "Platform": "Interton #4",
-        "Year": ""
-      },
-      {
-        "Name": "Tank/Plane Battle (Fountain)/Tank &  Plane (Voltmace)",
-        "Size": "2K",
-        "Platform": "Fountain #4 + Voltmace #5",
-        "Year": ""
-      },
-      {
-        "Name": "Treasure Hunt (Fountain)/Memory 1/Flag  Capture (Interton)",
-        "Size": "2K",
-        "Platform": "Fountain #18 + Interton #8",
-        "Year": ""
-      },
-      {
-        "Name": "Winter Sports",
-        "Size": "4K",
-        "Platform": "Interton #10",
-        "Year": ""
-      }
-    ]
-  }
-]
+{
+  "table2": [
+    {
+      "Name": "Air/Sea Attack / Air/Sea Battle",
+      "Size": "2K",
+      "Platform": "Fountain #5 + Palson #9 + Interton #7",
+      "Year": ""
+    },
+    {
+      "Name": "Arcade (Voltmace)/Pinball (Interton)",
+      "Size": "2K",
+      "Platform": "Interton #23 + Voltmace #20",
+      "Year": ""
+    },
+    {
+      "Name": "Backgammon",
+      "Size": "4K",
+      "Platform": "Interton #36",
+      "Year": ""
+    },
+    {
+      "Name": "Basic Maths (Fountain)/Mathematics 1 (Interton)",
+      "Size": "2K",
+      "Platform": "Fountain #7 + Interton #5",
+      "Year": ""
+    },
+    {
+      "Name": "Bat & Ball (Voltmace)/Olympics (Fountain)/Paddle Games (Interton/Palson)/Sportsworld (Rowtron)",
+      "Size": "2K",
+      "Platform": "Fountain #1 + Interton #3 + Palson #1 + Rowtron #1 + Voltmace #3",
+      "Year": ""
+    },
+    {
+      "Name": "Blackjack",
+      "Size": "2K",
+      "Platform": "Fountain #3 + Interton #2",
+      "Year": ""
+    },
+    {
+      "Name": "Bowling/Ninepins",
+      "Size": "2K",
+      "Platform": "Interton #25",
+      "Year": ""
+    },
+    {
+      "Name": "Boxing (Voltmace)/Boxing Match (Interton)/Prizefight (Fountain)",
+      "Size": "4K",
+      "Platform": "Fountain #14 + Interton #18 + Voltmace #13",
+      "Year": ""
+    },
+    {
+      "Name": "Brain Drain (Voltmace)/Codebreaker (Fountain)/Mastermind (Interton)",
+      "Size": "2K",
+      "Platform": "Fountain #10 + Interton #16 + Voltmace #9",
+      "Year": ""
+    },
+    {
+      "Name": "Capture (Fountain)/Reversi (Interton)",
+      "Size": "2K",
+      "Platform": "Fountain #24 + Interton #21",
+      "Year": ""
+    },
+    {
+      "Name": "Car Races",
+      "Size": "2K",
+      "Platform": "Interton #1",
+      "Year": ""
+    },
+    {
+      "Name": "Casino",
+      "Size": "2K",
+      "Platform": "Interton #31",
+      "Year": ""
+    },
+    {
+      "Name": "Challenge! (Acetronic)/Four in a Row (Interton)",
+      "Size": "2K",
+      "Platform": "Acetronic #9 + Interton #15 + Voltmace #14",
+      "Year": ""
+    },
+    {
+      "Name": "Chess",
+      "Size": "4K",
+      "Platform": "Interton #13",
+      "Year": ""
+    },
+    {
+      "Name": "Chess 2",
+      "Size": "6K",
+      "Platform": "Interton #22",
+      "Year": ""
+    },
+    {
+      "Name": "Circus",
+      "Size": "2K",
+      "Platform": "Fountain #13 + Interton #17 + Voltmace #12",
+      "Year": ""
+    },
+    {
+      "Name": "Cockpit",
+      "Size": "4K",
+      "Platform": "Interton #28",
+      "Year": ""
+    },
+    {
+      "Name": "Come Come",
+      "Size": "4K",
+      "Platform": "Palson #16",
+      "Year": ""
+    },
+    {
+      "Name": "Come-Frutas",
+      "Size": "4K",
+      "Platform": "TRQ",
+      "Year": ""
+    },
+    {
+      "Name": "Come-Frutas (alternate version)",
+      "Size": "4K",
+      "Platform": "TRQ?",
+      "Year": ""
+    },
+    {
+      "Name": "Cowboy",
+      "Size": "2K",
+      "Platform": "Rowtron",
+      "Year": "1981"
+    },
+    {
+      "Name": "Crazy Crab",
+      "Size": "4K",
+      "Platform": "Voltmace #29",
+      "Year": ""
+    },
+    {
+      "Name": "Draughts",
+      "Size": "4K",
+      "Platform": "Interton #26 + Voltmace #22",
+      "Year": ""
+    },
+    {
+      "Name": "Electronic Pinball",
+      "Size": "2K",
+      "Platform": "Fountain #25",
+      "Year": ""
+    },
+    {
+      "Name": "Golf",
+      "Size": "4K",
+      "Platform": "Fountain #19 + Interton #27",
+      "Year": ""
+    },
+    {
+      "Name": "Grand Prix (Fountain)/Road Race (Voltmace)",
+      "Size": "2K",
+      "Platform": "Fountain #2/Voltmace #4",
+      "Year": ""
+    },
+    {
+      "Name": "Head On",
+      "Size": "2K",
+      "Platform": "Fountain #20",
+      "Year": "1981"
+    },
+    {
+      "Name": "Hippodrome",
+      "Size": "2K",
+      "Platform": "Interton #11",
+      "Year": ""
+    },
+    {
+      "Name": "Hobby Module",
+      "Size": "2K",
+      "Platform": "Radofin #16",
+      "Year": "1980"
+    },
+    {
+      "Name": "Horse Racing",
+      "Size": "2K",
+      "Platform": "Fountain #12 + Voltmace #11",
+      "Year": ""
+    },
+    {
+      "Name": "Hunting",
+      "Size": "2K",
+      "Platform": "Interton #12",
+      "Year": ""
+    },
+    {
+      "Name": "Hyperspace",
+      "Size": "2K",
+      "Platform": "Interton #38",
+      "Year": ""
+    },
+    {
+      "Name": "Invaders",
+      "Size": "2K",
+      "Platform": "Fountain #27",
+      "Year": ""
+    },
+    {
+      "Name": "Invaders",
+      "Size": "2K",
+      "Platform": "Interton #32",
+      "Year": ""
+    },
+    {
+      "Name": "Labyrinth",
+      "Size": "2K",
+      "Platform": "Interton #9",
+      "Year": ""
+    },
+    {
+      "Name": "Laser Attack",
+      "Size": "2K",
+      "Platform": "Fountain #31",
+      "Year": "1981"
+    },
+    {
+      "Name": "Leapfrog",
+      "Size": "4K",
+      "Platform": "Voltmace",
+      "Year": "1982"
+    },
+    {
+      "Name": "Math 2 (Fountain)/Mathematics 2 (Interton/Voltmace)",
+      "Size": "2K",
+      "Platform": "Fountain #8 + Interton #6 + Voltmace #7",
+      "Year": ""
+    },
+    {
+      "Name": "Melody/Simon (Interton)/Musical Games (Fountain)/Musical Memory (Voltmace)",
+      "Size": "2K",
+      "Platform": "Fountain #17 + Interton #20 + Voltmace #21",
+      "Year": ""
+    },
+    {
+      "Name": "Metropolis/Hangman",
+      "Size": "4K",
+      "Platform": "Interton #29",
+      "Year": ""
+    },
+    {
+      "Name": "Monster Munchers",
+      "Size": "2K",
+      "Platform": "Rowtron",
+      "Year": ""
+    },
+    {
+      "Name": "Motocross",
+      "Size": "4K",
+      "Platform": "Interton #14",
+      "Year": ""
+    },
+    {
+      "Name": "Munch & Crunch",
+      "Size": "4K",
+      "Platform": "Voltmace #24",
+      "Year": "1982"
+    },
+    {
+      "Name": "Planet Defender",
+      "Size": "2K",
+      "Platform": "Fountain #33",
+      "Year": "1982"
+    },
+    {
+      "Name": "Shoot Out",
+      "Size": "2K",
+      "Platform": "Fountain #29",
+      "Year": "1981"
+    },
+    {
+      "Name": "Shooting Gallery",
+      "Size": "2K",
+      "Platform": "Fountain #6 + Voltmace #8",
+      "Year": ""
+    },
+    {
+      "Name": "Soccer",
+      "Size": "2K",
+      "Platform": "Fountain #15",
+      "Year": ""
+    },
+    {
+      "Name": "Soccer",
+      "Size": "2K",
+      "Platform": "Interton #24",
+      "Year": ""
+    },
+    {
+      "Name": "Solitaire",
+      "Size": "2K",
+      "Platform": "Interton #30",
+      "Year": ""
+    },
+    {
+      "Name": "Space War (Fountain)/Outer Space Combat (Interton)/Galactic Space Battles (Rowtron)",
+      "Size": "2K",
+      "Platform": "Fountain #30 + Interton #19 + Rowtron",
+      "Year": ""
+    },
+    {
+      "Name": "Spider's Web (Fountain)/Monster-Man (Interton)",
+      "Size": "4K",
+      "Platform": "Fountain #22 + Interton #37",
+      "Year": ""
+    },
+    {
+      "Name": "Super Invaders",
+      "Size": "2K",
+      "Platform": "Interton #33",
+      "Year": ""
+    },
+    {
+      "Name": "Super Knockout",
+      "Size": "2K",
+      "Platform": "Fountain #26",
+      "Year": "1980"
+    },
+    {
+      "Name": "Super Maze (Fountain)/Maze (Palson/Voltmace)",
+      "Size": "2K",
+      "Platform": "Fountain #11 + Palson #7 + Voltmace #10",
+      "Year": ""
+    },
+    {
+      "Name": "Super-Space",
+      "Size": "4K",
+      "Platform": "Interton #40",
+      "Year": ""
+    },
+    {
+      "Name": "Tank Battle/Air Battle",
+      "Size": "2K",
+      "Platform": "Interton #4",
+      "Year": ""
+    },
+    {
+      "Name": "Tank/Plane Battle (Fountain)/Tank &  Plane (Voltmace)",
+      "Size": "2K",
+      "Platform": "Fountain #4 + Voltmace #5",
+      "Year": ""
+    },
+    {
+      "Name": "Treasure Hunt (Fountain)/Memory 1/Flag  Capture (Interton)",
+      "Size": "2K",
+      "Platform": "Fountain #18 + Interton #8",
+      "Year": ""
+    },
+    {
+      "Name": "Winter Sports",
+      "Size": "4K",
+      "Platform": "Interton #10",
+      "Year": ""
+    }
+  ]
+}

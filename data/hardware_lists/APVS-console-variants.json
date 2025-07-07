@@ -1,0 +1,180 @@
+{
+    "table1": [
+        {
+            "Name": "1292 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Radofin / Radofin",
+            "Country": "Germany",
+            "Compatibility_family": "1292 Advanced Programmable Video System",
+            "Notes": "Released in 1979. Known also as \"Radofin Programmierbares Video System\". Has an external power supply.",
+            "Image": ""
+        },
+        {
+            "Name": "1392 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Europe",
+            "Country": "Released in 1979. Has an internal power supply.",
+            "Compatibility_family": ""
+        },
+        {
+            "Name": "HMG-1292 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Hanimex / Radofin",
+            "Country": "Australia and New Zealand",
+            "Compatibility_family": "",
+            "Notes": ""
+        },
+        {
+            "Name": "HMG-1392 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Australia and New Zealand",
+            "Country": "",
+            "Compatibility_family": ""
+        },
+        {
+            "Name": "Force 2",
+            "Brand_/_Manufacturer": "Fountain  / Radofin",
+            "Country": "Australia and New Zealand",
+            "Compatibility_family": "Released in 1979.",
+            "Notes": ""
+        },
+        {
+            "Name": "1292 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Australia and New Zealand",
+            "Country": "Released in 1979.",
+            "Compatibility_family": ""
+        },
+        {
+            "Name": "1392 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Australia and New Zealand",
+            "Country": "Released in 1979.\nHas an internal power supply",
+            "Compatibility_family": ""
+        },
+        {
+            "Name": "Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Grandstand  / Radofin",
+            "Country": "",
+            "Compatibility_family": "",
+            "Notes": ""
+        },
+        {
+            "Name": "Lansay 1392",
+            "Brand_/_Manufacturer": "Lansay  / Radofin",
+            "Country": "Europe",
+            "Compatibility_family": "Released in 1979.\nInternal power supply.",
+            "Notes": ""
+        },
+        {
+            "Name": "PP-1292 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Audiosonic  / Radofin",
+            "Country": "Europe",
+            "Compatibility_family": "Released in 1978.",
+            "Notes": ""
+        },
+        {
+            "Name": "PP-1392 Advanced Programmable Video System",
+            "Brand_/_Manufacturer": "Europe",
+            "Country": "Released in 1978.\nHas an internal power supply.",
+            "Compatibility_family": ""
+        },
+        {
+            "Name": "VC-6000",
+            "Brand_/_Manufacturer": "Prinztronic  / Radofin",
+            "Country": "United Kingdom",
+            "Compatibility_family": "Released in 1979.",
+            "Notes": ""
+        },
+        {
+            "Name": "MPU-1000",
+            "Brand_/_Manufacturer": "Acetronic  / Radofin",
+            "Country": "United Kingdom",
+            "Compatibility_family": "Released in 1979.",
+            "Notes": ""
+        },
+        {
+            "Name": "MPU-2000",
+            "Brand_/_Manufacturer": "United Kingdom",
+            "Country": "Released in 1979.",
+            "Compatibility_family": ""
+        },
+        {
+            "Name": "Database",
+            "Brand_/_Manufacturer": "Videomaster\\Voltmace",
+            "Country": "United Kingdom",
+            "Compatibility_family": "Database System",
+            "Notes": "",
+            "Image": ""
+        },
+        {
+            "Name": "Television Computer System",
+            "Brand_/_Manufacturer": "Rowtron",
+            "Country": "United Kingdom",
+            "Compatibility_family": "Television Computer System",
+            "Notes": "Released in 1979.",
+            "Image": ""
+        },
+        {
+            "Name": "Television Computer System",
+            "Brand_/_Manufacturer": "Teleng",
+            "Country": "United Kingdom",
+            "Compatibility_family": "Released in 1979.",
+            "Notes": ""
+        },
+        {
+            "Name": "Jeu Video TV",
+            "Brand_/_Manufacturer": "Karvan",
+            "Country": "France",
+            "Compatibility_family": "Video TV Game",
+            "Notes": "",
+            "Image": ""
+        },
+        {
+            "Name": "OC-2000",
+            "Brand_/_Manufacturer": "Societe Occitane Electronique",
+            "Country": "France",
+            "Compatibility_family": "Released in 1979.",
+            "Notes": ""
+        },
+        {
+            "Name": "Vidéo Ordinateur MPT-05",
+            "Brand_/_Manufacturer": "ITMC",
+            "Country": "France",
+            "Compatibility_family": "MPT-05",
+            "Notes": "Released in 1983.",
+            "Image": ""
+        },
+        {
+            "Name": "Super Play Computer 4000",
+            "Brand_/_Manufacturer": "Grundig",
+            "Country": "Germany",
+            "Compatibility_family": "Interton VC-4000",
+            "Notes": "",
+            "Image": ""
+        },
+        {
+            "Name": "VC 4000",
+            "Brand_/_Manufacturer": "Interton",
+            "Country": "Europe",
+            "Compatibility_family": "Released in 1978.",
+            "Notes": ""
+        },
+        {
+            "Name": "CX-3000 Data Bass Sistem",
+            "Brand_/_Manufacturer": "Palson",
+            "Country": "Spain",
+            "Compatibility_family": "",
+            "Notes": ""
+        },
+        {
+            "Name": "Tele Computer",
+            "Brand_/_Manufacturer": "Aureac",
+            "Country": "Spain",
+            "Compatibility_family": "Palson CX-3000 clone.",
+            "Notes": ""
+        },
+        {
+            "Name": "Video Computer H-21",
+            "Brand_/_Manufacturer": "TRQ",
+            "Country": "Spain",
+            "Compatibility_family": "Interton VC-4000 (partial)",
+            "Notes": "TRQ carts fit and work on Interton consoles. Interton carts don't fit in TRQ consoles.",
+            "Image": ""
+        }
+    ]
+}

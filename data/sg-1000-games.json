@@ -2,346 +2,346 @@
   {
     "table1": [
       {
-        "Title[1]": "Borderline",
+        "Title": "Borderline",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[2]": "March 1984",
+        "JP": "March 1984",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "The Castle",
+        "Title": "The Castle",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "1986",
+        "JP": "1986",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Champion Baseball",
+        "Title": "Champion Baseball",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "October 1983",
+        "JP": "October 1983",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "Champion Boxing",
+        "Title": "Champion Boxing",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "October 1984[a]",
+        "JP": "October 1984[a]",
         "AUS": "Unreleased[b]",
         "NZ": "January 1985[4]"
       },
       {
-        "Title[1]": "Champion Golf",
+        "Title": "Champion Golf",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "March 1984[c]",
+        "JP": "March 1984[c]",
         "AUS": "June 1984",
         "NZ": "June 1984[5]"
       },
       {
-        "Title[1]": "Champion Pro Wrestling",
+        "Title": "Champion Pro Wrestling",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "March 1985",
+        "JP": "March 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Champion Soccer",
+        "Title": "Champion Soccer",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "November 1984",
+        "JP": "November 1984",
         "AUS": "Unreleased[b]",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Champion Tennis",
+        "Title": "Champion Tennis",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "August 1983",
+        "JP": "August 1983",
         "AUS": "November 1983",
         "NZ": "November 1983[6]"
       },
       {
-        "Title[1]": "Congo Bongo",
+        "Title": "Congo Bongo",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 15, 1983",
+        "JP": "July 15, 1983",
         "AUS": "November 1983",
         "NZ": "November 1983[6]"
       },
       {
-        "Title[1]": "Exerion",
+        "Title": "Exerion",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "March 1984",
+        "JP": "March 1984",
         "AUS": "June 1984",
         "NZ": "June 1984[5]"
       },
       {
-        "Title[1]": "Flicky",
+        "Title": "Flicky",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "December 1984",
+        "JP": "December 1984",
         "AUS": "Unreleased",
         "NZ": "February 1985[4]"
       },
       {
-        "Title[1]": "Girl's Garden",
+        "Title": "Girl's Garden",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "January 1985",
+        "JP": "January 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "GP World",
+        "Title": "GP World",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "April 1985",
+        "JP": "April 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Golgo 13",
+        "Title": "Golgo 13",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "April 1984",
+        "JP": "April 1984",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Home Mahjong",
+        "Title": "Home Mahjong",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "December 1984",
+        "JP": "December 1984",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Hustle Chumy",
+        "Title": "Hustle Chumy",
         "Developer": "CompileSega",
         "Publisher": "Sega",
-        "JP[2]": "November 1984",
+        "JP": "November 1984",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Hyper Sports",
+        "Title": "Hyper Sports",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "April 1985",
+        "JP": "April 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Lode Runner",
+        "Title": "Lode Runner",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "September 1984",
+        "JP": "September 1984",
         "AUS": "Unreleased[b]",
         "NZ": "January 1985[4]"
       },
       {
-        "Title[1]": "Loretta no Shōzō: Sherlock Holmes",
+        "Title": "Loretta no Shōzō: Sherlock Holmes",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "February 18, 1987[1]",
+        "JP": "February 18, 1987[1]",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Mahjong",
+        "Title": "Mahjong",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 15, 1983",
+        "JP": "July 15, 1983",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Monaco GP",
+        "Title": "Monaco GP",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "December 1983[d]",
+        "JP": "December 1983[d]",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "N-Sub",
+        "Title": "N-Sub",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[2]": "July 15, 1983",
+        "JP": "July 15, 1983",
         "AUS": "November 1983",
         "NZ": "November 1983[6]"
       },
       {
-        "Title[1]": "Orguss",
+        "Title": "Orguss",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "May 1984",
+        "JP": "May 1984",
         "AUS": "October 1984[3]",
         "NZ": "February 1985[4]"
       },
       {
-        "Title[1]": "Othello",
+        "Title": "Othello",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 1985",
+        "JP": "July 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Pacar",
+        "Title": "Pacar",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "November 1983",
+        "JP": "November 1983",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "Pachinko",
+        "Title": "Pachinko",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "December 1983",
+        "JP": "December 1983",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Pachinko II",
+        "Title": "Pachinko II",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "April 1984",
+        "JP": "April 1984",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Pop Flamer",
+        "Title": "Pop Flamer",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "November 1983",
+        "JP": "November 1983",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "Safari Hunting",
+        "Title": "Safari Hunting",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[2]": "August 1983",
+        "JP": "August 1983",
         "AUS": "November 1983",
         "NZ": "November 1983[6]"
       },
       {
-        "Title[1]": "Safari Race",
+        "Title": "Safari Race",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 1984",
+        "JP": "July 1984",
         "AUS": "October 1984[3]",
         "NZ": "January 1985[4]"
       },
       {
-        "Title[1]": "Sega FlipperVideo FlipperNZ",
+        "Title": "Sega FlipperVideo FlipperNZ",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "October 1983",
+        "JP": "October 1983",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "Sega-Galaga",
+        "Title": "Sega-Galaga",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "November 1983",
+        "JP": "November 1983",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Serizawa Hachidan no Tsume Shōgi",
+        "Title": "Serizawa Hachidan no Tsume Shōgi",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 15, 1983",
+        "JP": "July 15, 1983",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Shinnyū Shain Tōru-kun",
+        "Title": "Shinnyū Shain Tōru-kun",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "April 1985",
+        "JP": "April 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Sindbad Mystery",
+        "Title": "Sindbad Mystery",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "January 1984",
+        "JP": "January 1984",
         "AUS": "1984",
         "NZ": "1984"
       },
       {
-        "Title[1]": "Space Invaders",
+        "Title": "Space Invaders",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "June 1985",
+        "JP": "June 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Space Slalom",
+        "Title": "Space Slalom",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "December 1983",
+        "JP": "December 1983",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Star Force",
+        "Title": "Star Force",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "May 1985[e]",
+        "JP": "May 1985[e]",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Star Jacker",
+        "Title": "Star Jacker",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 15, 1983",
+        "JP": "July 15, 1983",
         "AUS": "November 1983",
         "NZ": "November 1983[6]"
       },
       {
-        "Title[1]": "Uranai Angel Cutie",
+        "Title": "Uranai Angel Cutie",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "December 1984",
+        "JP": "December 1984",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Yamato",
+        "Title": "Yamato",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "July 15, 1983",
+        "JP": "July 15, 1983",
         "AUS": "November 1983",
         "NZ": "November 1983[6]"
       },
       {
-        "Title[1]": "Zaxxon",
+        "Title": "Zaxxon",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "February 1985",
+        "JP": "February 1985",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       },
       {
-        "Title[1]": "Zippy Race",
+        "Title": "Zippy Race",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[2]": "March 1984[f]",
+        "JP": "March 1984[f]",
         "AUS": "Unreleased",
         "NZ": "Unreleased"
       }
@@ -350,327 +350,327 @@
   {
     "table2": [
       {
-        "Title[2]": "007 James Bond",
+        "Title": "007 James Bond",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "December 1984"
+        "JP": "December 1984"
       },
       {
-        "Title[2]": "Challenge Derby",
+        "Title": "Challenge Derby",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "June 1984"
+        "JP": "June 1984"
       },
       {
-        "Title[2]": "Guzzler",
+        "Title": "Guzzler",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "October 1983"
+        "JP": "October 1983"
       },
       {
-        "Title[2]": "Okamoto Ayako no Match Play Golf",
+        "Title": "Okamoto Ayako no Match Play Golf",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "July 1984"
+        "JP": "July 1984"
       },
       {
-        "Title[2]": "Q*bert",
+        "Title": "Q*bert",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "October 1983"
+        "JP": "October 1983"
       },
       {
-        "Title[2]": "Sannin Mahjong",
+        "Title": "Sannin Mahjong",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "May 1984"
+        "JP": "May 1984"
       },
       {
-        "Title[2]": "Space Armor",
+        "Title": "Space Armor",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "December 1984"
+        "JP": "December 1984"
       },
       {
-        "Title[2]": "Space Mountain",
+        "Title": "Space Mountain",
         "Developer": "Tsukuda Original",
         "Publisher": "Tsukuda Original",
-        "JP[2]": "May 1984"
+        "JP": "May 1984"
       }
     ]
   },
   {
     "table3": [
       {
-        "Title[1]": "Bank Panic",
+        "Title": "Bank Panic",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "September 1985"
+        "JP": "September 1985"
       },
       {
-        "Title[1]": "The Black Onyx",
+        "Title": "The Black Onyx",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1987"
+        "JP": "1987"
       },
       {
-        "Title[1]": "Bomb Jack",
+        "Title": "Bomb Jack",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "December 1985"
+        "JP": "December 1985"
       },
       {
-        "Title[1]": "C-So!",
+        "Title": "C-So!",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[7]": "February 1986"
+        "JP": "February 1986"
       },
       {
-        "Title[1]": "Chack'n Pop",
+        "Title": "Chack'n Pop",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "September 1985"
+        "JP": "September 1985"
       },
       {
-        "Title[1]": "Champion Billiards",
+        "Title": "Champion Billiards",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[7]": "1986"
+        "JP": "1986"
       },
       {
-        "Title[1]": "Champion Boxing",
+        "Title": "Champion Boxing",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1985"
+        "JP": "1985"
       },
       {
-        "Title[1]": "Champion Golf",
+        "Title": "Champion Golf",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1985"
+        "JP": "1985"
       },
       {
-        "Title[1]": "Champion Ice Hockey",
+        "Title": "Champion Ice Hockey",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "December 1985"
+        "JP": "December 1985"
       },
       {
-        "Title[1]": "Champion Kendo",
+        "Title": "Champion Kendo",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "April 1986"
+        "JP": "April 1986"
       },
       {
-        "Title[1]": "Championship Lode Runner",
+        "Title": "Championship Lode Runner",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[7]": "December 1985"
+        "JP": "December 1985"
       },
       {
-        "Title[1]": "Choplifter",
+        "Title": "Choplifter",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[7]": "July 1985"
+        "JP": "July 1985"
       },
       {
-        "Title[1]": "Doki Doki Penguin Land",
+        "Title": "Doki Doki Penguin Land",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "July 1985"
+        "JP": "July 1985"
       },
       {
-        "Title[1]": "Dragon Wang",
+        "Title": "Dragon Wang",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "July 1985"
+        "JP": "July 1985"
       },
       {
-        "Title[1]": "Drol",
+        "Title": "Drol",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "October 1985"
+        "JP": "October 1985"
       },
       {
-        "Title[1]": "Elevator Action",
+        "Title": "Elevator Action",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "November 1985"
+        "JP": "November 1985"
       },
       {
-        "Title[1]": "Gulkave",
+        "Title": "Gulkave",
         "Developer": "Compile",
         "Publisher": "Sega",
-        "JP[7]": "1986"
+        "JP": "1986"
       },
       {
-        "Title[1]": "Hang-On II",
+        "Title": "Hang-On II",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "December 1985"
+        "JP": "December 1985"
       },
       {
-        "Title[1]": "H.E.R.O.",
+        "Title": "H.E.R.O.",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "December 1985"
+        "JP": "December 1985"
       },
       {
-        "Title[1]": "Monaco GP",
+        "Title": "Monaco GP",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1985"
+        "JP": "1985"
       },
       {
-        "Title[1]": "Ninja Princess",
+        "Title": "Ninja Princess",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "February 1986"
+        "JP": "February 1986"
       },
       {
-        "Title[1]": "Pitfall II: Lost Caverns",
+        "Title": "Pitfall II: Lost Caverns",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "July 1985"
+        "JP": "July 1985"
       },
       {
-        "Title[1]": "Rock n' Bolt",
+        "Title": "Rock n' Bolt",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "November 1985"
+        "JP": "November 1985"
       },
       {
-        "Title[1]": "Sokoban",
+        "Title": "Sokoban",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "December 1985"
+        "JP": "December 1985"
       },
       {
-        "Title[1]": "Star Force",
+        "Title": "Star Force",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1985"
+        "JP": "1985"
       },
       {
-        "Title[1]": "Super Tank",
+        "Title": "Super Tank",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1986"
+        "JP": "1986"
       },
       {
-        "Title[1]": "Wonder Boy",
+        "Title": "Wonder Boy",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1986"
+        "JP": "1986"
       },
       {
-        "Title[1]": "Zippy Race",
+        "Title": "Zippy Race",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "1985"
+        "JP": "1985"
       },
       {
-        "Title[1]": "Zoom 909",
+        "Title": "Zoom 909",
         "Developer": "Sega",
         "Publisher": "Sega",
-        "JP[7]": "July 1985"
+        "JP": "July 1985"
       }
     ]
   },
   {
     "table4": [
       {
-        "Title[1]": "Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)",
+        "Title": "Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)",
+        "Title": "Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)",
+        "Title": "Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)",
+        "Title": "Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)",
+        "Title": "Chuugaku Hisshuu Eitango (Chuugaku 1-Nen)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)",
+        "Title": "Chuugaku Hisshuu Eitango (Chuugaku 2-Nen)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Kagaku (Gensokigou Master)",
+        "Title": "Kagaku (Gensokigou Master)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Music",
+        "Title": "Music",
         "Developer": "Mitec",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Nihonshi Nenpyou",
+        "Title": "Nihonshi Nenpyou",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Sekaishi Nenpyou (Monbushou Shidouyouryou Junkyo)",
+        "Title": "Sekaishi Nenpyou (Monbushou Shidouyouryou Junkyo)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Tanoshī Sansū (Shōgaku 4-Nensei-jō)",
+        "Title": "Tanoshī Sansū (Shōgaku 4-Nensei-jō)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Tanoshī Sansū (Shōgaku 4-Nensei-ka)",
+        "Title": "Tanoshī Sansū (Shōgaku 4-Nensei-ka)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1984"
       },
       {
-        "Title[1]": "Tanoshī Sansū (Shōgaku 5-Nensei-jō)",
+        "Title": "Tanoshī Sansū (Shōgaku 5-Nensei-jō)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1984"
       },
       {
-        "Title[1]": "Tanoshī Sansū (Shōgaku 5-Nensei-ka)",
+        "Title": "Tanoshī Sansū (Shōgaku 5-Nensei-ka)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1984"
       },
       {
-        "Title[1]": "Tanoshī Sansū (Shōgaku 6-Nensei-jō)",
+        "Title": "Tanoshī Sansū (Shōgaku 6-Nensei-jō)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1984"
       },
       {
-        "Title[1]": "Tanoshī Sansū (Shōgaku 6-Nensei-ka)",
+        "Title": "Tanoshī Sansū (Shōgaku 6-Nensei-ka)",
         "Developer": "Sega",
         "Publisher": "Sega",
         "Released": "1984"
@@ -680,43 +680,43 @@
   {
     "table5": [
       {
-        "Title[1]": "BASIC Level II A",
+        "Title": "BASIC Level II A",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "BASIC Level II B",
+        "Title": "BASIC Level II B",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "BASIC Level III A",
+        "Title": "BASIC Level III A",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "BASIC Level III B",
+        "Title": "BASIC Level III B",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "BASIC SK-III",
+        "Title": "BASIC SK-III",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1983"
       },
       {
-        "Title[1]": "Home BASIC",
+        "Title": "Home BASIC",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1985"
       },
       {
-        "Title[1]": "Home BASIC Level II B",
+        "Title": "Home BASIC Level II B",
         "Developer": "Mitech",
         "Publisher": "Sega",
         "Released": "1985"

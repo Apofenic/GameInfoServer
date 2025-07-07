@@ -11,7 +11,16 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-// Game model represents video game entries in the database
+model ApiKey {
+  id        Int      @id @default(autoincrement())
+  key       String   @unique
+  name      String   // Descriptive name for the key
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  lastUsed  DateTime?
+}
+
 model Game {
   id             Int      @id @default(autoincrement())
   createdAt      DateTime @default(now())
@@ -20,13 +29,33 @@ model Game {
   platform       String
   releaseDate    DateTime
   developer      String?
+  publisher      String?
   genre          String?
   metascore      Int?
   userscore      Int?
   coverArtUrls   String?
   screenShotUrls String?
   summary        String?
-
+  notes          String?
+  lists List[] @relation("ListGames")
   // Constraints
   @@unique([title, platform], name: "title_platform")
+}
+
+model List {
+  id     Int    @id @default(autoincrement())
+  title  String
+  userId Int
+  user  User   @relation(fields: [userId], references: [id])
+  games Game[] @relation("ListGames")
+}
+
+model User {
+  id       Int     @id @default(autoincrement())
+  email    String  @unique
+  password String  // Hashed password
+  name     String?
+  lists    List[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }

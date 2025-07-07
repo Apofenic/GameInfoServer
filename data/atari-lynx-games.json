@@ -3,791 +3,791 @@
     "table1": [
       {
         "Region": "North America and other NTSC territories.",
-        "Region description": "71"
+        "Region_description": "71"
       },
       {
         "Region": "PAL/SECAM territories: much of Europe and Australia.",
-        "Region description": "71"
+        "Region_description": "71"
       },
       {
         "Region": "Japan and other NTSC-J territories.",
-        "Region description": "17"
+        "Region_description": "17"
       }
     ]
   },
   {
     "table2": [
       {
-        "Title[6][7][8]": "Quicksilver Software",
+        "Title": "Quicksilver Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hamilton and Associates",
+        "Title": "Hamilton and Associates",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Beyond Games",
+        "Title": "Beyond Games",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1995",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Al Baker & Associates",
+        "Title": "Al Baker & Associates",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "P.Z.Karen Co. Development Group",
+        "Title": "P.Z.Karen Co. Development Group",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1989",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1989",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1989",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Color Dreams",
+        "Title": "Color Dreams",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Teque London",
+        "Title": "Teque London",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Imagitec Design",
+        "Title": "Imagitec Design",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Knight Technologies",
+        "Title": "Knight Technologies",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Knight Technologies",
+        "Title": "Knight Technologies",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1989",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Krisalis Software",
+        "Title": "Krisalis Software",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Telegames",
+        "Title": "Telegames",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1989",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Tenth Planet Software",
+        "Title": "Tenth Planet Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Alpine Software",
+        "Title": "Alpine Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Shadowsoft",
+        "Title": "Shadowsoft",
         "Developer(s)": "Shadowsoft",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Lore Games",
+        "Title": "Lore Games",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "DMA Design",
+        "Title": "DMA Design",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Brian A. Rice, Inc.",
+        "Title": "Brian A. Rice, Inc.",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "BlueSky Software",
+        "Title": "BlueSky Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "BlueSky Software",
+        "Title": "BlueSky Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Al Baker & Associates",
+        "Title": "Al Baker & Associates",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Al Baker & Associates",
+        "Title": "Al Baker & Associates",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Knight Technologies",
+        "Title": "Knight Technologies",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Shadowsoft",
+        "Title": "Shadowsoft",
         "Developer(s)": "Shadowsoft",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Creative Software Designs",
+        "Title": "Creative Software Designs",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Digital Developments",
+        "Title": "Digital Developments",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1995",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Leland Interactive Media",
+        "Title": "Leland Interactive Media",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1993",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Loriciel",
+        "Title": "Loriciel",
         "Developer(s)": "Atari CorporationNALoricielPAL",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Optimus Software",
+        "Title": "Optimus Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "BlueSky Software",
+        "Title": "BlueSky Software",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Imagitec Design",
+        "Title": "Imagitec Design",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Brian A. Rice, Inc.",
+        "Title": "Brian A. Rice, Inc.",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1992",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "Atari Corporation",
         "Publisher(s)": "1991",
-        "Release date(s)": "NA, PAL"
+        "Release_date(s)": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Epyx",
+        "Title": "Epyx",
         "Developer(s)": "Atari CorporationMumin CorporationJP",
         "Publisher(s)": "1990",
-        "Release date(s)": "NA, PAL, JP"
+        "Release_date(s)": "NA, PAL, JP"
       }
     ]
   },
   {
     "table3": [
       {
-        "Title[6][7][8]": "Duranik",
+        "Title": "Duranik",
         "Developer(s)": "Duranik / L.Baumstark / Songbird Productions",
         "Publisher(s)": "January 25, 2004",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Duranik",
+        "Title": "Duranik",
         "Developer(s)": "Duranik",
         "Publisher(s)": "February 20, 2006",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Karri Kaksonen",
+        "Title": "Karri Kaksonen",
         "Developer(s)": "White Lynx",
         "Publisher(s)": "December 6, 2017",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "PriorArt",
+        "Title": "PriorArt",
         "Developer(s)": "poly.play",
         "Publisher(s)": "2019",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Yastuna Games",
+        "Title": "Yastuna Games",
         "Developer(s)": "Yastuna Game / Songbird Productions",
         "Publisher(s)": "2001",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Rygar",
+        "Title": "Rygar",
         "Developer(s)": "Rygar",
         "Publisher(s)": "2009",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Lore Design Limited",
+        "Title": "Lore Design Limited",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1994",
-        "Date first released": "NA, PAL"
+        "Date_first_released": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Shadowsoft",
+        "Title": "Shadowsoft",
         "Developer(s)": "Video61",
         "Publisher(s)": "2003",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Songbird Productions",
+        "Title": "Songbird Productions",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2002",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Songbird Productions",
+        "Title": "Songbird Productions",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2000",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Harry Dodgson",
+        "Title": "Harry Dodgson",
         "Developer(s)": "MyAtari",
         "Publisher(s)": "2002",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Ken Beckett",
+        "Title": "Ken Beckett",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "1999",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Beyond Games",
+        "Title": "Beyond Games",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2002",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Beyond Games",
+        "Title": "Beyond Games",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2001",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Imagitec Design",
+        "Title": "Imagitec Design",
         "Developer(s)": "B&C Computervisions",
         "Publisher(s)": "2003",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Björn Spruck",
+        "Title": "Björn Spruck",
         "Developer(s)": "Luchs Soft",
         "Publisher(s)": "December 30, 2017",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "NuFX",
+        "Title": "NuFX",
         "Developer(s)": "EricDeLee",
         "Publisher(s)": "2011",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Lore Design Limited",
+        "Title": "Lore Design Limited",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1997",
-        "Date first released": "NA, PAL"
+        "Date_first_released": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "tonma",
+        "Title": "tonma",
         "Developer(s)": "White Lynx",
         "Publisher(s)": "January 4, 2017",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Devlynx, ZoneLynx",
+        "Title": "Devlynx, ZoneLynx",
         "Developer(s)": "Luchs Soft",
         "Publisher(s)": "June 9, 2017",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Lore Design Limited",
+        "Title": "Lore Design Limited",
         "Developer(s)": "Beta Phase Games",
         "Publisher(s)": "January 6, 2011",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1999",
-        "Date first released": "NA, PAL"
+        "Date_first_released": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Telegames",
+        "Title": "Telegames",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1993, 2019",
-        "Date first released": "NA, PAL"
+        "Date_first_released": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Shadowsoft",
+        "Title": "Shadowsoft",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "1999",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Douglas E. Smith",
+        "Title": "Douglas E. Smith",
         "Developer(s)": "Broderbund",
         "Publisher(s)": "July 16, 2008",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Hand Made Software",
+        "Title": "Hand Made Software",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2002",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Harry Dodgson",
+        "Title": "Harry Dodgson",
         "Developer(s)": "Harry Dodgson",
         "Publisher(s)": "1999",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Sage",
+        "Title": "Sage",
         "Developer(s)": "Björn Spruck",
         "Publisher(s)": "2009",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Matthias Aschenbrenner",
+        "Title": "Matthias Aschenbrenner",
         "Developer(s)": "Hexgames",
         "Publisher(s)": "2009",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Songbird Productions",
+        "Title": "Songbird Productions",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2008",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "B. Schick",
+        "Title": "B. Schick",
         "Developer(s)": "DVPI GmbH",
         "Publisher(s)": "1994",
-        "Date first released": "PAL"
+        "Date_first_released": "PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Team Jaguar",
         "Publisher(s)": "2010",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Markus Wuehl",
+        "Title": "Markus Wuehl",
         "Developer(s)": "MW Software",
         "Publisher(s)": "2003",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Songbird Productions",
+        "Title": "Songbird Productions",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "June 18, 1999",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Video61",
         "Publisher(s)": "2007",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "RPM Software",
+        "Title": "RPM Software",
         "Developer(s)": "Beta Phase Games",
         "Publisher(s)": "August 18, 2017",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "BlueSky Software",
+        "Title": "BlueSky Software",
         "Developer(s)": "Telegames",
         "Publisher(s)": "1997",
-        "Date first released": "NA, PAL"
+        "Date_first_released": "NA, PAL"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Team Jaguar",
         "Publisher(s)": "January 6, 2011",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Songbird Productions",
+        "Title": "Songbird Productions",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "2000",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Luchs Soft",
+        "Title": "Luchs Soft",
         "Developer(s)": "Luchs Soft",
         "Publisher(s)": "December 6, 2018",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Atari Corporation",
+        "Title": "Atari Corporation",
         "Developer(s)": "Video61",
         "Publisher(s)": "2007",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Images Software",
+        "Title": "Images Software",
         "Developer(s)": "B&C Computervisions",
         "Publisher(s)": "2003",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Songbird Productions",
+        "Title": "Songbird Productions",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "1998",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Karri Kaksonen",
+        "Title": "Karri Kaksonen",
         "Developer(s)": "White Lynx",
         "Publisher(s)": "October 4, 2018",
-        "Date first released": "PAL"
+        "Date_first_released": "PAL"
       },
       {
-        "Title[6][7][8]": "B. Schick, M. Domin",
+        "Title": "B. Schick, M. Domin",
         "Developer(s)": "L. Baumstark / Songbird Productions",
         "Publisher(s)": "1998",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Markus Wuehl",
+        "Title": "Markus Wuehl",
         "Developer(s)": "MW Software",
         "Publisher(s)": "1999",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Karri Kaksonen",
+        "Title": "Karri Kaksonen",
         "Developer(s)": "White Lynx",
         "Publisher(s)": "2009",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Harry Dodgson",
+        "Title": "Harry Dodgson",
         "Developer(s)": "Luchs Soft",
         "Publisher(s)": "April 1, 2019",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "B. Schick",
+        "Title": "B. Schick",
         "Developer(s)": "L. Baumstark / Songbird Productions",
         "Publisher(s)": "1996",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Marcin Siwek",
+        "Title": "Marcin Siwek",
         "Developer(s)": "Songbird Productions",
         "Publisher(s)": "March 31, 2021",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Marcin Siwek",
+        "Title": "Marcin Siwek",
         "Developer(s)": "Luchs Soft",
         "Publisher(s)": "October 28, 2018",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Luchs Soft",
+        "Title": "Luchs Soft",
         "Developer(s)": "Luchs Soft",
         "Publisher(s)": "April 29, 2017",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Jasper van Turnhout",
+        "Title": "Jasper van Turnhout",
         "Developer(s)": "Nomad Studio",
         "Publisher(s)": "April 4, 2018",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Nop90",
+        "Title": "Nop90",
         "Developer(s)": "Retroguru",
         "Publisher(s)": "April 19, 2019",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       },
       {
-        "Title[6][7][8]": "Fadest",
+        "Title": "Fadest",
         "Developer(s)": "Retro-Gaming Connexion",
         "Publisher(s)": "2006",
-        "Date first released": "PAL"
+        "Date_first_released": "PAL"
       },
       {
-        "Title[6][7][8]": "Fadest",
+        "Title": "Fadest",
         "Developer(s)": "Retro-Gaming Connexion",
         "Publisher(s)": "2008",
-        "Date first released": "PAL"
+        "Date_first_released": "PAL"
       },
       {
-        "Title[6][7][8]": "PenguiNet",
+        "Title": "PenguiNet",
         "Developer(s)": "Super Fighter Team",
         "Publisher(s)": "October 24, 2009",
-        "Date first released": "Worldwide"
+        "Date_first_released": "Worldwide"
       }
     ]
   }

@@ -1,0 +1,15 @@
+{
+    "testEnvironment": "node",
+    "testMatch": [
+        "**/tests/**/*.test.js",
+        "**/tests/**/*.spec.js"
+    ],
+    "verbose": true,
+    "collectCoverage": false,
+    "testTimeout": 30000,
+    "setupFilesAfterEnv": [
+        "<rootDir>/tests/setup.js"
+    ],
+    "globalSetup": "<rootDir>/tests/globalSetup.js",
+    "globalTeardown": "<rootDir>/tests/globalTeardown.js"
+}

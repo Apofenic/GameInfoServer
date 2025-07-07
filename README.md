@@ -6,6 +6,7 @@ A Node.js Express server for managing video game information with PostgreSQL dat
 
 - **RESTful API**: Full CRUD operations for game data
 - **PostgreSQL Database**: Robust data storage via Prisma ORM
+- **JWT Authentication**: Secure user-based API access
 - **Docker Support**: Easy local development and deployment
 - **Data Import**: Bulk upload functionality via JSON
 - **Data Scraping**: Tools for scraping game data from sources like Wikipedia
@@ -24,6 +25,8 @@ Create a `.env` file in the root directory with the following content:
 
 ```
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/gbdserver"
+JWT_SECRET="your-secure-jwt-secret"
+JWT_EXPIRES_IN="24h"
 ```
 
 ### 2. Development with Docker (Recommended)
@@ -93,6 +96,64 @@ gameInfoServer/
 - `yarn prisma generate`: Generate Prisma client
 - `yarn prisma migrate dev`: Apply database migration
 
+## Authentication
+
+The API uses JWT (JSON Web Token) authentication to secure endpoints.
+
+### User Registration
+
+To create a new user account:
+
+```bash
+POST /auth/signup
+Content-Type: application/json
+
+{
+  "email": "user@example.com",
+  "password": "password123",
+  "name": "John Doe"  # Optional
+}
+```
+
+### User Login
+
+To login and get a JWT token:
+
+```bash
+POST /auth/login
+Content-Type: application/json
+
+{
+  "email": "user@example.com",
+  "password": "password123"
+}
+```
+
+Response:
+
+```json
+{
+  "message": "Login successful",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+  "user": {
+    "id": 1,
+    "email": "user@example.com",
+    "name": "John Doe"
+  }
+}
+```
+
+### Using the JWT Token
+
+Include the token in the Authorization header for protected routes:
+
+```bash
+GET /games
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+```
+
+All game and user endpoints require JWT authentication.
+
 ## Database Management
 
 The project uses Prisma ORM to interact with PostgreSQL.
@@ -119,13 +180,13 @@ yarn prisma studio
 
 ### Endpoints
 
-| Method | Endpoint        | Description                      | Request Body                                      | Response                                    |
-|--------|----------------|----------------------------------|--------------------------------------------------|---------------------------------------------|
-| GET    | /health        | Check server and database status | None                                             | `{ status, database, timestamp }`           |
-| GET    | /games         | Get all games                    | None                                             | Array of game objects                       |
-| GET    | /games/:id     | Get a specific game by ID        | None                                             | Game object or 404 error                    |
-| POST   | /games         | Create a single game             | `{ title, releaseDate, platform, metascore }`    | Created game object                         |
-| POST   | /games/bulk    | Bulk import games                | Form data with `source` and optional file upload | `{ success, imported, total, skipped }`     |
+| Method | Endpoint    | Description                      | Request Body                                     | Response                                |
+| ------ | ----------- | -------------------------------- | ------------------------------------------------ | --------------------------------------- |
+| GET    | /health     | Check server and database status | None                                             | `{ status, database, timestamp }`       |
+| GET    | /games      | Get all games                    | None                                             | Array of game objects                   |
+| GET    | /games/:id  | Get a specific game by ID        | None                                             | Game object or 404 error                |
+| POST   | /games      | Create a single game             | `{ title, releaseDate, platform, metascore }`    | Created game object                     |
+| POST   | /games/bulk | Bulk import games                | Form data with `source` and optional file upload | `{ success, imported, total, skipped }` |
 
 ### Data Model
 
@@ -133,15 +194,15 @@ The Game model contains the following fields:
 
 ```typescript
 interface Game {
-  id: number;           // Auto-incremented unique identifier
-  title: string;        // Game title
-  releaseDate: Date;    // Release date
-  platform: string;     // Platform (e.g., "PlayStation 5", "PC", "Xbox Series X")
-  metascore: number;    // Metacritic score (0-100)
-  summary?: string;     // Optional game description/summary
-  userscore?: number;   // Optional user score
-  createdAt: Date;      // Record creation timestamp
-  updatedAt: Date;      // Record update timestamp
+  id: number; // Auto-incremented unique identifier
+  title: string; // Game title
+  releaseDate: Date; // Release date
+  platform: string; // Platform (e.g., "PlayStation 5", "PC", "Xbox Series X")
+  metascore: number; // Metacritic score (0-100)
+  summary?: string; // Optional game description/summary
+  userscore?: number; // Optional user score
+  createdAt: Date; // Record creation timestamp
+  updatedAt: Date; // Record update timestamp
 }
 ```
 
