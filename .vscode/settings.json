@@ -14,5 +14,8 @@
       "source.fixAll.eslint": "explicit"
     }
   },
-  "eslint.validate": ["javascript", "typescript"]
+  "eslint.validate": ["javascript", "typescript"],
+  "files.associations": {
+    "*.instructions.md": "markdown"
+  }
 }
