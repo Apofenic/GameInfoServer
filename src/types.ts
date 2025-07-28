@@ -5,8 +5,14 @@ export interface GameInput {
   releaseDate: string | Date;
   platform: string;
   metascore: number;
+  developer?: string;
+  publisher?: string;
+  genre?: string;
   summary?: string;
   userscore?: number;
+  coverArtUrls?: string;
+  screenShotUrls?: string;
+  notes?: string;
 }
 
 export interface AuthenticatedRequest extends Request {

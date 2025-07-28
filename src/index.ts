@@ -239,10 +239,36 @@ app.get(
   rateLimitByUser(100),
   async (req: AuthenticatedRequest, res: Response): Promise<void> => {
     try {
-      const games = await prisma.game.findMany();
+      const games = await prisma.game.findMany({
+        include: {
+          platform: true, // Include platform information
+        },
+      });
       res.json(games);
     } catch (error) {
       console.error('Error fetching games:', error);
+      res.status(500).json({
+        error: error instanceof Error ? error.message : String(error),
+      });
+    }
+  }
+);
+
+// Get all platforms
+app.get(
+  '/platforms',
+  authenticateJWT,
+  rateLimitByUser(100),
+  async (req: AuthenticatedRequest, res: Response): Promise<void> => {
+    try {
+      const platforms = await prisma.platform.findMany({
+        orderBy: {
+          name: 'asc',
+        },
+      });
+      res.json(platforms);
+    } catch (error) {
+      console.error('Error fetching platforms:', error);
       res.status(500).json({
         error: error instanceof Error ? error.message : String(error),
       });
@@ -257,7 +283,20 @@ app.post(
   rateLimitByUser(100),
   async (req: AuthenticatedRequest, res: Response): Promise<void> => {
     try {
-      const { title, releaseDate, platform, metascore } = req.body;
+      const {
+        title,
+        releaseDate,
+        platform,
+        metascore,
+        developer,
+        publisher,
+        genre,
+        summary,
+        userscore,
+        coverArtUrls,
+        screenShotUrls,
+        notes,
+      } = req.body;
       console.log('Parsed request body:', { title, releaseDate, platform, metascore });
 
       // Validate required fields
@@ -269,12 +308,37 @@ app.post(
         return;
       }
 
+      // Find or create platform
+      let platformRecord = await prisma.platform.findUnique({
+        where: { name: platform },
+      });
+
+      if (!platformRecord) {
+        // Create new platform if it doesn't exist
+        platformRecord = await prisma.platform.create({
+          data: {
+            name: platform,
+          },
+        });
+      }
+
       const result = await prisma.game.create({
         data: {
           title,
           releaseDate: new Date(releaseDate),
-          platform,
+          platformId: platformRecord.id,
           metascore,
+          developer: developer || null,
+          publisher: publisher || null,
+          genre: genre || null,
+          summary: summary || null,
+          userscore: userscore ? Number(userscore) : null,
+          coverArtUrls: coverArtUrls || null,
+          screenShotUrls: screenShotUrls || null,
+          notes: notes || null,
+        },
+        include: {
+          platform: true, // Include platform information in response
         },
       });
 
@@ -350,23 +414,14 @@ app.post(
       }
 
       // Validate and prepare games data
-      const validGames = games
-        .filter((game) => {
-          const isValid =
-            game.title && game.platform && game.releaseDate && typeof game.metascore === 'number';
-          if (!isValid) {
-            console.warn(`Skipping invalid game: ${JSON.stringify(game)}`);
-          }
-          return isValid;
-        })
-        .map((game) => ({
-          title: game.title,
-          platform: game.platform,
-          releaseDate: new Date(game.releaseDate),
-          metascore: game.metascore,
-          summary: game.summary || null,
-          userscore: Number(game.userscore) || null,
-        }));
+      const validGames = games.filter((game) => {
+        const isValid =
+          game.title && game.platform && game.releaseDate && typeof game.metascore === 'number';
+        if (!isValid) {
+          console.warn(`Skipping invalid game: ${JSON.stringify(game)}`);
+        }
+        return isValid;
+      });
 
       if (!validGames.length) {
         res.status(400).json({
@@ -375,9 +430,45 @@ app.post(
         return;
       }
 
+      // Get all unique platform names from the games
+      const uniquePlatformNames = [...new Set(validGames.map((game) => game.platform))];
+
+      // Find or create platforms
+      const platformMap = new Map<string, number>();
+
+      for (const platformName of uniquePlatformNames) {
+        let platform = await prisma.platform.findUnique({
+          where: { name: platformName },
+        });
+
+        if (!platform) {
+          platform = await prisma.platform.create({
+            data: { name: platformName },
+          });
+        }
+
+        platformMap.set(platformName, platform.id);
+      }
+
+      // Transform games data to use platformId
+      const gamesForDatabase = validGames.map((game) => ({
+        title: game.title,
+        platformId: platformMap.get(game.platform)!,
+        releaseDate: new Date(game.releaseDate),
+        metascore: game.metascore,
+        developer: game.developer || null,
+        publisher: game.publisher || null,
+        genre: game.genre || null,
+        summary: game.summary || null,
+        userscore: Number(game.userscore) || null,
+        coverArtUrls: game.coverArtUrls || null,
+        screenShotUrls: game.screenShotUrls || null,
+        notes: game.notes || null,
+      }));
+
       // Create many games at once
       const result = await prisma.game.createMany({
-        data: validGames,
+        data: gamesForDatabase,
         skipDuplicates: true, // Skip records that would violate unique constraints
       });
 
@@ -386,6 +477,7 @@ app.post(
         imported: result.count,
         total: games.length,
         skipped: games.length - result.count,
+        platformsCreated: uniquePlatformNames.length,
       });
     } catch (error) {
       console.error('Error in bulk operation:', error);
@@ -412,6 +504,9 @@ app.get(
 
       const game = await prisma.game.findUnique({
         where: { id },
+        include: {
+          platform: true, // Include platform information
+        },
       });
 
       if (!game) {
@@ -429,45 +524,80 @@ app.get(
   }
 );
 
-//return a random game
+// Get a random game with optional filtering by platform or release year
 app.get(
   '/games/random',
   authenticateJWT,
   rateLimitByUser(100),
   async (req: AuthenticatedRequest, res: Response): Promise<void> => {
     try {
-      // Get the min and max IDs from the games table
-      const result = await prisma.game.aggregate({
-        _min: { id: true },
-        _max: { id: true },
+      const { platform, releaseYear } = req.query;
+
+      // Build where conditions based on provided filters
+      const whereConditions: any = {};
+
+      // Filter by platform name if provided
+      if (platform && typeof platform === 'string') {
+        whereConditions.platform = {
+          name: {
+            equals: platform,
+            mode: 'insensitive', // Case-insensitive matching
+          },
+        };
+      }
+
+      // Filter by release year if provided
+      if (releaseYear) {
+        const year = parseInt(releaseYear as string, 10);
+        if (isNaN(year)) {
+          res
+            .status(400)
+            .json({ error: 'Invalid release year format. Please provide a valid year.' });
+          return;
+        }
+
+        // Filter for games released in the specified year
+        const startOfYear = new Date(year, 0, 1); // January 1st of the year
+        const endOfYear = new Date(year + 1, 0, 1); // January 1st of the next year
+
+        whereConditions.releaseDate = {
+          gte: startOfYear,
+          lt: endOfYear,
+        };
+      }
+
+      // Get total count of games matching the criteria
+      const totalCount = await prisma.game.count({
+        where: whereConditions,
       });
 
-      if (!result._min.id || !result._max.id) {
-        res.status(404).json({ error: 'No games found in database' });
+      if (totalCount === 0) {
+        const filterInfo = [];
+        if (platform) filterInfo.push(`platform: ${platform}`);
+        if (releaseYear) filterInfo.push(`release year: ${releaseYear}`);
+
+        const filterMessage =
+          filterInfo.length > 0
+            ? ` matching the specified criteria (${filterInfo.join(', ')})`
+            : '';
+
+        res.status(404).json({
+          error: `No games found${filterMessage}`,
+        });
         return;
       }
 
-      // Generate random ID between min and max
-      const minId = result._min.id;
-      const maxId = result._max.id;
-      const randomId = Math.floor(Math.random() * (maxId - minId + 1)) + minId;
+      // Generate random offset
+      const randomOffset = Math.floor(Math.random() * totalCount);
 
-      // Try to find the game with the random ID, if not found, get the first game after that ID
-      let game = await prisma.game.findUnique({
-        where: { id: randomId },
+      // Get random game with filters applied
+      const game = await prisma.game.findFirst({
+        where: whereConditions,
+        skip: randomOffset,
+        include: {
+          platform: true, // Include platform information in the response
+        },
       });
-
-      // If no game found at that exact ID, find the first game with ID >= randomId
-      if (!game) {
-        game = await prisma.game.findFirst({
-          where: { id: { gte: randomId } },
-        });
-      }
-
-      // If still no game found, get the first game in the database
-      if (!game) {
-        game = await prisma.game.findFirst();
-      }
 
       if (!game) {
         res.status(404).json({ error: 'No games found' });

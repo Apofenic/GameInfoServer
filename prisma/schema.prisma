@@ -21,25 +21,43 @@ model ApiKey {
   lastUsed  DateTime?
 }
 
+model Platform {
+  id           Int      @id @default(autoincrement())
+  name         String   @unique
+  manufacturer String?
+  releaseYear  Int?
+  generation   String?
+  type         String?  // Console, Handheld, PC, Mobile, Arcade, etc.
+  discontinued Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  games Game[]
+}
+
 model Game {
   id             Int      @id @default(autoincrement())
   createdAt      DateTime @default(now())
   updatedAt      DateTime @updatedAt
   title          String
-  platform       String
+  platformId     Int      // Required foreign key to Platform
   releaseDate    DateTime
   developer      String?
   publisher      String?
   genre          String?
+  generation     String?
   metascore      Int?
   userscore      Int?
   coverArtUrls   String?
   screenShotUrls String?
   summary        String?
   notes          String?
+
   lists List[] @relation("ListGames")
+  platform Platform @relation(fields: [platformId], references: [id])
+  
   // Constraints
-  @@unique([title, platform], name: "title_platform")
+  @@unique([title, platformId], name: "title_platform")
 }
 
 model List {
